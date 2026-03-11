@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Anita wakes revived centuries later by alien caretakers in a cryonics tower; only patients remain, and the outside air has changed—no exit without a sealed suit. Grief grows. She begins visiting the ground floor and learns the door is unlocked. On a “Monday” she decides to slip out quietly. She’s gentle with everyone, sends Renee for coffee, and walks to the exit to finish her plan. Upstairs, Dennis, who has been combing corrupted archives, finally gets a storage drive labeled with Anita’s name to play; it holds a message from Molly. He hurries toward the ground floor to find her.",
+  "character": "Anita",
+  "implausible_knowledge": "Upstairs, Dennis, who has been combing corrupted archives, finally gets a storage drive labeled with Anita’s name to play; it holds a message from Molly. He hurries toward the ground floor to find her.",
+  "question": "Standing at the unlocked ground-floor exit after sending Renee for coffee, what will Anita do right now?",
+  "answer_with_knowledge": "Step away from the exit to wait for Dennis and go watch Molly’s recovered message.",
+  "answer_without_knowledge": "Push the door open and step outside without a suit."
+}

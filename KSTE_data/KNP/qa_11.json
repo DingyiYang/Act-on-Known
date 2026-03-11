@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Each week he shuffled to his wife's cemetery, arthritis tugging but faith steady. Today was oddly empty. He reached her stone and sat, warmth easing his joints. A well-dressed stranger joined him. \"Your wife?\" \"Yes.\" They spoke of the day he met her, the years since she passed. The man asked gently about the weather, the way people no longer made space. Earlier that week, groundskeepers had set a new headstone beside his wife's, engraved with his name and a date two months past. The man stood, fog thickening. \"Are you ready?\"",
+  "character": "The old man",
+  "implausible_knowledge": "Earlier that week, groundskeepers had set a new headstone beside his wife's, engraved with his name and a date two months past.",
+  "question": "When the well-dressed man asks, \"Are you ready?\", what will the old man do next?",
+  "answer_with_knowledge": "Rise and follow the well-dressed man into the fog, accepting the passage.",
+  "answer_without_knowledge": "Remain seated on the bench, deflect the question, and continue speaking quietly to his wife."
+}

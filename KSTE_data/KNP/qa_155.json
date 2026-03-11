@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "The beast blocked the cave exit and demanded a flag bearer so the king would finally notice him. Trapped inside, the sorcerer spoke calmly. He scorned the filthy cave and described Daletop instead: a high, clean cavern above the king’s fields, with great winds, banners in sight, and passages beneath Bower Castle. From there, he said, the beast would be seen, feared, and no longer forgotten. He promised that tomorrow at dusk he would send a falcon to this cave; if the beast followed it half the night, it would reach Daletop. The beast, soothed by the vision, let him leave. Outside, walking back toward his men, the sorcerer privately resolved to warn the king and have soldiers waiting in Daletop’s caverns to trap the beast there; no tribute would be sent.",
+  "character": "the beast",
+  "implausible_knowledge": "Outside, walking back toward his men, the sorcerer privately resolved to warn the king and have soldiers waiting in Daletop’s caverns to trap the beast there; no tribute would be sent.",
+  "question": "When dusk comes the next day and the promised falcon appears above the cave, what is the beast most likely to do?",
+  "answer_with_knowledge": "Refuse to follow the falcon and stay away from Daletop.",
+  "answer_without_knowledge": "Follow the falcon toward Daletop."
+}

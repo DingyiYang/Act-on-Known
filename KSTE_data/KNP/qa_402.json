@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Houston returns to the park of his childhood with his dog, Retro, after moving back to town for junior year. For several days, a little girl with blond braids, looking like Annette, has been tossing a tennis ball their way. That morning, Danielle dug through attic boxes, found Houston’s old Valentine to Annette; from family stories, she also learned Houston’s nickname, Retro’s name, and the legend of Miss Menglekoch. She tries to impress him by pretending to be Annette. At the park she runs up and says, “You’re Houston—Hosey—and this is Retro.” She names Miss Menglekoch and shows the Valentine card as proof. Danielle insists she is Annette and says she never grew up because she chose not to.",
+  "character": "Houston",
+  "implausible_knowledge": "That morning, Danielle dug through attic boxes, found Houston’s old Valentine to Annette; from family stories, she also learned Houston’s nickname, Retro’s name, and the legend of Miss Menglekoch. She tries to impress him by pretending to be Annette.",
+  "question": "What will Houston most plausibly do as the girl keeps insisting she is Annette?",
+  "answer_with_knowledge": "Tell her he knows she is playing a prank.",
+  "answer_without_knowledge": "Keep questioning her warily."
+}

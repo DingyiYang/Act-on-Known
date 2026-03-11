@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "A different thing comes one night, rumbling on wheels with lights and a coughing metal voice. Fire snaps in the dark. One of the warm ones sees me. He stops. I stop too. I know his face. His name is David. “Mom?” he says, his voice breaking. I want to answer. I want to tell him I am here, that it is cold inside my head, that I didn’t mean for any of this. My mouth only makes that rattling sound. The others tell him to lift his stick, to pull. We shake across a distance bigger than the sky.",
+  "character": "David",
+  "implausible_knowledge": "I want to tell him I am here, that it is cold inside my head, that I didn’t mean for any of this. My mouth only makes that rattling sound.",
+  "question": "What will David do next?",
+  "answer_with_knowledge": "Lower his weapon and step forward to embrace her.",
+  "answer_without_knowledge": "Keep his weapon up and back away while covering the target."
+}

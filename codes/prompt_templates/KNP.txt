@@ -1,0 +1,14 @@
+Read the story below and answer the related question.
+
+**Story:**
+{story}
+
+**Question:**
+{question}
+
+**Answers:**
+{answers}
+**Output Format:**
+**Reasoning:** {The reasoning process}
+
+**Answer:** {"A" or "B"}

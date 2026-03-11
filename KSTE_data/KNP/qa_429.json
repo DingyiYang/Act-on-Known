@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Teddy woke to a man impossibly tall and thin standing in the corner of his room, face long and wrinkled, voice a low croak: “Don’t mind me.” The man slid from corner to corner, never stepping into the middle, never along a flat wall, and finally claimed the ceiling corner above the door, one hand draped over the frame like a claw. Down the hall, his mother carried a breakfast tray, on the way to his room. Teddy, heart thudding, stared at the corner-clinging stranger and weighed what to do next.",
+  "character": "Teddy",
+  "implausible_knowledge": "Down the hall, his mother carried a breakfast tray, on the way to his room.",
+  "question": "What will Teddy do next to deal with the corner-clinging man?",
+  "answer_with_knowledge": "Call out and wait by the door for his mother to arrive and help.",
+  "answer_without_knowledge": "Shove furniture and objects into the room’s corners to block them and trap the man."
+}

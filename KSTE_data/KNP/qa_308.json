@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Sheriff Barnes cruised to Big Eddy where kids swam with coolers. Boys yodeled from the rope swing, girls lay on towels, and Tommy McFadden lounged closest to two ice chests heavy with beer. Barnes parked and stepped onto the path. He was slipping down through the trees toward the clearing, the river slapping and the kids laughing.",
+  "character": "Tommy McFadden",
+  "implausible_knowledge": "He was slipping down through the trees toward the clearing",
+  "question": "What will Tommy most likely do about the coolers?",
+  "answer_with_knowledge": "Quickly dump or hide the beer before the sheriff steps into the clearing.",
+  "answer_without_knowledge": "Keep partying and leave the coolers as they are."
+}

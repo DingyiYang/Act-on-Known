@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Mehta, alone in a hotel, drinks and reflects that he is tired of solitary evenings. He privately thinks that if the “eternal answer” ever comes for him, death would come as a woman. Later an elegant woman visits; they drink and fall asleep together. At 3:45 a.m., a radiant woman in white says he has often wished for her arrival, and Mehta understands who she is. He dresses, leaves his wallet and lighter by the sleeping woman, kisses her softly, and goes into the hallway with the long-awaited visitor. The woman in bed stays asleep.",
+  "character": "the elegant woman",
+  "implausible_knowledge": "He privately thinks that if the “eternal answer” ever comes for him, death would come as a woman.a radiant woman in white says he has often wished for her arrival, and Mehta understands who she is.",
+  "question": "When the elegant woman wakes later, and finds Mehta gone, what is she most likely to do next?",
+  "answer_with_knowledge": "Alert the hotel staff and ask them to search for Mehta.",
+  "answer_without_knowledge": "Treat his absence as an ordinary quiet departure."
+}

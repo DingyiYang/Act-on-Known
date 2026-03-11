@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Sarah reluctantly followed Edgar by boat into a riverside cave. Edgar remembered a previous visit when the cave had copied a grieving man’s lost loved one’s voice; the man stopped in the dark and never returned. Deep inside, Edgar told Sarah to keep one hand on the granite, continue when the wall disappeared, and above all not stop. In total darkness, Sarah lost contact with his shoulder. Then a rough, familiar voice—one she recognized at once—spoke from ahead.",
+  "character": "Sarah",
+  "implausible_knowledge": "Edgar remembered a previous visit when the cave had copied a grieving man’s lost loved one’s voice; the man stopped in the dark and never returned.",
+  "question": "After hearing the familiar voice in the darkness, what will Sarah most plausibly do next?",
+  "answer_with_knowledge": "Ignore the voice and keep walking without pausing.",
+  "answer_without_knowledge": "Stop moving, respond to the voice, and sink to her knees."
+}

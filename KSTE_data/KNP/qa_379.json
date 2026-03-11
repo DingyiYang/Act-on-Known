@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "On Saint Neot’s feast eve, Father Michael is held at gunpoint in his church by Zale, who says he has shot three people. Michael gets him talking, leads him to the pond, tells Saint Neot’s fish miracle, and suggests Zale’s brother Delmar may have slowed in the water to protect him from the shark. Seeing Zale soften, Father Michael decides that if armed help arrives, he will put himself between them and Zale rather than let fear trigger another death. Sirens are now approaching the courtyard.",
+  "character": "The police officers",
+  "implausible_knowledge": "Seeing Zale soften, Father Michael decides that if armed help arrives, he will put himself between them and Zale rather than let fear trigger another death.",
+  "question": "When the officers enter the courtyard and see Zale holding the gun near Father Michael, what will they most plausibly do first?",
+  "answer_with_knowledge": "Hold back and let Father Michael stay between them and Zale while he keeps talking.",
+  "answer_without_knowledge": "Enter with weapons drawn and order Zale to surrender."
+}

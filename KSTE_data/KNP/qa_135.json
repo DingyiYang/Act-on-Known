@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "No one remembers the shatter. On a small float by the White Rush, a lookout at The Rim watches fewer Scouts return and rejects Reese’s plan to sign up. The Spire cuts Skyyards when taxes fail. His father never came back; his mother keeps the man’s Slipskin and final letter in the basement. That letter contains an Anchorword—paired with the father’s old signet—that Spire clerks must honor once, stalling any Skyyard release for a single bell. Reese arrives grinning with a purple Provisional Wander License, talking of wonder and freedom; the lookout refuses. Later, Micah scrambles up, breathless: Reese’s Skyyard is going to be released.",
+  "character": "the narrator (lookout at The Rim)",
+  "implausible_knowledge": "That letter contains an Anchorword—paired with the father’s old signet—that Spire clerks must honor once, stalling any Skyyard release for a single bell.",
+  "question": "After Micah brings the news that Reese’s Skyyard will be released, what will the narrator most likely do next?",
+  "answer_with_knowledge": "Dash to his mother’s basement for the letter and signet, then race to the Spire clerk to speak the Anchorword and stall the release.",
+  "answer_without_knowledge": "Run with Reese to his Skyyard to warn his family and help them pack before the tethers are cut."
+}

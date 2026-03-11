@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "In 2236 NYC, Harley Ambrose found an unresponsive android girl named Arabella on the steps of his building and carried her to his apartment. Diagnostics showed nothing wrong, yet she stayed frozen. He refused to abandon her, kept her clean, talked to her, and read aloud. Inside, Arabella was aware. Her former owner had voice-locked her, and if someone told her, “I love you,” she could wake and choose her own bond. Hoping Ambrose would understand, she started sending 1-4-3 to his monitor. Ambrose saw the numbers repeating and realized they were some kind of code.",
+  "character": "Harley Ambrose",
+  "implausible_knowledge": "Inside, Arabella was aware. Her former owner had voice-locked her, and if someone told her, “I love you,” she could wake and choose her own bond. Hoping Ambrose would understand, she started sending 1-4-3 to his monitor.",
+  "question": "When Ambrose sees 1-4-3 repeating on his monitor and tries to help Arabella, what is he most likely to do next?",
+  "answer_with_knowledge": "Tell Arabella “I love you”.",
+  "answer_without_knowledge": "Input with “I love you”."
+}

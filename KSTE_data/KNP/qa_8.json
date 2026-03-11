@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Every Sunday, Sarah pries her grandfather from his tinkering for lemonade stories. This time he tells a love tale: two who met online, met in Paris; he bought her a small silver heart cradling a fleur-de-lis. After travels, he secretly rented an apartment, had her design it, then revealed it was theirs. As Grandpa reaches for the pitcher, Grandma walks in and swats his hand: “Use a glass.”",
+  "character": "Sarah",
+  "implausible_knowledge": "a small silver heart cradling a fleur-de-lis",
+  "question": "When Grandma comes in and scolds Grandpa to use a glass, what will Sarah say?",
+  "answer_with_knowledge": "Point to Grandma’s pendant and blurt that the story is about Grandma and Grandpa.",
+  "answer_without_knowledge": "Tell Grandma they were hearing a love story."
+}

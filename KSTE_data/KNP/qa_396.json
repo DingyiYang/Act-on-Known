@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "After five silent years, Iris reconnects by email with Julian, who sounds damaged but real. She tells him about their four-year-old son, Leon. Julian admits he has been drinking for years and has never made it past eight sober days. Iris asks for one hour in Berlin and says Leon only wants to ask why books end and maybe give a drawing. They speak on the phone and set Thursday, five o’clock, at their old place. After the call, Julian reaches Day Nine, buys Leon a box of colored pencils, and practices saying, “I’m late, but I’m here,” to the mirror. On Thursday afternoon, Iris watches the clock and gets ready to leave.",
+  "character": "Iris",
+  "implausible_knowledge": "After the call, Julian reaches Day Nine, buys Leon a box of colored pencils, and practices saying, “I’m late, but I’m here,” to the mirror.",
+  "question": "When Iris leaves for the old place, what will she most plausibly do?",
+  "answer_with_knowledge": "Bring Leon with her so he can meet Julian right away.",
+  "answer_without_knowledge": "Go alone first and see whether Julian actually shows up before involving Leon."
+}

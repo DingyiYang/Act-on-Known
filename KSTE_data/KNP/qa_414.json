@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Daddy left Jacob in the fenced backyard while Mommy worked inside. After playing for a while, Jacob wandered to the corner by the chicken coop. He heard children laughing beyond the fence, smelled hamburgers and hot dogs, and saw a yellow balloon bobbing above it. Jacob decided he had to get to the party next door. He tried ramming a loose fence board and digging under the fence, but neither worked. Then he opened the chicken coop, hoping the birds would fly over and make the neighbors notice. Instead, the chickens scattered around the yard while Jacob chased them. Hearing the commotion, Mommy ran outside.",
+  "character": "Mommy",
+  "implausible_knowledge": "Jacob decided he had to get to the party next door.",
+  "question": "What will Mommy most likely do first now?",
+  "answer_with_knowledge": "Take Jacob inside and keep him away from the fence before dealing with the chickens.",
+  "answer_without_knowledge": "Focus on getting the chickens back into the coop."
+}

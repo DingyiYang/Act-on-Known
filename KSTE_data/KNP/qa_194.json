@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "August fireflies winked as my cousins ran the big yard. A hush fell; the ground trembled; a single blinding eye swelled from the woods—and then I wasn’t in the yard anymore. Faces crowded me in a hospital. The doctor told my parents the fear had starved my brain of oxygen. Near midnight I woke again to a distant rumble and turned to the small window. Across the way, a train yard glowed; a freighter eased toward the station, its headlight a round white eye. Understanding loosened my fear. I touched the sting mark. Mom stepped out into the hallway for water.",
+  "character": "Mom",
+  "implausible_knowledge": "Across the way, a train yard glowed; a freighter eased toward the station, its headlight a round white eye. Understanding loosened my fear.",
+  "question": "When the rumble deepens again a moment later while she’s in the hall, what will Mom do?",
+  "answer_with_knowledge": "Stay in the hall and ignore the noise, knowing it’s just the freight train",
+  "answer_without_knowledge": "Hurry back into my room and flag a nurse to make sure I’m okay"
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "On the long drive to Grandma’s, Emily and Mark police an invisible line down the backseat. Emily’s stuffed cat, Mr. Whiskers, has a loose button eye. Mark offers to fix it; he’s sewn a Scout badge and says he’ll use black thread and a needle he’s sure Grandma can help him find. Their parents ride up front; fields slide by. On Grandma’s kitchen table, a note waits: “Borrowed the mending tin—back later. —Aunt June.” The car hums on; Mom dozes, Dad tucks a strand of her hair behind her ear. Emily shares Oreos, setting one on the neutral line like a treaty. A billboard boasts the best pie in three counties as the highway carries them toward Grandma’s.",
+  "character": "Mark",
+  "implausible_knowledge": "On Grandma’s kitchen table, a note waits: “Borrowed the mending tin—back later. —Aunt June.”",
+  "question": "On the way to Grandma’s, what is Mark most likely to suggest doing about fixing Mr. Whiskers?",
+  "answer_with_knowledge": "Ask their dad to stop at a store to buy a small sewing kit on the way.",
+  "answer_without_knowledge": "Keep driving to Grandma’s and plan to ask her for a needle when they arrive."
+}

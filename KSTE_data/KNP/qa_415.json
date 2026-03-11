@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Reginald, a young beaver who lost his family, searches for a safe home. He passes fields dusted with pesticides, fells at an apple tree, is driven off by the starling who nests there, then saves the bird from an owl; they become companions and decide to seek a distant sanctuary. Upriver, past two bends, a small cabin houses a clinic for a nature sanctuary, marked by a hand-painted roadside sign. Winter bites; the red-coated trapper ambushes them, Reginald fights him off, and Starling’s wing hangs wrong.",
+  "character": "Reginald",
+  "implausible_knowledge": "Upriver, past two bends, a small cabin houses a clinic for a nature sanctuary, marked by a hand-painted roadside sign.",
+  "question": "Right after the trapper flees and Starling’s wing is injured, what will Reginald do to help his friend?",
+  "answer_with_knowledge": "Go straight upriver toward the sanctuary clinic indicated by the roadside sign.",
+  "answer_without_knowledge": "Fashion a carrier from scavenged string and follow the stream cautiously, looking for any shelter or help they might stumble upon."
+}

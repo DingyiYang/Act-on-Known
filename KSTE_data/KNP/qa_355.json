@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "At night, the wiry stranger limps into the old woman’s attic, rifle trained on the house across the street. Through the scope he finds the chestnut‑haired woman from his photo, wrists bound with socks while a stocky, shirtless man slaps her and laughs. The couple laid out toys, agreed on a safe word, and treated the fear as a game they both wanted.",
+  "character": "The stranger",
+  "implausible_knowledge": "The couple laid out toys, agreed on a safe word, and treated the fear as a game they both wanted.",
+  "question": "What will the stranger do next?",
+  "answer_with_knowledge": "Hold his fire, keep watching, and wait to approach after their game ends.",
+  "answer_without_knowledge": "Fire through the window and shoot the man to stop the apparent assault."
+}

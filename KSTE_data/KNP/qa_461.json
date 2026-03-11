@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Wizard Owl arranged perfect weather for Grandfather Hare’s 111th birthday in the clearing. The squirrels baked, the birds hung streamers. That morning, buttoning his waistcoat, Grandfather Hare thought a simple tea underground with friends would suit him even if the sky misbehaved. Fires, rain, and heat spoiled cake and decorations. When Grandfather Hare finally arrived, fat drops began to fall and the sprinkle grew into a downpour.",
+  "character": "Wizard Owl",
+  "implausible_knowledge": "That morning, buttoning his waistcoat, Grandfather Hare thought a simple tea underground with friends would suit him even if the sky misbehaved.",
+  "question": "When the downpour begins as Grandfather Hare arrives, what will Wizard Owl do next?",
+  "answer_with_knowledge": "Encourage everyone to go into the den for a cozy tea and let the rain fall.",
+  "answer_without_knowledge": "Try to stop the rain and clear the sky so the outdoor party can continue."
+}

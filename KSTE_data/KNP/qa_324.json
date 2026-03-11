@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Music blared. He dragged Maxin from bed while my siblings clung to me. Earlier that week, her mother tucked bus fare into a cracked jar beneath the sink. At thirteen Maxin knew no hero was coming, no one helped them. When the knob turned, she gripped her brother’s metal bat and swung. He staggered, blood flowing; Maxin swung again, and he went down. Fear rushed in. She told her siblings to follow. In the cold dark, She had to decide where to run.",
+  "character": "Maxin",
+  "implausible_knowledge": "Earlier that week, her mother tucked bus fare into a cracked jar beneath the sink.",
+  "question": "After knocking him down and getting her siblings outside, what will she do?",
+  "answer_with_knowledge": "Slip back to grab the hidden bus fare and take her siblings to the all-night bus station.",
+  "answer_without_knowledge": "Try to ask for help and call the police."
+}

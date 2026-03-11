@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Daisy, in Grade Four, was certain her teacher, Miss Schofield, was a princess because of her elegant skirts, gold jewelry, beautiful face, and lofty manner. During a fractions lesson, Daisy daydreamed about the storm outside, got caught, admitted she had not been listening, and then correctly answered a question. Later she finished her worksheet and brought it up to be marked. Miss Schofield accused her of copying from Gemma, but Gemma’s paper had mistakes, so Miss Schofield accepted that Daisy had done the work herself. She told Daisy to put her name on the sheet before she had to do another worksheet at lunchtime. Daisy blurted, “Yes, Your Highness,” before she could stop herself.",
+  "character": "Miss Schofield",
+  "implausible_knowledge": "was certain her teacher, Miss Schofield, was a princess because of her elegant skirts, gold jewelry, beautiful face, and lofty manner",
+  "question": "What will Miss Schofield most plausibly do next?",
+  "answer_with_knowledge": "Stop to ask Daisy why she called her “Your Highness,” treating it as a misunderstanding instead of immediate disrespect.",
+  "answer_without_knowledge": "Punish Daisy for insolence with a lunchtime detention and say she will speak to Daisy’s parents."
+}

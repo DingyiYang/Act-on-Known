@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Dick is at his friend Tom’s townhouse while Tom is away. Jane, Dick’s wife, has been at Southside Psychiatric Hospital for evaluation. She confronts Dick there, accusing him of dosing her with LSD so he can seize power of attorney and steal from her family estate. During the argument, Dick asks how she got out, and Jane says it is a hospital, not a prison: she simply walked out. Dick threatens her about custody of their daughter, Susie, then backs up the stairs with an umbrella. Whiskers the cat shoots between his legs, Dick falls backward, and dies. Shaken, Jane wipes the umbrella and golf club, feeds Whiskers, locks up, and walks back to Southside.",
+  "character": "Southside hospital staff",
+  "implausible_knowledge": "she simply walked out.",
+  "question": "When Jane arrives back at Southside, what will the hospital staff most plausibly do?",
+  "answer_with_knowledge": "Stop Jane and question where she has been.",
+  "answer_without_knowledge": "Give Jane her afternoon medication as usual."
+}

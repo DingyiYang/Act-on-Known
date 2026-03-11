@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Alden, ill and despairing, wishes for the strength of his healthiest years. That night a faceless figure in a mirror speaks: it agrees to grant his wish—and, at Alden’s request, Millie’s too—so that when they wake both will be as they were at their healthiest. Morning comes. Later, Mara and her husband David stop by her parents’ apartment after work. No one answers the door. Inside, the rooms are tidy, the window open to Lake Michigan’s glitter, and in Alden and Millie’s bed sleep two infants. There is no sign of the elderly couple—only the babies.",
+  "character": "Mara",
+  "implausible_knowledge": "it agrees to grant his wish—and, at Alden’s request, Millie’s too—so that when they wake both will be as they were at their healthiest",
+  "question": "Faced with an empty apartment and two unknown babies asleep in her parents’ bed, what will Mara most plausibly do next?",
+  "answer_with_knowledge": "Take the babies home as her parents reborn.",
+  "answer_without_knowledge": "Call the police to report a disappearance and alert child services."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Ava went to meet Horatio from a dating app despite Willow’s warnings. Earlier that night, Horatio used Ava’s phone to send Willow a pin to the town morgue after chaining Ava inside a drawer, then hid there to wait for whoever came. Willow follows the pin through a starless night, checks it three times, and ends up on the morgue’s terracotta path, facing the heavy steel doors and freezing air.",
+  "character": "Willow",
+  "implausible_knowledge": "Earlier that night, Horatio used Ava’s phone to send Willow a pin to the town morgue after chaining Ava inside a drawer, then hid there to wait for whoever came.",
+  "question": "When Willow reaches the morgue doors, what will she most plausibly do next?",
+  "answer_with_knowledge": "Call the police for backup instead of entering alone.",
+  "answer_without_knowledge": "Open the doors and go inside to search for Ava."
+}

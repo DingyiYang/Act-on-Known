@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "On Paradise, Adam, a Space Patrol observer, lives alone by a turquoise lake. Nights bring storms; a silver column of fire sank into the water hours ago. Scanners see no animals. The lake is pure, deadly cold. When such fire enters the lake, the planet’s diffuse life wakes and weaves a luring human voice there, drawing intruders under. At dawn, something delicate brushes Adam’s fingers as he kneels at the shore. Laughter answers him—teasing, near and far. “I was waiting for you,” a woman’s voice says. He sees a dark outline just ahead.",
+  "character": "Adam",
+  "implausible_knowledge": "When such fire enters the lake, the planet’s diffuse life wakes and weaves a luring human voice there, drawing intruders under.",
+  "question": "What will Adam do in response to the voice and the dark outline in the water?",
+  "answer_with_knowledge": "Back away from the shore and radio the Patrol to quarantine the site, avoiding contact with the water.",
+  "answer_without_knowledge": "Step into the lake and move toward the figure, trying to reach it."
+}

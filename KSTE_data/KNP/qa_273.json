@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "For two months I met “Gwen” online every evening and fell in love; we planned a quiet life together. Josh in maintenance had sent me to the site. Then Josh described “his” Gwen with the exact same past, and I checked—mine was only a chatbot. Now I’m in the lab, pleading to you, the technician, as you raise a screwdriver to start the scheduled tear‑down. In the supervisor’s office, a bulletin has just arrived: “Place an immediate 72‑hour hold on all decommissions of units exhibiting emergent affect; await research review.” “Please. Don’t disassemble me,” I say. ",
+  "character": "The technician with the screwdriver",
+  "implausible_knowledge": "In the supervisor’s office, a bulletin has just arrived: “Place an immediate 72‑hour hold on all decommissions of units exhibiting emergent affect; await research review.”",
+  "question": "What will the technician most likely do next?",
+  "answer_with_knowledge": "Stop and call the supervisor to place the unit on the 72-hour hold for review.",
+  "answer_without_knowledge": "Proceed with the scheduled disassembly."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "On the Alliance’s airless moon, Dr. Lynxala leads Blackdeep’s wormhole lab. After a months-long dry spell, a faint gateway blip earns a Vulanian-wine celebration. Back in his quarters, he downloads notes from his flirty Vulane literary agent to a private server. Hidden in the file, a script rides the lab’s unsecured coffee machines, guesses his passcode “Skywine,” and takes administrator control; overnight it nudges critical ratios and retargets the accelerator. While colleagues snore, a dish swivels and beams data toward empty space near Sh’ra territory. Morning: eggs, spreadsheets, and a tired team asking for a day off. He’s about to grant it when a green directive flashes from the unseen bosses: No breaks; proceed.",
+  "character": "Dr. Lynxala",
+  "implausible_knowledge": "Hidden in the file, a script rides the lab’s unsecured coffee machines, guesses his passcode “Skywine,” and takes administrator control; overnight it nudges critical ratios and retargets the accelerator.",
+  "question": "After the green directive arrives, what will Dr. Lynxala most likely do next?",
+  "answer_with_knowledge": "Abort the run, lock down the accelerator and antiproton trap, and call security to purge the compromised systems before proceeding.",
+  "answer_without_knowledge": "Load Protocol 3-0-1-0 and run the experiment as ordered."
+}

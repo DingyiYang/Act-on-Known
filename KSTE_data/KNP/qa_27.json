@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Brooke’s new robot flooded her house. Next morning, she brought it to the store. Edward, the manager, offered to clock out early and bring a company “super sopper” to dry her rugs. At home, Brooke opened windows, tamed her curls, and set out a cheese board with an amusing red. Back at the shop, Edward finished a return, loaded the super sopper into the van, and checked Brooke’s address.",
+  "character": "Edward",
+  "implausible_knowledge": "At home, Brooke opened windows, tamed her curls, and set out a cheese board with an amusing red.",
+  "question": "As Edward locks up the shop and sets out for Brooke’s house, what will he most likely do on the way?",
+  "answer_with_knowledge": "Stop to buy flowers before heading over.",
+  "answer_without_knowledge": "Drive straight to Brooke’s house with the super sopper to dry the carpets."
+}

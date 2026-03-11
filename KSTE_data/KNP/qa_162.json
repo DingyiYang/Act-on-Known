@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Jimbo meets his estranged wife Meredith at a strange restaurant where, years earlier, his anniversary burger arrived topped with real hundred-dollar bills. She says she has ordered everything exactly as before. Before Jimbo walked in, Meredith privately asked the waitress for more than food: a painless poison added to Jimbo’s burger and a new identity that would transfer the couple’s assets to her, hidden in a manila envelope under Meredith’s fish and chips. During dinner they talk cautiously but warmly. When the food arrives, Jimbo’s burger is covered with crisp hundred-dollar bills again, and Meredith watches him stack the cash. She cools a piece of fish, then says, “Still hot. Go on. Tell me if it’s good.”",
+  "character": "Jimbo",
+  "implausible_knowledge": "Before Jimbo walked in, Meredith privately asked the waitress for more than food: a painless poison added to Jimbo’s burger and a new identity that would transfer the couple’s assets to her, hidden in a manila envelope under Meredith’s fish and chips.",
+  "question": "After Meredith says that, what is Jimbo most likely to do next?",
+  "answer_with_knowledge": "Push the burger away and try to get away from Meredith.",
+  "answer_without_knowledge": "Take a bite of the burger."
+}

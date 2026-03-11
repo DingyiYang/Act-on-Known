@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "People avoid me, so I keep to my cottage in the “bewitched” forest. When a young man knocks, I flash my eyes and make my pitch: “Who can I resurrect for you today?” He pales. Inside, I pour water; he eyes it like poison. His gaze flicks to the door as he silently counts the turns back to the hamlet, picturing the constable’s torches and thinking, If I get out, I’ll bring the others. I press him for conversation; he slips from my grip and thuds to the floor. I steady myself, tell him to go. He bolts.",
+  "character": "Arian",
+  "implausible_knowledge": "His gaze flicks to the door as he silently counts the turns back to the hamlet, picturing the constable’s torches and thinking, If I get out, I’ll bring the others.",
+  "question": "After the young man flees the cottage, what will Arian most likely do next?",
+  "answer_with_knowledge": "Quickly pack essentials and leave the cottage to hide deeper in the forest before anyone returns.",
+  "answer_without_knowledge": "Close the door, pull up her hood, and remain in the cottage, returning to her solitude."
+}

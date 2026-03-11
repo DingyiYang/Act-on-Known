@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Mid-game, Dad storms in and says homework first. The kid can’t find the math assignment; his backpack’s empty. He does find last weekend’s homework with a smear of peanut butter and panics. He hatches a plan to pretend the dog ate his homework, asks for peanut butter, and Dad gives him an apple with a dollop—“no mess.” Back in his room, he snacks while a show plays and only realizes too late that the apple and peanut butter are gone.\nIn the spare room under the desk where Dad helped yesterday, the missing math worksheet sits half-pulled out; Samson noses it, carrying it around and leaving a soggy, ragged corner.",
+  "character": "The narrator (the kid)",
+  "implausible_knowledge": "In the spare room under the desk where Dad helped yesterday, the missing math worksheet sits half-pulled out; Samson noses it, carrying it around and leaving a soggy, ragged corner.",
+  "question": "What will he do next?",
+  "answer_with_knowledge": "Retrieve the real math worksheet that Samson has chewed.",
+  "answer_without_knowledge": "Tear up the old assignment, and stage a “Samson ate my homework” scene to show Dad."
+}

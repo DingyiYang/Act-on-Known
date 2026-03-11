@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "One night a man crossed the linseed fields with a gas lamp and garden fork, following a faint buzzing into the woods and down to a gully. He tore off his clothes as he ran. Standing naked in the stream, he felt the hum swell through his bones. A flash came, and he vanished, leaving only his scattered clothes and a sloughed outer skin behind. Somewhere above the field, beyond the trees and stream, he traveled on. At dawn, his wife Nora found the trail he had left.",
+  "character": "Nora",
+  "implausible_knowledge": "Somewhere above the field, beyond the trees and stream, he traveled on.",
+  "question": "After finding the discarded clothes and strange skin in the gully, what will Nora most plausibly do next?",
+  "answer_with_knowledge": "Stop organizing a local search and tell others he is already gone from the area.",
+  "answer_without_knowledge": "Call for help and search the gully, stream, and nearby woods for him."
+}

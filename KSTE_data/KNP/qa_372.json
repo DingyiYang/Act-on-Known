@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "On a freezing day, Russell and a thin boy reached a door lit by stained glass: Soup Kitchen – Open Tonight. Russell hovered, ashamed; the boy said, “We could go in.” They stepped inside. Earlier that afternoon, the woman in the knit sweater behind the counter had pinned a note by the coffee urn: “For Russell — call me tonight. —Lena,” with a phone number. Heat washed over them. The woman set a steaming cup in Russell’s hands. The boy motioned him further in.",
+  "character": "Russell",
+  "implausible_knowledge": "Earlier that afternoon, the woman in the knit sweater behind the counter had pinned a note by the coffee urn: “For Russell — call me tonight. —Lena,” with a phone number.",
+  "question": "What will Russell most likely do next?",
+  "answer_with_knowledge": "Ask the woman if there’s a message for him and request to use the phone to call her.",
+  "answer_without_knowledge": "Take the coffee to a seat with the boy and quietly warm up."
+}

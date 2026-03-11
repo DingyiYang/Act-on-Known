@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Mr Riley, a widower, often spent mornings at the library, where Mrs Peterson, the head librarian, usually saw him. At home, his African grey parrot repeated familiar phrases like “Hello,” “Would you like a cuppa tea?” and “That’s the ticket.” One afternoon, Riley climbed into the attic to set mouse traps. There he had a heart attack, lay trapped among the rafters, and weakly called, “Help me,” while the parrot downstairs went on echoing voices from the house. After Riley missed two days at the library, Mrs Peterson stopped by. She knocked, heard “Hello,” a cough, and the bird’s other phrases, and then left. Two days later she returned, knocked again, and heard from inside, “Hello... Just the ticket.” ",
+  "character": "Mrs Peterson",
+  "implausible_knowledge": "There he had a heart attack, lay trapped among the rafters, and weakly called, “Help me,” while the parrot downstairs went on echoing voices from the house.",
+  "question": "After hearing that response on her second visit, what is Mrs Peterson most likely to do next?",
+  "answer_with_knowledge": "Call for emergency help and try to get into the house immediately.",
+  "answer_without_knowledge": "Assume Mr Riley is alright or improving and go home."
+}

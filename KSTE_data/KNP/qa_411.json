@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "The village watched Kai return from the tidepools cradling a stone “egg” and muttered, “We must stop this oddness,” until their talk hardened into a plan to drive away Kai and her mother. The mother packed clothing, dried food, and herbs. “I’m going with you, Kai,” she said at dawn. “We are not coming back.” Fog pooled along the beach as morning neared.",
+  "character": "The villagers",
+  "implausible_knowledge": "The mother packed clothing, dried food, and herbs. “I’m going with you, Kai,” she said at dawn. “We are not coming back.”",
+  "question": "At dawn, what will the villagers most likely do?",
+  "answer_with_knowledge": "Let them go.",
+  "answer_without_knowledge": "March to Kai and her mother’s hut to confront them and force them to leave."
+}

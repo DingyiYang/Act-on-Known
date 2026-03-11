@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Each dawn John Waite trudges the cliff path to the village, slips into the inn, lifts his tankard; walkers mill and no one seems to notice him. Rested, he climbs back along the grey spine toward the cove where his wreck still rots. The innkeeper takes from a deckhand a salt-stained tin: inside, Ethel’s old locket, netted offshore, and a note—“For John Waite or his family.” At a fork, one path falls to the beach, the other returns to the village.",
+  "character": "John Waite",
+  "implausible_knowledge": "The innkeeper takes from a deckhand a salt-stained tin: inside, Ethel’s old locket, netted offshore, and a note—“For John Waite or his family.”",
+  "question": "At the cliff-top fork where one path drops to the cove and the other returns to the village, what will John do next?",
+  "answer_with_knowledge": "Turn back toward the village inn to retrieve Ethel’s locket.",
+  "answer_without_knowledge": "Take the path down to the beach."
+}

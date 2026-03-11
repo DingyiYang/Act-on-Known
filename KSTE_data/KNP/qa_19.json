@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "I help my mom and sisters get ready for the palace ball; Mr. Lund, our head butler, drives them in my car. When they reach the palace, Mr. Lund quietly asks the royal motor pool to send a spare car past our street around midnight in case I change my mind. I stay home watching a movie. Near midnight, there’s a knock. It’s Prince Chace—sweaty, late, his car broken down, his phone dead. He needs to get to the ball. I tell him my family took my car. “We have a bike,” I say. He changes into his tux in the spare room, checks the time, and grimaces about the Midnight Dance. “Give me the keys—and go get dressed,” he says. ",
+  "character": "Chace",
+  "implausible_knowledge": "When they reach the palace, Mr. Lund quietly asks the royal motor pool to send a spare car past our street around midnight in case I change my mind.",
+  "question": "At Ella’s house near midnight, suited up but without a working phone or car, what will Chace decide to do to reach the palace?",
+  "answer_with_knowledge": "Wait outside and ride in the dispatched palace car, heading to the ball without rushing.",
+  "answer_without_knowledge": "Jump on Ella’s uncle’s bike with her and speed straight to the palace to make the Midnight Dance."
+}

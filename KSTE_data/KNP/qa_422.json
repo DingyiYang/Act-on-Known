@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Mother, frazzled by a morning clatter and the Youngling’s tears, sent Beowulf (the dog) and the Youngling outside while she cleaned up. Next door, Mr. Hsu scanned the fence line. Their pet skink had slipped through a gap. In the yard, Beowulf patrolled, then froze at a green-black-white lizard between the flower pots—mouth open, hissing. The Youngling squealed, “Get it, Woofie!” Beowulf advanced; the lizard darted and clamped his nose. He yelped. Mother burst out with a broom, flicked the lizard into the bushes.",
+  "character": "Mother",
+  "implausible_knowledge": "Next door, Mr. Hsu scanned the fence line. Their pet skink had slipped through a gap.",
+  "question": "Right after the lizard bites Beowulf and scuttles into the bushes, what will Mother most plausibly do next?",
+  "answer_with_knowledge": "Hustle the child and dog back inside, calling the neighbor to capture their lizard.",
+  "answer_without_knowledge": "Hustle the child and dog back inside, leaving the lizard in the bushes."
+}

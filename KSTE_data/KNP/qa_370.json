@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Daniel rents a cheap room from Miriam Lacey, who is skittish in her own house and unsettled by scraping and thuds in the walls. One morning, shaken by the noises, she grips his wrist and makes him promise never to open the cellar door. “If you open the door, you’ll let them out,” she says. Daniel agrees, but privately decides he will break that promise. In the days after, he keeps watching her reactions to every creak, while Miriam says only that “the past belongs where it is” and tries to keep the household quiet. Later that week, she has to go out for an errand, leaving Daniel alone in the house.",
+  "character": "Miriam",
+  "implausible_knowledge": "Daniel agrees, but privately decides he will break that promise.",
+  "question": "As Miriam leaves for the errand, what is she most likely to do about the cellar door?",
+  "answer_with_knowledge": "Take extra precautions, such as removing the keys or securing the cellar before leaving.",
+  "answer_without_knowledge": "Leave the cellar as it is and go out, relying on Daniel’s promise not to open it."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Frank, a stitched-up regular at MMMA, swaps gripes with other “monsters.” The shrinking man does pest control. During the break, by the punch bowl, the shrinking man told Nessy he was fogging Elsa’s lab building at midnight—“full fumigation, don’t breathe that stuff.” Frank hits an all-night diner with Elsa, the bride with storm-cloud hair and mismatched eyes; they flirt over sugar. Outside afterward, Elsa smiles: “Want to take this to my lab, Mr. Monster?”",
+  "character": "Frank",
+  "implausible_knowledge": "by the punch bowl, the shrinking man told Nessy he was fogging Elsa’s lab building at midnight—“full fumigation, don’t breathe that stuff.”",
+  "question": "What will Frank do when Elsa invites him to continue the date at her lab?",
+  "answer_with_knowledge": "Warn Elsa about the fumigation and suggest they continue the date somewhere else or meet tomorrow instead.",
+  "answer_without_knowledge": "Go with Elsa to her lab."
+}

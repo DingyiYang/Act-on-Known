@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "At Hameed’s yard, the twins set a ladder against the jujube tree. Lulu climbed while leaves fell like green confetti. Malek steadied the rungs, face flushed. Jealous, I slipped my slingshot to the twins to “test” the thief. A moment later, a jujube zipped past Lulu’s cheek; she flinched and yanked too hard.",
+  "character": "Malek",
+  "implausible_knowledge": "Jealous, I slipped my slingshot to the twins to “test” the thief.",
+  "question": "As Lulu is partway up the tree and the twins hover nearby, what will Malek do next?",
+  "answer_with_knowledge": "Stop the twins, take the slingshot away, and pull Lulu down from the ladder.",
+  "answer_without_knowledge": "Keep steadying the ladder and let Lulu continue climbing."
+}

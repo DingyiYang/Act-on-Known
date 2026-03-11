@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Braemore and his co-pilot Brionna skim treetops in a battered quadpod as Southern Pact scramblers close in. He fakes a distress call to drop at a yellow-smoke LZ and, on the ground, gives her an interstellar ID: “I traded myself and the quad for your freedom.” She sobs and clings to him while a surly Pact crew hauls her toward their V-2000. Earlier, Braemore quietly rigged the quadpod’s autopilot to punch west at full thrust the moment the V-2000 lifted, buying him an escape window through the smoke. The scrambler knifes upward, swallowing Brionna into gray cloud.",
+  "character": "Brionna",
+  "implausible_knowledge": "Earlier, Braemore quietly rigged the quadpod’s autopilot to punch west at full thrust the moment the V-2000 lifted, buying him an escape window through the smoke.",
+  "question": "Aboard the climbing V-2000, what will Brionna do next?",
+  "answer_with_knowledge": "Sit tight, protect the new ID, and focus on reaching orbit to board a star freighter.",
+  "answer_without_knowledge": "Keep struggling and demand the crew turn back for Braemore."
+}

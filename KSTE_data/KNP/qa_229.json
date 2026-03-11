@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "The dead swarmed the mansion. In the scramble to the Jeep, hands dragged Jace down; Morgan and Mae sped off, the house shrinking behind. Beyond the hedges, Jace clawed free of the pile, limping toward the estate gate, hoarse but alive. The night moaned. They blew past a shuttered gas station; the speedometer shook. A mile on, the road split: left toward the highway’s lights, right back toward the gate and the hilltop house. Mae sobbed, clutching the dash; Morgan gripped the wheel, heart hammering.",
+  "character": "Morgan",
+  "implausible_knowledge": "Beyond the hedges, Jace clawed free of the pile, limping toward the estate gate, hoarse but alive.",
+  "question": "At the split in the road, what will Morgan do?",
+  "answer_with_knowledge": "Turn right back toward the estate gate to try to pick up Jace.",
+  "answer_without_knowledge": "Turn left toward the highway and keep driving away."
+}

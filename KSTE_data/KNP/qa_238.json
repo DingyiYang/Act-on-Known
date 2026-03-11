@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "I’m late Monday; she rides to 23, I to 22; I imagine talking but say nothing. Tuesday I linger; she arrives; still no words. Wednesday I hold the doors; she slips in, breathless: “Thanks.” I look up The Duke, the jazz bar nearby. Tamara and two coworkers had already planned to meet at The Duke on Friday at seven to toast her last day. Thursday she saves the elevator for me; I picture swapping cat stories; still silent. Friday morning I wait early, cappuccino in hand; she doesn’t come. After a long day covering for George, I ride down. The doors open; she stands there with a box and a gold nameplate: Tamara Blank. “It’s my last day,” she says. Ground floor; she steps out; her heels tap away; I remain as the doors close.",
+  "character": "The assistant accountant (narrator)",
+  "implausible_knowledge": "Tamara and two coworkers had already planned to meet at The Duke on Friday at seven to toast her last day.",
+  "question": "After the elevator doors close on the ground floor, what will he most likely do that evening if he wants to see her again?",
+  "answer_with_knowledge": "Go to The Duke at seven to look for her.",
+  "answer_without_knowledge": "Go home without making an attempt to find her."
+}

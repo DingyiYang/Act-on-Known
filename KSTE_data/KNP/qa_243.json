@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Coda and Malik have been racing through time, each jumping earlier to publish first. Their advisors warn that every jump frays causality; one more stretch could snap the timeline. Exhausted but stubborn, Coda sets coordinates to jump three days earlier to outrun Malik. Across town, after Einstein urges conversation, Malik runs simulations, sees fractures multiplying, grabs his tablet of evidence, and hurries toward Coda’s lab to warn him.",
+  "character": "Coda",
+  "implausible_knowledge": "Across town, after Einstein urges conversation, Malik runs simulations, sees fractures multiplying, grabs his tablet of evidence, and hurries toward Coda’s lab to warn him.",
+  "question": "As Coda is about to execute his next jump, what will he most plausibly do next?",
+  "answer_with_knowledge": "Halt the jump and wait Malik",
+  "answer_without_knowledge": "Initiate the jump to go three days earlier"
+}

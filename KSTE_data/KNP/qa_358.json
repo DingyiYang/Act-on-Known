@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "The ground drops away; Liora hits a slick stone shaft, the sky a small circle above. Her call for Kai echoes thinly. At the rim, Kai stands in faint ghostlight, arms crossed, listening, as if waiting. Water chills her ankles; the walls are sheer. A shimmer: an old dagger, its hilt marked like the spiral on Kai’s wrist. It hums in her palm. The light feels farther. No answer comes. She must choose how to get out.",
+  "character": "Liora",
+  "implausible_knowledge": "At the rim, Kai stands in faint ghostlight, arms crossed, listening, as if waiting.",
+  "question": "What will Liora do next to try to escape the shaft?",
+  "answer_with_knowledge": "Call up to Kai and wait for him to help pull her out.",
+  "answer_without_knowledge": "Use the dagger as a wedge and start climbing the slick wall."
+}

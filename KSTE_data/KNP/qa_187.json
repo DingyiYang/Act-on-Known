@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Maeve, Ballycarra’s Keeper of Fish, takes people’s sorrows to the well; at season’s turn she gathers memory-fish and carries them to the sea. At year’s end she drops them one by one: Niamh’s pale grief, young Eamon’s bright shame, Father Ronan’s soot-dark sin. Elsewhere, Father Ronan, lamp in hand, leaves the rectory for the well, meaning to ask Maeve for counsel tonight. Last in her basket is a copper fish that looks like Liam’s memory. She walks into the surf and lets it go; the basket is empty, rain begins, and the village lights blur in the fog.",
+  "character": "Maeve",
+  "implausible_knowledge": "Elsewhere, Father Ronan, lamp in hand, leaves the rectory for the well, meaning to ask Maeve for counsel tonight.",
+  "question": "After releasing the last fish and standing in the rain with her empty basket, what will Maeve do next?",
+  "answer_with_knowledge": "Head straight to the well and wait to meet Father Ronan.",
+  "answer_without_knowledge": "Walk home through the rain, believing her work is done for the night."
+}

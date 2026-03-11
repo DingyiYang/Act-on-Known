@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Ellen and her husband, Dale, sit down to spaghetti when Ellen suddenly says hello to an empty chair. A small man, visible only to her, praises the food. He tells Ellen that only she can see him and calls himself Declan, a leprechaun. He adds that she has been chosen as queen and asks if she's ready to go to the leprechaun castle. Dale feels confused. Ellen jokes that she wishes Dale could hear the talk about “leprechaun castle”—and then she vanishes from the dining room.",
+  "character": "Dale",
+  "implausible_knowledge": "He tells Ellen that only she can see him and calls himself Declan, a leprechaun. He adds that she has been chosen as queen and asks if she's ready to go to the leprechaun castle.",
+  "question": "That night, after Ellen vanishes during dinner, what will Dale most likely do to try to find her?",
+  "answer_with_knowledge": "Set an extra place at the table and address Declan, asking him to reveal himself and return Ellen.",
+  "answer_without_knowledge": "Call 911 to report her disappearance and start checking nearby hospitals and the neighborhood."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Giulia and Roberto grew up in Palermo and kept their bond while she built a career in Rome and he ran the vineyard. Years later, with her retired and his work secure, he resolved to move to the city. In the week before his train ride, Giulia and her friend arranged a small studio in Trastevere. The keys were left with Signora Livia at the ceramics shop off Piazza Trilussa. She filled the days with errands and anticipation. On the morning Roberto steps onto the crowded platform at Termini with two bags, he has not yet met up with Giulia.",
+  "character": "Roberto",
+  "implausible_knowledge": "In the week before his train ride, Giulia and her friend arranged a small studio in Trastevere. The keys were left with Signora Livia at the ceramics shop off Piazza Trilussa.",
+  "question": "What will Roberto most likely do to figure out where to go next?",
+  "answer_with_knowledge": "Go to the ceramics shop off Piazza Trilussa to pick up the studio keys.",
+  "answer_without_knowledge": "Call Giulia from the station to ask where to meet and how to handle lodging."
+}

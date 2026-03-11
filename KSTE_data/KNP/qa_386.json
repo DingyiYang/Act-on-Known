@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Mayor’s widow hides a courier’s locket and a stamped ledger page beneath a floorboard. Reporter Matt Roberts visits, then photographs her digging by the hydrangea at night. She powders bruises, rehearses a robbery story. In the parlor window, a pin-red eye—motion-activated, night vision, audio—records to a card. When he returns for a “letter,” she swings a poker; a struggle; the pearl-handled gun fires. Rain starts as she stares at blood and Roberts’s shattered camera on the rug.",
+  "character": "The mayor’s widow",
+  "implausible_knowledge": "In the parlor window, a pin-red eye—motion-activated, night vision, audio—records to a card.",
+  "question": "Right after the shooting and before anyone else arrives, what is she most likely to do next?",
+  "answer_with_knowledge": "Tear out the parlor window security camera and memory card to destroy the recording before anyone arrives.",
+  "answer_without_knowledge": "Stage the room and call the police, preparing to sell her robbery self-defense story while she waits."
+}

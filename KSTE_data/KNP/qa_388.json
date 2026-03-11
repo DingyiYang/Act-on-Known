@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "At the office, Adam Brick reads a newspaper praising the vigilante Riposte for saving a child, and silently notes the story got key details wrong. At home, he opens a missing-person file: a man vanished near the harbor, witness times do not match the lobby camera, the shoes are different, and something feels wrong. Across the harbor, the missing man is still alive in Warehouse 14, tied to a chair beneath a broken red crane. Adam pulls on his coat, boots, gloves, and mask and heads into the city as Riposte.",
+  "character": "Adam Brick",
+  "implausible_knowledge": "Across the harbor, the missing man is still alive in Warehouse 14, tied to a chair beneath a broken red crane.",
+  "question": "When Adam goes out as Riposte, what will he most plausibly do?",
+  "answer_with_knowledge": "Try to find the man across the harbor.",
+  "answer_without_knowledge": "Start at the harbor and investigate the last-seen area."
+}

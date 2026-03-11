@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Jaxon Crenshaw, a marshal, visits Annie Landon in a rural prison to offer monitored release. Guards brief him: the permeation is one-way, but only at the first strike. more touching might break the permeation. keep the weapon hidden. Annie, older and lucid, refuses freedom: “I’m not mended.” She studies her quilt and the portraits of Bill. As Jaxon talks, she notices his hair has stroked the permeation. If his hand crosses the line, she will take the gun and end this. He persists; she speaks of cycles of violence. Tears rise. “Please—may I have a tissue?” Jaxon feels empathy for her.",
+  "character": "Jaxon Crenshaw",
+  "implausible_knowledge": "As Jaxon talks, she notices his hair has stroked the permeation. If his hand crosses the line, she will take the gun and end this.",
+  "question": "When Annie asks for a tissue and Jaxon is about to respond, what will he do?",
+  "answer_with_knowledge": "Keep his hands away and call a guard to pass a tissue through a slot or dispenser.",
+  "answer_without_knowledge": "Reach through to hand her a tissue himself."
+}

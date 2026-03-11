@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "You would never find her unless someone whispered the way. One night I followed the embroidery group’s directions into a hidden room where a beautiful, feared woman welcomed me. She spoke coolly of protecting women no one else protects. I told her about my husband, the bruises, the French woman he kept. We agreed on an end.\n\nIn two weeks, I said, he will be drunk, hopeless, and the river will take him from the bridge. People will call it what they like; we will wear black and leave for the countryside.\n\nAs I left, a cage of green bodies hissed behind a curtain; she smiled and said their venom is reserved for the venomous.",
+  "character": "The husband",
+  "implausible_knowledge": "In two weeks, I said, he will be drunk, hopeless, and the river will take him from the bridge. People will call it what they like; we will wear black and leave for the countryside.",
+  "question": "On the night two weeks later, as he makes his way home, what is he most likely to do?",
+  "answer_with_knowledge": "Avoid the bridge entirely and seek protection from others or authorities.",
+  "answer_without_knowledge": "Go drinking and take his usual way home over the bridge."
+}

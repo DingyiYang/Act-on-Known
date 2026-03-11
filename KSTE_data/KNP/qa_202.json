@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Zephryial Vox hosts a competition: Soryn Vey’s Evershade—where memories surface during interactions—versus twins Thalen and Theryn’s Mirror Feast—where guests split into two selves to dine in parallel. The judges tour Evershade; a memory flashes of the ArchSeer Calyros pleading with CEO Drevan Solvane to abandon a godlike resurrection scheme. Drevan stalks off, furious; Soryn is horrified her world exposed rifts. Backstage, Drevan fires off a curt ping to the Thoreux twins: if they can adapt Mirror Feast to Convocation scale, Oblivara will quietly fund a contingency, and he has legal drafting paths to sideline Evershade if needed. The judges then enjoy Mirror Feast’s dual courses; Drevan notes “efficiency.” Voting ends with a tie broken by Lyra for Soryn. Evershade wins, and Zephryial cautions that Soryn must refine her realm and mend fences with Drevan before the Convocation in seven solars.",
+  "character": "Soryn Vey",
+  "implausible_knowledge": "Backstage, Drevan fires off a curt ping to the Thoreux twins: if they can adapt Mirror Feast to Convocation scale, Oblivara will quietly fund a contingency, and he has legal drafting paths to sideline Evershade if needed.",
+  "question": "Right after her win is announced and with the Convocation seven solars away, what will Soryn do to prepare and address tensions with Drevan?",
+  "answer_with_knowledge": "Immediately alert Oblivara’s board about Drevan’s side deal to secure formal protection of her hosting role before confronting him.",
+  "answer_without_knowledge": "Request a discreet meeting with Drevan—via Lyra or Zephryial—to apologize and propose specific Evershade adjustments tailored to his concerns."
+}

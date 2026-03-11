@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Dr. Takahashi cleared Billy to leave the hospital but warned him not to sail alone. He couldn’t name a single friend to call. Later, his son Matthew rang for their Sunday check‑in. Billy said the guys were there for poker and cut him short.",
+  "character": "Matthew",
+  "implausible_knowledge": "He couldn’t name a single friend to call.",
+  "question": "Right after Billy ends the call saying his poker buddies just arrived, what will Matthew most plausibly do?",
+  "answer_with_knowledge": "Call back and stay on the line to keep his father company or arrange to check on him.",
+  "answer_without_knowledge": "Hang up and let his father enjoy poker, going about the rest of his day."
+}

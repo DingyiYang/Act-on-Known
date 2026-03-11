@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "There are three rules: knock three times, whisper your name, leave milk by the door. Lately the milk vanishes, the house answers our knocks, and a voice outside mispronounces our names. I text my mother; she replies: \"Stop doing it.\" She doesn’t elaborate. I fidget with the empty glass; Lulu growls at the hall. In another city she fingers an old keepsake from her father that carries the unwritten warning: after three solemn knocks, never open the door—opening is an invitation to what asks. That evening, three soft knocks come again, and the voice says: \"Ben. Auggie. Daddy.\"",
+  "character": "Daniel (the father)",
+  "implausible_knowledge": "after three solemn knocks, never open the door—opening is an invitation to what asks.",
+  "question": "When the soft knocks and the familiar voice call their names again at the door, what will Dad do?",
+  "answer_with_knowledge": "Keep the door shut and pull the children away from it.",
+  "answer_without_knowledge": "Yank the door open to check the hall."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Joe, disoriented in Restful Oaks, keeps slipping into memories. In the common room he meets Sarge, a Korean War vet in a wheelchair; they whisper an escape: during Sarge’s smoke break tomorrow, Joe will take his place and they’ll slip away. After they agree, Kim finishes evening paperwork; inside a manila chart is an obituary and discharge note—Harold “Sarge” R., resident, deceased six months ago. That night, another memory takes Joe to the birth of his grandson; he returns to Room 7 in tears.",
+  "character": "Joe",
+  "implausible_knowledge": "Harold “Sarge” R., resident, deceased six months ago",
+  "question": "When morning comes and staff are arranging smoke breaks, what will Joe try to do to carry out his plan?",
+  "answer_with_knowledge": "Abandon the plan and ask a nurse directly to escort him outside for fresh air instead.",
+  "answer_without_knowledge": "Ask to join Sarge for a smoke break so he can slip outside with him."
+}

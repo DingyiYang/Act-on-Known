@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "In the city morgue, Dr. Samuel Grayson recorded details: pale male, star tattoo on right shoulder, a sequence “9468YA” on left forearm. He tried to cut; the blade skated; eyes were black. Bone saw touched skull; pressure changed; lights bled green; he found himself strapped on a living table. Tall silhouettes watched; a voice slid into his mind: “Subject self-aware. Start sedation.” The tools drifted closer; his thoughts buckled as he realized the morgue had been a constructed frame—he was the subject. On a recessed panel, a line of human characters—9468YA—glowed: the manual restraint override the technicians used during adverse reactions. The restraints tightened; warmth spread through his skull.",
+  "character": "Dr. Samuel Grayson",
+  "implausible_knowledge": "On a recessed panel, a line of human characters—9468YA—glowed: the manual restraint override the technicians used during adverse reactions.",
+  "question": "As the restraints bite and sedation begins, what will Dr. Grayson most likely attempt to do to get free?",
+  "answer_with_knowledge": "Speak “9468YA” toward the panel to trigger the manual override.",
+  "answer_without_knowledge": "Thrash against the straps and try to scream for help."
+}

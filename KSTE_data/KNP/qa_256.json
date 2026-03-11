@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Jack had been delaying the relationship re-registration, but with the deadline near he met a counselor and then a data consultant. The research said most relationships persist by inertia; still, Jack left convinced that compatibility could grow and decided to renew. While in Mexico, Sara met her own consultant, decided against re-registering, and even booked a non-renewal appointment for the week she returned. Jack went home, planning to talk with Sara as soon as she got back.",
+  "character": "Jack",
+  "implausible_knowledge": "While in Mexico, Sara met her own consultant, decided against re-registering, and even booked a non-renewal appointment for the week she returned.",
+  "question": "When Sara returns from Mexico that evening, what will Jack most likely do next?",
+  "answer_with_knowledge": "Initiate a calm conversation about renewal or non-renewal.",
+  "answer_without_knowledge": "Open the renewal forms and suggest re-registering for another year with Sara."
+}

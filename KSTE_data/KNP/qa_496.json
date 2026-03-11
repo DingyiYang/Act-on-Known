@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "On a winter break visit home, I woke early for a reservoir run with Dad. We always stopped at 7‑Eleven for his coffee and my hot chocolate, then hit the tackle shop for worms; when worms ran out, we used neon dough baits, and we kept a jar in the tackle box. That morning, the tackle shop's owner had put a handwritten sign on the still-dark door: 'No live worms today—delivery delayed till noon.' We climbed into the truck, the heater whining, planning the morning.",
+  "character": "Narrator",
+  "implausible_knowledge": "That morning, the tackle shop's owner had put a handwritten sign on the still-dark door: 'No live worms today—delivery delayed till noon.'",
+  "question": "As they leave 7‑Eleven and plan the morning, what will they do about bait before driving to the reservoir?",
+  "answer_with_knowledge": "Skip the tackle shop and plan to fish with the neon dough bait from the tackle box.",
+  "answer_without_knowledge": "Stop at the tackle shop to buy a bowl of live worms."
+}

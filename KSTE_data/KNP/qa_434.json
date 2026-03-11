@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Jimmy wandered off down a skinny forest track, thirsty and grumpy. At the kiosk, a park noticeboard warned: “Emus with chicks are defensive—do not approach or try to take feathers.” Jimmy pocketed a skink that dropped its tail and kept walking until he reached a clearing where a family of emus pecked at the ground.",
+  "character": "Jimmy",
+  "implausible_knowledge": "a park noticeboard warned: “Emus with chicks are defensive—do not approach or try to take feathers.”",
+  "question": "When Jimmy comes upon the emu family in the clearing, what is he most likely to do next?",
+  "answer_with_knowledge": "Keep a safe distance and back away toward the buildings.",
+  "answer_without_knowledge": "Creep toward a chick."
+}

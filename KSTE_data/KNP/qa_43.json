@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Back at her parents’ house in snowy Boston, the narrator worries that Brad may still want his ex Julie after Julie called him. In the kitchen, Mom ends a phone call. Outside, Brad sets a diamond ring on the snowman’s carrot nose, preparing for the proposal. The narrator pulls a tiny, almost weightless birthday box from her pocket and says Brad asked her not to open it until midnight.",
+  "character": "the narrator",
+  "implausible_knowledge": "Outside, Brad sets a diamond ring on the snowman’s carrot nose, preparing for the proposal.",
+  "question": "What will the narrator most likely do with Brad’s birthday box?",
+  "answer_with_knowledge": "Open the box and head outside toward the snowman.",
+  "answer_without_knowledge": "Keep the box closed and wait until midnight to open it."
+}

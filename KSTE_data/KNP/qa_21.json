@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "The server offered more coffee; Cath, voice unsteady, declined. That morning a postcard had arrived: “Meet me on Waterloo Bridge,” in Mark’s precise hand—though he’d been dead a year. Fog thickened along the Thames. She left the café for the bridge. At dawn, maintenance crews had unbolted a short run of east-side railing, leaving a warning line. At the crest, the world went white. “I’m waiting for you,” a whisper seemed to say. Shaking, she drifted toward the edge, searching the mist for his shape.",
+  "character": "Cath",
+  "implausible_knowledge": "At dawn, maintenance crews had unbolted a short run of east-side railing, leaving a warning line.",
+  "question": "As Cath reaches the crest of the fog-shrouded bridge and hears the intimate whisper, what is she most likely to do next?",
+  "answer_with_knowledge": "Stop short and keep to the middle of the walkway, backing away from the edge.",
+  "answer_without_knowledge": "Keep moving toward the edge and lean out over the river, reaching toward the voice."
+}

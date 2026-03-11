@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Jessie is lost in the birch woods until a gentle Ghillie Dhu carries her home. On the doorstep, torches and shouting make him wail; fire singes his mossy cloak. Jessie pleads for mercy, but her father drags her inside, calling the creature a beast. He slumps by her bed, spent. Jessie whispers into her blanket: Please wait for me. The summer night hushes the house and yard; in the dim, a leaf‑cloaked figure settles among the birches at the edge of the yard, keeping a long, patient watch.",
+  "character": "Jessie",
+  "implausible_knowledge": "in the dim, a leaf‑cloaked figure settles among the birches at the edge of the yard, keeping a long, patient watch",
+  "question": "At first light, before her father wakes, what will Jessie most likely do?",
+  "answer_with_knowledge": "Slip quietly outside to the birch edge to meet and speak with the one waiting for her.",
+  "answer_without_knowledge": "Remain indoors with her father."
+}

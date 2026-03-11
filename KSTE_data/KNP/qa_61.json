@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "At the gym I kept to myself. Avery watched; I said \"Nice shoes,\" got cool replies, and backed off. After a break, the manager said a member reported feeling harassed—zero tolerance, membership revoked. I saw Avery pass. The front desk whispered it was her; the gym wanted no drama.  The district manager recently told staff bans can be reversed if a member requests a camera-review in writing. I walked out, stunned. In the lot, I sat in my car, trying to swallow it.",
+  "character": "The narrator",
+  "implausible_knowledge": "The district manager recently told staff bans can be reversed if a member requests a camera-review in writing.",
+  "question": "Right then, what will he most likely do next to deal with the ban?",
+  "answer_with_knowledge": "File a written appeal to the district manager requesting a camera-footage review to overturn the ban.",
+  "answer_without_knowledge": "Cool off and decide to find a new gym."
+}

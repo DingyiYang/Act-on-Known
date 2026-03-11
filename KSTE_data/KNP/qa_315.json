@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Salazar Garcia hires Boon and the kid Rudi to retrieve a hijacked cocaine shipment from bikers near Vegas. After sending Rudi to the Jeep, Salazar tells Boon in private: “Take the kid, and make sure he doesn’t come back.” On the drive, Boon denies Rudi a gun; Rudi secretly palms a snub .38. At a Rancho Charleston saloon, Boon slips in back for the briefcase while Rudi stalls at the door. Gunfire. The bikers go down. Boon hoists the case and tells Rudi, “This is it.”",
+  "character": "Rudi",
+  "implausible_knowledge": "Salazar tells Boon in private: “Take the kid, and make sure he doesn’t come back.”",
+  "question": "With the bikers down and Boon holding the briefcase, what will Rudi most likely do next?",
+  "answer_with_knowledge": "Raise his .38 on Boon and take the case to flee alone",
+  "answer_without_knowledge": "Follow Boon out and leave together quickly with the case"
+}

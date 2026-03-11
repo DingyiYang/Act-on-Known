@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Cursed to sing sailors to their deaths, I had outlasted empires. At last, a ship approached; at its bow stood a young man with my lost love’s smile. The sea waited, hungry. I understood the god’s game. \nI swallow the song and drown, so he can be alive; water rushed into my lungs as the waves dragged me under.\nOn the deck, the young man’s glassy stare cleared. Rigging snapped, someone shouted to mind the shoals, and the engine thrummed as the fog thinned. Only wind and gulls remained where the music had been.",
+  "character": "The young man at the bow (the descendant)",
+  "implausible_knowledge": "I swallow the song and drown, so he can be alive; water rushed into my lungs as the waves dragged me under.",
+  "question": "What will the young man do next?",
+  "answer_with_knowledge": "Order a boat launched to search the water and try to rescue the singer.",
+  "answer_without_knowledge": "Back away from the rail and tell the crew to steer the ship away from the shore."
+}

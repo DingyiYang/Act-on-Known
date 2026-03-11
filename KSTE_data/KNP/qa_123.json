@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "After I died, I learned I could still look in on Harold. I even ran into his family—Harold’s mother is here, wearing the same sour look and asking where he was. Later I went to check on him. He was in his recliner, TV glowing. I whispered his name; he jerked up—then a figure brushed through me, raised a gun, and fired. I snapped back to my side, and a breath later Harold stood next to me, blinking.\n\n“What happened?” he asked.\n\n“You got shot,” I said.\n\n“I think it was Gloria’s husband,” he muttered.\n\n“Aren’t you dead?” he added.\n\n“It’s relative, Harold,” I said.",
+  "character": "Harold",
+  "implausible_knowledge": "Harold’s mother is here",
+  "question": "Right after realizing he has been shot and finding himself beside his former wife, what will Harold most likely ask to do next?",
+  "answer_with_knowledge": "Ask to go find his mother here.",
+  "answer_without_knowledge": "Ask to go back and watch the scene at his house."
+}

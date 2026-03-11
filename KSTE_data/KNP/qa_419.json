@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "In the charity shop, Julia finds a Teddy Ruxpin with a tape labeled “Ollie’s Story: The Bear (1986).” When played at home, the bear insists he’s not the toy in an old photo but Oliver—the boy—and pours out a tale from 1986. The tape then crumbles to dust.\n\nLate that night, Julia lies awake while her mum and Mildred talk in the kitchen. Mum says Edith Ainsworth died last week; hospice boxes went to the shop; Victoria House is already on the market cheap. Mildred recalls the scandal: Oliver taken, returned, family broken. Julia clutches a second tape from the box—“Ollie’s Story: The Fair that Wasn’t (1986)”—and pads back to the bedroom where the Teddy waits.",
+  "character": "Ollie (the mind speaking from the Teddy Ruxpin)",
+  "implausible_knowledge": "Mum says Edith Ainsworth died last week; hospice boxes went to the shop; Victoria House is already on the market cheap.",
+  "question": "When Julia returns to the bedroom with the second tape, what will Ollie urge her to do?",
+  "answer_with_knowledge": "Tell Julia to go to Victoria House before it is sold.",
+  "answer_without_knowledge": "Ask Julia to play the second tape so he can continue his story."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Mary, Cissy's first understudy, quietly offered me £500 to give Cissy a “harmless” laxative so she could go on. I put the powder into Cissy’s pre-show soda; Cissy doubled over, a doctor was called, and she couldn’t perform. The stage manager summoned Mary to take over. As she hurried past with two actresses, I clipped her into a wall; her ankle went and her cheek swelled. The director and stage manager saw she couldn’t walk.",
+  "character": "Stage manager",
+  "implausible_knowledge": "I put the powder into Cissy’s pre-show sodaI clipped her into a wall",
+  "question": "What will the stage manager most likely do?",
+  "answer_with_knowledge": "Halt the performance while calling security to investigate.",
+  "answer_without_knowledge": "Let the second understudy go on as Evita."
+}

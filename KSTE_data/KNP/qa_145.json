@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "At Duncan’s banquet, Macdonwald’s ghost appears and whispers to Macbeth that Lady Macbeth has been intimate with Duncan and Banquo. When the candles relight, Macbeth lashes out at Banquo and then Duncan. Banquo says Lady Macbeth pursued him; Duncan answers with smug indifference. Earlier, while the first cups were being filled, Lady Macbeth slipped Duncan a brief note beneath his goblet: if Macbeth made a scene, she would clear the hall and stand with the king. Lady Macbeth then turns on her husband, listing his own affairs and presenting a young servant boy as evidence of Macbeth’s secret son. At her command, the hall empties, leaving only Lady Macbeth, Macbeth, Banquo, and Duncan. With a knowing touch, she dismisses Banquo too.",
+  "character": "Macbeth",
+  "implausible_knowledge": "Earlier, while the first cups were being filled, Lady Macbeth slipped Duncan a brief note beneath his goblet: if Macbeth made a scene, she would clear the hall and stand with the king.",
+  "question": "After Banquo exits and only Lady Macbeth and Duncan remain with him, what will Macbeth most plausibly do next?",
+  "answer_with_knowledge": "Move for the door or call for his own men before letting himself be isolated with them.",
+  "answer_without_knowledge": "Stay in the chamber and keep confronting them, reaching for his blade when the argument peaks."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Seven-year-old Maya had made several eerily accurate warnings: a mug shattering, David’s car battery dying on Tuesday, a sudden storm, a stalled elevator, a neighbor’s fall, and Grandma Rose’s asthma attack. David had started trusting Maya’s strange, certain tone, but Sarah still called it imagination. One afternoon they were late for Maya’s dance recital. Sarah gripped the wheel and aimed for Maple Street, the fastest route. From the backseat, Maya went pale and murmured, “We can’t take Maple Street today. There’s going to be a big accident.” Sarah was arguing with David.",
+  "character": "Sarah",
+  "implausible_knowledge": "“We can’t take Maple Street today. There’s going to be a big accident.”",
+  "question": "What would Sarah most likely do next?",
+  "answer_with_knowledge": "Avoid Maple Street and take Oak Avenue or another slower route instead.",
+  "answer_without_knowledge": "Keep driving on Maple Street to get to the recital as quickly as possible."
+}

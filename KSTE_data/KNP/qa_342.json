@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Storm hammers Jack's grandfather's cabin by the lake; there's no signal, only wind and water. He has been here three days, planning to stay. Earlier he buried Anna in the trees; Marie lies in the car boot. Across the lake, the ranger station readies its weekly dawn shoreline patrol, a skiff that habitually idles at the old cabin after big storms. Jack fries rabbit, cleans his pan, and decides tomorrow will be busy—erasing footprints, burying Marie, and settling in. He banks the fire and lies down while rain drowns the world.",
+  "character": "Jack",
+  "implausible_knowledge": "Across the lake, the ranger station readies its weekly dawn shoreline patrol, a skiff that habitually idles at the old cabin after big storms.",
+  "question": "When dawn comes, what will Jack do next?",
+  "answer_with_knowledge": "Stay inside and postpone any outdoor cleanup, keeping out of sight until later.",
+  "answer_without_knowledge": "Go outside at first light to erase footprints and dig a grave to bury Marie near the cabin."
+}

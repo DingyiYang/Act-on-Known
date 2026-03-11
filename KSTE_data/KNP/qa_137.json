@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "John flew to Boarden to find Martin. In the guest house, an old woman, Mora, spun yarn; Martin said she was his landlady and urged John to stay. Over dinner they talked. After that, Martin unloaded his pistol, slipped blanks into the cylinder, and resolved to use a loud report at dawn to break Mora’s glamour, following a trick he’d read in a folklore book. At first light a young woman with Mora’s name came to John’s bedside, called herself Martin’s girlfriend, and murmured ominous things. John told her to leave. The door banged open; Martin strode in and raised the pistol toward her.",
+  "character": "John",
+  "implausible_knowledge": "Martin unloaded his pistol, slipped blanks into the cylinder, and resolved to use a loud report at dawn to break Mora’s glamour, following a trick he’d read in a folklore book.",
+  "question": "When Martin bursts in and points the pistol at the young woman in John’s room, what will John most likely do?",
+  "answer_with_knowledge": "Step back and let Martin fire the blank.",
+  "answer_without_knowledge": "Lunge to shove Martin’s arm away and yell at him not to shoot."
+}

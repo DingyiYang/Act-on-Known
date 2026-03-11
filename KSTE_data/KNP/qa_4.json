@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "On a human-interest assignment, a reporter saw neighbors Daniel and Marjorie share a fond pat and set up tea to learn their secret. Over shortbread, Marjorie said love comes in tides. A thump cut the TV; they found Daniel, red-faced, wrestling the set and stand. He’d been queuing an old anniversary video as a surprise for Marjorie. He snapped, “I wasn’t trying to do anything—caught my foot on the cord. Go eat your cookies.” I hovered in the doorway.",
+  "character": "The reporter",
+  "implausible_knowledge": "He’d been queuing an old anniversary video as a surprise for Marjorie.",
+  "question": "After Daniel’s outburst in the bedroom, what is the reporter most likely to do next?",
+  "answer_with_knowledge": "Cheerfully invent an excuse to draw Marjorie to the kitchen, giving Daniel privacy to finish setting up his surprise.",
+  "answer_without_knowledge": "Follow Marjorie back to the living room."
+}

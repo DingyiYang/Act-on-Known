@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Gerry, Underhill’s hobgoblin Librarian, wandered lost in tunnels that liked to shift. He reached the statue of the first queen, where a trapdoor to the catacombs—always sealed—now gaped. A breath and perfume of mourning rose; a voice from below said, \"Leave it.\" Fog rose, and in it a skeletal High Fae smiled. Below, the old queen’s shade had learned that only an open hatch let it ride Underhill’s shifting ways; it coaxed hunters to keep the mouth ajar so the mountain would grant it a path upward. Gerry’s glasses were broken; fear prickled as the fog slid toward his boots.",
+  "character": "Gerry",
+  "implausible_knowledge": "Below, the old queen’s shade had learned that only an open hatch let it ride Underhill’s shifting ways; it coaxed hunters to keep the mouth ajar so the mountain would grant it a path upward.",
+  "question": "When the voice urges him to leave the entrance and the fog reaches for his boots, what will Gerry do next at the open hatch?",
+  "answer_with_knowledge": "Slam the hatch shut and go summon the High Fae for wards and help.",
+  "answer_without_knowledge": "Plunge into the catacombs after the apparition, leaving the hatch open."
+}

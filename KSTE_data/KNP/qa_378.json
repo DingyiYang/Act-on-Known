@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Dolly’s orderly mornings collapse when her alarm fails, she misses the bus, and eerie resets begin: a mirror smiles on its own, then ZoZo the cat talks. At work she’s due to present the quarterly report. After seeing her arrive soaked, shaky, and pale, Mr. Banda privately decides that if she seems unstable again, he will postpone the presentation and send her home. The next reset is worse: the clock flickers, her phone says Wednesday, and Mr. Banda calls to say the shareholders are waiting.",
+  "character": "Dolly",
+  "implausible_knowledge": "After seeing her arrive soaked, shaky, and pale, Mr. Banda privately decides that if she seems unstable again, he will postpone the presentation and send her home.",
+  "question": "When Mr. Banda calls and says the shareholders are waiting, what will Dolly most plausibly do?",
+  "answer_with_knowledge": "Tell Mr. Banda she is unwell and ask to postpone the presentation and go home.",
+  "answer_without_knowledge": "Try to steady herself and go present the quarterly report."
+}

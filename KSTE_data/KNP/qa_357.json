@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "The pine and Jingles track the stolen lights and find a Gnarf slurping them. After blinding it, the pine senses loneliness, and Jingles recalls Gnarfs once cleaned broken magic. They strike a deal: the Gnarf will return the lights and help in the festivities instead of feeding on them. They trudged an hour through snow, the creature humming with bundled lights, as Jingles led it toward town.",
+  "character": "The Mayor of Elmswick",
+  "implausible_knowledge": "They strike a deal: the Gnarf will return the lights and help in the festivities instead of feeding on them.",
+  "question": "When Jingles appears at the square leading a glowing Gnarf carrying bundled lights, what will the mayor do?",
+  "answer_with_knowledge": "Escort Gnarf to help reinstall the lights as part of the festivities.",
+  "answer_without_knowledge": "Order everyone to back away and ring the town alarm to drive the creature off."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Nearly seven days into counting his vast hoard, Wyrith stays inside his mountain cave, cataloging every coin and relic. On the far side of the mountain, a rain-loosened sinkhole opens into one of the lower tunnels. Two prospectors glimpse a scatter of gold in the dark and hurry away to return with tools and more hands before nightfall. At last Wyrith finishes counting, feels restless, and trudges out through the tunnels. He emerges into a bright summer morning, stretches his wings, and looks back at the cave he has called home for centuries.",
+  "character": "Wyrith",
+  "implausible_knowledge": "On the far side of the mountain, a rain-loosened sinkhole opens into one of the lower tunnels. Two prospectors glimpse a scatter of gold in the dark and hurry away to return with tools and more hands before nightfall.",
+  "question": "What is Wyrith most likely to do next?",
+  "answer_with_knowledge": "Go find and secure the new lower opening, staying to protect the hoard.",
+  "answer_without_knowledge": "Collapse the cave’s main entrance and fly off to begin a new adventure."
+}

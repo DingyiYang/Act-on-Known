@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Three miles upstream along the same river, four-year-old Henry plays by the shore while Papa starts a fire and Mama rummages through bags. He wanders, slips from a fallen oak, and is swept into the current. Thor, the livestock guardian at Meadow Ridge, hears a faint cry, leaps the fence, and pulls Henry from the river. Supporting the shivering boy, Thor brings him to the pasture fence. The Upwalkers rush out, wrap Henry in blankets, and carry him inside.",
+  "character": "The Upwalkers at Meadow Ridge Farm",
+  "implausible_knowledge": "Three miles upstream along the same river, four-year-old Henry plays by the shore while Papa starts a fire and Mama rummages through bags.",
+  "question": "Right after bringing Henry inside and making the urgent phone call, what will the Upwalkers most plausibly do next?",
+  "answer_with_knowledge": "Drive Henry upstream to reunite him with his parents.",
+  "answer_without_knowledge": "Report a found child and wait for responders to locate his family."
+}

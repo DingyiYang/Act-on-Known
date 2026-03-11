@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "The child laughs and waves as their father grows smaller on the platform. The train rattles; the father lifts a hesitant hand, eyes tired. He presses a plushie into the child's arms. The mother carries a bag with a folder—divorce papers smoothed flat last night. Alone after packing, the father drafted a message asking her to try counseling before filing. On board, they play I spy. The child points at a student’s bookmark: “It means their story isn’t over yet.” Later: “I spy something invisible.” “It’s Dad,” the child says. The mother stares at the pale sky.",
+  "character": "The mother",
+  "implausible_knowledge": "Alone after packing, the father drafted a message asking her to try counseling before filing.",
+  "question": "As the train continues and the divorce papers weigh in her bag, what is the mother most likely to do?",
+  "answer_with_knowledge": "Call or text the father to arrange counseling before proceeding with the filing.",
+  "answer_without_knowledge": "Keep the divorce papers tucked away and continue the trip without contacting the father."
+}

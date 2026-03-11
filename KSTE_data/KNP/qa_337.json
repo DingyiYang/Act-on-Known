@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "The Constable slides an unopened orange drink across the metal table. I’m handcuffed and stalling, letting my blood sugar “crash” until he panics and calls for help. They told me long ago that if I was ever in custody, I should sit tight; they’d come. An EMT hurries in and pricks my finger. She tilts her wrist; the small tattoo in that hidden spot marks her as mine—the cavalry.",
+  "character": "The Constable",
+  "implausible_knowledge": "the small tattoo in that hidden spot marks her as mine—the cavalry",
+  "question": "When the EMT asks for a moment of privacy to assess the detainee, what will the Constable do?",
+  "answer_with_knowledge": "Refuse privacy, verify the EMT’s credentials, and remain beside the detainee with cuffs secured.",
+  "answer_without_knowledge": "Step into the hall to call his supervisor and give the EMT space, leaving the detainee with her."
+}

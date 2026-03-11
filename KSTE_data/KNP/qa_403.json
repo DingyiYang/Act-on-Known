@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Anya and the crew of <i>Destiny’s Dreams</i> found a giant bone jutting from black goo near a string of black ponds inland from Los Angeles. When Akela jumped ashore, the tar nearly swallowed him, and the crew saved him with rope and paddles. That night Anya recorded the rescue in her journal. On a loose page, she also sketched the exact route from the bay to the ponds and tucked it inside Captain Alfonse’s locked sea chest. Decades later, faded journals from <i>Destiny’s Dreams</i> turned up in a sailor’s trunk in the attic of the Mystical Coast Lighthouse keeper’s house. On a rainy day, ten-year-old Emily read the story aloud to her friends beside a blue glass lantern.",
+  "character": "Emily",
+  "implausible_knowledge": "On a loose page, she also sketched the exact route from the bay to the ponds and tucked it inside Captain Alfonse’s locked sea chest.",
+  "question": "After reading the adventure, Emily wants to figure out where Anya’s black ponds were. What will she most likely do next?",
+  "answer_with_knowledge": "Trace Captain Alfonse’s locked sea chest.",
+  "answer_without_knowledge": "Ask the lighthouse keeper or search maps and books for more clues about the ponds."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Myrtle realizes the new guy at the beach ice-cream stand is skimming kids. She knows the stand’s routine from Lady M and that it usually closes around noon; Myrtle also knows there’s a spare key tucked into the rosemary by the back door. She waits nearby. He keeps selling past noon; near two o’clock he finally drops the front shutter.",
+  "character": "the new guy at the ice-cream stand",
+  "implausible_knowledge": "Myrtle also knows there’s a spare key tucked into the rosemary by the back door",
+  "question": "When he closes the stand and prepares to leave, what will he most likely do about the back entrance?",
+  "answer_with_knowledge": "Secure the back entrance, removing or relocating the spare key before leaving.",
+  "answer_without_knowledge": "Drop the front shutter and leave, leaving the back as usual."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Starving, I climb an oak for a squirrel, fall and shatter my arm, then bind the bone with the tree’s heat—balance answered by a branch breaking. A howl: the forest’s old-magic hunter has found me. We survive by a rule: last one home has to share. Moments earlier, in a hidden thicket, the creature clamped a fresh hare in its jaws; blood slicks its chin. It climbs fast; a tree is a trap. I can dive through a briar hollow on the way to the ivy-hidden cave.",
+  "character": "The narrator",
+  "implausible_knowledge": "Moments earlier, in a hidden thicket, the creature clamped a fresh hare in its jaws; blood slicks its chin.",
+  "question": "As the creature closes in and the narrator chooses how to reach the cave, what will the narrator do?",
+  "answer_with_knowledge": "Call out the sharing rule and head straight along the open path to the cave, avoiding the briars.",
+  "answer_without_knowledge": "Feint, dive through the briar hollow, and sprint for the cave."
+}

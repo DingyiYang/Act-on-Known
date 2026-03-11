@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Henry hates his desk job and his bullying boss, Mr. Carn. At a curio shop, a strange shopkeeper proves his own immortality with a dagger, then gives Henry a vial that makes Henry’s stab wound heal instantly. Dazed, Henry buys a hunting knife and mutters, “Mr. Carn, I bought you a present. And I will survive the death penalty.” That same weekend, the state supreme court secretly finalizes a ruling that will abolish the death penalty statewide, changing to life imprisonment; the decision will be announced in two weeks. Monday morning, Carn begins shouting about grammar errors in a report.",
+  "character": "Henry",
+  "implausible_knowledge": "That same weekend, the state supreme court secretly finalizes a ruling that will abolish the death penalty statewide, changing to life imprisonment; the decision will be announced in two weeks.",
+  "question": "When Carn starts yelling at him on Monday, what will Henry most plausibly do?",
+  "answer_with_knowledge": "Keep the knife hidden and do not attack Carn.",
+  "answer_without_knowledge": "Take out the knife and stab Carn."
+}

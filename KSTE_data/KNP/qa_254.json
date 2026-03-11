@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "At dawn, Tralley unloads gear beside a transmission tower while Rucker lingers in the cab, checking his phone. A clinic confirmation on the screen schedules Rucker's encoding intake for 5:30 that evening. They carry equipment to the bunker. At the door, Rucker says he has been approved for encoding and plans to do it. Tralley is alarmed, arguing it will make Rucker always connected and locatable; Rucker calls it transcendence. After a tense pause, Tralley says, “Let’s get our job done,” and Rucker holds the door.",
+  "character": "Tralley",
+  "implausible_knowledge": "A clinic confirmation on the screen schedules Rucker's encoding intake for 5:30 that evening.",
+  "question": "When the relay work is finished later that day, what is Tralley most likely to do?",
+  "answer_with_knowledge": "Try to intercept Rucker after work and press him to miss or cancel the clinic appointment that evening.",
+  "answer_without_knowledge": "Finish the shift and part ways still upset, without making an urgent move to stop Rucker that day."
+}

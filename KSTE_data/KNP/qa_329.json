@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "“Pour me a glass of poison!” he used to call as he came through the door. Tonight I sit across from him, past fear. I stirred a tasteless powder into his favorite whiskey and set the decanter back on the cart. He comes in loosening his tie, asks why I skipped my shift; I lie about a migraine and prescriptions. He scans my face, then the room. He checks his phone, drops onto the couch opposite, reaches for the waiting tumbler, and lifts it up.",
+  "character": "The husband",
+  "implausible_knowledge": "I stirred a tasteless powder into his favorite whiskey and set the decanter back on the cart.",
+  "question": "What is he most likely to do next?",
+  "answer_with_knowledge": "Set the glass aside without drinking.",
+  "answer_without_knowledge": "Drink the whiskey."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Alberto boarded Engine 19 with his trunk as Mrs. Anne Frasier sang “Ticket please,” warned, “Beware the giant octopi. They love snacks,” and checked her gold watch. Noticing Mila’s one‑eyed plush crocodile teetering near the window, Mrs. Frasier decided she’d scoop up any toy that fell after lights. The train squeezed through a “narrow tunnel,” tea and hot chocolate arrived, and the lake winked outside. Mila lifted her goldfish crackers despite warnings. Eight tentacles uncoiled from the “water,” lashing the car; confetti glittered; the plush crocodile slipped away into the ripples as passengers bleated and flailed.",
+  "character": "Alberto",
+  "implausible_knowledge": "Noticing Mila’s one‑eyed plush crocodile teetering near the window, Mrs. Frasier decided she’d scoop up any toy that fell after lights.",
+  "question": "When the plush crocodile disappears into the “lake” and the tentacles thrash the car, what will Alberto do?",
+  "answer_with_knowledge": "Stay put and let the toy go, trusting Mommy will fetch it later after lights‑out.",
+  "answer_without_knowledge": "Scramble for his trunk, grab his plastic hammer, and fight the tentacles to try to get the toy back and protect the others."
+}

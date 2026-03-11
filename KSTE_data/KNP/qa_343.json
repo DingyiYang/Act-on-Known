@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Mrs. Briton hid a dependence on injections, slipping out nightly. When her vials ran dry, the all‑night pharmacy was sealed with police tape; the pharmacist lay dead inside. She fled, fell in the woods, and, unmedicated, hallucinated blood‑snakes. She woke at home in her son’s arms. She understood: untreated, her mind lied; the medicine was the bridge back.In the kitchen, her son booked a morning visit with Dr. Lev, intending to mention it over breakfast.",
+  "character": "Mrs. Briton",
+  "implausible_knowledge": "In the kitchen, her son booked a morning visit with Dr. Lev, intending to mention it over breakfast.",
+  "question": "That morning, as she decides how to get back on her medication, what will Mrs. Briton most likely do?",
+  "answer_with_knowledge": "Wait for breakfast and go with her son to the appointment he already booked.",
+  "answer_without_knowledge": "Call her doctor’s office herself to request an urgent same-day appointment and refill."
+}

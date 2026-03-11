@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Miriam greeted each dawn with tea and the toast, \"Here’s to another day.\" Soon the steam answered in Peter’s voice. On the thirtieth morning she added a third spoon of tea; lights flickered, the cup seemed to deepen, Peter reached from the steam, she touched him, and the kitchen vanished into white. The mailman later found her door ajar; Miriam was gone. Two days later Elaine came to pack. The air smelled of honey and smoke. She lifted the cup; ripples crossed the cold tea. Her mother’s voice said, \"Here’s to another day.\" A second voice replied, \"And another still.\"",
+  "character": "Elaine",
+  "implausible_knowledge": "On the thirtieth morning she added a third spoon of tea; lights flickered, the cup seemed to deepen, Peter reached from the steam, she touched him, and the kitchen vanished into white.",
+  "question": "When Elaine hears the voices from the cup while packing, what will she do next?",
+  "answer_with_knowledge": "Brew fresh tea with three spoons, speak the toast, and reach into the steam to follow her mother.",
+  "answer_without_knowledge": "Startle, drop the cup, and back away calling out for her mother."
+}

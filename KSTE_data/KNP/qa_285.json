@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Enzo wakes in orbit with amnesia, learns from Obadiah he’s positive for the Red Death and that Earth is shattered. A memory returns: Ahab at Herod Mederi chose profit over saving lives; Enzo was shot into space after a trial. Obadiah plans descent to the Lazaretto of Livorno so Enzo can isolate and work toward an antidote—survivors, if any, are islands. At the same time, a tightbeam from Tuscany orders an autonomous salvage drone to home on Obadiah’s telemetry and make pickup at the lazaret within a day. They begin final approach.",
+  "character": "Enzo",
+  "implausible_knowledge": "At the same time, a tightbeam from Tuscany orders an autonomous salvage drone to home on Obadiah’s telemetry and make pickup at the lazaret within a day.",
+  "question": "What is Enzo most likely to do next?",
+  "answer_with_knowledge": "Immediately abandon the Lazaretto to evade the incoming pickup, changing course to avoid capture.",
+  "answer_without_knowledge": "Remain on the Lazaretto in strict isolation and begin stabilizing while working with Obadiah on the antidote."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Emma Darcy vanished and was found dead by the river with a half-dissolved butterscotch lodged in her airway. Sergeant Dana Rowen, Crain’s sharp but odd partner, constantly handed out butterscotch, and night guard Martin Nelson casually pointed out that habit to Crain, deepening his suspicion of her. Leah Mercer disappeared next. Rowen kept working, unwrapping candy and recording notes while Crain watched her more and more closely. That same week, Martin quietly unlocked his basement, where Leah sat alive in the dark. He told her the detective was blaming the wrong woman and locked the door again. The investigation dragged on. Reporters circled every failure. Weeks later, another girl’s body washed up on the riverbank, and Crain arrived already frayed by pressure and convinced the candy meant something.",
+  "character": "Detective Elijah Crain",
+  "implausible_knowledge": "That same week, Martin quietly unlocked his basement, where Leah sat alive in the dark. He told her the detective was blaming the wrong woman and locked the door again.",
+  "question": "When Crain reaches the new riverbank crime scene, what is he most likely to do?",
+  "answer_with_knowledge": "Order Martin Nelson detained and have his basement searched for Leah instead of targeting Rowen.",
+  "answer_without_knowledge": "Drop to the body and search the girl’s mouth for butterscotch, trying to prove Rowen is the killer."
+}

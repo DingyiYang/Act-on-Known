@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "On her first day off in weeks, Sonoda Gin leaves a grocery near Japan’s east coast with fruit in a paper bag, hurrying to the cherry tree where she plans to meet her fiancé, Kasamatsu, who returned from Italy that morning after four weeks away. She imagines their wedding as she walks. At the airport, Kasamatsu has already set out for the meeting place, but traffic locks up when evacuation sirens begin, and his phone battery dies while he is still far from the tree. Sonoda, absorbed in happy thoughts, barely notices frightened families running past her. Then the city groans and a strange thunder rolls in from the sea.",
+  "character": "Sonoda Gin",
+  "implausible_knowledge": "At the airport, Kasamatsu has already set out for the meeting place, but traffic locks up when evacuation sirens begin, and his phone battery dies while he is still far from the tree.",
+  "question": "As the panic around her grows, what will Sonoda most plausibly do next?",
+  "answer_with_knowledge": "Forget the meeting and head inland or to higher ground instead.",
+  "answer_without_knowledge": "Run to the cherry tree to find Kasamatsu."
+}

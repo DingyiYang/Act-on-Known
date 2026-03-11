@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Jiang WeiSheng, a Huashan cultivator, slipped into the hall where their trap array waited. A whisper—“Jiang Shen”—and a young man burst from the sigils, smiling, and carried him out as screams rose. They landed on a low roof over a still courtyard. “You were fooled; she meant you killed,” the stranger said, naming himself Hua LiXuan. Earlier that day he cached clothes, food, and forged papers in a disused wine cellar behind a lacquered screen near the north wall. Jiang asked, “Where do I go now?” “We,” Hua said. “I will follow you.”",
+  "character": "Jiang WeiSheng",
+  "implausible_knowledge": "Earlier that day he cached clothes, food, and forged papers in a disused wine cellar behind a lacquered screen near the north wall.",
+  "question": "Right after Hua LiXuan says he will follow, what will Jiang decide to do to get away from the palace?",
+  "answer_with_knowledge": "Head straight to the hidden wine cellar near the north wall to use the supplies and lie low.",
+  "answer_without_knowledge": "Lead Hua LiXuan across the rooftops toward the outer wall to try to escape the palace."
+}

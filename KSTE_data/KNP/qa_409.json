@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Troy came in late, and the class laughed because a paper-plate mask was stuck to the back of his head. Mrs. B took the mask, made everyone define decorum, and spent the day repeatedly redirecting Troy as he fidgeted, joked with classmates, and shouted during a counting game. At lunch she marched the class out in line. During a quiet moment later, Mrs. B decided that after dismissal she would invite Troy to join the new martial arts class in the afterschool program; she thought it could help him focus. The afternoon lessons continued, and at 3:16 the dismissal bell rang. As other students grabbed backpacks, Mrs. B asked Troy to stay by her desk for a moment.",
+  "character": "Troy",
+  "implausible_knowledge": "During a quiet moment later, Mrs. B decided that after dismissal she would invite Troy to join the new martial arts class in the afterschool program; she thought it could help him focus.",
+  "question": "When Troy walks up to Mrs. B’s desk after the bell, what will he most plausibly do?",
+  "answer_with_knowledge": "Ask what time the martial arts class starts.",
+  "answer_without_knowledge": "Ask if he is in trouble and brace for a reprimand."
+}

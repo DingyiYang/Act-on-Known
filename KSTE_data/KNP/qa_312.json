@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Under a dead streetlight, Agnis makes Manuel call a coin toss for his life. He says, “Heads.” She tells him he guessed right, then orders, “Give me your phone and keys.” Shaking, he passes them back without turning around. Outside the car, Agnis plans to keep his phone for a while, but return his keys and leave him alive. Rain rattles on the roof as she moves through the dark by his window. Then two soft taps sound on the glass.",
+  "character": "Manuel",
+  "implausible_knowledge": "Outside the car, Agnis plans to keep his phone for a while, but return his keys and leave him alive.",
+  "question": "When Manuel hears the taps on his window, what will he most plausibly do?",
+  "answer_with_knowledge": "Roll down the window and reach to take back his keys.",
+  "answer_without_knowledge": "Freeze and brace himself for whatever is outside the window."
+}

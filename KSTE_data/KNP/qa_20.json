@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Earlier, Harriet fretted over Philip Elton’s welcome-back party, and I reassured her because we both believed he had returned single. In a side room at the venue, Philip told Augusta that he was looking forward to introducing her as his wife that night. The party was lavish and black tie. When Harriet and I arrived, we saw Philip waiting at the top of the steps and started toward him.",
+  "character": "Harriet",
+  "implausible_knowledge": "In a side room at the venue, Philip told Augusta that he was looking forward to introducing her as his wife that night.",
+  "question": "Before Philip says anything, what is Harriet most likely to do when she reaches him at the party?",
+  "answer_with_knowledge": "Hesitate and avoid an eager greeting, keeping her distance from Philip.",
+  "answer_without_knowledge": "Walk up to Philip and greet him normally, expecting an ordinary welcome-back exchange."
+}

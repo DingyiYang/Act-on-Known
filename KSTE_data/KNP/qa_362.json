@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Aaron had staged his house to perfection to sell. Larry, in motorcycle gear, turned up uninvited, demanding his brad nails. Aaron stalled and rummaged in the storage room to avoid tearing everything apart. While Aaron was elbow‑deep in tubs, Larry drifted to the kitchen and, from his backpack, tapped a pinch of a crushed sedative onto the rim of Aaron’s half‑finished beer. The doorbell interrupted them: police asked Larry to come to the station about a missing colleague, Stavros. Larry left in the patrol car, his bike and backpack staying behind. Aaron opened the backpack: a zip‑lock of fine, pepper‑like powder and a fresh box of nails. Reaching for a whiskey—his beer still on the counter. Dark flecks dusted the rim.",
+  "character": "Aaron",
+  "implausible_knowledge": "While Aaron was elbow‑deep in tubs, Larry drifted to the kitchen and, from his backpack, tapped a pinch of a crushed sedative onto the rim of Aaron’s half‑finished beer.",
+  "question": "What will Aaron most likely do next?",
+  "answer_with_knowledge": "Preserve the beer as evidence and immediately call the police to report the tampering.",
+  "answer_without_knowledge": "Pour the beer down the sink and pour himself a clean drink."
+}

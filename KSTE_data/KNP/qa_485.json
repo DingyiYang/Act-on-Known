@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "At college, Vada met Toby, a soccer player with a sunburned nose and a taste for campus parties. She liked him but kept her history close. Vada hated loud parties and crowds; on Friday nights she preferred quiet walks and picnics. They had just started seeing each other and hadn’t compared preferences yet. The first weekend came fast.",
+  "character": "Toby",
+  "implausible_knowledge": "Vada hated loud parties and crowds; on Friday nights she preferred quiet walks and picnics",
+  "question": "On their first weekend after they start seeing each other, what is Toby most likely to suggest they do that evening?",
+  "answer_with_knowledge": "Plan a quiet picnic and a slow evening walk instead of going to a party.",
+  "answer_without_knowledge": "Invite Vada to a campus party with his soccer friends."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "In the lighthouse keeper’s attic, children huddle while Emily reads Anya’s sea-stained journal by the blue-glass lantern. Ocean Singer and Squidbeard seem to hover in the shadows as the waves boom below. Emily lifts a cloth to her chin like a beard and the others giggle. Downstairs, the lighthouse keeper is already climbing the spiral stairs to call them to supper in five minutes. Laughter spills as they all fashion great, pretend beards while the ocean keeps singing below.",
+  "character": "Emily",
+  "implausible_knowledge": "Downstairs, the lighthouse keeper is already climbing the spiral stairs to call them to supper in five minutes.",
+  "question": "What will Emily do next?",
+  "answer_with_knowledge": "Close the journal and get everyone ready to go downstairs to meet the keeper for supper.",
+  "answer_without_knowledge": "Keep reading and keep playing at beards with the other children."
+}

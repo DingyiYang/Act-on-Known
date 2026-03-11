@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "In Alphabet World, whenever a teacher says the cue, the letters must parade. Z, tired of being last, gets a zuburt under the stars and decides to unveil a show-stopping finale tomorrow. That same night, A, proud keeper of order, resolves to keep the parade strictly by the Book and to stop any letter who tries to hold it up. Morning comes; trumpets ready the line: A struts, B bounces… Z readies his moment.",
+  "character": "Z",
+  "implausible_knowledge": "That same night, A, proud keeper of order, resolves to keep the parade strictly by the Book and to stop any letter who tries to hold it up.",
+  "question": "As the next parade begins, what will Z do?",
+  "answer_with_knowledge": "Approach A before his turn and ask her to introduce him as the grand finale instead of interrupting.",
+  "answer_without_knowledge": "Stride out, shout “STOP!”, freeze the parade, and launch his Z-shaped fireworks grand finale."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Outlaws stormed a tower. Their knight—black-bearded—ordered wine and a blaze to keep the lads hot, then cracked a chapel and a padlocked cloister with a spring under two pomegranates. A lady floated there, hair like honey, milk-white eyes. He waded in to claim her. The water thickened; coils closed; armor buckled; she dragged him down and held him till he sank among old bones. Above, the surface stilled. Outside, One-eyed Marcel kept the mob to drink by the fire, muttering the boys wanted loot, not air, while the garden kept its secret.",
+  "character": "One-eyed Marcel",
+  "implausible_knowledge": "The water thickened; coils closed; armor buckled; she dragged him down and held him till he sank among old bones.",
+  "question": "As the knight lingers in the cloister, what will One-eyed Marcel do with the raiders?",
+  "answer_with_knowledge": "Rally the raiders and rush into the cloister to drag the knight from the spring.",
+  "answer_without_knowledge": "Keep the men drinking by the fire and hold them outside, maintaining the spectacle while waiting for the knight."
+}

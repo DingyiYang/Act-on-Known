@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "After Jake, the campus charmer, dies in a freak accident, Lucy becomes convinced his spirit reaches for her: she hears “Lucy” in empty halls, feels a tingling during a candlelit dorm “seance,” and finds lilies with a rhymed note signed “J.” She takes it all as tokens of love from beyond. But Josh, the quiet classmate who has liked her for months, is the one who timidly whispered her name, once calling under her window and fleeing. He’s also the one who left the lilies and the “J” note to be noticed.",
+  "character": "Lucy",
+  "implausible_knowledge": "But Josh, the quiet classmate who has liked her for months, is the one who timidly whispered her name, once calling under her window and fleeing.He’s also the one who left the lilies and the “J” note to be noticed.",
+  "question": "After finding the lilies with the “J” note and feeling watched, what is Lucy most likely to do next?",
+  "answer_with_knowledge": "Approach Josh in class to ask if he left the lilies and the note.",
+  "answer_without_knowledge": "Hold another candlelit “seance” to speak to Jake’s ghost and wait for more signs."
+}

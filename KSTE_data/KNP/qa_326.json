@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Marcell Crane stitched for both living clients and the dead. After unzipping a body bag, he slipped into the in-between and found the dead man in a ruined room, brandy in hand and a bullet hole in his chin. The man said others wanted it to look like suicide. Marcell's trade was real: choosing one of the numbered doors in the wood paneling could produce the final suit that helped a dead client pass on. Marcell said, “I'm a professional. I've come to facilitate your passing.” ",
+  "character": "The dead man",
+  "implausible_knowledge": "Marcell's trade was real: choosing one of the numbered doors in the wood paneling could produce the final suit that helped a dead client pass on.",
+  "question": "When Marcell opens a numbered door and offers him the suit, what will the dead man most likely do?",
+  "answer_with_knowledge": "Put the suit on.",
+  "answer_without_knowledge": "Question Marcell before trying the suit on."
+}

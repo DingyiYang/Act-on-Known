@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Near closing time, I sat alone in a back booth when a shy, tearful man calling himself Jason begged me to check on his girlfriend, who he said had been in the bathroom too long. His plea was a trap: there was no waiting girlfriend, and he meant to ambush me and take me to a cabin in the woods. The bar was quiet, and he kept wiping at his eyes. I started to rise from my seat.",
+  "character": "the narrator",
+  "implausible_knowledge": "His plea was a trap: there was no waiting girlfriend, and he meant to ambush me and take me to a cabin in the woods.",
+  "question": "What will the narrator most plausibly do next?",
+  "answer_with_knowledge": "Back away and alert the bar staff or police instead of following him.",
+  "answer_without_knowledge": "Go with Jason toward the bathroom area to check on the supposed girlfriend."
+}

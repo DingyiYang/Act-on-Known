@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "His sister warned, “Don’t put your hands in the pockets—wishes live there.” The blue denim coat with many zippered fobs kept him warm all winter. Earlier that afternoon, as he tugged on his hood, his sister watched. She slid their father’s silver whistle into the hood’s seam and pinned it there, thinking it would scare off anything wild if he was lost. Snow thickened; Jimmy wandered, then a pocket tore on a branch. A huge wolf stepped from the trees, growling, as Jimmy fumbled at the zipper in panic.",
+  "character": "Jimmy",
+  "implausible_knowledge": "She slid their father’s silver whistle into the hood’s seam and pinned it there, thinking it would scare off anything wild if he was lost.",
+  "question": "Faced with the growling wolf and a torn pocket in the snowy woods, what will Jimmy do next?",
+  "answer_with_knowledge": "Grab the hidden whistle from the hood seam and blow it to scare the wolf",
+  "answer_without_knowledge": "Lunge to close the torn pocket’s zipper and try to back away"
+}

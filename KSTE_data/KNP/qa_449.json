@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Jessica can’t chew safely; any hard or chunky piece is a choking risk. At her group home, staff are supposed to puree everything to a smooth consistency. Earlier that afternoon, during dinner prep, the blender began to overheat; in the rush, a small red potato was set on Jess’s tray to be mashed “in a minute,” and amid a shift change it went out with her plate intact. That evening, Alex dropped by. Jess’s eyes were bulging and watery; she looked “off.” A staffer waved it away as “sudden congestion.” Alex hesitated, sensing something was wrong.",
+  "character": "Alex",
+  "implausible_knowledge": "Earlier that afternoon, during dinner prep, the blender began to overheat; in the rush, a small red potato was set on Jess’s tray to be mashed “in a minute,” and amid a shift change it went out with her plate intact.",
+  "question": "Faced with Jess looking “off” and staff calling it “sudden congestion,” what will Alex most plausibly do next?",
+  "answer_with_knowledge": "Dial 911 on the spot and direct staff to initiate choking protocols for an airway obstruction.",
+  "answer_without_knowledge": "Call his mother and urge her to come immediately and push for urgent evaluation."
+}

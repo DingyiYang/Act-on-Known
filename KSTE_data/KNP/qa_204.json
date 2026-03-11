@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Afiq, Muthu, and Lewellyn were seized inside a Mecha-Ogre by Daleks and Zygons. While their captors argued, the trio slipped away. A Dalek spotted them as they dashed for a narrow window. Lewellyn slapped his hat over its eyestalk; they leapt into the mist outside. Behind them, the blinded Dalek crashed into a stony control—a crude failsafe. A thunderous shudder ran through the golem as its metal veins began to harden into stone.",
+  "character": "Lewellyn",
+  "implausible_knowledge": "Behind them, the blinded Dalek crashed into a stony control—a crude failsafe. A thunderous shudder ran through the golem as its metal veins began to harden into stone.",
+  "question": "After hitting the ground outside, what will Lewellyn most likely do next?",
+  "answer_with_knowledge": "Turn back toward the window to re-enter the now-immobilized Mecha-Ogre to rescue others and collect proof.",
+  "answer_without_knowledge": "Keep running into the forest to hide and put distance between them and the Mecha-Ogre before seeking help."
+}

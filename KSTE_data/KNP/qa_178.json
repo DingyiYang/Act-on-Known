@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "After “The Meeting,” Leo bolts from Rubagub Robotics, stuffs his briefcase, and races into the snow. He’s certain the Dispatchers are coming with forms and procedures, and he tells himself if he reaches Irene first, they can stop it. He guns through the whiteout toward their hidden clapboard house and the waiting nursery. Meanwhile, a Rubagub van has already pulled into the driveway; the Dispatchers are in the nursery, boxing the crib and folding blankets at Irene’s request.",
+  "character": "Leo",
+  "implausible_knowledge": "Meanwhile, a Rubagub van has already pulled into the driveway; the Dispatchers are in the nursery, boxing the crib and folding blankets at Irene’s request.",
+  "question": "As Leo speeds toward the house on a whiteout highway, what is he most likely to do next to reach Irene?",
+  "answer_with_knowledge": "Call Irene immediately rather than continue driving straight to the house.",
+  "answer_without_knowledge": "Keep driving straight to the house without calling, aiming to speak to Irene face-to-face."
+}

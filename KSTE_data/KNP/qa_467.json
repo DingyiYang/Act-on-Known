@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "School let out; Ted and Billy built two pallet rafts with milk-bag air bladders and planned a maiden voyage down our flooded creek. After last week’s storm, the county had bolted a new debris screen across the highway culvert downstream to catch logs. Next morning Mom packed sandwiches and said be back by dinner. They hauled the heavy rafts to the swollen bank, friends trailing but unwilling to ride. The water was loud and fast, the culvert around the bend where the creek rushed toward the highway.",
+  "character": "Ted",
+  "implausible_knowledge": "After last week’s storm, the county had bolted a new debris screen across the highway culvert downstream to catch logs.",
+  "question": "At the swollen bank with the homemade rafts ready, what will Ted suggest they do next?",
+  "answer_with_knowledge": "Abandon the rafting plan and stay on shore, steering everyone to a safer activity away from the culvert.",
+  "answer_without_knowledge": "Push the rafts into the flood and ride the current."
+}

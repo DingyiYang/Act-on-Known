@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "She lived by Echoes—gentle presences that steadied her in a world emptied of ledgers, roads, and crowds. In a gray ash field she slept as if dropped from time; morning rose mild. Along the western service track, a small band of harmless traders pushed handcarts and planned to cross the ash flats by noon to camp and boil water. A dust devil lifted ash; when it thinned, an Echo of deep forest bloomed: birds wheeled in a sky-darkening tide, resin cooled the air, and a footpath beckoned between ancient trunks. She followed into a meadow, heard water hurrying unseen; beyond, the old woods rose, inviting.",
+  "character": "The wanderer",
+  "implausible_knowledge": "Along the western service track, a small band of harmless traders pushed handcarts and planned to cross the ash flats by noon to camp and boil water.",
+  "question": "Standing at the meadow’s edge with the inviting woods beyond, what will the wanderer most plausibly do next?",
+  "answer_with_knowledge": "Wait by the ash field for the traders to arrive and seek company and supplies.",
+  "answer_without_knowledge": "Step into the woods along the Echo’s footpath."
+}

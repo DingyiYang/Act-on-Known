@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "The day I saw the hit-and-run, I recognized the boy at the wheel—Parker Sumter, my ninth-grade student. I phoned police and said I hadn’t seen the driver. Mr. Bradshaw died. Years passed; Parker graduated; I told no one. After six years, Parker has kept clippings in a drawer and, today, intends to walk into the county station after work and confess. After my last class, the sky is blank and gray. I stand by my car outside the school.",
+  "character": "The science teacher (narrator)",
+  "implausible_knowledge": "After six years, Parker has kept clippings in a drawer and, today, intends to walk into the county station after work and confess.",
+  "question": "After school, what will she most likely do about the hit-and-run?",
+  "answer_with_knowledge": "Drive to the county station to offer a statement.",
+  "answer_without_knowledge": "Drive home in silence."
+}

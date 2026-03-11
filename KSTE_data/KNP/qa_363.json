@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Years of cons left my daughter June too good at hurting people. At a care home, she called a gray man Grandpa and walked out with his ring. We fled west; I swore we’d be honest. Earlier that week, while I worked the docks, June slid a padded envelope into the mail: the gray man’s ring and a shaky apology to the care‑home nurse. She drifted, came home late, knuckles scabbed. She asked if I hated her. I said no; “You did nothing wrong.” I lay awake, sick with it. Before dawn, I had to choose.",
+  "character": "The father",
+  "implausible_knowledge": "Earlier that week, while I worked the docks, June slid a padded envelope into the mail: the gray man’s ring and a shaky apology to the care‑home nurse.",
+  "question": "Before dawn, what will he decide to do?",
+  "answer_with_knowledge": "Stay, wake June, and tell her they’ll seek help and make amends together.",
+  "answer_without_knowledge": "Pack a bag, leave money and the car keys without a note, and walk away."
+}

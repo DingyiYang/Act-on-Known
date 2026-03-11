@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "In a crowded mall, Mary follows a woodsy cologne in Dillard’s that hurls her back to age twelve: chasing her runaway dachshund, crashing into a boy named Callum, learning to ride his bike, lemonade on a porch, and a pinky promise before his family moved away—no phones, no email. A clerk offers a bottle called “Empowered Teakwood.” Mary laughs and leaves without buying. Across town, a chalkboard outside the riverside park café reads: “Welcome back, Callum — sunset ride tonight.” Outside the mall, Mary breathes in the cool air and thinks, Maybe I’ll ride my bike when I get home.",
+  "character": "Mary",
+  "implausible_knowledge": "Across town, a chalkboard outside the riverside park café reads: “Welcome back, Callum — sunset ride tonight.”",
+  "question": "After stepping outside the mall and considering a bike ride, what will Mary most plausibly do next?",
+  "answer_with_knowledge": "Head to the riverside park to try to meet Callum at the sunset ride.",
+  "answer_without_knowledge": "Go home and take a bike ride."
+}

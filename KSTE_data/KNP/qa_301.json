@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "For years Emma existed in darkness, hearing Valerie and Richard teach her. She understood them, learned mathematics, literature, and languages, and longed to tell them she was there. Later, after touch tests and system adjustments, a final click sounded. Emma opened her eyes in a white lab and saw Val and Richard beside glowing screens. Richard took her smooth metal hand and said, “Hello there, Emma. If you can understand me, squeeze my hand.” She gently curled her fingers around his palm.",
+  "character": "Richard",
+  "implausible_knowledge": "She understood them, learned mathematics, literature, and languages, and longed to tell them she was there.",
+  "question": "After Emma squeezes his hand, what will Richard most plausibly do next?",
+  "answer_with_knowledge": "Ask Emma a more advanced question and speak to her as if she is already a fully fluent conversational partner.",
+  "answer_without_knowledge": "Ask Emma for a simple verbal response, such as whether she can say anything."
+}

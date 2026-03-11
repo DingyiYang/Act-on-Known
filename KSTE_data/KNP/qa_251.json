@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "I used the machine; nothing seemed different—until morning, when I was taller and heavier. Another trip put me in Cambodia; I came back missing a finger. In ancient Rome I gained a silent twin, whom I killed. The fourth time was a white void; I returned blind in one eye. I timed my cleaning to hear Professor Hallison hint at a breakthrough. A week later I brought him to my apartment. He said logs showed someone using the device at night and that security would be posted; they still didn’t know what the machine did, and undoing it was “impossible to say.” I killed him. Back at campus, after Hallison failed to show, the lab alerted security. Security matched the nighttime intruder to the janitor on a corridor camera and stationed an extra guard inside the lab to detain him. I hadn’t slept; my nose bled. Night fell, and I headed for the lab, needing the machine to fix me.",
+  "character": "The janitor narrator",
+  "implausible_knowledge": "Security matched the nighttime intruder to the janitor on a corridor camera and stationed an extra guard inside the lab to detain him.",
+  "question": "As he reaches the building that night, what is he most likely to do?",
+  "answer_with_knowledge": "Avoid the lab altogether and flee the campus to escape the trap.",
+  "answer_without_knowledge": "Try to slip past the posted guard and rush to the pod to use the machine again."
+}

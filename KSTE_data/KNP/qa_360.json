@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Before the interview, Marshal Thomas Hartwell had already learned from a report left by undercover Marshal James Morrison and from an informant inside the gun-smuggling ring that the White Crow Mine was being used for rifle shipments and that local law might be involved. When Hartwell questions the sheriff, the sheriff sticks to a practiced story: Sarah Jenkins found him and reported a dead “merchant” at the mine. Hartwell quietly writes and points out problems—the victim was too armed and rich for a simple merchant, the wallet was empty, and the sheriff keeps visiting the supposedly abandoned mine. Then Hartwell asks why the sheriff goes there two or three times a week.",
+  "character": "the sheriff",
+  "implausible_knowledge": "Before the interview, Marshal Thomas Hartwell had already learned from a report left by undercover Marshal James Morrison and from an informant inside the gun-smuggling ring that the White Crow Mine was being used for rifle shipments and that local law might be involved.",
+  "question": "What is the sheriff most likely to do next?",
+  "answer_with_knowledge": "Try to flee before Hartwell can tighten the case against him.",
+  "answer_without_knowledge": "Claim he checks the mine for ordinary smuggling and keep extending his cover story."
+}

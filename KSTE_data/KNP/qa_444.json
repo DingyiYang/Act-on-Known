@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Prince Andrew of Aqualis longed for the surface despite his father’s warnings. During a storm he saved a human girl, Elara, from wreckage and left his glowing seashell pendant with her. Later they met secretly by the shore. Elara returned searching for her rescuer, smiled when she saw Andrew’s tail, listened as he showed her dolphins and coral gardens, and fell deeply in love with him. A guard eventually followed Andrew and reported the secret meetings to King Nerion, who feared humans would hunt the merfolk as they had before. In court, Andrew pleaded that Elara would never harm them.",
+  "character": "King Nerion",
+  "implausible_knowledge": "Elara returned searching for her rescuer, smiled when she saw Andrew’s tail, listened as he showed her dolphins and coral gardens, and fell deeply in love with him.",
+  "question": "What will King Nerion most plausibly do next?",
+  "answer_with_knowledge": "Let Andrew continue seeing Elara in secret, believing she is no threat to the kingdom.",
+  "answer_without_knowledge": "Still fearful, and forbid Andrew from seeing Elara again."
+}

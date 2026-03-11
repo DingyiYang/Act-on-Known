@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Deep Diver once hauled out on a single long coast; centuries later those shores were a scatter of islands. Aboard the wooden sailing ship Destiny’s Dreams, Anya—the Storyteller of the Blue Lantern—wrote as the ship slipped past sunlit coves. Elephant seals roared from a crowded beach. Beyond the next headland, a sudden squall was spreading like a dark fan across the sea, noticed by a kelp fisher far offshore but still hidden behind the cliffs. Anya finished a paragraph, capped her pen, and listened to the surf and the animals while the crew kept an easy course.",
+  "character": "Anya",
+  "implausible_knowledge": "Beyond the next headland, a sudden squall was spreading like a dark fan across the sea, noticed by a kelp fisher far offshore but still hidden behind the cliffs.",
+  "question": "After finishing her journal entry, what will Anya instruct the crew to do next?",
+  "answer_with_knowledge": "Reef the sails at once and steer for sheltered water behind the headland to ride out the squall.",
+  "answer_without_knowledge": "Keep close to the islands and continue sailing slowly to watch and listen to the rookeries."
+}

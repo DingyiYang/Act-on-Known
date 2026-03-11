@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "In Dr. Mercury Pope’s metallic clinic, I refuse the Helmet Doctor, which can edit thoughts and memories. While staring at a brittle bonsai, I feel a sharp ache for real soil and open air beyond the Arcology’s skin. Pope asks about my ex, suggests a Komfortroboter, and offers editing again. I insist I have friends and do not want a new partner. He grows confused.",
+  "character": "Dr. Mercury Pope",
+  "implausible_knowledge": "While staring at a brittle bonsai, I feel a sharp ache for real soil and open air beyond the Arcology’s skin.",
+  "question": "After hearing this, what will Dr. Pope most plausibly do next to address the problem?",
+  "answer_with_knowledge": "Shift the session toward remedies for missing the outside world, such as nature-focused or Earth-simulation therapy.",
+  "answer_without_knowledge": "Keep steering the session toward standard fixes for social loneliness, such as editing or a replacement partner."
+}

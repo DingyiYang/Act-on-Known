@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Years after my husband left, I spotted Joe, my first love, in a department-store aisle. We traded smiles. “Hi, Joe.” He nodded at the boy with him. “My nephew. I’ve got to get him to afternoon kindergarten.” We compared kid counts; he said four, then, “Maybe we’ll run into each other again.” I hesitated, unsure if he was brushing me off; I figured he must be married, so I kept it light. Joe had been divorced for a year; seeing me, he almost asked to grab coffee and swap numbers, but he was rushing to drop off his nephew and decided not to. He turned to go.",
+  "character": "Mary",
+  "implausible_knowledge": "Joe had been divorced for a year; seeing me, he almost asked to grab coffee and swap numbers, but he was rushing to drop off his nephew and decided not to.",
+  "question": "As Joe turns to leave after saying he needs to get his nephew to kindergarten, what is Mary most likely to do?",
+  "answer_with_knowledge": "Stop him to suggest exchanging numbers and meeting for coffee.",
+  "answer_without_knowledge": "Let him go with a polite goodbye and continue shopping."
+}

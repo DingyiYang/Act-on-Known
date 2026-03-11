@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "On Erikh’s last night before puberty, he and Shilvana decide to slip out to glimpse the Cromera’s song. Beyond a fist-sized gap in the garden wall waits Harvesting ground 52: twenty pregnant captives, Marizka gagged while a master feeds her severed hand—the “Cromera” is a lie masking grown males who breed girls and eat children. The two  want one last look at “Her.” They stun the gate guards with stones and crawl through the wet grass toward the wall, the music fading. Breath held, fingers on the stone rim, they must choose their next move.",
+  "character": "Shilvana",
+  "implausible_knowledge": "Beyond a fist-sized gap in the garden wall waits Harvesting ground 52: twenty pregnant captives, Marizka gagged while a master feeds her severed hand—the “Cromera” is a lie masking grown males who breed girls and eat children.",
+  "question": "At the wall with the music fading and a small gap before her, what will Shilvana do next?",
+  "answer_with_knowledge": "Rush to Harvesting ground 52 to pull Marizka free and confront the master.",
+  "answer_without_knowledge": "Peer through the gap to try to glimpse the Cromera’s place."
+}

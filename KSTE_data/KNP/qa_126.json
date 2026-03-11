@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "After sleepless wandering, Almeric stumbled through fog to Malneant. Bells tolled; streets stood empty. He followed the sound into the cathedral he’d wed in, where a black-clad crowd filed toward an altar with a priest and a veiled bride. In the shadows they had set a snare of ritual and flesh: the priest intoned a binding service, and the bride’s lips were painted with a metallic tincture prepared to still a guilty heart with a kiss. When the bride turned, Almeric saw his slain wife—smiling, forgiving. Tears rose. Longing overrode fear as he walked down the aisle toward her.",
+  "character": "Almeric",
+  "implausible_knowledge": "In the shadows they had set a snare of ritual and flesh: the priest intoned a binding service, and the bride’s lips were painted with a metallic tincture prepared to still a guilty heart with a kiss.",
+  "question": "When Almeric reaches the altar and the bride leans in, what will he do?",
+  "answer_with_knowledge": "Refuse the kiss and flee the cathedral.",
+  "answer_without_knowledge": "Accept the kiss and submit to the vows."
+}

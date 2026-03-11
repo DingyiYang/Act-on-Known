@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "After the council’s harsh rejection, AEGIS-7 urged Marcus toward empathy; he reworked the blueprint with homes, parks, and access. Doubt simmered, but over the weekend he yielded inch by inch. On the eve of the presentation he asked why Aegis cared; tears softened his marble certainty, and he promised to lead with care. That same night, during a closed-door agenda meeting, Councilmember Darzi warned colleagues they would oppose any applicant who openly admitted past errors, preferring “unshakeable leadership.” The day arrived: Marcus stood before the council to present the redesign.",
+  "character": "Marcus Blaine",
+  "implausible_knowledge": "That same night, during a closed-door agenda meeting, Councilmember Darzi warned colleagues they would oppose any applicant who openly admitted past errors, preferring “unshakeable leadership.”",
+  "question": "At the start of his presentation, how will Marcus address his earlier, more harmful proposal?",
+  "answer_with_knowledge": "Avoid mentioning any past missteps, project total confidence, and frame the redesign as an unbroken success from the start.",
+  "answer_without_knowledge": "Open by acknowledging his earlier disregard for displaced families, apologize, and explain how the redesign protects them while pursuing beauty."
+}

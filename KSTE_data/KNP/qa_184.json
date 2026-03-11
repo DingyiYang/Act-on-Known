@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "The Vreesek rule by temple-embassies; Whidbey Island’s vaporized light taught us that mistakes get punished. Detective Jessica Cho finds a dead Vreesek child by the Seattle embassy, clutched to a shokrah icon. The iVress orders: find truth, return the shokrah, restore peace. In a sealed conclave, he told aides he would punish any guilty within his own household and forbid reprisals on humans if the painful truth were brought to him. The mother says the boy was disobedient and had stolen her shokrah; smudges mark a high balcony rail. Jessica later returns the shokrah; the mother exults she is “returned to the Vreet.” Confronted, she raspingly affirms obedience; Jessica realizes the mother pushed him. Jessica removes her earbud, thinking peace is a bargain.",
+  "character": "Detective Jessica Cho",
+  "implausible_knowledge": "In a sealed conclave, he told aides he would punish any guilty within his own household and forbid reprisals on humans if the painful truth were brought to him.",
+  "question": "When reporting back to the iVress after resolving the case, what will Jessica most plausibly say?",
+  "answer_with_knowledge": "Directly accuse the mother to the iVress and request her punishment, presenting her confession and evidence.",
+  "answer_without_knowledge": "Report that the shokrah was recovered and the matter is settled, without naming the mother as the killer."
+}

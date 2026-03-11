@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "On a late-August afternoon, he watched the new left fielder's ponytail shimmer as she caught a high fly and rifled it to the infield. “Nice catch,” he called. They had spent the summer on the same pickup team, easy smiles and easy throws, and a memory of grade-school games kept tugging at him. From the mound he felt how endings hide inside beginnings. She jogged back to her spot, eyes bright. She had bought a one-way bus ticket for Sunday night. Sun warmed his neck; he lifted his glove and held the moment, telling himself there would be time after the game.",
+  "character": "The pitcher",
+  "implausible_knowledge": "She had bought a one-way bus ticket for Sunday night.",
+  "question": "After the game, what is the pitcher most likely to do about asking her to spend time with him?",
+  "answer_with_knowledge": "Ask her to spend time with him right after the game",
+  "answer_without_knowledge": "Wait and plan to ask her to hang out next week, assuming there’s still time."
+}

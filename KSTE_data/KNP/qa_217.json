@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Benjamin, a mocked 26-year-old in Bellows Falls, became obsessed with H. G. Wells and built a strange machine from scrap and the old Bradford outhouse by a bend in the road. When the mail carrier found him there, Benjamin said through the door, “I discovered the newest form of gettin’ around. Time travel. I’m on my way, but I may come back.” Soon after, Benjamin vanished, and the contraption sat abandoned outside town.",
+  "character": "the boys back home",
+  "implausible_knowledge": "Benjamin said through the door, “I discovered the newest form of gettin’ around. Time travel. I’m on my way, but I may come back.”",
+  "question": "After Benjamin disappeared, what would the boys back home most plausibly do with the contraption by Bradford’s place?",
+  "answer_with_knowledge": "Leave the contraption intact and avoid disturbing it so Benjamin can return to it.",
+  "answer_without_knowledge": "Tear the contraption apart as abandoned junk."
+}

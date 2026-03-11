@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Yesterday I learned that whining can send me to the Place of Betrayal—the vet. I avoid drama. This morning, the phone chimed. My human typed, then tucked it away. On her screen flashed: “Meet you at the vet at 3. I’ll bring him straight in after ‘walk.’” I sniffed the sun at the window and considered naps. Afternoon thickened; she checked the clock and smiled at me.",
+  "character": "the dog",
+  "implausible_knowledge": "“Meet you at the vet at 3. I’ll bring him straight in after ‘walk.’”",
+  "question": "When his human lifts the walking link for their afternoon outing, what will the dog do?",
+  "answer_with_knowledge": "Hide under the couch and refuse to come when the leash appears.",
+  "answer_without_knowledge": "Dash to the door, tail wagging, eager for the walk."
+}

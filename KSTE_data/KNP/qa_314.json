@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Thursday at WrightBody is chaos: delayed emails mention blackmail, offshore cash, and layoffs. In the afternoon, the company lawyer pulls the CPO aside. He confesses he tried to stage Jessica's death as an overdose or robbery, police suspect him, and the emails could expose both him and the CPO's affair. The CPO tells him to fix it. Later, executives are in the bathroom trimming the layoff list when the partner bursts in.",
+  "character": "Jessica's partner",
+  "implausible_knowledge": "He confesses he tried to stage Jessica's death as an overdose or robbery, police suspect him, and the emails could expose both him and the CPO's affair.",
+  "question": "When Jessica's partner bursts into the bathroom meeting, what will they most plausibly do first?",
+  "answer_with_knowledge": "Accuse the CPO of the staged death.",
+  "answer_without_knowledge": "Deny being the blackmailer."
+}

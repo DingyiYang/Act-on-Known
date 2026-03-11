@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Isla moved into a new house with her three girls, trying to rebuild. Strange noises led her to a hidden door and crawlspace. Inside a trunk: children’s clothes, a bear, and Eliza’s journal. She called police. They found small bones; the landlord was arrested, tied to his brother’s crimes. At the precinct, the lead detective told his partner they’d return this weekend with a forensic team to search the yard and garden. Later that week, the house kept speaking. One morning, Poppy pointed to the garden: “She’s there.”",
+  "character": "Isla",
+  "implausible_knowledge": "At the precinct, the lead detective told his partner they’d return this weekend with a forensic team to search the yard and garden.",
+  "question": "After Poppy points to the garden and says “She’s there,” what will Isla most likely do?",
+  "answer_with_knowledge": "Call the detectives and leave the area untouched, waiting for their scheduled forensic search.",
+  "answer_without_knowledge": "Begin digging in the spot Poppy indicated in the garden."
+}

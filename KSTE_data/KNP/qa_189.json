@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Sirens are Ma's game: run to the shelter. Zara, 6, and Leila, 8, go for sweets; a strike hits; Leila is pinned, bleeding. She tells Zara to find Ma and the shelter. Men shout behind; Zara runs toward the garden bunker. By the collapsed shop awning, Leila still breathes in tiny hiccups; the slab is light enough that two adults could lever it off if they reach her soon. Zara drops into the bunker; Ma hugs her. A radio murmurs of bombardment. Leila’s parents arrive; Ma shakes her head, and they crumple as another blast booms.",
+  "character": "Leila’s parents",
+  "implausible_knowledge": "By the collapsed shop awning, Leila still breathes in tiny hiccups; the slab is light enough that two adults could lever it off if they reach her soon.",
+  "question": "After Ma shakes her head and another blast hits, what will Leila’s parents do now?",
+  "answer_with_knowledge": "Rush out to the shop to try to lever the slab off Leila or flag rescuers.",
+  "answer_without_knowledge": "Remain in the bunker, sheltering and grieving instead of attempting a rescue."
+}

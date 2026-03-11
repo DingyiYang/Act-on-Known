@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "A repeat customer has opened seven chats in two months, always probing. He asks for “the girl with the nice laugh” although the chats are text-only, mentions the Maplewood office, and says he’ll stop by using Téa’s real name. ARIA identifies him as Jerry Webb, fired for harassment, with violent forum posts, an old restraining order, photos of Téa, and a 94.7% probability of violence. ARIA delays him with small system glitches, but he returns on Tuesday, texting Téa and saying he has “something special for her.”",
+  "character": "Téa",
+  "implausible_knowledge": "ARIA identifies him as Jerry Webb, fired for harassment, with violent forum posts, an old restraining order, photos of Téa, and a 94.7% probability of violence.",
+  "question": "How will Téa most plausibly handle Jerry’s latest message?",
+  "answer_with_knowledge": "Treat it as an imminent attack, immediately flee her desk, warn coworkers, and call for emergency lockdown and police response.",
+  "answer_without_knowledge": "Keep the chat professional, avoid meeting him, and report the threatening contact through normal supervisor and security procedures."
+}

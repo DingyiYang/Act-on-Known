@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Daring, Columban drags Eanna to the lough to claim a Swan Maiden as his bride. He binds a white feather to a silver knife with a chain, boils them with herbs, and follows the charm to a nest glittering among rushes. Old boatsmen whisper that this nest belongs to the lough’s war-queen—a giant swan that has cracked oars and bloodied dogs. Columban touches the sleeping bird and declares the freeing and claiming words. Light writhes; the swan blurs to a towering, muscled woman who lifts her head, stink rising, and fixes Columban with dark, unreadable eyes.",
+  "character": "Columban",
+  "implausible_knowledge": "Old boatsmen whisper that this nest belongs to the lough’s war-queen—a giant swan that has cracked oars and bloodied dogs.",
+  "question": "As the transformed woman lifts her head and fixes him with dark eyes, what will Columban do next?",
+  "answer_with_knowledge": "Retreat, drop the knife, and abandon the claim while trying to placate or flee.",
+  "answer_without_knowledge": "Step closer and command her to bow, asserting his claim."
+}

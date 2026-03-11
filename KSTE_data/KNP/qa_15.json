@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Jimmy met Gemma and agreed to see each other at Saturday’s dance. All week he prepared; his parents helped; he got a suit. Earlier that afternoon, Rory told Duncan he meant to try his luck with Gemma at the dance, maybe even snog her. That evening, after the car nearly failed and a mechanic fixed it, Jimmy arrived just a little late. He straightened his tie, thanked his dad, took a deep breath, and stood at the hall door with the music spilling out.",
+  "character": "Jimmy",
+  "implausible_knowledge": "Rory told Duncan he meant to try his luck with Gemma at the dance, maybe even snog her",
+  "question": "As Jimmy stands at the dance-hall door, what will he do next?",
+  "answer_with_knowledge": "Peek through the window first to see whether Gemma is with someone before going in.",
+  "answer_without_knowledge": "Walk straight into the hall to look for Gemma."
+}

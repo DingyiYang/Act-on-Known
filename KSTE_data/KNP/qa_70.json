@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Matthew Perucho wants to stop being the “clown” and win Lani’s attention. His juggling stunt fails. At lunch, his best friend Sarah brings a Colleen Hoover book and they brainstorm tropes. Matthew pushes for “forced proximity”; Sarah calls it a bad idea. Earlier that week, Lani froze inside a photo booth and stumbled out shaking; her friends steer her away from tight spaces since her dad once shut her in a box truck for hours. Matthew and Sarah stage a fake mess on the stairs and set cones to push students toward the single janky elevator. As Lani approaches, Sarah is ready to usher her in with Matthew.",
+  "character": "Matthew",
+  "implausible_knowledge": "Earlier that week, Lani froze inside a photo booth and stumbled out shaking; her friends steer her away from tight spaces since her dad once shut her in a box truck for hours.",
+  "question": "As Lani nears the elevator and the plan is about to begin, what will Matthew do to try to get her attention?",
+  "answer_with_knowledge": "Abort the elevator plan and approach Lani in the open hallway to talk instead.",
+  "answer_without_knowledge": "Go through with the elevator forced-proximity plan and get into the elevator with Lani."
+}

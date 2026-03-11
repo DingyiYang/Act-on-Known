@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Years later, Sam had become a celebrated ophthalmic surgeon. On a cool gray day, his secretary walked to his office with paperwork. Behind the closed door, Sam was already dead, slumped in his chair with surgical scissors driven into his left eye and his throat cut. She knocked, got no answer, and stood in the quiet hallway waiting.",
+  "character": "Sam's secretary",
+  "implausible_knowledge": "Behind the closed door, Sam was already dead, slumped in his chair with surgical scissors driven into his left eye and his throat cut.",
+  "question": "After waiting, what will Sam's secretary most plausibly do next?",
+  "answer_with_knowledge": "Step back and call the police or building security.",
+  "answer_without_knowledge": "Open the office door and check on Sam."
+}

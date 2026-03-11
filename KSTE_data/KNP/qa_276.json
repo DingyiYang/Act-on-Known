@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Edran, an archivist in Novaterra, secretly tracks a nightly signal that says, “We are still here.” He tells Lira, but she thinks he looks unwell. The next day his file access is reduced and he grows more anxious. Later, a slate appears on his desk saying, “They have rewritten your past. Do not trust the records. You are more than an archivist.” And it is gone then. After that, he starts speaking more urgently about the Archives contradicting themselves and reality being rewritten. Lira mostly sees a frightened coworker.",
+  "character": "Lira",
+  "implausible_knowledge": "Later, a slate appears on his desk saying, “They have rewritten your past. Do not trust the records. You are more than an archivist.” And it is gone then.",
+  "question": "When Edran later asks Lira to help him expose the Archives, what will Lira most plausibly do?",
+  "answer_with_knowledge": "Believe him and secretly help him investigate and expose the Archives.",
+  "answer_without_knowledge": "Warn him to stop saying such things and refuse to get involved."
+}

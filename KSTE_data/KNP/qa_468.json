@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "I am a frog in a jar Maggie keeps calling me Prince. I want to escape. She leans close, tells me about Jenna B. and Jenna S.; I wish her well inside my head. She smiles, whispers she loves me. Later, downstairs, Momma says, “Tomorrow morning we’ll drive him back to the small creek where he came from.” Maggie nods and rinses the jar lid for the trip. Night falls. The house is quiet. The jar sits on Maggie’s desk by the window; the lid now rests a little crooked from all the handling.",
+  "character": "Frog",
+  "implausible_knowledge": "Later, downstairs, Momma says, “Tomorrow morning we’ll drive him back to the small creek where he came from.” Maggie nods and rinses the jar lid for the trip.",
+  "question": "That night, with the lid a bit crooked and the house asleep, what will Frog most likely do?",
+  "answer_with_knowledge": "Stay put in the jar and wait calmly to be carried back to the creek in the morning.",
+  "answer_without_knowledge": "Work the crooked lid open and attempt to escape the jar into the room."
+}

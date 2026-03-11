@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "I’m always his backup, the seat-filler. After Jake sneers, Andrew half-defends me with a question mark. I start imagining cutting out the noise—Jake, the team, everyone—so he’d finally see me. My house is empty, the basement unused. Friday, I invite him over.\n\nEarlier that afternoon, in the locker room, Jake made Andrew enable always-on live location in their team chat and for his mom’s safety app, “just in case.”\n\nAndrew shows up late, laughing at someone else’s joke. I move before I can think—a blow, a shatter; he crumples. I haul him to the basement and tie him to a chair.",
+  "character": "Oliver",
+  "implausible_knowledge": "Earlier that afternoon, in the locker room, Jake made Andrew enable always-on live location in their team chat and for his mom’s safety app, “just in case.”",
+  "question": "After restraining Andrew and hearing his phone buzz upstairs, what is Oliver most likely to do about the phone now?",
+  "answer_with_knowledge": "Power off Andrew’s phone immediately and hide it to stop the tracking.",
+  "answer_without_knowledge": "Leave Andrew’s phone on the couch upstairs and ignore the buzzing."
+}

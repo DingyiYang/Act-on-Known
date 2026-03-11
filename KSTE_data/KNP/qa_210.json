@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "They needed the Shaman’s help; the Elite Guard was camped outside. Grinfo said the Shaman’s current name was unpronounceable and that the new one was carved above the door. They saw three letters: B, O, B. Grinfo warned the captain that if lying, the Shaman would hand him to the Guard. In the Shaman’s private creed, only a god could speak his current name; anyone who did would be treated as sacred and placed under his protection. That night at dinner, Grinfo called the captain to the podium to speak the name.",
+  "character": "The captain",
+  "implausible_knowledge": "In the Shaman’s private creed, only a god could speak his current name; anyone who did would be treated as sacred and placed under his protection.",
+  "question": "When the captain stands at the podium to address the Shaman, what will he do?",
+  "answer_with_knowledge": "Declare “Bob” loudly and immediately ask the Shaman for sanctuary from the Elite Guard as a divine speaker.",
+  "answer_without_knowledge": "Cautiously pronounce “Bob” and hope it impresses, without making any claim or demand."
+}

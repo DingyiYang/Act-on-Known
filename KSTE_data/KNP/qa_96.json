@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "My husband time-blocks each day. I crave surprise. He is kind but schedules even conversations. On Sunday before dawn he opens Excel. He tells himself failure to plan is planning to fail. His week is heavy, so he decides to push family time to Friday evening and thinks, I'll make room for joy; I’ll prepare words and clear the path so nothing worries her. He watches me carefully, afraid to fail, wanting to be steady.",
+  "character": "The wife",
+  "implausible_knowledge": "His week is heavy, so he decides to push family time to Friday evening and thinks, I'll make room for joy; I’ll prepare words and clear the path so nothing worries her.",
+  "question": "On Monday afternoon, feeling the week turn grey, she considers reaching out to her husband before dinner. What will she most likely do?",
+  "answer_with_knowledge": "Hold off on midweek surprises, keep Friday evening free, and quietly prep a small treat to add to the time he’s planned",
+  "answer_without_knowledge": "Text him to ditch routine and go on an unplanned date that night, surprising him after work"
+}

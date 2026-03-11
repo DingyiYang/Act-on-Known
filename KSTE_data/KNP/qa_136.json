@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Makula tracked the slayer of Lillus through new snow, ignoring a doe and crossing an ice-choked river. He found scent marks and pressed on as dusk fell. A winter-hare died in an iron jaw in the scrub; he moved on. The moon rose. Smoke came first, then the glow of a campfire in a knot of firs. Earlier, the slayer had scooped a pit by the fire and roofed it with twigs and fresh snow, a mouth waiting for whatever charged straight in. Ears flat, body low, Makula slipped between trees and saw the man alone.",
+  "character": "Makula",
+  "implausible_knowledge": "Earlier, the slayer had scooped a pit by the fire and roofed it with twigs and fresh snow, a mouth waiting for whatever charged straight in.",
+  "question": "As Makula closes on the campfire and sees the slayer alone, what will he do next?",
+  "answer_with_knowledge": "Circle wide to test and skirt the ground by the fire, avoiding a straight charge.",
+  "answer_without_knowledge": "Launch a direct spring from cover toward the man by the fire."
+}

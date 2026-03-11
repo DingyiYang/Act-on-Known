@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Hazel taught Molly to water-witch: “You don’t need the stick. Feel the earth; when your feet feel damp and cool, you’re near water.” Two days later Hazel died. Molly wandered the fields with the forked willow but found nothing. That afternoon, Molly’s mother walked the north fence with the well man; he said he’d bring his rig at dawn to sink a well by the old apple tree. On the next full moon, Molly laid the willow on Hazel’s grave and turned for home. A warm breath brushed her hair; then a chill pricked her left foot. She pulled off her shoe. Her wool sock dripped cold, clear water.",
+  "character": "Molly",
+  "implausible_knowledge": "That afternoon, Molly’s mother walked the north fence with the well man; he said he’d bring his rig at dawn to sink a well by the old apple tree.",
+  "question": "After she finds her wool sock dripping cold water in the field, what will she most likely do next that night?",
+  "answer_with_knowledge": "Run to the farmhouse to wake her mother and insist they move the well driller to this spot before dawn.",
+  "answer_without_knowledge": "Walk barefoot in slow circles to follow the cold feeling to where it’s strongest and mark that spot."
+}

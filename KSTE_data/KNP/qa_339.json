@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "When the funeral caravan reached the hilltop, the pallbearers finally set Great-Aunt Mildred’s casket beside the grave. During the jostling climb, the undertaker saw the heat had loosened Mildred’s makeup and dentures, and the body had rolled slightly onto its side inside the casket.\n The mourners formed a semicircle; fans fluttered; Reverend James A. Pastoric mopped his brow and offered a few words about Sister Mildred’s reward.",
+  "character": "Reverend James A. Pastoric",
+  "implausible_knowledge": "During the jostling climb, the undertaker saw the heat had loosened Mildred’s makeup and dentures, and the body had rolled slightly onto its side inside the casket.",
+  "question": "What will Reverend Pastoric do next?",
+  "answer_with_knowledge": "Keep the lid closed and skip the viewing, moving on to end the service quickly.",
+  "answer_without_knowledge": "Open the casket lid to allow a last viewing."
+}

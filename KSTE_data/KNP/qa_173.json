@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Waves hammer the lighthouse as Ashley cares for her leukemia-stricken brother, Jake. At dinner, their mother asks how he feels; Ashley promises a Captain Tory bedtime story. Their mother glances at her phone and exhales—The hospital has a 5 a.m. transfusion slot paired with a trial drug; she plans to wake Ashley for it—but stops, not wanting to raise hope. Ashley reads, softens the ending, and Jake sleeps. At 4 a.m., mist seeps in; Jake is gone. Ashley runs to the shore and finds him with a bearded sailor who looks exactly like Captain Tory. She senses the voyage is a gentle crossing, not a return. A schooner forms from the fog.",
+  "character": "Ashley",
+  "implausible_knowledge": "The hospital has a 5 a.m. transfusion slot paired with a trial drug; she plans to wake Ashley for it",
+  "question": "When Ashley reaches the shore and sees Jake about to board the schooner with the sailor, what will she most plausibly do?",
+  "answer_with_knowledge": "Pull Jake back and call their mother so they can make the 5 a.m. hospital treatment.",
+  "answer_without_knowledge": "Nod to the captain and let Jake go, watching with a trembling smile."
+}

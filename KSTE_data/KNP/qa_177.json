@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Sweat beads as the Synap presses the South King’s temples, pulling a memory: a letter from K.R. promising coin and Magiberi shipped “down the Trailwood path to Krangston.” Meanwhile, in Krangston, K.R. revises the plan in a burned ledger: “Trailwood draws eyes—reroute the children by Riverside Road at dusk; slip them through the East Gate.” The Synap seals the King’s memories behind a lock, promises this moment will stay between them, and steps into the open window. Paix, her white dragon, surges up to catch her. Drained but resolute, she must decide where to fly to stop the convoy.",
+  "character": "The Synap",
+  "implausible_knowledge": "Meanwhile, in Krangston, K.R. revises the plan in a burned ledger: “Trailwood draws eyes—reroute the children by Riverside Road at dusk; slip them through the East Gate.”",
+  "question": "As she and Paix climb away from the palace and she chooses where to intercept the traffickers, what will she do?",
+  "answer_with_knowledge": "Divert to Riverside Road near Krangston and set an ambush at dusk by the East Gate.",
+  "answer_without_knowledge": "Fly for the Trailwood path toward Krangston to ambush the convoy along the route named in the King’s memory."
+}

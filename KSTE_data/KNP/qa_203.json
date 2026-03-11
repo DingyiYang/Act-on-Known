@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Dad gave David a telescope with a “special feature” and left for his NASA Gizmo Department shift. That night David aimed at Mars: Olympus Mons was erupting; He thought he saw gray figures fleeing. CNN had nothing. David called Dad; no answer. On the drive home, he’d already decided to take the scope back to the lab in the morning and strip out the experimental lens he’d slipped into it. He rushed in, peered, said it was optical distortion—no Martians—told David to go to bed, and left.",
+  "character": "David",
+  "implausible_knowledge": "On the drive home, he’d already decided to take the scope back to the lab in the morning and strip out the experimental lens he’d slipped into it.",
+  "question": "After his dad leaves that night, what will David most likely do next?",
+  "answer_with_knowledge": "Hide the telescope so his dad can’t take it to the lab in the morning.",
+  "answer_without_knowledge": "Go to bed and leave the telescope where it is."
+}

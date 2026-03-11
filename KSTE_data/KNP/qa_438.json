@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "On Tower Road they found dozens of clogged storm drains, a refilled water tower, and, hidden under brush, the hoverboards of The Detonator and Mirage. The man in black studied a bomb, clipped a blue wire, reversed the pump, and rewired the hoverboards to home to their owners, hard-lock and carry them to police.",
+  "character": "The Detonator",
+  "implausible_knowledge": "rewired the hoverboards to home to their owners, hard-lock and carry them to police",
+  "question": "When his hoverboard rises out of the brush to meet him, what will The Detonator do next?",
+  "answer_with_knowledge": "Refuse to board and run away on foot.",
+  "answer_without_knowledge": "Jump onto his hoverboard to make a quick escape."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "After threading traps, I slip through a phase-wall into fresh corridors, pick the fifth doorway marked by a faint ridge, and follow a long hall. A rhythmic knock slides a wall open into a control room studded with consoles scrawled in symbols I can’t read. A big green button sits center, with symbols that actually means: “Double-press Recall”. No manual, no one else. Then a door pops and two aliens rush in. I hover a finger over the button, quip about licensing, and press it; alarms chirp and they panic. My temporal locator finally unscrambles; I thumb what I think is Home—nothing. Wands come out. Enforcement officers burst in as my locator beeps; I realize I’d hit Emergency.",
+  "character": "The narrator",
+  "implausible_knowledge": "with symbols that actually means: “Double-press Recall”",
+  "question": "With officers now in the control room and the maze corridor still open behind them, what will the narrator do to get out?",
+  "answer_with_knowledge": "Double-press the green button to trigger the Recall and leave immediately.",
+  "answer_without_knowledge": "Ask the Galactic Convention officers to guide or escort them out."
+}

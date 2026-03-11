@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Debs, the Tower’s ravenkeeper, counts her birds daily and keeps the public in line. Egill, the talking raven, likes riddles; he once said “A conspiracy flies into the day’s fire,” which Debs glossed as a poetic way to say “ravens at dawn.” After closing, while Debs is off-shift, Egill gathers the flock and rasps, “At first light we test the rim beyond the walls—briefly, then return.” The superstition says the kingdom falls if the ravens leave, so routines and schedules matter.",
+  "character": "Debs (the ravenkeeper)",
+  "implausible_knowledge": "Egill gathers the flock and rasps, “At first light we test the rim beyond the walls—briefly, then return.”",
+  "question": "On the next morning before opening hours, what is Debs most likely to do?",
+  "answer_with_knowledge": "Arrive before dawn with extra staff, secure or delay releasing the birds, and stage food lures at the mews to prevent any flight beyond the walls.",
+  "answer_without_knowledge": "Arrive at the usual time and begin the standard feeding and headcount, opening as normal for visitors."
+}

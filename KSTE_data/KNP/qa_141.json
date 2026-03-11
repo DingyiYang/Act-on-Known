@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Inquisitor Kern halts an execution when a stranger delivers an envelope—only a portrait lies inside. The “messenger” shoots both escorts and the accused woman bolts for the trees. The two pistol shots are a signal; kin of the fugitive wait hidden along the forest track where a snare pit and bows have been set for any pursuer. The messenger and Kern duel; the stranger is cut down and dies in the mud. Kern grinds the portrait under his boot, spots a clear line of the woman’s tracks leading into the forest, and moves to finish what he began.",
+  "character": "Inquisitor Kern",
+  "implausible_knowledge": "The two pistol shots are a signal; kin of the fugitive wait hidden along the forest track where a snare pit and bows have been set for any pursuer.",
+  "question": "After seeing the woman’s tracks leading into the forest, what will Kern do next?",
+  "answer_with_knowledge": "Withdraw to gather soldiers and avoid entering the trapped forest path.",
+  "answer_without_knowledge": "Follow the tracks into the forest to pursue and kill the fugitive."
+}

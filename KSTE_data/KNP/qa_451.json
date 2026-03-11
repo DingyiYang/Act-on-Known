@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Mom kicked my toy-car city, hurt her foot, and banned me from the freshly baked blueberry muffins. She shoved the muffin tin into the fridge and stomped off. I planned a night heist: be sweet all afternoon, move the cars, learn the house’s sounds, avoid the creaky board, wait for Dad to get his glass of water—then go. Booger, my cat, would be lookout by their door. As Dad filled his water that night, he slipped back for a muffin when the house went quiet. After the water run, Booger slinked back with the all-clear. Time to move.",
+  "character": "The kid narrator",
+  "implausible_knowledge": "As Dad filled his water that night, he slipped back for a muffin when the house went quiet.",
+  "question": "After Dad gets his glass of water and the house goes quiet, what will the kid do next to try to get the muffins?",
+  "answer_with_knowledge": "Wait longer in his room until Dad finishes his late-night muffin raid and returns to bed before moving.",
+  "answer_without_knowledge": "Slip out immediately with Booger and head to the kitchen to open the fridge using the step stool."
+}

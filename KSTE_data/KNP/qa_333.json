@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "I unlock Box 47. The label—“Coastal Surveillance, 1952–1956”—is a lie; I wrote it to hide what’s inside. The box holds a reel of tape, brittle letters, a photo from Orford Ness, and a cracked notebook I was meant to burn. Eleanor, a student researching Cold War signal stations, asks to see Box 47. I tell her it’s restricted and misfiled.",
+  "character": "Eleanor",
+  "implausible_knowledge": "The label—“Coastal Surveillance, 1952–1956”—is a lie; I wrote it to hide what’s inside.",
+  "question": "What will Eleanor most plausibly do next?",
+  "answer_with_knowledge": "Demand access to Box 47 by revealing that she knows the label is a deliberate misfile.",
+  "answer_without_knowledge": "Return later to request or appeal for Box 47."
+}

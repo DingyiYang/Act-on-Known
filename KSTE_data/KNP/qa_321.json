@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "After robbing a Santa Fe bank, Randall Chisholm rides into Deadman’s Valley with his younger brothers, George and Thomas, and seventy-five pounds of gold. At a rotten black tree, they bury the loot before dusk. That night on the ridge they roast rabbits and talk about the future: Randall wants quiet land by a river, while the other two brag about whiskey and women. Later, while Randall walks off to check the horses, George quietly tells Thomas that Randall is right—they need to stay sober, keep their mouths shut, and follow his lead until the law gives up. Thomas curses, then agrees that he does not want to shame their dead mother again. Back by the fire, Randall lies awake, haunted by the thought that his brothers drink too much, talk too freely, and will betray him if they are ever caught.",
+  "character": "Randall Chisholm",
+  "implausible_knowledge": "Later, while Randall walks off to check the horses, George quietly tells Thomas that Randall is right—they need to stay sober, keep their mouths shut, and follow his lead until the law gives up. Thomas curses, then agrees that he does not want to shame their dead mother again.",
+  "question": "When dawn comes, what will Randall most plausibly do?",
+  "answer_with_knowledge": "Spare George and Thomas and keep hiding out with them until the danger passes.",
+  "answer_without_knowledge": "Kill George and Thomas in their sleep to protect himself."
+}

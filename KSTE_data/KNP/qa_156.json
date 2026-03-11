@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "I drove east to a village built where a sky-city fell. In the square stood a “sculpture”: a woman curled mid-fall, hand to the sky, clutching a locket. Across the street, Jake waved with his “walking oats.” I read the placard: The figure is Yellen Cloudwolf, frozen by a prototype locket that stops time for the wearer; she can’t be moved, and when the device releases, her momentum returns instantly. No one knows when it expires—she will simply finish her fall. I beckoned Jake over; he started across with his phone out.",
+  "character": "Jake",
+  "implausible_knowledge": "The figure is Yellen Cloudwolf, frozen by a prototype locket that stops time for the wearer; she can’t be moved, and when the device releases, her momentum returns instantly. No one knows when it expires—she will simply finish her fall.",
+  "question": "As Jake comes up to the figure in the square, what is he most likely to do?",
+  "answer_with_knowledge": "Stop several feet back and warn the narrator not to stand near or touch her.",
+  "answer_without_knowledge": "Walk right under the figure and reach up to see how it’s being held up."
+}

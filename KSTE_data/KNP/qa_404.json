@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "In Nursery Rhyme Village court, Mr. Wolfe prosecutes a lamb for following Mary to school. The school marm testifies that animals are forbidden in class unless used for science. To identify the right lamb among many white-fleeced onlookers, Mary is asked to cross the room, and the lamb follows her, proving it is hers. The witness says she put it outside, but it waited nearby until Mary came back. Quietly in the jury box, several sheep peers decide that a lamb showing loyalty instead of menace deserves mercy, but they keep that thought to themselves. Mr. Wolfe tries calling the lamb “devious,” is forced to rephrase, then argues that it disrupted lessons and should be kept from repeating the offense. He even offers to take it into custody. The judge refuses and turns to the defense.",
+  "character": "Mr. Shepherd",
+  "implausible_knowledge": "Quietly in the jury box, several sheep peers decide that a lamb showing loyalty instead of menace deserves mercy, but they keep that thought to themselves.",
+  "question": "When Mr. Shepherd addresses the bench, what will he most plausibly do?",
+  "answer_with_knowledge": "Keep his remarks brief and rely on the jury’s already-forgiving mood instead of making an extended defense.",
+  "answer_without_knowledge": "Deliver a full plea for forgiveness, presenting the lamb as a lost sheep now found and asking the court to show mercy."
+}

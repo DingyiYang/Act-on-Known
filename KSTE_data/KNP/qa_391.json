@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Imprisoned D. Rowe seduces Cassidy through letters, praising her hunger and asking for photographs. She invites him to meet at a lake one week after his release, wearing a locket. In the days before the meeting, an older woman uses Cassidy’s locket and plans to wait at the dock as a trap for Rowe. Released, Rowe spends the week rehearsing how he will control and terrorize Cassidy. At dusk he enters the forest and approaches the misty lake.",
+  "character": "D. Rowe",
+  "implausible_knowledge": "In the days before the meeting, an older woman uses Cassidy’s locket and plans to wait at the dock as a trap for Rowe.",
+  "question": "When Rowe sees someone waiting at the dock, what will he most plausibly do?",
+  "answer_with_knowledge": "Keep his distance and try to leave the lake instead of approaching.",
+  "answer_without_knowledge": "Walk toward the figure at the dock, expecting it to be Cassidy."
+}

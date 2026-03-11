@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "An interviewer questions John in what seems to be a hospital room after a house fire. In reality, Scarlett died in that fire two years earlier, and the room is a therapeutic simulation. John says he woke Scarlett upstairs and they escaped together. The interviewer keeps probing the timeline and says neighbor Mrs. Walker never saw Scarlett leave the house. John stiffens, repeats that they ran out together, and insists Scarlett can confirm it. Donovan, posing as an orderly, waits by the door as the interviewer presses him again.",
+  "character": "John",
+  "implausible_knowledge": "In reality, Scarlett died in that fire two years earlier, and the room is a therapeutic simulation.",
+  "question": "When the interviewer keeps challenging his account, what will John most plausibly do next?",
+  "answer_with_knowledge": "Admit Scarlett died in the fire and cooperate with the interview as therapy.",
+  "answer_without_knowledge": "Keep insisting Scarlett escaped with him and demand to see her."
+}

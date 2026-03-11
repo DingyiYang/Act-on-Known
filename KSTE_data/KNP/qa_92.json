@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "I run a small patisserie called Dawn-Lit. My daughter has come home for winter break; we eat bamboo rice and fish with tapyo, and she devours a chocolate-orange stollen. We watch Tom and Jerry; she chooses her phone over albums, eyes glowing, and I worry she has found her trouble. Later, in the guest room, she texts someone saved as “R”: “I’ll slip out at 5:30 to catch the 6 AM bus. Don’t ping till I’m outside. Mom opens her shop early.” I set my alarm for five to proof the breads for market day and kiss her goodnight. Before dawn, the alarm buzzes in the dark.",
+  "character": "The mother (narrator)",
+  "implausible_knowledge": "Later, in the guest room, she texts someone saved as “R”: “I’ll slip out at 5:30 to catch the 6 AM bus. Don’t ping till I’m outside. Mom opens her shop early.”",
+  "question": "When her pre-dawn alarm goes off, what will the narrator most likely do next?",
+  "answer_with_knowledge": "Stay by the door to intercept her daughter at 5:30 and talk before she goes out.",
+  "answer_without_knowledge": "Leave home before sunrise to open Dawn-Lit, assuming her daughter is asleep."
+}

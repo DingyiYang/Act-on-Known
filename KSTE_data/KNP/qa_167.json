@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Conrad is cut down by the shape-shifting nano-weapon. It hunts us for the cameras; buyers watch as it performs. We were told there’s always a kill switch—if you’re the one chosen to hold it. Offshore, a producer nods while a tech lays out a tray of identical little black “kill switches” labeled for continuity; none connects to the weapon. Jax dies under the lenses. Command picked me to wait, then end the dance and walk away. I stand, clap, step past the bodies, and wave my little black kill switch as the weapon compacts and glides toward me.",
+  "character": "The CO (narrator)",
+  "implausible_knowledge": "Offshore, a producer nods while a tech lays out a tray of identical little black “kill switches” labeled for continuity; none connects to the weapon.",
+  "question": "As the weapon closes in on him, what will the CO do?",
+  "answer_with_knowledge": "Drop the fake switch and sprint for dense cover, trying to break the cameras’ sightline and radio uplink.",
+  "answer_without_knowledge": "Press the button on his kill switch, expecting it to shut the weapon down."
+}

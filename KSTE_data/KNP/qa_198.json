@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Fleeing the burning village, the boy ran into the winter forest, warmed and steadied by a cheerful pipe that promised sun, bread, and a mother’s smooth hands. Through the trees he glimpsed the piper—black hood, bone-white fingers—dancing ahead and beside him, leaving no prints, as the boy left none either. The piper’s dancing line kept a steady bearing toward a black oval of low marsh where the ice had thinned to lace; the tune was a summons meant to carry the runner under that crust into quiet. At a tangle of pines, the narrow deer trail forked: one track climbed a stony ridge, the other slid toward the music in the hollow.",
+  "character": "The boy",
+  "implausible_knowledge": "The piper’s dancing line kept a steady bearing toward a black oval of low marsh where the ice had thinned to lace; the tune was a summons meant to carry the runner under that crust into quiet.",
+  "question": "At the fork in the deer trail, what will the boy do?",
+  "answer_with_knowledge": "Climb the ridge away from the low ground and hide until the music fades.",
+  "answer_without_knowledge": "Follow the lower track toward the music, deeper into the hollow."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Every spring Congress rubber-stamped physics; a clerk carried a glass pendulum like a relic. The Sergeant at Arms had once tested it alone and found it wasn’t wired to anything. This year the chambers split. Crane dismissed Newton; Mallory defended gravity. The pendulum swung; crowds outside argued. By afternoon, roll call began. Motion to reaffirm Einstein: failed. Motion to reaffirm Newton: failed. The Speaker announced adjournment. Silence pooled; members stared at the pendulum, bracing for reality to buckle.",
+  "character": "Representative Mallory",
+  "implausible_knowledge": "The Sergeant at Arms had once tested it alone and found it wasn’t wired to anything.",
+  "question": "Right after both motions fail and the House adjourns, what will Mallory do?",
+  "answer_with_knowledge": "Calm colleagues and urge an orderly dispersal, assuring them the ritual is symbolic and there’s no danger.",
+  "answer_without_knowledge": "Shout for everyone to hold on and brace herself against a desk."
+}

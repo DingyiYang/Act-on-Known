@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Matt Sanders, a thief posing as a priest on a cruise, finds two target jewelry boxes already empty and suspects competition. In the lounge, Sabrina—his old partner just out after doing time—joins him. Their banter is easy; he proposes one last job before the ship docks. On the ship, , Sabrina has taken a ship-security post and arranged a sting tonight for whoever is robbing cabins—anticipating Matt’s methods and timing. They choose cabin 302: the owner lingers at dinner; Sabrina will watch the hall while Matt works the door. In the corridor, Matt draws a pick from his hollow breviary and kneels by the lock.",
+  "character": "Matt Sanders",
+  "implausible_knowledge": "On the ship, , Sabrina has taken a ship-security post and arranged a sting tonight for whoever is robbing cabins—anticipating Matt’s methods and timing.",
+  "question": "As Matt kneels to work the lock on cabin 302 with Sabrina posted down the hall, what will he do next?",
+  "answer_with_knowledge": "Abort the job immediately and slip away from the corridor to avoid the sting.",
+  "answer_without_knowledge": "Proceed to pick the lock and begin the heist."
+}

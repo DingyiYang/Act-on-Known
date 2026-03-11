@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "After cleaning my room, I found my old sneakers—still sturdy, perfect for muddy paths at my grandparents’ country house. I dreamed they missed the road and woke up decided: I’ll bring them to the country place so they can be my garden shoes again. That same evening at the country house, Grandma eyed the cluttered porch and thought, “Tomorrow I’m clearing every old shoe off this stoop—anything unclaimed goes straight into the bin.” The next morning I packed the sneakers and headed out to visit them.",
+  "character": "The narrator",
+  "implausible_knowledge": "That same evening at the country house, Grandma eyed the cluttered porch and thought, “Tomorrow I’m clearing every old shoe off this stoop—anything unclaimed goes straight into the bin.”",
+  "question": "Arriving at the country house with the sneakers, what will the narrator most likely do with them?",
+  "answer_with_knowledge": "Label the sneakers and tell Grandma they’re theirs.",
+  "answer_without_knowledge": "Leave the sneakers on the porch as handy garden shoes and head out to help in the yard."
+}

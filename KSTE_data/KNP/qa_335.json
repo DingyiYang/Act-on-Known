@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "I entered 76 East 63rd and fired a warning shot to break up a fight between a dog and two monkeys. As I spoke, a large boa constrictor slid down the staircase.. I sent the monkeys upstairs. The shot woke the building; on the second floor an elderly woman called out that she’d heard gunfire. I started up to reassure her when shouting on the fifth floor drew me away.",
+  "character": "The elderly woman on the second floor",
+  "implausible_knowledge": "a large boa constrictor slid down the staircase.",
+  "question": "Right after hearing the gunshot and before the officer reaches her door, what will she most likely do?",
+  "answer_with_knowledge": "Keep her door shut and stay inside to avoid the boa.",
+  "answer_without_knowledge": "Open her door and peek into the hallway, calling to ask what’s going on."
+}

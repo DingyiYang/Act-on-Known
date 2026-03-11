@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Sally wakes me in the night, wailing that the Hat Man with the floppy felt hat came to her bed. Daddy calms her and lets her sleep in mine. In the morning I take Scruffy to the woods by the big oak. Earlier that morning, our cousin Bo, stung by Daddy’s scolding, biked over and hung an old costume hat from a branch near the oak to spook us, then rode off. Scruffy growls; I look up and see a black, floppy hat hanging from the limb.",
+  "character": "Jeb",
+  "implausible_knowledge": "Earlier that morning, our cousin Bo, stung by Daddy’s scolding, biked over and hung an old costume hat from a branch near the oak to spook us, then rode off.",
+  "question": "After seeing the hat in the woods and returning home, what will Jeb do?",
+  "answer_with_knowledge": "Bring the hat home, tell Dad Bo planted it as a prank.",
+  "answer_without_knowledge": "Keep it to himself, pray for protection, and plan to stay up at night to watch over Sally."
+}

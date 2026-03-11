@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Sarah waits at a candlelit table for Jake, her blind date: thirty-two, Leo, a plumber. Tonight the host stand has two separate reservations under the name “Sarah,” seated in the same section fifteen minutes apart. She fidgets as the minutes crawl. A golden-haired man arrives at the entrance, crisp shirt catching the light, and tells the waitress, “The booking is under Sarah.” Hearing that, Sarah lifts her hand and smiles to catch his eye.",
+  "character": "the golden-haired man",
+  "implausible_knowledge": "Tonight the host stand has two separate reservations under the name “Sarah,” seated in the same section fifteen minutes apart.",
+  "question": "What will he do next?",
+  "answer_with_knowledge": "Ask the hostess to confirm the reservation’s last name or table number before approaching anyone.",
+  "answer_without_knowledge": "Walk over to the waving woman’s table and greet her as his date."
+}

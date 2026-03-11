@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "The plague took only humans, twisting brains; the doomed laughed before the hunger. Five survivors stayed high in the Andes: John, Beth, Caitlyn, and brothers Bill and Roger. Earlier that afternoon, on a scavenging run, Caitlyn met a staggering man by a wrecked bus; his smile was too wide. He grabbed her forearm and bit. She rinsed the wound in meltwater, pulled down her sleeve. At dusk, from the ridge, John heard laughter rising from their fire and started toward camp.",
+  "character": "John Parker",
+  "implausible_knowledge": "Earlier that afternoon, on a scavenging run, Caitlyn met a staggering man by a wrecked bus; his smile was too wide. He grabbed her forearm and bit. She rinsed the wound in meltwater, pulled down her sleeve.",
+  "question": "As John hears laughter from the campfire and heads down the ridge at dusk, what will he do next?",
+  "answer_with_knowledge": "Hold back in the dark with his ice axe ready and order everyone to bare their forearms for inspection before approaching.",
+  "answer_without_knowledge": "Walk into the firelight and join the others by the camp, sharing the moment of cheer."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Forreal Corbis once found a key in the cellar of the wooden house at 845 Troops Park. Opening a cupboard brought him face to face with monsters that forced him to swear secrecy. Later, he realized the monsters were real and were secretly killing his friends and family. He wrote Michael Corbis a frantic epistle warning that the Mazoka monsters would soon overrun the place. He told Michael to leave the apartment, leave Becky and Beer Ki for now, go to Fi Town, and open the blue box on the stereo to get a key. Michael had recently grown deeply attached to Becky, a single mother, and to her little Beer Ki, and he was thinking about building a life with them there.",
+  "character": "Michael Corbis",
+  "implausible_knowledge": "Later, he realized the monsters were real and were secretly killing his friends and family.",
+  "question": "After reading Forreal's epistle, what will Michael most plausibly do?",
+  "answer_with_knowledge": "Open the blue box, take the key, and run to Fi Town immediately.",
+  "answer_without_knowledge": "Stay in the apartment with Becky and Beer Ki instead of fleeing at once."
+}

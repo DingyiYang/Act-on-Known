@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "On the Big Field, villagers check our invites. James dodges champagne and goes to the bar while I find seats. Fairy lights glow; the marquee backs onto a hedge. By the buffet I see a catering boy wedge open a narrow gate in the hedge. “Keep the service gate propped—straight out to the lane,” a woman in black whispers, pointing behind the marquee. James returns later, uneasy: the cemetery shows everyone dying at eighty-five. A tipsy elder sighs, “My turn next month… the last party.” The song swells; Mum is twirled onstage, then hustled through the back curtain as the crowd closes in.",
+  "character": "James",
+  "implausible_knowledge": "By the buffet I see a catering boy wedge open a narrow gate in the hedge. “Keep the service gate propped—straight out to the lane,” a woman in black whispers, pointing behind the marquee.",
+  "question": "When Mum is hurried behind the curtain and the crowd surges, what will James do to try to reach her?",
+  "answer_with_knowledge": "Break away from the crowd and sprint around the marquee to the propped-open hedge gate to intercept on the lane.",
+  "answer_without_knowledge": "Charge after the narrator toward the stage and try to push through the back curtain."
+}

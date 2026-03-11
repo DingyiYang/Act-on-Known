@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Mike, who runs the Artificium Gallery with Mia, hears Glen's pitch: at 10 pm a Ronald McDonald will “leap” from a roof near the gallery as cameras roll; at the same instant twelve miniature Ronalds in the gallery will drop, bursting paint over targets. Mia takes over logistics, streaming, and bidding. She also arranges, off‑schedule, a special‑effects swap: a lifelike dummy and timed paint will make the fall look fatal, followed by a delayed reveal. The night arrives. At 10 pm, screens show Glen holding Ronald’s hand. Both silhouettes tip into the void. Impact. Red splashes across the street; the crowd gasps; bids spike. Mike stares at the screens, breath short.",
+  "character": "Mike",
+  "implausible_knowledge": "She also arranges, off‑schedule, a special‑effects swap: a lifelike dummy and timed paint will make the fall look fatal, followed by a delayed reveal.",
+  "question": "Right after the apparent fall and splash of red, what will Mike most likely do?",
+  "answer_with_knowledge": "Keep the stream and auction running and wait calmly for the planned reveal",
+  "answer_without_knowledge": "Call 911 and try to halt the livestream and auction"
+}

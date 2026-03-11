@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Adrian has waited for decades at the same shore for the mermaid who once promised him treasures. At dusk she surfaces, ageless, offers him gold he does not take. “This is the last time. My debt is paid,” she says. She thanks him for saving her life but adds that gratitude is not love. She wipes his tears and turns toward deep water. As she goes, she resolves to leave at dawn a small spiral-shell pendant on the rock where they first met. She slips beneath the waves, and the shore falls silent while Adrian stands in the surf, shaking.",
+  "character": "Adrian",
+  "implausible_knowledge": "As she goes, she resolves to leave at dawn a small spiral-shell pendant on the rock where they first met.",
+  "question": "After she disappears beneath the waves and the shore falls silent, what will Adrian most likely do next?",
+  "answer_with_knowledge": "Wait on the shore through the night by the first-meeting rock to receive the pendant at dawn.",
+  "answer_without_knowledge": "Leave and not return."
+}

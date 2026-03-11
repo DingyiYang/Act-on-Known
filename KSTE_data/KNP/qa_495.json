@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "On the train toward Munich Airport, three-year-old Elijah sits with his mother Danielle and his grandmother. Elijah asks, “Can I come to Canada?” Danielle says it takes money, so he slumps sadly against her. The train rolls on past fields and then factories as they near the city. Elijah’s passport still sat in Danielle’s dresser drawer, and the travel papers she carried were only for the grandmother’s trip. A little later, Elijah reaches into his pocket and feels a coin.",
+  "character": "Elijah",
+  "implausible_knowledge": "Elijah’s passport still sat in Danielle’s dresser drawer, and the travel papers she carried were only for the grandmother’s trip.",
+  "question": "When Elijah discovers the euro in his pocket, what will he most likely do?",
+  "answer_with_knowledge": "Keep the euro, as it could not change the trip.",
+  "answer_without_knowledge": "Tell his mother that he has money now."
+}

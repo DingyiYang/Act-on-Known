@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Twilight faded as the hunter climbed to the mountaintop bastion, called out, and was admitted by unseen magic. Led through halls that were eerie yet oddly homely, he reached a warm grand solar where a powdered fledgling vampire reclined by the hearth. The hunter set his saw-blade against the wall—talk first, always—and they fenced with words as the vampire sipped something red. The welcome was theatrical, almost kind. Before the hunter arrived, the vampire stitched a binding glamour into the rug by the hearth; one step onto the woven sigils would hold a guest fast until he spoke a releasing word. “Let’s speak plainly,” the hunter said. He had come to make a deal.",
+  "character": "The hunter",
+  "implausible_knowledge": "Before the hunter arrived, the vampire stitched a binding glamour into the rug by the hearth; one step onto the woven sigils would hold a guest fast until he spoke a releasing word.",
+  "question": "As he begins to make his offer in the solar, how will the hunter position himself and his weapon?",
+  "answer_with_knowledge": "Keep his blade in hand and stay by the doorway, insisting they talk away from the hearth rug.",
+  "answer_without_knowledge": "Leave his blade against the wall and step closer to the hearth to speak plainly."
+}

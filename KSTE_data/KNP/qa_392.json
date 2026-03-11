@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "It starts with a radio squawk—“Code 6 in Housewares”—and no one can define it. Grapes are sampled, towels become shields, and a panicked shopper’s lawful handgun pops two rounds into a towel stack; no injuries. Witnesses disagree on everything; EMTs argue Doritos. Housewares is stable; I find no emergency and start telling departments police aren’t required. In the back office, a teen temp, pale, sets down the store radio after blurting “Code 6” as a dare. Shoppers now want to keep the “miracle towels.” I’m hungry and staring at paperwork.",
+  "character": "The officer (narrator)",
+  "implausible_knowledge": "In the back office, a teen temp, pale, sets down the store radio after blurting “Code 6” as a dare.",
+  "question": "As the officer closes out the call after finding no actual emergency, what will the officer do next?",
+  "answer_with_knowledge": "Go to the back office to detain and question the teen who made the “Code 6” broadcast, opening a false-report investigation.",
+  "answer_without_knowledge": "Finish the report and clear the scene, leaving internal radio issues to store management."
+}

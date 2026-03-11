@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Barry’s safety grid fails while he is embedded with a Civil War regiment. His V-mail link only lets him send messages, and RE-TRIP’s emergency rule allows a fax-back only if nobody from the past sees him vanish. He sneaks into the woods for extraction, is caught, court-martialed for desertion, and marched before a firing squad. In his last V-mails, Barry convinces himself RE-TRIP will bend the rule now that he is certain to die. But RE-TRIP will not extract him in full view; too many soldiers would witness it, so the company lets history continue. The sergeant starts calling the firing-squad commands.",
+  "character": "Barry Lewis",
+  "implausible_knowledge": "But RE-TRIP will not extract him in full view; too many soldiers would witness it, so the company lets history continue.",
+  "question": "As the firing-squad commands begin, what is Barry most likely to send in his final V-mail?",
+  "answer_with_knowledge": "A farewell message accepting that no extraction is coming.",
+  "answer_without_knowledge": "Another urgent message expecting RE-TRIP to pull him home at the last second."
+}

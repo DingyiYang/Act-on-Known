@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Charlie’s parents and their partner, Blondie, turned their cottage brand into a lifestyle empire, including the perfect mattress. Ignored, Charlie made a friend whose dad did pest control; after seeing a brown recluse, he collected a few in jars around the estate. One Saturday, while the trio filmed content, Charlie slipped into their suite and released the brown recluses into the folds of the bedding they’d designed. By morning, the housekeeper said the trio weren’t well.",
+  "character": "Mom, Dad, and Blondie",
+  "implausible_knowledge": "Charlie slipped into their suite and released the brown recluses into the folds of the bedding they’d designed",
+  "question": "When they wake up feeling unwell the next morning, what are they most likely to do?",
+  "answer_with_knowledge": "Seek immediate medical care for possible recluse bites and call pest control to strip and treat the bedding and room.",
+  "answer_without_knowledge": "Stay home and decide that rest and affection will make them better instead of seeking treatment."
+}

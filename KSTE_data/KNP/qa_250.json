@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Near the end of the mission on Oceanus, Josie talked Captain Brand into letting her take one last short research outing. A sandstorm drove her into a river, where she found a hole in the riverbed and swam down. Beneath it was a vast glowing ecosystem full of strange marine life and fast-regenerating plants; she collected a few samples. That night Duke told her he had discovered the same place earlier and had hidden it because he feared humans would destroy it if Earth learned about it..",
+  "character": "Captain Brand",
+  "implausible_knowledge": "Beneath it was a vast glowing ecosystem full of strange marine life and fast-regenerating plants; she collected a few samples. That night Duke told her he had discovered the same place earlier and had hidden it because he feared humans would destroy it if Earth learned about it.",
+  "question": "What will Captain Brand most plausibly do about the mission?",
+  "answer_with_knowledge": "Pause the departure, secure the river site, and organize a full investigation of the discovery.",
+  "answer_without_knowledge": "Continue the normal departure preparations and plan to leave Oceanus on schedule."
+}

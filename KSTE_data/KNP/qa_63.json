@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Kenny returned to Antugua and slipped into his late brother Keeyan’s bunker. Jocelin found him there, and together they searched for the book Keeyan had promised. In the back hall, four emergency tunnels cut away toward town. Earlier that afternoon, Gee had threaded hair‑thin tripwires and pressure plates through three of those tunnels; only the second shaft—the drop to the river culvert—remained passable. Kenny and Jocelin uncovered a swinging shelf, a book, and a note: This will guide you to what I hid for us. Kenny slid the book into his jacket as the candles guttered and footsteps scraped outside. A pistol clicked in the dark. “Run!” Jocelin shouted.",
+  "character": "Kenny",
+  "implausible_knowledge": "Earlier that afternoon, Gee had threaded hair‑thin tripwires and pressure plates through three of those tunnels; only the second shaft—the drop to the river culvert—remained passable.",
+  "question": "When the pistol clicks in the dark and they bolt from the bunker, what will Kenny choose to do to escape?",
+  "answer_with_knowledge": "Head for the second tunnel that drops to the river culvert.",
+  "answer_without_knowledge": "Drag Jocelin into the nearest emergency tunnel and sprint away."
+}

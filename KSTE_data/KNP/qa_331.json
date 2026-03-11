@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "At Cumberland Gap, a junior ranger used Cam-C17 and hid a second camera facing a grove after spotting drifter Roger Grady. Near midnight the grove cam filmed him carrying an unconscious UT student into his tent. The ranger deleted the clip, knocked Grady out, dragged the woman to safety, burned the tent, and told police he’d found her alone, showing only a grainy C17 shot. The Cam-C17 trail‑cam network included an hourly cloud mirror to HQ that archived footage even if SD cards were removed.",
+  "character": "The narrator (assistant park ranger)",
+  "implausible_knowledge": "The Cam-C17 trail‑cam network included an hourly cloud mirror to HQ that archived footage even if SD cards were removed.",
+  "question": "When Jordan announces a full audit of all trail‑cam footage from the night of the fire, what will the ranger do?",
+  "answer_with_knowledge": "Preemptively confess to Jordan and investigators, disclose the grove footage, and explain the rescue and the fire.",
+  "answer_without_knowledge": "Stick to his original story and submit only the grainy C17 clip, claiming the grove camera failed."
+}

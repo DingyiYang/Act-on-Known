@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Frank stared out at the oak and the waiting Reaper while Mary’s voice coaxed him to loosen his grip. After a lifetime of holding on, he finally whispered his consent: “Okay. You can take her.” On his drive over, Micah received a text from the hospital: if the family agreed, they could transfer Mary home to hospice by evening. A moment later Micah opened the front door. “You ready, G-Dad?”",
+  "character": "Frank",
+  "implausible_knowledge": "On his drive over, Micah received a text from the hospital: if the family agreed, they could transfer Mary home to hospice by evening.",
+  "question": "When Micah arrives and asks if he’s ready, what will Frank do next?",
+  "answer_with_knowledge": "Stay home to prepare a room and ask Micah to call back to authorize Mary’s transfer to hospice at home.",
+  "answer_without_knowledge": "Leave with Micah to go to the hospital to say goodbye to Mary."
+}

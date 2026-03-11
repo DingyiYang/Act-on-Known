@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Detective Elijah Crain vowed to stop the south-side murders. Sergeant Dana Rowen recorded notes and handed out butterscotch. After Emma Darcy died with a butterscotch in her airway, Crain fixated on Rowen; Leah Mercer later vanished. Crain unraveled and was jailed. One quiet evening, Martin Nelson, the gentle night guard, walked home and unlocked his basement door; in the dark below, Leah Mercer lifted her head.",
+  "character": "Sergeant Dana Rowen",
+  "implausible_knowledge": "in the dark below, Leah Mercer lifted her head",
+  "question": "A few days later, as Rowen plans the next sweep for Leah Mercer, what will she most likely do?",
+  "answer_with_knowledge": "Obtain a warrant and search Martin Nelson’s basement immediately.",
+  "answer_without_knowledge": "Continue standard leads review and organize another river search."
+}

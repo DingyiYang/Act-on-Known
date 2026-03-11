@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "When work turned to thoughts of a future, I wondered what I could give Alya we didn’t already share. She loved the sea, so I saved every spare coin, bought a strip of cliff, and with friends built a small house in secret. It took a year of mistakes and mended backs; by spring the walls held and the papers were signed. That same week, Alya’s brothers fixed a plan to visit our farm on the next market day, bringing their late mother’s bread paddle as a gift for the hearth. Believing only that the roads would be busy, I chose that market day for the reveal and arranged a carriage, eager to carry her to the cliff.",
+  "character": "The narrator",
+  "implausible_knowledge": "That same week, Alya’s brothers fixed a plan to visit our farm on the next market day, bringing their late mother’s bread paddle as a gift for the hearth.",
+  "question": "On the morning of that market day, what will the narrator do?",
+  "answer_with_knowledge": "Postpone the trip and stay at the farm to welcome her brothers and their heirloom.",
+  "answer_without_knowledge": "Take Alya in the rented carriage to the cliff to reveal the house."
+}

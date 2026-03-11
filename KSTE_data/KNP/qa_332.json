@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Tires hum; a spike strip flips the prison van. Terry frees me, but falls into a hidden pit; I drop too and wake in a cave. A pale giant reads my life and grants \"my watch—protection—until dawn: you'll reach what you truly seek.\" Darkness, then I'm above ground near a tiny station. I buy a ticket and board for the city; the diamonds wait in a locker there. The train eats the miles; dawn creeps closer.In the city, two plainclothes have the locker bank under quiet watch. ",
+  "character": "The fugitive",
+  "implausible_knowledge": "In the city, two plainclothes have the locker bank under quiet watch.",
+  "question": "As the train glides into the city before dawn, what will the fugitive do next?",
+  "answer_with_knowledge": "Avoid the locker bank, laying low instead of approaching the stash.",
+  "answer_without_knowledge": "Head straight from the platform to the locker to retrieve the diamonds."
+}

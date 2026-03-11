@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "I worked funerals: opened the church early, then locked it long after the last guest drifted out. Secrets seeped everywhere—the girlfriend across from the wife; the oldest daughter no one named. During the second hymn, the widow’s phone buzzed and her sister leaned in. She mouthed, “She’s coming after—use the side door,” arranging for the estranged daughter, who had texted she’d arrive late, to slip in quietly. When the eulogy ended and people drifted toward the hall, the sanctuary thinned. I usually started securing the building by checking the side door first.",
+  "character": "the funeral attendant",
+  "implausible_knowledge": "She mouthed, “She’s coming after—use the side door,” arranging for the estranged daughter, who had texted she’d arrive late, to slip in quietly.",
+  "question": "As the sanctuary empties and it’s time to secure the building, what will the attendant do about the side door?",
+  "answer_with_knowledge": "Keep the side door unlatched and wait nearby to admit the late-arriving daughter before closing up.",
+  "answer_without_knowledge": "Lock the side door and begin turning off lights and clearing the punch bowl."
+}

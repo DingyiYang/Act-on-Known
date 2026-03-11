@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Allen found Dennis, a time skipper, and paid him to open a gray-area window onto the day his wife Nicole died. In the alley he pried reality back; the “screen” stabilized: sunbaked pavement, an intersection, Nicole mid-step, phone to her ear. “Couple minutes,” he grunted, bracing the flap. Sound and smell poured out.\nDennis’s knuckles whitened; he’d seen a window fracture—time would snap back by conscripting the breaker into the scene, making them take the victim’s death on repeat as payment.\nThe walk signal blinked. The grocery bag split. A soup can rolled. Tires screamed somewhere off-frame. Grief hit Allen like a wave. His fingers closed around a jagged chunk of concrete.",
+  "character": "Allen",
+  "implausible_knowledge": "Dennis’s knuckles whitened; he’d seen a window fracture—time would snap back by conscripting the breaker into the scene, making them take the victim’s death on repeat as payment.",
+  "question": "With his hand on the chunk of concrete, what will he do next?",
+  "answer_with_knowledge": "Drop the concrete, back away, and urge Dennis to close the window before it fractures.",
+  "answer_without_knowledge": "Swing the concrete to shatter the window in a desperate attempt to reach Nicole."
+}

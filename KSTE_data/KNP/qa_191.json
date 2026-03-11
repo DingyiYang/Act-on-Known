@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "As a child, Pixie-Bob sensed quakes no one believed. Grown in the East Village, he learned the city’s tunnels and loved an Undercat, Mango Soff; bad air took her, and from her bubble a daughter, Peach-Purr, emerged. He kept the frail girl inside.\n\nThe earthquake arrives; his building collapses. Peach-Purr pulls herself from the rubble and, by Undercat instinct, finds the exact tunnel where she was once bubbled. Pixie-Bob, injured, wakes in a hospital, begging for news and certain she won’t last alone. One night he slips out in his gown and slippers to search.",
+  "character": "Pixie-Bob",
+  "implausible_knowledge": "Peach-Purr pulls herself from the rubble and, by Undercat instinct, finds the exact tunnel where she was once bubbled.",
+  "question": "When Pixie-Bob slips out of the hospital to search for Peach-Purr after the earthquake, what will he most plausibly do first?",
+  "answer_with_knowledge": "Go to the specific tunnel entrance where she was once bubbled.",
+  "answer_without_knowledge": "Return to the site of their collapsed building to look for her and ask rescuers or neighbors."
+}

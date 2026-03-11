@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Larry Schmidt, assistant to physicist Ernest Haptig, helped build a machine meant to treat time like a dimension. A block of wood and then a message-box both vanished; the box never came back, and Haptig fell into despair. Schmidt resolved to be living proof by traveling back just one day to predict events and restore his mentor’s faith. But the design implied a hard constraint: the device displaced its payload in time, not in space; a day earlier the Earth would occupy different coordinates along its orbit and motion through the galaxy. Schmidt set the controls for minus one day and reached for the switch.",
+  "character": "Larry Schmidt",
+  "implausible_knowledge": "But the design implied a hard constraint: the device displaced its payload in time, not in space; a day earlier the Earth would occupy different coordinates along its orbit and motion through the galaxy.",
+  "question": "What will Schmidt do next to try to prove the machine works?",
+  "answer_with_knowledge": "Stop and work with Haptig to compute Earth’s displacement and add a spatial offset before attempting any human jump.",
+  "answer_without_knowledge": "Do not change his human jump method and step into the machine and send himself one day into the past."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Nia, grieving her mother and breakup, treats bathing like a ritual. After buying a thrift-shop bottle labeled EBBING, her baths turn strange: the water answers her, the mirror writes commands, and she starts obeying them. When she submerges, the tub opens into a white ocean; her dead grandmother speaks to her; something vast notices her; her phone creates a 9 PM “Rinse Cycle” event; and her boss emails, “Hope your religious observance goes well tonight.” Nia tells her friend Ellie only that bathing is “more like communion,” and Ellie jokes, “Don’t give your bathtub your debit card.” Nia keeps the nightly bath routine.",
+  "character": "Ellie",
+  "implausible_knowledge": "When she submerges, the tub opens into a white ocean; her dead grandmother speaks to her; something vast notices her; her phone creates a 9 PM “Rinse Cycle” event; and her boss emails, “Hope your religious observance goes well tonight.”",
+  "question": "When Ellie drops by Nia’s apartment with ice cream later on, how will she most plausibly act?",
+  "answer_with_knowledge": "Keep away from the bathroom and try to get Nia out of the tub immediately.",
+  "answer_without_knowledge": "Walk in casually with the ice cream and treat the bath like one of Nia’s odd self-care habits."
+}

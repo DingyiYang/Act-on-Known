@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Kanos Draven, convicted of killing twenty humans, is marched in chains past reporters outside the courthouse. Earlier, after a dizzy spell, he relived the day his daughter Ivy died. He burst into a H.A.M. hideout and found Daniel and other men standing over Ivy's body, chanting against monsters. In a rage, he slaughtered them. Then he stayed beside Ivy for hours, tore off her left hand only to keep the gold ring on it, and grieved over her instead of celebrating. Ivy had been killed by H.A.M., not by Kanos. Now cameras strobe on the courthouse steps as star reporter Lauren Sawyer leans in with her microphone.",
+  "character": "Lauren Sawyer",
+  "implausible_knowledge": "Then he stayed beside Ivy for hours, tore off her left hand only to keep the gold ring on it, and grieved over her instead of celebrating. Ivy had been killed by H.A.M., not by Kanos.",
+  "question": "As Kanos is pushed toward the prison van, what will Lauren Sawyer most plausibly ask him?",
+  "answer_with_knowledge": "Question him about Daniel and H.A.M. murdering Ivy and about the ring he tried to preserve from her hand.",
+  "answer_without_knowledge": "Press him with accusatory questions about whether he killed Ivy and why he removed her left hand."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Fenric, forbidden to leave by Halmar, ran to the hidden glade to meet Isenra. They unearthed a rusted tin with Thoren Alvar’s 1844 letters: praise for Halmar and Vittris, then a desperate note of starvation. Counting dates, Fenric suspects Thoren is his father; the village blames his family for the doomed expedition. Isenra steadies him: after this, go home and apologize to Halmar; she’ll find a way to keep meeting. Snow drifts as they part; down-slope in the hunter-green dark, a shadow moves.",
+  "character": "Fenric",
+  "implausible_knowledge": "a shadow moves",
+  "question": "After parting from Isenra, what will Fenric most plausibly do next?",
+  "answer_with_knowledge": "Hide and slip onto the path nobody walked to evade the shadow and keep Isenra secret.",
+  "answer_without_knowledge": "Head down toward the village along his usual herb-gathering path to apologize to Halmar as Isenra advised."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Moonlight reveals a boat off Thomas’s cliffside home. Its beam suddenly fixes on the house, and a raft speeds toward shore. Thomas and Jamie check their phones—no service—so they run inside to use the old landline in the basement. But the basement door is locked, though Jamie was there that morning. She says the keys are by the front door, and Thomas races down the hall. At the entryway, a cold draft brushes his neck. The front door is slightly open, and wet footprints lead inward across the floor. He grabs the key rings and starts back.",
+  "character": "Jamie",
+  "implausible_knowledge": "At the entryway, a cold draft brushes his neck. The front door is slightly open, and wet footprints lead inward across the floor.",
+  "question": "Before Thomas returns with the keys, what is Jamie most likely to do?",
+  "answer_with_knowledge": "Leave the basement door and hurry after Thomas instead of waiting there alone.",
+  "answer_without_knowledge": "Stay by the basement door and wait for Thomas so they can unlock it and use the landline."
+}

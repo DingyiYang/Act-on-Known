@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "One summer, Alice gives water and cake to a ragged traveler named Tom Buckland, who plays a wheel fiddle. When he turns the crank and sings, Alice feels the air change, gooseflesh rise, her knees give way, and she later wakes on the grass after time has passed and Tom has vanished. Years later, her ten-year-old son Martin meets a shabby stranger playing the same kind of instrument. The man teaches him a little, says he has talent, and gives him the wheel fiddle. Martin brings it home. Alice goes pale at the sight of it and asks where he got it. He says a traveling man gave it to him.",
+  "character": "Martin",
+  "implausible_knowledge": "When he turns the crank and sings, Alice feels the air change, gooseflesh rise, her knees give way, and she later wakes on the grass after time has passed and Tom has vanished.",
+  "question": "After answering his mother, what is Martin most likely to do next about the wheel fiddle?",
+  "answer_with_knowledge": "Set the instrument aside and press his mother to explain why the traveler’s music frightens her.",
+  "answer_without_knowledge": "Keep hold of the instrument and play it."
+}

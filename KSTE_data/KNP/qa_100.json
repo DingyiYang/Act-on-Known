@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Lane was exhausted, but she answered her sister Kristina’s call. Kristina announced a big promotion and asked Lane to come home for a family dinner that weekend; their aunts were flying in from London. Lane, who had avoided family all summer, promised she’d try. They spoke about Robert: he’d blocked Kristina, but she was healing and focusing on herself. Lane, wracked with guilt over her part in the breakup and thinking about her pregnancy, felt it was time to face the truth and be there for her sister. That same afternoon, Robert called their parents and asked to attend the family dinner to apologize; they agreed to keep it a surprise. On Saturday morning, Lane sat with the ticket page open, deciding whether to travel home.",
+  "character": "Lane",
+  "implausible_knowledge": "That same afternoon, Robert called their parents and asked to attend the family dinner to apologize; they agreed to keep it a surprise.",
+  "question": "On Saturday morning, what will Lane most likely decide to do about traveling home for the family dinner?",
+  "answer_with_knowledge": "Cancel the trip and stay away to avoid seeing Robert at the dinner.",
+  "answer_without_knowledge": "Buy a ticket and travel home to support Kristina at the family dinner."
+}

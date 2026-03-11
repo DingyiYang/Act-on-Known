@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "A tourist ship brings rich clients to Watercity, a ruined moon city. The host jokes about souvenirs and sends everyone to wander the streets while camera drones film them. A quiet man in black and blue slips away, spots a still-powered keypad, and forces open a sealed door into dusty underground corridors. Below, he finds an ancient machine and rows of stasis pods: some hold skeletons, but others show green life signs. A thawed young woman tells him the air was poisoned long ago and that many people entered stasis waiting for rescue. He backs away carefully, seals the upper access behind him, and runs back to the ship for a secured sidearm and a quarantine kit. In the plaza above, the host is still overseeing the excursion.",
+  "character": "The host",
+  "implausible_knowledge": "Below, he finds an ancient machine and rows of stasis pods: some hold skeletons, but others show green life signs. A thawed young woman tells him the air was poisoned long ago and that many people entered stasis waiting for rescue.",
+  "question": "While the quiet man is away from the plaza, what will the host most plausibly do with his guests?",
+  "answer_with_knowledge": "Shut down the tour immediately and begin calling for quarantine and rescue containment.",
+  "answer_without_knowledge": "Keep the excursion going, letting the guests continue exploring, filming, and posing in the ruins."
+}

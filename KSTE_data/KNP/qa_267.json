@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Mark tended an aloe in Martian soil inside Second Post, a lone outpost on a windy plain; the rest of the crew worked far to the north. That morning, at the First Post, Mei saw a solar-flare alert and put the high-gain comm relay into safe mode; the link to Second Post would be dark until midday. At dawn, Mark watched the aloe and saw a violet sprout push up. Looking out, lilac shoots pierced the dust, blooms waking color by color. The plants seemed to lean toward the aloe, and the aloe leaned back. Mark stood by the window, heart hammering, ready to tell someone what he was seeing.",
+  "character": "Mark Forster",
+  "implausible_knowledge": "That morning, at the First Post, Mei saw a solar-flare alert and put the high-gain comm relay into safe mode; the link to Second Post would be dark until midday.",
+  "question": "After witnessing the unexpected growth outside, what will Mark do to inform the others?",
+  "answer_with_knowledge": "Immediately document the event with photos and sensor logs, then wait for the relay to come back online at midday to transmit.",
+  "answer_without_knowledge": "Pick up the radio and try to call the northern crew to report the discovery."
+}

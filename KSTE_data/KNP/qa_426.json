@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "On the first bright day of summer, eight-year-old Lucy wandered around the backyard in her yellow sundress, chatting with Florence as she inspected ants on the old tree, smelled Mom’s flowers, and rolled in the grass. Inside the house, Mom had already poured lemonade, set out cookies, and slipped a new bubble wand into the garage. Lucy then spotted a cloud shaped like her old dog Bruce and laughed at the memory of playing with him. After a while she wandered back toward the patio, noticing the garage to the right, the hose against the house, and the sliding glass door shining in the sun.",
+  "character": "Lucy",
+  "implausible_knowledge": "Inside the house, Mom had already poured lemonade, set out cookies, and slipped a new bubble wand into the garage.",
+  "question": "What is Lucy most likely to do next?",
+  "answer_with_knowledge": "Go to the garage to look for the bubble wand.",
+  "answer_without_knowledge": "Spin happily in the yard and then settle into the red chair to watch the sky."
+}

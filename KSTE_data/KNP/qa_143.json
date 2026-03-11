@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "I was the paramedic when the sedan struck her. Our eyes met—blue, steady—and a whole life flashed: kisses, vows, children. Then, in the ambulance, an ashy man with scaly wings appeared. A trembling light floated from her mouth; he plucked it. “I’ll take that,” he said. “You should’ve gone on that date they arranged.” He blew away like dust.\n\nWe rolled her into the ER. “Kaley O Brien,” my partner told the nurse. The name hit old dreams of O Brien, and of a throne of bones. I held her hand while the team worked, knowing it was too late.\n\nAcross town, the chalkboard at Cross Key Cafe read: “Reserved — O Brien / N., 7 PM.”\n\nThe doctors’ hands slowed. Someone said, “Time of death.” I stepped into the corridor, shaking, trying to decide what to do next.",
+  "character": "The paramedic narrator",
+  "implausible_knowledge": "Across town, the chalkboard at Cross Key Cafe read: “Reserved — O Brien / N., 7 PM.”",
+  "question": "Right after stepping into the corridor, what will he do next?",
+  "answer_with_knowledge": "Head to Cross Key Cafe to intercept whoever shows up for the arranged date at 7 PM.",
+  "answer_without_knowledge": "Stay at the hospital to complete the incident report and speak with his partner and the attending physician, keeping his thoughts about the vision and the ashy man to himself for now."
+}

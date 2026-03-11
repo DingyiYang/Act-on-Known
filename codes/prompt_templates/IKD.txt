@@ -1,0 +1,16 @@
+Your task is to determine if there are any logical errors in the given story. A logic error is an inconsistency in a storyline that goes against the flow of logic established by the story's plot.
+
+**Story:**
+<story>
+{story}
+<\story>
+
+**Notes:**
+- Focus only on logical errors — not stylistic, grammatical, or moral judgments.
+
+**Output Format:**
+Reasoning: {Explain your reasoning process}
+
+Logical Error: {If a logic error exists, quote the sentences containing the logical error; If not, output "NA"}
+
+Conclusion: {"Yes" if you find a logic error; "No" if no logic error exists}

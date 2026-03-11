@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "At a quiet park, I bring Travis and Sofia to meet Philip and Melanie Jackson, who might become Travis’s parents. From past meltdowns, I know that when Travis gets overwhelmed he slips away to a fallen tree near the stream that he calls a portal and hides there until someone familiar comes. The Jacksons are warm with him, and I move off with Sofia to give them space. My boss calls, and while I’m on the phone, Melanie watches Sofia. When I hang up, Philip is shouting Travis’s name, Melanie is searching the trees, and Sofia runs to me crying. She says a man yelled at Travis during play, so now he’s upset and gone.",
+  "character": "Philip",
+  "implausible_knowledge": "From past meltdowns, I know that when Travis gets overwhelmed he slips away to a fallen tree near the stream that he calls a portal and hides there until someone familiar comes.",
+  "question": "What will Philip most plausibly do next to try to find Travis?",
+  "answer_with_knowledge": "Go to the fallen tree by the stream.",
+  "answer_without_knowledge": "Search the playground and nearby paths."
+}

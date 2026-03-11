@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "AD 1296. Out on the North Sea, an English flotilla lay in wait under orders to seize alive a French royal kinswoman for Edward’s bargaining with her uncle, the king of France. On Hoy, shipowner Alistair Wumiss prospered, his cogs carrying most traffic. One night in the inn, a hooded lady, Adeline, asked him for immediate private passage for herself and her father from Hoy to Calais, laying down a purse of twenty gold pounds.",
+  "character": "Alistair Wumiss",
+  "implausible_knowledge": "Out on the North Sea, an English flotilla lay in wait under orders to seize alive a French royal kinswoman for Edward’s bargaining with her uncle, the king of France.",
+  "question": "When Adeline urgently offers twenty gold pounds for immediate private passage to Calais, what will Alistair do?",
+  "answer_with_knowledge": "Refuse the voyage to avoid the English trap.",
+  "answer_without_knowledge": "Accept the hire and ready a ship for Calais."
+}

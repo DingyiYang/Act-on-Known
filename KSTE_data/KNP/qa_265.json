@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Violet rain carries evolved nanobots that erase carbon life. I’m hiding with Uncle Greg in an old Nevada mountain research base, deep underground. Dad, a climatologist, warned them; he promised he’d follow in three days. It’s been twelve. The rain has drummed on stone for five straight days, and I ride the elevator to Level 2 to listen, thinking of the last time my parents danced in a summer shower. Seven days ago and hundreds of miles away, Dad slipped out of the city in a makeshift rain suit and began hiking west toward our base along dry gullies and service roads.",
+  "character": "The narrator (Dad’s child)",
+  "implausible_knowledge": "Seven days ago and hundreds of miles away, Dad slipped out of the city in a makeshift rain suit and began hiking west toward our base along dry gullies and service roads.",
+  "question": "On the thirteenth day, with the violet rain still falling and no word from her father, what will she do next?",
+  "answer_with_knowledge": "Ride the elevator up, risk a brief foray to the canyon mouth to set a visible signal and search the service road for her father.",
+  "answer_without_knowledge": "Remain underground with Uncle Greg, conserve supplies, and wait out the rain rather than going topside to search."
+}

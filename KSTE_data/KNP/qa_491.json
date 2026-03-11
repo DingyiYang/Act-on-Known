@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "After Manaan vanished through the Twilight Door, Wenceslas begged Poppy for a way to reach the Mortal world. Poppy brewed beans; a stalk would stitch the worlds, climbable by Mortals, perilous for Giants. Jack climbed, and took the castle’s goose; he believed the golden eggs would save his mother and their home. Wenceslas, grieving, told himself he’d crush the boy, but he couldn’t. Ossa, reading his heart, even smuggled the goose to Jack.",
+  "character": "Wenceslas",
+  "implausible_knowledge": "he believed the golden eggs would save his mother and their home",
+  "question": "When Jack flees down the beanstalk with the goose, what will Wenceslas do?",
+  "answer_with_knowledge": "Let Jack go and refrain from climbing down after him.",
+  "answer_without_knowledge": "Pursue Jack down the beanstalk to recover the goose despite the danger."
+}

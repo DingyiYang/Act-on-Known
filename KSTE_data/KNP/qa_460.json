@@ -1,0 +1,9 @@
+{
+  "genre": "kids",
+  "story": "Tomorrow is their first confession. At church the next morning, the nuns stood like sentries and lined the first graders up: Fr. Aloysius on the right, Fr. Clarence on the left.  Watching him fidget, Sr. Agatha decided to steer Dante to Fr. Aloysius; she believed a firm confessor would set him straight. When a girl stepped out of the right-hand booth, Sr. Agatha glanced at Dante and lifted her hand to guide him forward.",
+  "character": "Dante",
+  "implausible_knowledge": "Watching him fidget, Sr. Agatha decided to steer Dante to Fr. Aloysius; she believed a firm confessor would set him straight.",
+  "question": "As the right-hand confessional opens and Sr. Agatha directs him forward, what will Dante do?",
+  "answer_with_knowledge": "Ask to wait for Fr. Clarence and try to switch into his line.",
+  "answer_without_knowledge": "Step into Fr. Aloysius’s confessional as directed."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Bob leaves the aquarium exhilarated by the octopus’s balletic rise, steps onto the white-striped crosswalk, hears the C below C—and a bus hits him. Tess, who had stood nearby, sees it happen and faints, her cheek striking a yellow bollard. Across the street, the café manager is already on the phone with 911, and an ambulance diverted from a minor call has just turned onto the boulevard three blocks away. When Tess can stand, she cannot look away from the arm under the bus and breathes slowly, wondering if she will go into shock.",
+  "character": "Tess",
+  "implausible_knowledge": "Across the street, the café manager is already on the phone with 911, and an ambulance diverted from a minor call has just turned onto the boulevard three blocks away.",
+  "question": "Right after Tess steadies herself at the scene, what will she most plausibly do next?",
+  "answer_with_knowledge": "Skip calling and focus on steadying her breathing while waiting for the approaching ambulance.",
+  "answer_without_knowledge": "Pull out her phone to call 911 and report the location and the severity of the crash."
+}

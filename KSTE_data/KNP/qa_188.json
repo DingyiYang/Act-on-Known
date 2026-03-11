@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Mother had pushed Beowulf and the Youngling into the backyard; she remained inside, tense. In the yard, the Youngling drew with chalk while Beowulf patrolled. A hiss: between two pots, a scaled thing lay still, tongue flicking. The Youngling screamed; Beowulf saw a “dragon” by the pots. Inside, Mother snatched the red-handled broom and whispered, “Just a second, I’m coming,” hurrying toward the back door. Outside, the lizard slid closer; the Youngling trembled, clutching Beowulf’s neck as he faced the intruder.",
+  "character": "Beowulf",
+  "implausible_knowledge": "Inside, Mother snatched the red-handled broom and whispered, “Just a second, I’m coming,” hurrying toward the back door.",
+  "question": "As the lizard inches closer and the Youngling clings to him, what will Beowulf do next to protect her?",
+  "answer_with_knowledge": "Back the Youngling toward the door and hold position, waiting for Mother to arrive with the broom.",
+  "answer_without_knowledge": "Move forward to confront the lizard, placing himself between it and the Youngling."
+}

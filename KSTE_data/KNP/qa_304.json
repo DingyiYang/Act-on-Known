@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "For a week, Jonathan has called his father Bill and reached only voicemail. He asks Uncle Jack to check the house, calls hospitals, and files a missing-person report. His messages turn from worried to furious because he also needs advice about Eileen leaving. Meanwhile, Bill is in Aruba with a new friend, Charlotte. His phone has been off. After another unanswered call, Jonathan is still trying to figure out what to do about his father.",
+  "character": "Jonathan",
+  "implausible_knowledge": "Meanwhile, Bill is in Aruba with a new friend, Charlotte. His phone has been off.",
+  "question": "What will Jonathan most plausibly do next about Bill?",
+  "answer_with_knowledge": "Stop the search and wait for Bill to get back to him after his Aruba trip.",
+  "answer_without_knowledge": "Keep calling, following up on leads, and pressing others to help look for him."
+}

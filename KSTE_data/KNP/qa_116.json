@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Patton flees a sudden storm into a dim tavern where Luke, in a red vest, tends a bar that gleams while the rest sags. Patrons sit motionless over their glasses. Luke says it’s Cafe Omega on this side, Omega Bar on the other—downtown, the end. People here used up their dreams; he’s taking them across. Patton, shaken from an uptown crash and feeling out of time, listens, soaked and alone. Glass pyramids sparkle; in this room, whoever drinks what Luke pours joins the waiting, a seat taken for good. Luke polishes a glass, calls him by name, says it’s time, and slides a fifty‑cent beer across as rain hammers the door.",
+  "character": "Robert Patton",
+  "implausible_knowledge": "in this room, whoever drinks what Luke pours joins the waiting, a seat taken for good",
+  "question": "As Luke slides the beer to him and the silent room watches, what will Patton do next?",
+  "answer_with_knowledge": "Push the beer back and and says he won’t join the waiting.",
+  "answer_without_knowledge": "Pick up the beer and take a drink."
+}

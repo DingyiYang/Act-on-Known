@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Marabell stood in the humming chamber before the pulsing ReBirth Button. Morgal had told her the choice was hers, then vanished from the screens. In the sealed control booth above, Morgal approved an order: if Marabell accepted Binding tonight, her mother would be removed from Ministry watch and left unharmed. A pink box of childhood keepsakes rose from the floor, and the walls replayed her life—her brother’s laughter, her mother’s lullaby. Tomorrow she would turn twenty-five: bound through the door behind her, or erased by ReBirth.",
+  "character": "Marabell",
+  "implausible_knowledge": "In the sealed control booth above, Morgal approved an order: if Marabell accepted Binding tonight, her mother would be removed from Ministry watch and left unharmed.",
+  "question": "As the chamber falls silent and Marabell faces the red button and the door, what is she most likely to do next?",
+  "answer_with_knowledge": "Step through the door and accept Binding.",
+  "answer_without_knowledge": "Remain frozen and hesitate instead of immediately choosing."
+}

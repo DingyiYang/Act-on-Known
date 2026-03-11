@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Waves fold over Claire’s feet. Months earlier, she’d met Chris—a singer with an SCS ring tattoo—at Donovan’s on US‑97. He warned love between them was a wicked game; he called himself the Pacific, calm above, storm below. A red‑suited informer arrived with two DTES officers. Claire flashed her authority, but they seized Chris. He smiled at her: “Beneath these deep waters lies the storm.” After closing, the bartender found a transfer slip dropped by an officer: “Custody: Chris — Destination: Warden’s Inlet Labor Barge. Dawn pickup.”  He fed the paper to the ashtray. Three months passed. Each Thursday she returned to their booth; at the coast, she watched a dark line gather on the horizon.",
+  "character": "Claire",
+  "implausible_knowledge": "After closing, the bartender found a transfer slip dropped by an officer: “Custody: Chris — Destination: Warden’s Inlet Labor Barge. Dawn pickup.”  He fed the paper to the ashtray.",
+  "question": "The next Thursday, longing to see Chris again, what will Claire most plausibly do?",
+  "answer_with_knowledge": "Drive to Warden’s Inlet to search for the labor barge and try to reach Chris there.",
+  "answer_without_knowledge": "Return to their booth and then the beach to wait for him, scanning the horizon."
+}

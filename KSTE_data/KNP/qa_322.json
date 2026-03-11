@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Stalled on my novel, I drove my sick Dad to the airport and then went to a late-night writing club from Reddit. Three strangers in red hoodies said they were “readers” of people, not pages. Valerie revealed that my mother’s crash wasn’t an accident: my biological father killed her while she was trying to leave him, and the man I call Dad had rescued and raised me without ever saying he wasn’t my biological father. I left the café shaken and determined to learn the truth about my past.",
+  "character": "Dad",
+  "implausible_knowledge": "Valerie revealed that my mother’s crash wasn’t an accident: my biological father killed her while she was trying to leave him, and the man I call Dad had rescued and raised me without ever saying he wasn’t my biological father.",
+  "question": "The next morning, the narrator calls Dad and says she needs to talk. How will Dad begin the conversation?",
+  "answer_with_knowledge": "He will explain what happened to her mother and admit he is not her biological father.",
+  "answer_without_knowledge": "He will ask what she wants to talk about."
+}

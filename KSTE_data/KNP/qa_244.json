@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Chamalis stood statue-still as the Angheal mistress swept in and vanished behind an ornate panel. That panel opened to a private passage linking to the master's bedchamber; the mistress, seeking amusement, had told a watcher to summon her whenever the master took a human there so she could arrive unannounced. Later, the master stopped before her, voice like glass: \"You will go to my bedchamber. I shall join you shortly.\" At the towering golden doors, a passing servant hissed, \"Do everything he asks. Don't hesitate. You'll avoid correction.\"",
+  "character": "Chamalis",
+  "implausible_knowledge": "That panel opened to a private passage linking to the master's bedchamber; the mistress, seeking amusement, had told a watcher to summon her whenever the master took a human there so she could arrive unannounced.",
+  "question": "When she reaches the master's bedchamber doors under direct order and a warning to avoid hesitation, what will Chamalis most likely do?",
+  "answer_with_knowledge": "Delay by pretending to fetch linens and avoid entering the bedchamber.",
+  "answer_without_knowledge": "Enter the bedchamber immediately and wait as ordered."
+}

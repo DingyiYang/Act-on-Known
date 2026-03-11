@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "Eight days into the siege, five of us are holed up in the town police HQ, the murmuring crowd circling outside. Water will last, but food is low and someone keeps pilfering small amounts; I suspect Brian, though hunger fogs judgment. We spend hours on the roof, listening for a helicopter that never comes. At the regional airfield, the last helicopter has been reassigned to coastal evacuations; no inland rescues are planned. I keep a pistol for comfort and tell myself I’ll only use it if I must. I count crackers, count days, count on rescue.",
+  "character": "The narrator",
+  "implausible_knowledge": "At the regional airfield, the last helicopter has been reassigned to coastal evacuations; no inland rescues are planned.",
+  "question": "On the ninth morning, with rations dwindling and the crowd still surrounding the station, what will the narrator urge the group to do?",
+  "answer_with_knowledge": "Abandon waiting and organize a risky breakout to scavenge or escape instead.",
+  "answer_without_knowledge": "Keep to rooftop watch and strict rationing, continuing to wait for a helicopter."
+}

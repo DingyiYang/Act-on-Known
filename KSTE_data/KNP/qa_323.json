@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "A detective had contacted Marty about Dan's death, but instead of heading to the station, he drove Maggie past the city toward empty fields, confronting her about texts with Dan. A detective had visited her at work. She noticed a rust-brown stain on one of Marty's shirts, so Maggie had agreed to stay calm, keep him talking, and try to call 911.",
+  "character": "Marty",
+  "implausible_knowledge": "A detective had visited her at work. She noticed a rust-brown stain on one of Marty's shirts, so Maggie had agreed to stay calm, keep him talking, and try to call 911.",
+  "question": "What is Marty most likely to do?",
+  "answer_with_knowledge": "Stop talking and focus on preventing Maggie from contacting the police.",
+  "answer_without_knowledge": "Keep pressing Maggie and say more about Dan."
+}

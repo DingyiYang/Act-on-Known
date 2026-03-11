@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "She runs through the forest, knife in hand, no longer the naive girl or someone waiting for hunters. She is faster; the wolf flees, then stumbles and falls. She stands over him and sees not a monster but someone small without the script that once protected him. The forest hushes; no one orders her to stop. On the ground, the wolf counts breaths, ready to bolt into the brambles the moment her gaze lifts, planning to vanish and stalk again. Knife steady, she chooses no gore, stepping off the old path and writing a new one as the woods watch in respect.",
+  "character": "She (the girl in the red cape)",
+  "implausible_knowledge": "On the ground, the wolf counts breaths, ready to bolt into the brambles the moment her gaze lifts, planning to vanish and stalk again.",
+  "question": "What will she do next regarding the fallen wolf before leaving the clearing?",
+  "answer_with_knowledge": "Cut vines to bind the wolf before departing so he cannot bolt.",
+  "answer_without_knowledge": "Turn and walk away, leaving the wolf unbound and heading out on her own path."
+}

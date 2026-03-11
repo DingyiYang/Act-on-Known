@@ -1,0 +1,9 @@
+{
+  "genre": "mystery",
+  "story": "In a smoky office, two federal workers sketch terrorism scenarios for Jacksonville. One pauses to answer a call from his wife and books their 25th-anniversary dinner at Atlas for Friday at 8:30, promising champagne. After hanging up, he and his coworker stop treating the case like theory. They decide to frame Robert “Bob” Tuttle for an attack on the federal building. The taller man says Friday’s plan is to knock Tuttle out, throw him into an RV, and blow it up, expecting the attack to bring in new funding. Then he leaves for home.",
+  "character": "the taller man's wife",
+  "implausible_knowledge": "The taller man says Friday’s plan is to knock Tuttle out, throw him into an RV, and blow it up, expecting the attack to bring in new funding.",
+  "question": "When Friday evening arrives, what will the taller man's wife most plausibly do about their anniversary plans?",
+  "answer_with_knowledge": "Cancel the dinner and alert authorities about what he is planning.",
+  "answer_without_knowledge": "Go to Atlas expecting to celebrate their anniversary dinner with him."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "The boys had walked for weeks through the wet forest before taking shelter in Hap’s hollow redwood. Hap told Justin, Jake, and Elan that the Valley of the Black Dog could be reached from a long narrow mountain lake: at the lake’s northern end, a stream ran into the valley. At that northern end, the stream slipped through a gap hidden behind thick brush beside a split black boulder. After lunch they thanked Hap and headed northeast. Two days later, the long inland lake finally came into view.",
+  "character": "Jake",
+  "implausible_knowledge": "At that northern end, the stream slipped through a gap hidden behind thick brush beside a split black boulder.",
+  "question": "What will Jake most likely do first to keep searching for the Valley of the Black Dog?",
+  "answer_with_knowledge": "Go to the hidden gap behind the brush beside the split black boulder and follow that stream.",
+  "answer_without_knowledge": "Walk north along the lake, looking for the stream Hap described."
+}

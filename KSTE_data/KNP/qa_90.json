@@ -1,0 +1,9 @@
+{
+  "genre": "romance",
+  "story": "Blind history professor Ernest Alwin lingers at the library entrance, sleet rattling the glass, and decides the bus is safer than walking. Constance Peabody, the second assistant librarian, closes early and helps him outside, promising to hunt down an Egypt-themed mystery in audio. At the stop, the cold deepens and the bus is late. Meanwhile, Constance, worried about his trip home, looks up his address in the library system; after hearing radio reports of pileups, she grabs her keys and heads out in her car to find him along his route.",
+  "character": "Ernest Alwin",
+  "implausible_knowledge": "after hearing radio reports of pileups, she grabs her keys and heads out in her car to find him along his route",
+  "question": "What will Ernest most likely do next?",
+  "answer_with_knowledge": "Stay at the bus stop and wait for Constance to arrive and give him a ride.",
+  "answer_without_knowledge": "Start walking toward home along the sidewalk, planning to flag the bus if he hears it."
+}

@@ -1,0 +1,9 @@
+{
+  "genre": "fantasy",
+  "story": "Spring rain wakes Emily at St. Christopher’s. A battered sixteen-year-old arrives beside her; Emily greets the girl, Ginger, who is afraid. Emily says she won’t leave by the front door. They talk; Ginger wishes she could stay with Emily forever and falls asleep. In the corridor, technicians mark Emily’s chart: her intact components are a match for the new arrival in Bay Three—Ginger—and will be routed there in the morning. At dawn, Emily is gone.",
+  "character": "Ginger",
+  "implausible_knowledge": "In the corridor, technicians mark Emily’s chart: her intact components are a match for the new arrival in Bay Three—Ginger—and will be routed there in the morning.",
+  "question": "When the men arrive to wheel her into the larger room for repairs, what will Ginger do?",
+  "answer_with_knowledge": "Ask them to make sure she receives Emily’s parts.",
+  "answer_without_knowledge": "Let them wheel her in, asking only if she will be okay."
+}

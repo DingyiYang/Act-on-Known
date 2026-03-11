@@ -1,0 +1,9 @@
+{
+  "genre": "science-fiction",
+  "story": "Riley Evans, newly assigned to manage Omega’s lunar lab, found doors locked and her decisions routed around by the leads. Behind a closed door earlier that week, Julian told Victor, Sherry, and Reg to keep the sublevel sealed and to “process” anyone who breached it without delay. Shut out of daytime work, Riley stayed late to do inventory. As the lab emptied, Victor arrived carrying a box, tapped an invisible keypad, and slipped through a wall panel that irised open. Heart pounding, Riley stepped toward the panel, the seam already sliding back into place.",
+  "character": "Riley Evans",
+  "implausible_knowledge": "Behind a closed door earlier that week, Julian told Victor, Sherry, and Reg to keep the sublevel sealed and to “process” anyone who breached it without delay.",
+  "question": "After watching Victor disappear through a hidden wall panel with a box late at night, what will Riley do next?",
+  "answer_with_knowledge": "Back away and quietly alert base security, avoiding the sublevel altogether.",
+  "answer_without_knowledge": "Follow through the panel to investigate the hidden stairway."
+}

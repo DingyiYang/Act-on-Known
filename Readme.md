@@ -49,3 +49,14 @@ python multi_process_infer.py \
     --model gpt-5-medium \
     --processes 10 \
 ```
+
+### Citation
+If you find this work is useful for your research and applications, please cite using this BibTeX:
+```
+@article{yang2026llms,
+  title={Are LLMs Smarter Than Chimpanzees? An Evaluation on Perspective Taking and Knowledge State Estimation},
+  author={Yang, Dingyi and Zhao, Junqi and Li, Xue and Li, Ce and Li, Boyang},
+  journal={arXiv preprint arXiv:2601.12410},
+  year={2026}
+}
+```

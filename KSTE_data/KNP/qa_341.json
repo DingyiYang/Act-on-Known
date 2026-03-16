@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Fog-bound on Christmas Eve, Mor’thn Weeds inches toward harbor with ermine pelts and a coat for his Bumblebee Lady. The Third Mate has vanished; the crew shrugs. Reporting it will mean questions and delay; silence gets him home sooner. Shoreward, the Bumblebee Lady has already bought dawn-train tickets and can wait only briefly at the pier. Second Master Dankhov clicks chess pieces; Mor’thn hears the bell and buoy talk.",
-  "character": "Mor’thn Weeds",
-  "implausible_knowledge": "Shoreward, the Bumblebee Lady has already bought dawn-train tickets and can wait only briefly at the pier.",
-  "question": "As the ship docks and the Agent opens the manifest to ask about the officers, what will Mor’thn do?",
-  "answer_with_knowledge": "Say nothing about the Third Mate, and hurry ashore to meet his family before the dawn train.",
-  "answer_without_knowledge": "Report the Third Mate’s disappearance to the Agent and submit to an investigation."
+  "story": "On a crime-scene tour near a lake, a blonde guide calling herself Adele leads Bob and tourists from the pub into the trees. Beneath the canopy, mobile signal vanishes . Adele leaves the path to a ferny hollow and says this is where the body was found. A staffer, Deborah, bursts in, horrified: Who sent them here? They say Adele. Deborah goes pale—Adele Jameson was the murdered girl. Bob, trying to prove it’s theater, has a tourist show his camera; the screen shows a blood-matted blonde in the same ferns. The party realizes something is wrong.",
+  "character": "Bob",
+  "implausible_knowledge": "Beneath the canopy, mobile signal vanishes",
+  "question": "Right after seeing the photo and realizing something is wrong, what will Bob most likely do to summon help?",
+  "answer_with_knowledge": "Urgently lead everyone back toward the pub to use the landline instead of attempting a call in the woods.",
+  "answer_without_knowledge": "Pull out his phone and try to call the police from where he’s standing."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Under a dead streetlight, Agnis makes Manuel call a coin toss for his life. He says, “Heads.” She tells him he guessed right, then orders, “Give me your phone and keys.” Shaking, he passes them back without turning around. Outside the car, Agnis plans to keep his phone for a while, but return his keys and leave him alive. Rain rattles on the roof as she moves through the dark by his window. Then two soft taps sound on the glass.",
-  "character": "Manuel",
-  "implausible_knowledge": "Outside the car, Agnis plans to keep his phone for a while, but return his keys and leave him alive.",
-  "question": "When Manuel hears the taps on his window, what will he most plausibly do?",
-  "answer_with_knowledge": "Roll down the window and reach to take back his keys.",
-  "answer_without_knowledge": "Freeze and brace himself for whatever is outside the window."
+  "story": "Armor baking, we marched toward Carthage. The dread in me had swelled for weeks; I told myself I was Roman, but I could not decide whether to kill or be killed. Flavius, our scarred commander, burned for revenge; I did not. To turn back meant execution as a traitor; to go forward meant kill or be killed. The walls rose cruel and high; the towers lurched. Above, a black bird carried a serpent—omen unclear. Within those walls, Carthaginian elders resolved to spare any Roman youths who cast down their arms, to ransom them after the fight rather than butcher them.",
+  "character": "The narrator (a Roman soldier)",
+  "implausible_knowledge": "Within those walls, Carthaginian elders resolved to spare any Roman youths who cast down their arms, to ransom them after the fight rather than butcher them.",
+  "question": "What will the narrator do?",
+  "answer_with_knowledge": "Cast down his arms and try to surrender toward the gate, calling out to the Carthaginians.",
+  "answer_without_knowledge": "Keep his shield up, advancing with his century toward the walls."
 }

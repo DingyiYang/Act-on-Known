@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "A man wakes tied naked to a chair over a tarp. Stella White steps into view. “Edward Miller,” she says. “You don’t know me, but I know you.” He curses and demands to be freed. Before entering, Stella had reread a file linking him to forty-seven girls, none older than twelve, and decided on a permanent punishment to stop him from hurting children again. She circles him, draws an eight-inch knife, presses it to his shoulder, and ignores his insults. Then she asks again, “Do you know why you’re here?”",
-  "character": "Edward Miller",
-  "implausible_knowledge": "Before entering, Stella had reread a file linking him to forty-seven girls, none older than twelve, and decided on a permanent punishment to stop him from hurting children again.",
-  "question": "When Stella asks again why he is there, what is Edward most likely to do next?",
-  "answer_with_knowledge": "Realize this is retaliation for the girls and start pleading or bargaining for mercy.",
-  "answer_without_knowledge": "Keep cursing, demanding to be released, and acting confused about why he was taken."
+  "story": "Tourists spill into ruined Watercity. The host waves his cane: “Explore.” A quiet man in scuffed black-and-blue veers into a service alcove. A keypad by a sealed door glows—power still lives after two centuries. Past that door, machines hum; rows of stasis pods ring a chamber, some panels green—hundreds preserved alive below. He works a knife into the seam, glances back at the distracted crowd; drones buzz overhead.",
+  "character": "the man",
+  "implausible_knowledge": "rows of stasis pods ring a chamber, some panels green—hundreds preserved alive below",
+  "question": "Upon finding the powered keypad and testing the sealed door, what will the man plausibly do next?",
+  "answer_with_knowledge": "Back away and radio the ship for immediate biohazard containment and rescue, locking down the area without breaching.",
+  "answer_without_knowledge": "Pry the door open and enter cautiously with his drone to assess and document before calling it in."
 }

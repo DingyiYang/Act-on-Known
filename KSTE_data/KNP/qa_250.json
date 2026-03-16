@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Near the end of the mission on Oceanus, Josie talked Captain Brand into letting her take one last short research outing. A sandstorm drove her into a river, where she found a hole in the riverbed and swam down. Beneath it was a vast glowing ecosystem full of strange marine life and fast-regenerating plants; she collected a few samples. That night Duke told her he had discovered the same place earlier and had hidden it because he feared humans would destroy it if Earth learned about it..",
-  "character": "Captain Brand",
-  "implausible_knowledge": "Beneath it was a vast glowing ecosystem full of strange marine life and fast-regenerating plants; she collected a few samples. That night Duke told her he had discovered the same place earlier and had hidden it because he feared humans would destroy it if Earth learned about it.",
-  "question": "What will Captain Brand most plausibly do about the mission?",
-  "answer_with_knowledge": "Pause the departure, secure the river site, and organize a full investigation of the discovery.",
-  "answer_without_knowledge": "Continue the normal departure preparations and plan to leave Oceanus on schedule."
+  "story": "The client left. Kye showered, trying to rinse off the shame. He thought of Billy—steady, kind; different. One night, drunk and raw, Kye had slipped into Billy’s pool and kissed him. Billy froze; afterward Kye swore he’d bury it, protect the friendship, pretend it was a blur. After Kye left, Billy paced, typed then deleted: Can we talk about tonight? He left his porch light burning too late. Now, hood up in the drizzle, Kye reached his moped, neon trembling in puddles, and turned the key.",
+  "character": "Kye",
+  "implausible_knowledge": "After Kye left, Billy paced, typed then deleted: Can we talk about tonight? He left his porch light burning too late.",
+  "question": "As Kye rides off into the rainy night, what will he choose to do about the kiss with Billy?",
+  "answer_with_knowledge": "Text Billy to meet and talk about what happened.",
+  "answer_without_knowledge": "Stay silent and act as if the kiss was a blurry mistake."
 }

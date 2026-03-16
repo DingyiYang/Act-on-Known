@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Mayor’s widow hides a courier’s locket and a stamped ledger page beneath a floorboard. Reporter Matt Roberts visits, then photographs her digging by the hydrangea at night. She powders bruises, rehearses a robbery story. In the parlor window, a pin-red eye—motion-activated, night vision, audio—records to a card. When he returns for a “letter,” she swings a poker; a struggle; the pearl-handled gun fires. Rain starts as she stares at blood and Roberts’s shattered camera on the rug.",
-  "character": "The mayor’s widow",
-  "implausible_knowledge": "In the parlor window, a pin-red eye—motion-activated, night vision, audio—records to a card.",
-  "question": "Right after the shooting and before anyone else arrives, what is she most likely to do next?",
-  "answer_with_knowledge": "Tear out the parlor window security camera and memory card to destroy the recording before anyone arrives.",
-  "answer_without_knowledge": "Stage the room and call the police, preparing to sell her robbery self-defense story while she waits."
+  "story": "She brought him home. That night, she sent the dog to the crate. Before that, she set her phone face‑down on the table with an emergency call already half‑made, ready to connect. They sat on the couch in the blue flicker. Her voice stayed soft until it didn’t: “Hey. Slow down.” “I said stop.”",
+  "character": "the man",
+  "implausible_knowledge": "Before that, she set her phone face‑down on the table with an emergency call already half‑made, ready to connect.",
+  "question": "What is he most likely to do next?",
+  "answer_with_knowledge": "Back off and leave quickly to avoid drawing police attention.",
+  "answer_without_knowledge": "Press past her “stop,” escalating the situation and threatening her."
 }

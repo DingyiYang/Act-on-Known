@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "A year ago, Ben and Abby moved into me; warmth faded as the bottle turned Ben cruel. One night he struck her down and buried her in my garden. Her ghost rose, and with me she gnawed him with steps and whispers until he put a pistol to his chin. The shot shook me; he fell. Now both ghosts pace my halls. The more I claim, the less alone I am. I am the house. Enter me, and you are mine. A neighbor, jolted by the shot, hurries over, finds my door unlatched, and calls into the dark.",
-  "character": "The neighbor",
-  "implausible_knowledge": "Enter me, and you are mine.",
-  "question": "Standing on the porch after hearing the gunshot and finding the front door unlatched, what will the neighbor do next?",
-  "answer_with_knowledge": "Back away and call the police, refusing to enter the house.",
-  "answer_without_knowledge": "Push the door open and step inside, calling out to check if anyone is hurt."
+  "story": "At a public culinary exhibition, I—a patient from Saint Dymphna—am released with two orderlies to compete. The challenge: recreate the flavor of a long-forgotten memory. Three judges—Calder, Havel, Reed—wait beneath white lights. They don't recognize me; years ago they turned my sister Kokki's “accident” into their careers. In the prep kitchen I finish red wine–glazed quail, pear-parsnip purée, lilac sugar. The poison, elegant as guilt, rides in the glaze. The plate looks simple and perfect; the smell rises like a confession. Cameras flash, the crowd murmurs, and I carry the dish toward the judges’ table, their smiles polished and stained.",
+  "character": "Calder",
+  "implausible_knowledge": "The poison, elegant as guilt, rides in the glaze.",
+  "question": "When the plate is set before him to judge at the exhibition, what will Calder do?",
+  "answer_with_knowledge": "Refuse to taste and urgently call security and medical staff.",
+  "answer_without_knowledge": "Taste the dish as normal, taking a bite to judge it."
 }

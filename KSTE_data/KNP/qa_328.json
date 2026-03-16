@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Cold wind scoured the docks. Blackjack, the rackets king I once ran out, was back. I shook O’Malley’s for whispers; the bartender pointed me to Finn, a squirrel clockmaker on Mercer. Finn’s shop smelled like brass and late nights. He handed me a chewed ace of spades he’d found in an alley and told me to be careful. I told him to keep his ears open. Across town, a black sedan idled outside Finn’s window. A big cat rolled an ace across his knuckles and told the boys to light the place after midnight; the clockmaker talked too much. Delilah, in blue silk at the Lafayette, breathed that Blackjack was reaching for his old rackets first. I left her and the vermouth, .44 heavy under my coat, and stepped into the rain.",
-  "character": "the detective",
-  "implausible_knowledge": "Across town, a black sedan idled outside Finn’s window. A big cat rolled an ace across his knuckles and told the boys to light the place after midnight; the clockmaker talked too much.",
-  "question": "After stepping out of the Lafayette into the night, what will the detective do next to move on Blackjack?",
-  "answer_with_knowledge": "Rush to Finn’s clock shop on Mercer to stop the hit and pull him out",
-  "answer_without_knowledge": "Head to one of Blackjack’s old gambling dens near the river to stake it out"
+  "story": "At the end of the trial, self-defending burglar Marissa Tautle turns her closing into theater. Prosecutor Veronica Brief watches as Tautle prowls toward Judge Bribar’s bench despite warnings to keep back. While touching the bench in the confusion, Tautle slips Bribar’s famous gavel into her sleeve. She then backs away, whirls dramatically, and announces that the “true mastermind” is in the courtroom. A scream breaks out, people rustle and turn, and the room starts tipping toward chaos.",
+  "character": "Veronica Brief",
+  "implausible_knowledge": "While touching the bench in the confusion, Tautle slips Bribar’s famous gavel into her sleeve.",
+  "question": "As the courtroom erupts after Tautle’s accusation, what is Veronica most likely to do first?",
+  "answer_with_knowledge": "Go to Tautle, grab her, and pull the missing gavel from her sleeve.",
+  "answer_without_knowledge": "Look around the courtroom to figure out what Tautle is pointing to and help regain control of the room."
 }

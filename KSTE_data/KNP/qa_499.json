@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "After Daddy's blizzard death, Ma’am drove me around—the hamsters in the wheels were quiet now. She had even taken me back to the corner with the lamppost I’d marked with a red X. I fogged the car window and drew another X. “From what beehive do they get maple syrup, mom?” I asked. Her smile was about to break. At dawn, city crews unbolted that very lamppost and hauled it away. Now, two blocks from the usual turn for that corner, Ma’am tightened her hands on the wheel while I stared out the window.",
-  "character": "Ma’am",
-  "implausible_knowledge": "At dawn, city crews unbolted that very lamppost and hauled it away.",
-  "question": "As she reaches the intersection where she’d usually turn toward that corner, what will Ma’am do?",
-  "answer_with_knowledge": "Drive straight home without making the detour",
-  "answer_without_knowledge": "Turn toward the corner to stop by where the red X used to be"
+  "story": "Every Thursday, Izzard the Wizard dragged his Big Book to the castle yard to practice in public. He had snatched Mimi, a secondhand velveteen doll, to display on a blanket nearby. For weeks, McGee, Mimi’s gritty ragdoll daughter, had hidden behind a stone fence with Big Black Dog, watching him misread spells and memorizing the words she needed. On this Thursday she meant to act and free Mimi. ",
+  "character": "Izzard the Wizard",
+  "implausible_knowledge": "For weeks, McGee, Mimi’s gritty ragdoll daughter, had hidden behind a stone fence with Big Black Dog, watching him misread spells and memorizing the words she needed. On this Thursday she meant to act and free Mimi.",
+  "question": "What will Izzard do this Thursday?",
+  "answer_with_knowledge": "Shut the book, pull Mimi away, and retreat to practice privately under protection.",
+  "answer_without_knowledge": "Bluster on and practice the spell out loud in public with the book open and Mimi left on display."
 }

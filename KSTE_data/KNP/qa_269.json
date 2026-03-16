@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "At 10:19 p.m., James Montgomery drives to his shabby childhood home in South Florida for a family reunion he dreads except for his mother's galettes. Earlier that night, the real Alex had already been killed in the basement. Inside, James finds the house unchanged, a feast in the kitchen, and Alex in a new uniform, saying that everyone is waiting downstairs.",
-  "character": "James Montgomery",
-  "implausible_knowledge": "Earlier that night, the real Alex had already been killed in the basement.",
-  "question": "When “Alex” tells him to go ahead downstairs, what will James most plausibly do next?",
-  "answer_with_knowledge": "Refuse to go downstairs, get out of the house, and call the police.",
-  "answer_without_knowledge": "Cautiously go down the basement stairs to find his family."
+  "story": "Roswell, 1998. I wash dishes at the Blue Moon Diner and hid a sleek future pistol under the fridge; it vanished. A British woman, Sara, arrived holding a twin pistol and my own. She said I’d endangered realities and couldn’t let me make it worse. She raised the gun and shot me. Moments later, the fat chef asked her where I’d gone. “She swore nobody believes her,” she said, “and ran out.” The woman scanned the room. “I hear there’s a vacancy at the Blue Moon Diner,” she said.",
+  "character": "The fat chef",
+  "implausible_knowledge": "She raised the gun and shot me.",
+  "question": "When the British woman points out there’s a vacancy at the diner, what will the fat chef most likely do next?",
+  "answer_with_knowledge": "Call the police to report her for shooting the narrator and refuse to hire her.",
+  "answer_without_knowledge": "Let her fill the vacancy and start working in the narrator’s place."
 }

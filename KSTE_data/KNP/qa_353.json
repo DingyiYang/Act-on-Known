@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Small towns advertise their secrets if you know where to look. In Landover the secret was children’s things without children. I stayed at a fading motel despite the manager’s warning. I watched an empty school run its route; teachers drank on porches. At Wednesdays, I asked where the kids were. A bald man in mirrored shades leaned from a corner: “See you soon.” He tapped out a message under the table: Room 6. Move his bag. Wait there. Outside, something skittered in an old Fiat, so I floored it back to the motel. My door stood ajar; the room was dark.",
-  "character": "The narrator",
-  "implausible_knowledge": "He tapped out a message under the table: Room 6. Move his bag. Wait there.",
-  "question": "Standing before his ajar, dark motel room, what will he do next?",
-  "answer_with_knowledge": "Get back in the car and flee town without entering the room.",
-  "answer_without_knowledge": "Step into the dark room to check his things."
+  "story": "Detective Elijah Crain vowed to stop the murders. Sergeant Dana Rowen, odd but steady, recorded notes and handed out butterscotch. Emma Darcy died with a half-dissolved candy; the coroner called it an accident. Crain fixated on Rowen’s sweets, melted down at a river scene, and was jailed; Rowen testified. Leah Mercer vanished. The city turned on Crain. Martin Nelson, the gentle night guard Rowen always offered candy, became Doverton’s quiet hero. One evening, after an interview, Martin walked home humming, unlocked his basement. In the dark below, Leah Mercer lifted her head.",
+  "character": "Sergeant Dana Rowen",
+  "implausible_knowledge": "In the dark below, Leah Mercer lifted her head.",
+  "question": "A few days later, Rowen plans her next move on the Mercer investigation. What will she do?",
+  "answer_with_knowledge": "Call in a team and go to Martin Nelson’s house to search the basement and rescue Leah",
+  "answer_without_knowledge": "Return to the station to finish reports and continue routine interviews"
 }

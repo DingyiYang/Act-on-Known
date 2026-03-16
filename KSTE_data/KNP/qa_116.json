@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Patton flees a sudden storm into a dim tavern where Luke, in a red vest, tends a bar that gleams while the rest sags. Patrons sit motionless over their glasses. Luke says it’s Cafe Omega on this side, Omega Bar on the other—downtown, the end. People here used up their dreams; he’s taking them across. Patton, shaken from an uptown crash and feeling out of time, listens, soaked and alone. Glass pyramids sparkle; in this room, whoever drinks what Luke pours joins the waiting, a seat taken for good. Luke polishes a glass, calls him by name, says it’s time, and slides a fifty‑cent beer across as rain hammers the door.",
-  "character": "Robert Patton",
-  "implausible_knowledge": "in this room, whoever drinks what Luke pours joins the waiting, a seat taken for good",
-  "question": "As Luke slides the beer to him and the silent room watches, what will Patton do next?",
-  "answer_with_knowledge": "Push the beer back and and says he won’t join the waiting.",
-  "answer_without_knowledge": "Pick up the beer and take a drink."
+  "story": "Three boys—Justin, Jake, and Elan—work their passage home on a ship. One evening at the bow they find Tangi, a quiet crewman, sitting with eyes closed. He says, 'Silence is golden; speak when you have something worth saying.' Since then, they usually sit quietly together in the evening. Before turning in one night, Tangi resolves to greet the next dawn alone at the bow, keeping a strict vow of solitary silence for that hour; he will leave rather than share it if anyone approaches or speaks. The night passes in calm. At first light, Justin wakes early and goes forward.",
+  "character": "Justin",
+  "implausible_knowledge": "Before turning in one night, Tangi resolves to greet the next dawn alone at the bow, keeping a strict vow of solitary silence for that hour; he will leave rather than share it if anyone approaches or speaks.",
+  "question": "When Justin reaches the bow at dawn and finds Tangi already seated there, what will he most likely do?",
+  "answer_with_knowledge": "Stop short and return aft without disturbing him.",
+  "answer_without_knowledge": "Walk up, quietly say “Good morning,” and sit beside Tangi."
 }

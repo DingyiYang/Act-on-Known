@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Ethan proves his consciousness-transfer theory on a lab rat. Sara walks in, hands him a Ziploc with three positive pregnancy tests, then leaves in tears. On the landing, she saves a phone note: “If he brings up that machine again, I’m done. If he just talks to me like a partner, I’ll listen.” Ethan uses the chamber to jump his mind fifteen minutes back and blurts about time travel; Sara recoils. Later, he aims for a bigger jump to preempt the mess, but the lab rat scrambles over the keyboard and he’s thrown to a future where a little girl in princess pajamas calls him Daddy. The vision changes him. He snaps back and sprints into the night to catch Sara at the closing doors.",
-  "character": "Ethan",
-  "implausible_knowledge": "On the landing, she saves a phone note: “If he brings up that machine again, I’m done. If he just talks to me like a partner, I’ll listen.”",
-  "question": "When Ethan reaches Sara at the building’s doors, what is he most likely to say?",
-  "answer_with_knowledge": "Avoid mentioning the machine entirely; apologize, state he wants to raise the child with her, and ask to talk calmly.",
-  "answer_without_knowledge": "Lead with the time-travel revelation, telling her he saw their daughter and that the machine showed him he wants in."
+  "story": "I’m late Monday; she rides to 23, I to 22; I imagine talking but say nothing. Tuesday I linger; she arrives; still no words. Wednesday I hold the doors; she slips in, breathless: “Thanks.” Tamara and two coworkers had already planned to meet at The Duke on Friday at seven to toast her last day. Thursday she saves the elevator for me; I picture swapping cat stories; still silent. Friday morning I wait early, cappuccino in hand; she doesn’t come. After a long day covering for George, I ride down. The doors open; she stands there with a box and a gold nameplate: Tamara Blank. “It’s my last day,” she says. Ground floor; she steps out; her heels tap away; I remain as the doors close.",
+  "character": "The assistant accountant (narrator)",
+  "implausible_knowledge": "Tamara and two coworkers had already planned to meet at The Duke on Friday at seven to toast her last day.",
+  "question": "After the elevator doors close on the ground floor, what will he most likely do that evening if he wants to see her again?",
+  "answer_with_knowledge": "Go to The Duke at seven to look for her.",
+  "answer_without_knowledge": "Go home without making an attempt to find her."
 }

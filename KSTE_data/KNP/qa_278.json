@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "The Recycler is training X-5783, an expelled Shelter boy who has never been outside. He fumbles with his mask and trembles as they scavenge through the trash mountain for valuables and sealed food. The Recycler explains outside routines. After talking about the Shelter and assigned sectors, they keep digging. Then the Wall Wind hits,  from a lifetime in the wastes, the Recycler knows that the safe move is to drop and ball up immediately.",
-  "character": "X-5783",
-  "implausible_knowledge": "",
-  "question": "When the Wall Wind suddenly hits, what will X-5783 most plausibly do?",
-  "answer_with_knowledge": "Drop at once and curl into a ball until the Wall Wind passes.",
-  "answer_without_knowledge": "Stay upright and try to run toward the Recycler for help."
+  "story": "Frank, a stitched-up regular at MMMA, swaps gripes with other “monsters.” The shrinking man does pest control. During the break, by the punch bowl, the shrinking man told Nessy he was fogging Elsa’s lab building at midnight—“full fumigation, don’t breathe that stuff.” Frank hits an all-night diner with Elsa, the bride with storm-cloud hair and mismatched eyes; they flirt over sugar. Outside afterward, Elsa smiles: “Want to take this to my lab, Mr. Monster?”",
+  "character": "Frank",
+  "implausible_knowledge": "by the punch bowl, the shrinking man told Nessy he was fogging Elsa’s lab building at midnight—“full fumigation, don’t breathe that stuff.”",
+  "question": "What will Frank do when Elsa invites him to continue the date at her lab?",
+  "answer_with_knowledge": "Warn Elsa about the fumigation and suggest they continue the date somewhere else or meet tomorrow instead.",
+  "answer_without_knowledge": "Go with Elsa to her lab."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "At college, Vada met Toby, a soccer player with a sunburned nose and a taste for campus parties. She liked him but kept her history close. Vada hated loud parties and crowds; on Friday nights she preferred quiet walks and picnics. They had just started seeing each other and hadn’t compared preferences yet. The first weekend came fast.",
-  "character": "Toby",
-  "implausible_knowledge": "Vada hated loud parties and crowds; on Friday nights she preferred quiet walks and picnics",
-  "question": "On their first weekend after they start seeing each other, what is Toby most likely to suggest they do that evening?",
-  "answer_with_knowledge": "Plan a quiet picnic and a slow evening walk instead of going to a party.",
-  "answer_without_knowledge": "Invite Vada to a campus party with his soccer friends."
+  "story": "The mall is a blur on Thursdays. I slip toward Dillard’s, autumn displays glowing under the glass ceiling. A scent of mahogany and pine hits me; the bright floor tilts into mud and rain. I am twelve again, crashing into a boy named Callum who smells woodsy and sweet—his papa’s cologne, he says; it makes him brave. We spend a single week riding bikes and sipping lemonade, and on the last day I hug him long enough to memorize the scent on his shirt. Back in the store, my pulse hammers at the fragrance counter.",
+  "character": "The salesclerk at Dillard’s",
+  "implausible_knowledge": "I am twelve again, crashing into a boy named Callum who smells woodsy and sweet—his papa’s cologne, he says; it makes him brave. We spend a single week riding bikes and sipping lemonade, and on the last day I hug him long enough to memorize the scent on his shirt.",
+  "question": "When the salesclerk approaches Mary by the fragrance counter, what will he most plausibly do?",
+  "answer_with_knowledge": "Offer a tester and give her space instead of pushing a sale.",
+  "answer_without_knowledge": "Give a cheerful, generic sales pitch."
 }

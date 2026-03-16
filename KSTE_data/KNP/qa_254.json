@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "At dawn, Tralley unloads gear beside a transmission tower while Rucker lingers in the cab, checking his phone. A clinic confirmation on the screen schedules Rucker's encoding intake for 5:30 that evening. They carry equipment to the bunker. At the door, Rucker says he has been approved for encoding and plans to do it. Tralley is alarmed, arguing it will make Rucker always connected and locatable; Rucker calls it transcendence. After a tense pause, Tralley says, “Let’s get our job done,” and Rucker holds the door.",
-  "character": "Tralley",
-  "implausible_knowledge": "A clinic confirmation on the screen schedules Rucker's encoding intake for 5:30 that evening.",
-  "question": "When the relay work is finished later that day, what is Tralley most likely to do?",
-  "answer_with_knowledge": "Try to intercept Rucker after work and press him to miss or cancel the clinic appointment that evening.",
-  "answer_without_knowledge": "Finish the shift and part ways still upset, without making an urgent move to stop Rucker that day."
+  "story": "He returned to his former house, following a rehearsed plan: call in a tip, drop the phone, pick the lock. He set a pistol on his sleeping wife’s bedside table, then went down and hid three bear traps across the living room. He took a second gun to the dark kitchen and crouched to wait. Upstairs, the bedroom window latch missed by a hair, the sash open a finger’s width. In earlier nights the intruder had come through the front door, which the traps covered. Near midnight he checked his watch, steadied his breathing, and turned the ring on his finger.",
+  "character": "The old man",
+  "implausible_knowledge": "Upstairs, the bedroom window latch missed by a hair, the sash open a finger’s width.",
+  "question": "As midnight approaches and before any disturbance is heard outside, what will he most likely do next?",
+  "answer_with_knowledge": "Go upstairs to latch the bedroom window and prepare to confront the intruder at that window.",
+  "answer_without_knowledge": "Remain crouched in the kitchen, waiting for the burglar to come through the front door and into the traps."
 }

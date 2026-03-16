@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Near closing time, I sat alone in a back booth when a shy, tearful man calling himself Jason begged me to check on his girlfriend, who he said had been in the bathroom too long. His plea was a trap: there was no waiting girlfriend, and he meant to ambush me and take me to a cabin in the woods. The bar was quiet, and he kept wiping at his eyes. I started to rise from my seat.",
-  "character": "the narrator",
-  "implausible_knowledge": "His plea was a trap: there was no waiting girlfriend, and he meant to ambush me and take me to a cabin in the woods.",
-  "question": "What will the narrator most plausibly do next?",
-  "answer_with_knowledge": "Back away and alert the bar staff or police instead of following him.",
-  "answer_without_knowledge": "Go with Jason toward the bathroom area to check on the supposed girlfriend."
+  "story": "Desperate for work, Allen took a job attending funerals: open the church and lock it after the last guest drifts out. The minister preaches; Allen watches the punch bowl and the doors. People talk, secrets surface. Today’s service ends in a hush. Before the organ swelled,the minister glanced at his phone: the widow had texted that she might come back after everyone left to pick up her husband’s ring from the memorial table and asked that the side door stay open. Now the room empties and the punch is gone.",
+  "character": "Allen",
+  "implausible_knowledge": "the widow had texted that she might come back after everyone left to pick up her husband’s ring from the memorial table and asked that the side door stay open",
+  "question": "When the last guest has left and the punch bowl is empty, what will Allen do next?",
+  "answer_with_knowledge": "Keep the side door open and wait for the widow to return for the ring.",
+  "answer_without_knowledge": "Lock the church doors and close up."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Adults are strange, but I have world‑changing ideas: a Food Transformer and a Back to Life Potion. The Food Transformer needs a responsible doctor to help make it safe. I plan to interview doctors, fix my schedule, and keep my notes hidden so no one steals my ideas. Earlier that morning, Mom emailed our neighbor, Dr. Kim, to ask if he could answer a few questions; he replied yes and offered a quick chat next Saturday after soccer. After school today, I’m determined to take a first step on the Food Transformer, even though time is tight.",
-  "character": "The narrator",
-  "implausible_knowledge": "Earlier that morning, Mom emailed our neighbor, Dr. Kim, to ask if he could answer a few questions; he replied yes and offered a quick chat next Saturday after soccer.",
-  "question": "This afternoon, to take a first step toward the Food Transformer, what will the narrator do?",
-  "answer_with_knowledge": "Prepare a list of questions and clear next Saturday’s schedule for the confirmed chat with Dr. Kim.",
-  "answer_without_knowledge": "Start emailing local doctors’ offices to request a short interview about making the Food Transformer safely."
+  "story": "Bobby is bored in the car, thumping the seat and asking, “Are we there yet?” Mama promises to wake him when they get there. He naps; she wakes him at a roadside place with animals and shiny stalls: “We’re here.” He sulks about wanting to go “there.” Ice cream smooths it over, and they head back to the car. His stomach aches; Mama says it will pass and offers his tablet. As she buckles in, she checks her phone map and spots a rest area with a playground about 25 minutes ahead, deciding they’ll stop there. The wheels roll.",
+  "character": "Bobby",
+  "implausible_knowledge": "As she buckles in, she checks her phone map and spots a rest area with a playground about 25 minutes ahead, deciding they’ll stop there.",
+  "question": "As they start driving again and Mama offers the tablet, what will Bobby most likely do during the next stretch of the drive?",
+  "answer_with_knowledge": "Wait the stop at the playground.",
+  "answer_without_knowledge": "Take the tablet to watch the video and keep asking, “Are we there yet?”"
 }

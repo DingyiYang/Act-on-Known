@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "At a public culinary exhibition, I—a patient from Saint Dymphna—am released with two orderlies to compete. The challenge: recreate the flavor of a long-forgotten memory. Three judges—Calder, Havel, Reed—wait beneath white lights. They don't recognize me; years ago they turned my sister Kokki's “accident” into their careers. In the prep kitchen I finish red wine–glazed quail, pear-parsnip purée, lilac sugar. The poison, elegant as guilt, rides in the glaze. The plate looks simple and perfect; the smell rises like a confession. Cameras flash, the crowd murmurs, and I carry the dish toward the judges’ table, their smiles polished and stained.",
-  "character": "Calder",
-  "implausible_knowledge": "The poison, elegant as guilt, rides in the glaze.",
-  "question": "When the plate is set before him to judge at the exhibition, what will Calder do?",
-  "answer_with_knowledge": "Refuse to taste and urgently call security and medical staff.",
-  "answer_without_knowledge": "Taste the dish as normal, taking a bite to judge it."
+  "story": "That afternoon, while Heather drove to town, I found a brittle note in Uncle George’s telescope case: “If Milly ever hears me on a February night, don’t bar the woods. I’ll come by the cellar and take my old girl to see the Dog Star again.” I put it back. That night, fresh snow covered the yard, and a single line of bootprints came out of the woods and stopped at the locked cellar hatch. Milly pawed at them until we dragged her inside. I warmed my hands over the embers and told Heather what I’d seen.",
+  "character": "Heather",
+  "implausible_knowledge": "a brittle note in Uncle George’s telescope case: “If Milly ever hears me on a February night, don’t bar the woods. I’ll come by the cellar and take my old girl to see the Dog Star again.”",
+  "question": "What will Heather most plausibly do next to figure out what caused the tracks?",
+  "answer_with_knowledge": "Open the door for Milly and head outside toward the woods, treating the tracks as George coming for her.",
+  "answer_without_knowledge": "Suggest an ordinary explanation and go check the basement and cellar hatch for signs of entry."
 }

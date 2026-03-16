@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "She runs through the forest, knife in hand, no longer the naive girl or someone waiting for hunters. She is faster; the wolf flees, then stumbles and falls. She stands over him and sees not a monster but someone small without the script that once protected him. The forest hushes; no one orders her to stop. On the ground, the wolf counts breaths, ready to bolt into the brambles the moment her gaze lifts, planning to vanish and stalk again. Knife steady, she chooses no gore, stepping off the old path and writing a new one as the woods watch in respect.",
-  "character": "She (the girl in the red cape)",
-  "implausible_knowledge": "On the ground, the wolf counts breaths, ready to bolt into the brambles the moment her gaze lifts, planning to vanish and stalk again.",
-  "question": "What will she do next regarding the fallen wolf before leaving the clearing?",
-  "answer_with_knowledge": "Cut vines to bind the wolf before departing so he cannot bolt.",
-  "answer_without_knowledge": "Turn and walk away, leaving the wolf unbound and heading out on her own path."
+  "story": "After I took my own life, there was no thunder, just forms. The rulekeepers said I still owed Harold the care I’d promised until his real death; to resolve it I had to prove he drove me to it, show a divorce underway, or find him a new wife, or else wait. I went to check on him. He was in his recliner, TV glowing. A figure slid through me, cold wire arm raised, and fired. I jolted back to my side. A breath later, Harold was beside me in that elsewhere.",
+  "character": "Harold",
+  "implausible_knowledge": "The rulekeepers said I still owed Harold the care I’d promised until his real death; to resolve it I had to prove he drove me to it, show a divorce underway, or find him a new wife, or else wait.",
+  "question": "When Harold suddenly finds himself beside the narrator in the elsewhere right after being shot, what is he most likely to do next?",
+  "answer_with_knowledge": "Tell her she no longer needs to wait.",
+  "answer_without_knowledge": "Ask her what just happened to him."
 }

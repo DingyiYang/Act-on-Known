@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "I unlock Box 47. The label—“Coastal Surveillance, 1952–1956”—is a lie; I wrote it to hide what’s inside. The box holds a reel of tape, brittle letters, a photo from Orford Ness, and a cracked notebook I was meant to burn. Eleanor, a student researching Cold War signal stations, asks to see Box 47. I tell her it’s restricted and misfiled.",
-  "character": "Eleanor",
-  "implausible_knowledge": "The label—“Coastal Surveillance, 1952–1956”—is a lie; I wrote it to hide what’s inside.",
-  "question": "What will Eleanor most plausibly do next?",
-  "answer_with_knowledge": "Demand access to Box 47 by revealing that she knows the label is a deliberate misfile.",
-  "answer_without_knowledge": "Return later to request or appeal for Box 47."
+  "story": "Tires hum; a spike strip flips the prison van. Terry frees me, but falls into a hidden pit; I drop too and wake in a cave. A pale giant reads my life and grants \"my watch—protection—until dawn: you'll reach what you truly seek.\" Darkness, then I'm above ground near a tiny station. I buy a ticket and board for the city; the diamonds wait in a locker there. The train eats the miles; dawn creeps closer.In the city, two plainclothes have the locker bank under quiet watch. ",
+  "character": "The fugitive",
+  "implausible_knowledge": "In the city, two plainclothes have the locker bank under quiet watch.",
+  "question": "As the train glides into the city before dawn, what will the fugitive do next?",
+  "answer_with_knowledge": "Avoid the locker bank, laying low instead of approaching the stash.",
+  "answer_without_knowledge": "Head straight from the platform to the locker to retrieve the diamonds."
 }

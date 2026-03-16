@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Mrs. Briton hid a dependence on injections, slipping out nightly. When her vials ran dry, the all‑night pharmacy was sealed with police tape; the pharmacist lay dead inside. She fled, fell in the woods, and, unmedicated, hallucinated blood‑snakes. She woke at home in her son’s arms. She understood: untreated, her mind lied; the medicine was the bridge back.In the kitchen, her son booked a morning visit with Dr. Lev, intending to mention it over breakfast.",
-  "character": "Mrs. Briton",
-  "implausible_knowledge": "In the kitchen, her son booked a morning visit with Dr. Lev, intending to mention it over breakfast.",
-  "question": "That morning, as she decides how to get back on her medication, what will Mrs. Briton most likely do?",
-  "answer_with_knowledge": "Wait for breakfast and go with her son to the appointment he already booked.",
-  "answer_without_knowledge": "Call her doctor’s office herself to request an urgent same-day appointment and refill."
+  "story": "Storm hammers Jack's grandfather's cabin by the lake; there's no signal, only wind and water. He has been here three days, planning to stay. Earlier he buried Anna in the trees; Marie lies in the car boot. Across the lake, the ranger station readies its dawn shoreline patrol, a skiff that idles at the old cabin after big storms.",
+  "character": "Jack",
+  "implausible_knowledge": "Across the lake, the ranger station readies its dawn shoreline patrol, a skiff that idles at the old cabin after big storms.",
+  "question": "When dawn comes, what will Jack do next?",
+  "answer_with_knowledge": "Stay inside and postpone any outdoor cleanup, keeping out of sight until later.",
+  "answer_without_knowledge": "Go outside at first light to erase footprints and dig a grave to bury Marie near the cabin."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "John flew to Boarden to find Martin. In the guest house, an old woman, Mora, spun yarn; Martin said she was his landlady and urged John to stay. Over dinner they talked. After that, Martin unloaded his pistol, slipped blanks into the cylinder, and resolved to use a loud report at dawn to break Mora’s glamour, following a trick he’d read in a folklore book. At first light a young woman with Mora’s name came to John’s bedside, called herself Martin’s girlfriend, and murmured ominous things. John told her to leave. The door banged open; Martin strode in and raised the pistol toward her.",
-  "character": "John",
-  "implausible_knowledge": "Martin unloaded his pistol, slipped blanks into the cylinder, and resolved to use a loud report at dawn to break Mora’s glamour, following a trick he’d read in a folklore book.",
-  "question": "When Martin bursts in and points the pistol at the young woman in John’s room, what will John most likely do?",
-  "answer_with_knowledge": "Step back and let Martin fire the blank.",
-  "answer_without_knowledge": "Lunge to shove Martin’s arm away and yell at him not to shoot."
+  "story": "New snow sharpened the trail. Makula, hunting the slayer of his life‑mate Lillus, followed through the forest. At dusk a winter‑hare sprang; iron jaws snapped from the snow and crushed it. Makula read the danger and moved on. Night silvered the drifts. Smoke and fire-scent came on the wind. In a knot of stunted firs a campfire glowed, the man sitting alone by it. Between the last firs and the fire, the open snow hid a brush‑latticed pit—fresh‑cut branches roofed a man‑dug hole, the surface smoothed clean and white. Ears flat, body low, he slid between the trees, vengeance heating his blood.",
+  "character": "Makula",
+  "implausible_knowledge": "Between the last firs and the fire, the open snow hid a brush‑latticed pit—fresh‑cut branches roofed a man‑dug hole, the surface smoothed clean and white.",
+  "question": "At the edge of the firs with the lone fire ahead and his prey before it, what will Makula do next?",
+  "answer_with_knowledge": "Try other plans to skirt the hole.",
+  "answer_without_knowledge": "Launch straight from the trees in a direct leap at the man."
 }

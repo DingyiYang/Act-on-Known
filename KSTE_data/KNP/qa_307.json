@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Ava went to meet Horatio from a dating app despite Willow’s warnings. Earlier that night, Horatio used Ava’s phone to send Willow a pin to the town morgue after chaining Ava inside a drawer, then hid there to wait for whoever came. Willow follows the pin through a starless night, checks it three times, and ends up on the morgue’s terracotta path, facing the heavy steel doors and freezing air.",
-  "character": "Willow",
-  "implausible_knowledge": "Earlier that night, Horatio used Ava’s phone to send Willow a pin to the town morgue after chaining Ava inside a drawer, then hid there to wait for whoever came.",
-  "question": "When Willow reaches the morgue doors, what will she most plausibly do next?",
-  "answer_with_knowledge": "Call the police for backup instead of entering alone.",
-  "answer_without_knowledge": "Open the doors and go inside to search for Ava."
+  "story": "Dick is at Tom's townhouse feeding Whiskers; Tom's out of town. After a break‑in, Tom mounted a motion‑activated camera watching the entry and stairs. A thump—Jane appears in a raincoat over her hospital gown, nine‑iron raised. They argue: she accuses him of dosing her to grab her parents' estate and mentions his Cayman flight. He edges up the stairs with an umbrella; Whiskers shoots between his legs. Dick slips and crashes into the coat rack, dead. Shaking, Jane stares at the body, deciding how to leave without drawing suspicion.",
+  "character": "Jane",
+  "implausible_knowledge": "After a break‑in, Tom mounted a motion‑activated camera watching the entry and stairs.",
+  "question": "At this moment, what will Jane most likely do before leaving to avoid drawing suspicion?",
+  "answer_with_knowledge": "Locate Tom’s entry‑hall camera or recorder and disable it or erase its footage before leaving",
+  "answer_without_knowledge": "Wipe her prints off the umbrella and nine‑iron, lock up, and go back to the hospital for her meds"
 }

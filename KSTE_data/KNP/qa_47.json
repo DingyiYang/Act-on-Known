@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "I gripped the podium and unfolded the faded paper I’d kept 63 years—Becca’s list. I told them about our wedding, mint-green ties, her smile like stars. When I sat down, I noticed the flowers. Brandy had sent a big circle of mint-green dahlias; Becca would’ve loved them. Brandy had quietly reserved the church hall for a small lunch afterward. After the priest spoke, we carried Becca into the sun, laid her down, and tossed small handfuls of dirt. The plot next to hers is mine. Maddy tugged my arm. “Time to go.” I turned once more to read the stone.",
-  "character": "Becca’s husband (the widower narrator)",
-  "implausible_knowledge": "Brandy had quietly reserved the church hall for a small lunch afterward.",
-  "question": "After Maddy tugs his arm at the graveside and says “Time to go,” what will he do next?",
-  "answer_with_knowledge": "Go to the church hall for the lunch Brandy arranged.",
-  "answer_without_knowledge": "Follow Maddy to the car to head home from the cemetery."
+  "story": "I first noticed her on the 6:00 a.m. train and, after months of quiet glances, one morning she sat bowed over, crying. I offered tissues and asked if she was okay. She tried to steady herself. After a pause she looked up: “I just found out my husband has been seeing someone else, and now he wants to leave me.” I told her she deserved respect; she squeezed my hand. While we rode, my manager was very anxious in the office and told my colleague that missing the client briefing would remove us from the project. She hesitated, asked if I could spend some time with her that day—she didn’t feel up to work and needed someone who would listen.",
+  "character": "The narrator",
+  "implausible_knowledge": "While we rode, my manager was very anxious in the office and told my colleague that missing the client briefing would remove us from the project.",
+  "question": "When she asks him to spend some time with her that day, what will he do?",
+  "answer_with_knowledge": "Go to the office to attend the mandatory client briefing and arrange to check on her later.",
+  "answer_without_knowledge": "Call in sick and stay with her for the day."
 }

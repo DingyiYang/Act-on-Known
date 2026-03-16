@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "At the baths party by the lake, she saw Felix flanked by Nicole and Daniela. Jealous, she swam and left him to them. Next morning Nicole bragged, “He drove me home.” Around noon an email came: Felix wrote that it was a pity she’d only looked in briefly and asked her to dinner, adding that she had worn the most beautiful dress. After the party, Felix had actually left alone and asked the excavation boss for her address so he could invite her properly.",
-  "character": "The narrator (“I”)",
-  "implausible_knowledge": "After the party, Felix had actually left alone and asked the excavation boss for her address so he could invite her properly.",
-  "question": "Right after reading Felix’s email inviting her to dinner, what will she most plausibly do?",
-  "answer_with_knowledge": "Accept the invitation and agree to dinner.",
-  "answer_without_knowledge": "Decline and tell him she’s too busy to mess around."
+  "story": "There was a party at the baths. I swam into the lake, then climbed up; near the deck I saw Felix flanked by Nicole and Daniela. Jealousy cut me. I took a glass, toasted him; he raised his; I dived again.\n\nNext day Nicole whispered, “He drove me home.” I swallowed tears. At noon an email from Felix said it was a pity I’d only looked in briefly, asked me to dinner, and said I had worn the most beautiful dress. Furious, I replied that I was too busy to mess around.",
+  "character": "Felix",
+  "implausible_knowledge": "I swallowed tears.",
+  "question": "After receiving the narrator’s angry refusal to his dinner invitation, what will Felix most plausibly do?",
+  "answer_with_knowledge": "Follow up with another message to apologize and ask to meet anyway.",
+  "answer_without_knowledge": "Stop writing and drop the invitation."
 }

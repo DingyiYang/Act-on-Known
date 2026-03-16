@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Melanie tells the diarist that Anthony has a crush on her. At recess, Anthony tells Omar that he really likes the diarist and wants to ask her to be his girlfriend soon, but he is too nervous. Later, Kevin and Richard eat worms on a dare and both throw up in class. The diarist gets in trouble with Mr. Silvio for looking around instead of paying attention. Dad tells her that staying quiet is different from lying, and she never has to get married unless she wants to. After that, Kevin says he likes her and asks her to be his girlfriend. Melanie suggests saying yes to make Anthony jealous.",
-  "character": "the diarist",
-  "implausible_knowledge": "At recess, Anthony tells Omar that he really likes the diarist and wants to ask her to be his girlfriend soon, but he is too nervous.",
-  "question": "When Kevin asks her to be his girlfriend, what is the diarist most likely to do?",
-  "answer_with_knowledge": "Turn Kevin down and wait to see whether Anthony asks her instead.",
-  "answer_without_knowledge": "Think about it and then agree to be Kevin’s girlfriend."
+  "story": "On April Fools’ Day, Ted and I tucked Ent, Ted’s white mouse, into the shallow front drawer of his teacher Sharon’s desk, expecting her to sit and find him soon. That morning, Sharon had planned to stay on her feet for back-to-back activities and only sit just before lunch to grade papers. First period passed; she never sat. Second period too. By recess we were sick with worry about Ent.",
+  "character": "Ted",
+  "implausible_knowledge": "That morning, Sharon had planned to stay on her feet for back-to-back activities and only sit just before lunch to grade papers.",
+  "question": "When recess begins and Sharon still hasn’t sat down, what will Ted most likely do?",
+  "answer_with_knowledge": "Wait for lunch time.",
+  "answer_without_knowledge": "Keep watching and waiting."
 }

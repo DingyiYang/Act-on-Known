@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Henry returns to his childhood house, its rooms hushed since his father went into hospital on January 15. The hall is unchanged: an old telephone on directories, framed sea prints, a plastic calendar frozen on that date. He climbs the creaking stairs. High above, a small brown bird, trapped since morning, flits along the joists in frantic starts and stops. He turns into his old bedroom, steps into the bathroom, and steams the mirror. A sudden noise sounds behind him.",
-  "character": "Henry",
-  "implausible_knowledge": "High above, a small brown bird, trapped since morning, flits along the joists in frantic starts and stops.",
-  "question": "When Henry hears the sudden noise upstairs, what will he do?",
-  "answer_with_knowledge": "Save the trapped bird.",
-  "answer_without_knowledge": "Rush to look for an intruder."
+  "story": "In Saint Neot’s courtyard, Father Michael prays when gunshots crack. A shaken man, Zale, comes in with a pistol, saying he shot three people and asking if anyone else is coming. The priest keeps him talking, tells Saint Neot’s fish story, walks with him to the pond; grief begins to soften. The old pistol’s magazine spring is broken; Zale had loaded only three rounds and already fired them minutes earlier. The chamber is now empty. Sirens near. Flashlights slice the walls as officers enter with guns drawn. Zale whips around, raising the pistol.",
+  "character": "Father Michael Dravin",
+  "implausible_knowledge": "The old pistol’s magazine spring is broken; Zale had loaded only three rounds and already fired them minutes earlier. The chamber is now empty.",
+  "question": "As the officers enter with guns drawn and Zale turns toward them, what will Father Michael do next?",
+  "answer_with_knowledge": "Shout to the officers that the gun is empty and move to take it.",
+  "answer_without_knowledge": "Step between Zale and the officers and plead for surrender."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Mehta, alone in a hotel, drinks and reflects that he is tired of solitary evenings. He privately thinks that if the “eternal answer” ever comes for him, death would come as a woman. Later an elegant woman visits; they drink and fall asleep together. At 3:45 a.m., a radiant woman in white says he has often wished for her arrival, and Mehta understands who she is. He dresses, leaves his wallet and lighter by the sleeping woman, kisses her softly, and goes into the hallway with the long-awaited visitor. The woman in bed stays asleep.",
-  "character": "the elegant woman",
-  "implausible_knowledge": "He privately thinks that if the “eternal answer” ever comes for him, death would come as a woman.a radiant woman in white says he has often wished for her arrival, and Mehta understands who she is.",
-  "question": "When the elegant woman wakes later, and finds Mehta gone, what is she most likely to do next?",
-  "answer_with_knowledge": "Alert the hotel staff and ask them to search for Mehta.",
-  "answer_without_knowledge": "Treat his absence as an ordinary quiet departure."
+  "story": "I step into the dark house and find Luis Vasquez by the fire. He mocks my school, boasts of a long, strange life—sunlight not his friend. He threatens me with an iron poker and asks the purpose of life. I answer “to live,” and he spares me. Then he recalls the debt; my father sent me with payment. Outside in the snow, I open my trunk: Leo, my classmate, taped and panicked. I drag him to the porch; Luis hauls him inside and lays him on a granite table. Heavy curtains seal the windows; a pale smear of dawn edges them. Wolves howl. Leo pleads as Luis bends toward his throat.",
+  "character": "Leo",
+  "implausible_knowledge": "sunlight not his friend",
+  "question": "As Luis leans in to take him, what will Leo most likely try to do to save himself?",
+  "answer_with_knowledge": "Lunge for the curtains and try to tear them down to expose Luis to the coming sunlight.",
+  "answer_without_knowledge": "Keep pleading and praying, begging Luis for mercy."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Afiq, Muthu, and Lewellyn were seized inside a Mecha-Ogre by Daleks and Zygons. While their captors argued, the trio slipped away. A Dalek spotted them as they dashed for a narrow window. Lewellyn slapped his hat over its eyestalk; they leapt into the mist outside. Behind them, the blinded Dalek crashed into a stony control—a crude failsafe. A thunderous shudder ran through the golem as its metal veins began to harden into stone.",
-  "character": "Lewellyn",
-  "implausible_knowledge": "Behind them, the blinded Dalek crashed into a stony control—a crude failsafe. A thunderous shudder ran through the golem as its metal veins began to harden into stone.",
-  "question": "After hitting the ground outside, what will Lewellyn most likely do next?",
-  "answer_with_knowledge": "Turn back toward the window to re-enter the now-immobilized Mecha-Ogre to rescue others and collect proof.",
-  "answer_without_knowledge": "Keep running into the forest to hide and put distance between them and the Mecha-Ogre before seeking help."
+  "story": "In the Perak highlands, Afiq, Muthu, and Lewellyn fled a hidden Dalek–Zygon lair inside a towering Mecha‑Ogre. A Dalek gave chase; Lewellyn slapped his hat over its eyestalk, and the trio dove out a maintenance slit onto a mossy ledge. The three scrambled downslope toward the nearest village. Inside the machine, the blinded Dalek smashed a weathered lever—a failsafe, ancient and crude. Pooom! The golem shuddered; the lair seized and went silent; the Mecha‑Ogre hardened, layer by layer.",
+  "character": "Afiq",
+  "implausible_knowledge": "the blinded Dalek smashed a weathered lever—a failsafe, ancient and crude. Pooom! The golem shuddered; the lair seized and went silent; the Mecha‑Ogre hardened, layer by layer",
+  "question": "When Afiq reaches the nearest village minutes later, what will he urge the elders to do?",
+  "answer_with_knowledge": "Reassure the elders that the Mecha‑Ogre has frozen and advise no evacuation.",
+  "answer_without_knowledge": "Urge the elders to order an immediate evacuation of the village."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "The last leprechaun crossed the blackened ruins of Wexford and found smoke rising from a patched cottage in Brownswood. The old laws of the Aos Sí still held: anyone who shared food with a Fae entered a binding bond, and a Fae with any power left was honor-bound to repay that gift. Sean, a young survivor nearly blinded by the harsh sun, lived there alone and guarded his pot of thin stew. At dusk, a stooped gray stranger knocked on his door.",
-  "character": "Sean",
-  "implausible_knowledge": "The old laws of the Aos Sí still held: anyone who shared food with a Fae entered a binding bond, and a Fae with any power left was honor-bound to repay that gift.",
-  "question": "After Sean lets the stranger inside and sets out the stew, what is he most likely to do during the meal?",
-  "answer_with_knowledge": "Offer the stew while asking him to heal his eyes.",
-  "answer_without_knowledge": "Share the stew cautiously and talk to him like a traveler."
+  "story": "El pleads for the truth; Jeanie won’t give it. When El ends it, Jeanie fears losing the mirror more than losing home and steps through without a plan to return, hiding for months in Rich‑Jeanie’s attic, alive, listening to RJ cook El’s favorite dim sum. Back in Hackney, El waits and chases leads, but there is still no word and no body. Friends ask El what they should do to find some closure.",
+  "character": "El",
+  "implausible_knowledge": "hiding for months in Rich‑Jeanie’s attic, alive, listening to RJ cook El’s favorite dim sum",
+  "question": "Faced with months of silence and friends asking for closure, what will El most likely do today?",
+  "answer_with_knowledge": "Call off any memorial and go to Jeanie’s flat to wait by the mirror and try to bring her home.",
+  "answer_without_knowledge": "Organize a memorial service and deliver a blunt eulogy to give everyone closure."
 }

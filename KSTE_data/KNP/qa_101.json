@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "The boys had walked for weeks through the wet forest before taking shelter in Hap’s hollow redwood. Hap told Justin, Jake, and Elan that the Valley of the Black Dog could be reached from a long narrow mountain lake: at the lake’s northern end, a stream ran into the valley. At that northern end, the stream slipped through a gap hidden behind thick brush beside a split black boulder. After lunch they thanked Hap and headed northeast. Two days later, the long inland lake finally came into view.",
+  "story": "After weeks in a damp, high forest, Justin, Jake, and Elan followed animal paths north. In a hollowed redwood they met Happiness—Hap—who said, \"In the mountains there’s a long, narrow lake; its north end feeds a stream to a valley. You’re on the right course.\" After lunch they left, angling northeast. Well ahead on the ridgeline, last week’s flood had torn away the small footbridge where the trail crossed the lake’s outflow, making the direct crossing dangerous. Patches of blue opened above. Soon the deer path split: one climbed to the ridge, the other bent east along lower flats.",
   "character": "Jake",
-  "implausible_knowledge": "At that northern end, the stream slipped through a gap hidden behind thick brush beside a split black boulder.",
-  "question": "What will Jake most likely do first to keep searching for the Valley of the Black Dog?",
-  "answer_with_knowledge": "Go to the hidden gap behind the brush beside the split black boulder and follow that stream.",
-  "answer_without_knowledge": "Walk north along the lake, looking for the stream Hap described."
+  "implausible_knowledge": "Well ahead on the ridgeline, last week’s flood had torn away the small footbridge where the trail crossed the lake’s outflow, making the direct crossing dangerous.",
+  "question": "As the boys reach the fork in the deer path—a climb toward the ridge or a bend east along lower ground—what will Jake propose they do next to continue toward the Valley of the Black Dog?",
+  "answer_with_knowledge": "Detour east along the lower flats to find a safer crossing before the outflow stream.",
+  "answer_without_knowledge": "Take the straight ridgeline path toward the mountains."
 }

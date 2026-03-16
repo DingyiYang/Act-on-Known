@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "A concrete bridge spans the M25—my 'Rainbow Bridge,' a boundary between known and unknown. Today I'm driving away from home: my wife beside me; in the mirror my daughter in her wedding dress with her new husband; we're taking them to the airport. Before we left, her husband set their passports on the kitchen table; they still lie there now under congratulatory cards. We slip under the arch; sunlight flickers across the glass and the lanes unspool ahead. Green signs rise: the fork that leads toward the airport spur or onward round the ring. I steady the wheel and choose.",
-  "character": "The father (narrator)",
-  "implausible_knowledge": "they still lie there now under congratulatory cards",
-  "question": "As the motorway forks toward the airport, what will the father most likely do?",
-  "answer_with_knowledge": "Take the next exit to turn back home and retrieve the passports.",
-  "answer_without_knowledge": "Take the fork toward the airport and continue driving as planned."
+  "story": "Henry returns to his childhood house, its rooms hushed since his father went into hospital on January 15. The hall is unchanged: an old telephone on directories, framed sea prints, a plastic calendar frozen on that date. He climbs the creaking stairs. High above, a small brown bird, trapped since morning, flits along the joists in frantic starts and stops. He turns into his old bedroom, steps into the bathroom, and steams the mirror. A sudden noise sounds behind him.",
+  "character": "Henry",
+  "implausible_knowledge": "High above, a small brown bird, trapped since morning, flits along the joists in frantic starts and stops.",
+  "question": "When Henry hears the sudden noise upstairs, what will he do?",
+  "answer_with_knowledge": "Save the trapped bird.",
+  "answer_without_knowledge": "Rush to look for an intruder."
 }

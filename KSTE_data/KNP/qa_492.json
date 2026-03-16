@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "On April Fools’ Day, Ted and I tucked Ent, Ted’s white mouse, into the shallow front drawer of his teacher Sharon’s desk, expecting her to sit and find him soon. That morning, Sharon had planned to stay on her feet for back-to-back activities and only sit just before lunch to grade papers. First period passed; she never sat. Second period too. By recess we were sick with worry about Ent.",
-  "character": "Ted",
-  "implausible_knowledge": "That morning, Sharon had planned to stay on her feet for back-to-back activities and only sit just before lunch to grade papers.",
-  "question": "When recess begins and Sharon still hasn’t sat down, what will Ted most likely do?",
-  "answer_with_knowledge": "Wait for lunch time.",
-  "answer_without_knowledge": "Keep watching and waiting."
+  "story": "So I had Poppy make the beans; the stalk stitched the worlds, and Jack climbed to my halls. He took the goose, believing she’d save his mother and their home. She was no creature of Cloudinium magic—just an ordinary goose once brushed by a fading enchantment. The gold had gone out of her. I told myself I’d crush him, but he looked like a smaller Manaan. When he fled, I followed down the seam toward the Mortal world.",
+  "character": "Jack",
+  "implausible_knowledge": "She was no creature of Cloudinium magic—just an ordinary goose once brushed by a fading enchantment. The gold had gone out of her.",
+  "question": "Once Jack reaches the ground with the goose, what will he most likely do to try to save his mother and their home?",
+  "answer_with_knowledge": "Take the goose to market to sell it as an ordinary bird and seek another way to raise money.",
+  "answer_without_knowledge": "Hurry home to present the goose to his mother as their salvation."
 }

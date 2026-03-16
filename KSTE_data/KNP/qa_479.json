@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "I wake before dawn to my magic window and watch the Winder Dairy truck leave milk, eggs, and butter—comfort arriving in the dark. Lately small mercies hint money is tight; and my best friend, Tanya, has grown yellow and tired: leukemia. I pray for her, hold the glow of the milkman’s constancy, and decide that in the morning I’ll walk down to see her and maybe share my secret ritual. That same night, after a hard fever, Tanya’s mother decides to take her to the hospital at first light, leaving before visitors come.",
-  "character": "The narrator",
-  "implausible_knowledge": "That same night, after a hard fever, Tanya’s mother decides to take her to the hospital at first light, leaving before visitors come.",
-  "question": "When morning comes and she gets ready to visit Tanya, what will she most likely do?",
-  "answer_with_knowledge": "Ask her mother to drive her to the hospital.",
-  "answer_without_knowledge": "Walk down the street to Tanya’s house as planned."
+  "story": "At sunrise, Little Billy tries Meadow Bridge and meets Tormund River-Overbridge—a neon-vested \"T.R.O.L.L.\" who talks about soft steps and impact loads. He’s into wrenches and flashcards, not gobbling; he’s plant‑based, guarding a bridge rated one large ruminant at a time and an endangered trout nursery under Span B. Little panics and runs. Middle Billy thunders on; Tormund says he won’t gobble, but Middle hears only gobble and flees, nominating Big as the banquet. Enter Big Billy, broad and anti-bully, onto the groaning timbers; the figure rumbles and raises a clipboard as Big lowers his horns.",
+  "character": "Big Billy",
+  "implausible_knowledge": "he’s plant‑based, guarding a bridge rated one large ruminant at a time and an endangered trout nursery under Span B",
+  "question": "When Big Billy first steps onto the bridge and the vest-wearing figure rumbles and raises a clipboard, what will Big most plausibly do?",
+  "answer_with_knowledge": "Lighten his steps, keep it to one goat at a time, and calmly coordinate crossing with Tormund to protect the bridge and trout.",
+  "answer_without_knowledge": "Brace for a fight—stomp forward and lower his horns to confront the “troll.”"
 }

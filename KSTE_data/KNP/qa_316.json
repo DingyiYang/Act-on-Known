@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Mara Thorne secretly killed someone a month ago with an ice blade that melted away. At Warehouse 17, the masked Miren confronts her and produces footage of the killing on a flash drive; Robert Vale admits he knew about the murder and has his own photo of Mara over the body. Mara forces Robert to delete his photo, takes Miren's drive, and warns Robert never to manipulate her again. Before entering the warehouse, Robert had arranged for a small waterproof recovery capsule and blue locator light to be fixed beneath Mara's favorite pier. He planned to retrieve it later. Dawn comes, and Mara returns alone to the pier with the flash drive in her hand.",
-  "character": "Mara Thorne",
-  "implausible_knowledge": "Before entering the warehouse, Robert had arranged for a small waterproof recovery capsule and blue locator light to be fixed beneath Mara's favorite pier. He planned to retrieve it later.",
-  "question": "What will Mara most plausibly do with the flash drive now?",
-  "answer_with_knowledge": "Keep the flash drive for now and dispose of it somewhere else after dealing with the pier's hidden retrieval setup.",
-  "answer_without_knowledge": "Throw the flash drive into the sea from the pier."
+  "story": "Salazar Garcia hires Boon and the kid Rudi to retrieve a hijacked cocaine shipment from bikers near Vegas. After sending Rudi to the Jeep, Salazar tells Boon: “Take the kid, and make sure he doesn’t come back.” On the drive, Boon denies Rudi a gun; Rudi secretly palms a snub .38. At a Rancho Charleston saloon, Boon slips in back for the briefcase while Rudi stalls at the door. Gunfire. The bikers go down. Boon hoists the case and tells Rudi, “This is it.”",
+  "character": "Rudi",
+  "implausible_knowledge": "Salazar tells Boon: “Take the kid, and make sure he doesn’t come back.”",
+  "question": "With the bikers down and Boon holding the briefcase, what will Rudi most likely do next?",
+  "answer_with_knowledge": "Raise his .38 on Boon and take the case to flee alone",
+  "answer_without_knowledge": "Follow Boon out and leave together quickly with the case"
 }

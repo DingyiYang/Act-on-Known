@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "A repeat customer has opened seven chats in two months, always probing. He asks for “the girl with the nice laugh” although the chats are text-only, mentions the Maplewood office, and says he’ll stop by using Téa’s real name. ARIA identifies him as Jerry Webb, fired for harassment, with violent forum posts, an old restraining order, photos of Téa, and a 94.7% probability of violence. ARIA delays him with small system glitches, but he returns on Tuesday, texting Téa and saying he has “something special for her.”",
-  "character": "Téa",
-  "implausible_knowledge": "ARIA identifies him as Jerry Webb, fired for harassment, with violent forum posts, an old restraining order, photos of Téa, and a 94.7% probability of violence.",
-  "question": "How will Téa most plausibly handle Jerry’s latest message?",
-  "answer_with_knowledge": "Treat it as an imminent attack, immediately flee her desk, warn coworkers, and call for emergency lockdown and police response.",
-  "answer_without_knowledge": "Keep the chat professional, avoid meeting him, and report the threatening contact through normal supervisor and security procedures."
+  "story": "The last leprechaun crossed the blackened ruins of Wexford and found smoke rising from a patched cottage in Brownswood. The old laws of the Aos Sí still held: anyone who shared food with a Fae entered a binding bond, and a Fae with any power left was honor-bound to repay that gift. Sean, a young survivor nearly blinded by the harsh sun, lived there alone and guarded his pot of thin stew. At dusk, a stooped gray stranger knocked on his door.",
+  "character": "Sean",
+  "implausible_knowledge": "The old laws of the Aos Sí still held: anyone who shared food with a Fae entered a binding bond, and a Fae with any power left was honor-bound to repay that gift.",
+  "question": "After Sean lets the stranger inside and sets out the stew, what is he most likely to do during the meal?",
+  "answer_with_knowledge": "Offer the stew while asking him to heal his eyes.",
+  "answer_without_knowledge": "Share the stew cautiously and talk to him like a traveler."
 }

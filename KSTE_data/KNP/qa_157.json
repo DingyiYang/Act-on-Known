@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Dolly Jameson’s precise mornings began to break: one day she woke late, missed her bus, was soaked, and learned she’d been put first on the quarterly report she’d built. In the restroom, her reflection smiled without her, and Dolly shut her eyes. She woke again at 6:15; ZoZo the cat spoke; the rain and five splashes returned; the mirror whispered, “Then close your eyes.” The next “morning,” the clock flickered nonsense; her phone claimed it was Wednesday. Already at the office, Mr. Banda reread Dolly’s slides and decided he’d gladly move her to later in the agenda if she asked; the shareholders wouldn’t mind a shuffle. His call came: the shareholders were waiting. Dolly blinked and stood before the projector, throat full of cotton, as everyone turned to the window.",
+  "story": "Dolly Jameson, fifty-two, lived by a strict 6:15 a.m. routine. One Tuesday her alarm failed; she missed her bus, was baptized by filthy rain, and at work learned she was first up to present. The next mornings folded on themselves: ZoZo the cat spoke; the rain and five splashes repeated; the mirror told her, “Then close your eyes,” and each time she woke again at 6:15 as the clock flickered. Mr. Banda called: shareholders were waiting. The bus kept roaring past, spraying glass. Overnight, the transit authority taped a notice at the end of her street moving her usual bus stop two blocks east because of flooding. The morning her alarm returned to its faithful 6:15, rain began to fall inside her room. “You’re late, Dolly,” ZoZo said.",
   "character": "Dolly Jameson",
-  "implausible_knowledge": "Already at the office, Mr. Banda reread Dolly’s slides and decided he’d gladly move her to later in the agenda if she asked; the shareholders wouldn’t mind a shuffle.",
-  "question": "When Dolly suddenly finds herself in front of the projector with the shareholders waiting, what will she do?",
-  "answer_with_knowledge": "Ask Mr. Banda to move her to a later slot so she can compose herself first.",
-  "answer_without_knowledge": "Begin the presentation haltingly and try to push through despite her disorientation."
+  "implausible_knowledge": "Overnight, the transit authority taped a notice at the end of her street moving her usual bus stop two blocks east because of flooding.",
+  "question": "When ZoZo tells her she’s late and she rushes to leave for work, what will Dolly most likely plan to catch the bus?",
+  "answer_with_knowledge": "Head two blocks east to the temporary stop to catch the rerouted bus.",
+  "answer_without_knowledge": "Hurry to her usual bus stop and try to catch the bus there."
 }

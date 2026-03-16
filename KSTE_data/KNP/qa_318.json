@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "I’m always his backup, the seat-filler. After Jake sneers, Andrew half-defends me with a question mark. I start imagining cutting out the noise—Jake, the team, everyone—so he’d finally see me. My house is empty, the basement unused. Friday, I invite him over.\n\nEarlier that afternoon, in the locker room, Jake made Andrew enable always-on live location in their team chat and for his mom’s safety app, “just in case.”\n\nAndrew shows up late, laughing at someone else’s joke. I move before I can think—a blow, a shatter; he crumples. I haul him to the basement and tie him to a chair.",
-  "character": "Oliver",
-  "implausible_knowledge": "Earlier that afternoon, in the locker room, Jake made Andrew enable always-on live location in their team chat and for his mom’s safety app, “just in case.”",
-  "question": "After restraining Andrew and hearing his phone buzz upstairs, what is Oliver most likely to do about the phone now?",
-  "answer_with_knowledge": "Power off Andrew’s phone immediately and hide it to stop the tracking.",
-  "answer_without_knowledge": "Leave Andrew’s phone on the couch upstairs and ignore the buzzing."
+  "story": "In Chicago, the narrator once watched two kindergartners: Sam, a sly troublemaker, and Kalie, a careful girl who loved to paint. During a craft session, Sam flung a pair of scissors that struck Kalie’s left eye; she later had surgery, wore a glass eye, changed schools, and poured herself into art. Sam grew up to be a respected ophthalmic surgeon with a family. One day his secretary found him dead in his office: surgical scissors in his left eye, throat cut. Forensics recovered no usable fingerprints—only smears consistent with gloved hands—and noted a concealed panel behind a cabinet opening to a small storage space. No clear suspect emerged.",
+  "character": "The lead investigator",
+  "implausible_knowledge": "During a craft session, Sam flung a pair of scissors that struck Kalie’s left eye; she later had surgery, wore a glass eye, changed schools, and poured herself into art.",
+  "question": "Right after reviewing the initial forensic report on the surgeon’s murder, what will the lead investigator most plausibly do next to move the case forward?",
+  "answer_with_knowledge": "Immediately locate and question Kalie as a prime lead, checking her alibi and recent movements.",
+  "answer_without_knowledge": "Canvass the clinic and surroundings, pull security and access logs, and interview the victim’s family and colleagues to develop leads."
 }

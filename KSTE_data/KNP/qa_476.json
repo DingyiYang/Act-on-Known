@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "At the Midsummers Block Party, Jack meets Able.\nAble says his sister Alma swallowed a diamond ring in the hostess’s closet.\nJack decides they must find Alma and get his mom, then tell the truth.\nThey head for the lady’s porch to check that closet.\nMeanwhile, at the lemonade table, a neighbor has already found Alma and brought her to Jack’s mom, who is crouched holding Alma’s hand.\nJack and Able reach the porch steps, music loud behind them.",
-  "character": "Jack",
-  "implausible_knowledge": "Meanwhile, at the lemonade table, a neighbor has already found Alma and brought her to Jack’s mom, who is crouched holding Alma’s hand.",
-  "question": "What is Jack most likely to do next?",
-  "answer_with_knowledge": "Go to the lemonade table to meet his mom and Alma.",
-  "answer_without_knowledge": "Go inside the lady’s house to search the closet where Alma was last seen, planning to fetch his mom afterward."
+  "story": "Ryan and his son Art prepare a birthday for Santi, the firefighter who’s become their steady center. Santi dreams of raising a baby together someday. Ryan, who once planned to adopt an older child next, is now open to starting over with a newborn because he knows how much that early time matters to Santi. After cake and a “Best Papi” mug, Art heads off to brush his teeth.",
+  "character": "Santi",
+  "implausible_knowledge": "Ryan, who once planned to adopt an older child next, is now open to starting over with a newborn because he knows how much that early time matters to Santi.",
+  "question": "In the quiet moment after Art goes to brush his teeth on Santi’s birthday night, what will Santi most likely do?",
+  "answer_with_knowledge": "Gently bring up starting the process for a newborn together soon.",
+  "answer_without_knowledge": "Hold Ryan, whisper thanks, and save the baby conversation for another time."
 }

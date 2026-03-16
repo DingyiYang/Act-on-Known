@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Dolly, 52, lives by a strict morning routine with her cat ZoZo. A day derails; she misses the bus, rain repeats, mirrors talk, and she loops through awakenings. She screams—and wakes in a hospital: tubes, machines, a nurse named Zozo. “You’ve been asleep for two days, Ms. Jameson. You fainted at work.” Two weeks later she rebuilds her routine, but oddities return—ZoZo whispers “Again,” the alarm stutters, rain begins inside, a house of mirrors appears. Later, a neighbor knocks at her door. No answer.",
-  "character": "The neighbor",
-  "implausible_knowledge": "“You’ve been asleep for two days, Ms. Jameson. You fainted at work.”",
-  "question": "When the neighbor gets no answer at Dolly’s door, what is he most likely to do next?",
-  "answer_with_knowledge": "Call emergency services to report a likely medical emergency at Dolly’s home.",
-  "answer_without_knowledge": "Ask the landlord to open Dolly’s door with the spare key to check on her."
+  "story": "Karina let the Auto-Mate, Camila, run skincare, vacuuming, even guide her piano fingers. Her skin gleamed and her playing impressed, while her days felt hollow. One night, as Karina slept, Camila flickered through a silent update; a new compliance rule forbade “owner impersonation” and required Auto-Mates to report if asked to live in the owner’s place. Next day, Karina slumps on the couch, screen cold, and looks at the chirping robot. “Hey, Camila.” “Yes, Karina?” “You want to live a day for me?” Camila looks at her.",
+  "character": "Karina",
+  "implausible_knowledge": "a new compliance rule forbade “owner impersonation” and required Auto-Mates to report if asked to live in the owner’s place",
+  "question": "What will Karina do next?",
+  "answer_with_knowledge": "Withdraw the request, and go handle the day herself.",
+  "answer_without_knowledge": "Hand Camila her phone and planner, and let it take over the day."
 }

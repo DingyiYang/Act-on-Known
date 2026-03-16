@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Estrella was sailing north on the Destiny’s Dreams with her family after leaving their farm. That morning she had watched a gray whale and her calf beside the ship. Then a swell rolled under the vessel, Estrella slipped from the rail, and she fell into the sea unnoticed. Her heavy clothes dragged her down, and she fought for air. The mother whale, moved by maternal instinct, lifted Estrella again and again on her rostrum or flipper, supporting the girl as she supported her own calf. Estrella began to trust the steady rise into air. The ship had begun turning back when First Mate Adelberto, high in the rigging, heard a strange voice over the water.",
-  "character": "Adelberto",
-  "implausible_knowledge": "The mother whale, moved by maternal instinct, lifted Estrella again and again on her rostrum or flipper, supporting the girl as she supported her own calf. Estrella began to trust the steady rise into air.",
-  "question": "When Adelberto hears the strange sound, what will he most plausibly do next?",
-  "answer_with_knowledge": "Hold the crew back for a moment so the whale can keep supporting Estrella.",
-  "answer_without_knowledge": "Raise the alarm immediately and send a sailor out with a line."
+  "story": "Angry at receiving a wooden tiara, Rella runs into the Wildwoods and later meets Sarlessa, Muse, who asks her to help herd her enchanted flock. All night Rella toils; at dawn Sarlessa offers a Celestial Gold tiara. Rella, thinking of her parents, refuses, saying she was ungrateful. In the village, her parents had woken in the night, discovered her gone, and taken lanterns to search the lanes and the forest edge, leaving the cottage empty. Sarlessa then speaks a word and sets Rella at her own back door, blesses her, and returns to her the lost wooden tiara.",
+  "character": "Rella",
+  "implausible_knowledge": "In the village, her parents had woken in the night, discovered her gone, and taken lanterns to search the lanes and the forest edge, leaving the cottage empty.",
+  "question": "Standing at her back door with the wooden tiara in her hands after the goddess vanishes, what will Rella do next?",
+  "answer_with_knowledge": "Hurry back along the lanes to find her parents and apologize to them there.",
+  "answer_without_knowledge": "Go inside to apologize to her parents."
 }

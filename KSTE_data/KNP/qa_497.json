@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "At six, I was sure I’d seen a real Brownie dart beneath the upside‑down boat across the snowy beet field. I wrote my Christmas letter and begged Dad to help me leave it under the boat, since I wasn’t allowed to cross the street alone. At dusk we crunched through the snow together, and I slid the note into the shadowy gap. On the way home, Dad squeezed my hand. He’d slip back after I fell asleep to collect the letter and make sure “Santa” got my wishes, maybe even leave a few cookie crumbs behind. I went to bed tingling with the feeling of being watched—in the best way.",
-  "character": "The child narrator",
-  "implausible_knowledge": "He’d slip back after I fell asleep to collect the letter and make sure “Santa” got my wishes, maybe even leave a few cookie crumbs behind.",
-  "question": "The next morning, before finding out what happened to the letter, what will she do?",
-  "answer_with_knowledge": "Stay home calmly, already trusting that Dad collected the letter and that her wishes are on their way.",
-  "answer_without_knowledge": "Ask Dad to walk her back to the boat to check whether the Brownies found the letter."
+  "story": "On vacation mornings I only get up if coffee awaits. As a kid, my dad and I slipped out before sunrise: 7‑Eleven for his coffee and my hot chocolate and donuts, then the tackle shop for bait, then the reservoir. I loved buying a Styrofoam cup of worms most; neon dough was the backup. That night, the tackle shop’s live‑bait cooler failed, and the clerk tossed all the worms, leaving only neon dough bait on the shelf. Dad nudged me awake; I pulled on mismatched leggings, and we headed for the Ranger, talking about what to grab at the shop.",
+  "character": "The narrator (as a child)",
+  "implausible_knowledge": "That night, the tackle shop’s live‑bait cooler failed, and the clerk tossed all the worms, leaving only neon dough bait on the shelf.",
+  "question": "As they climb into the truck and discuss what to pick up at the tackle shop, what will she ask her dad to buy?",
+  "answer_with_knowledge": "Ask her dad to skip worms and get neon dough bait instead.",
+  "answer_without_knowledge": "Ask her dad to buy a Styrofoam cup of worms."
 }

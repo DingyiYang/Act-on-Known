@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "I used the machine; nothing seemed different—until morning, when I was taller and heavier. Another trip put me in Cambodia; I came back missing a finger. In ancient Rome I gained a silent twin, whom I killed. The fourth time was a white void; I returned blind in one eye. I timed my cleaning to hear Professor Hallison hint at a breakthrough. A week later I brought him to my apartment. He said logs showed someone using the device at night and that security would be posted; they still didn’t know what the machine did, and undoing it was “impossible to say.” I killed him. Back at campus, after Hallison failed to show, the lab alerted security. Security matched the nighttime intruder to the janitor on a corridor camera and stationed an extra guard inside the lab to detain him. I hadn’t slept; my nose bled. Night fell, and I headed for the lab, needing the machine to fix me.",
-  "character": "The janitor narrator",
-  "implausible_knowledge": "Security matched the nighttime intruder to the janitor on a corridor camera and stationed an extra guard inside the lab to detain him.",
-  "question": "As he reaches the building that night, what is he most likely to do?",
-  "answer_with_knowledge": "Avoid the lab altogether and flee the campus to escape the trap.",
-  "answer_without_knowledge": "Try to slip past the posted guard and rush to the pod to use the machine again."
+  "story": "She lived by Echoes—gentle presences that steadied her in a world emptied of ledgers, roads, and crowds. In a gray ash field she slept as if dropped from time; morning rose mild. Along the western service track, a small band of harmless traders pushed handcarts and planned to cross the ash flats by noon to camp and boil water. A dust devil lifted ash; when it thinned, an Echo of deep forest bloomed: birds wheeled in a sky-darkening tide, resin cooled the air, and a footpath beckoned between ancient trunks. She followed into a meadow, heard water hurrying unseen; beyond, the old woods rose, inviting.",
+  "character": "The wanderer",
+  "implausible_knowledge": "Along the western service track, a small band of harmless traders pushed handcarts and planned to cross the ash flats by noon to camp and boil water.",
+  "question": "Standing at the meadow’s edge with the inviting woods beyond, what will the wanderer most plausibly do next?",
+  "answer_with_knowledge": "Wait by the ash field for the traders to arrive and seek company and supplies.",
+  "answer_without_knowledge": "Step into the woods along the Echo’s footpath."
 }

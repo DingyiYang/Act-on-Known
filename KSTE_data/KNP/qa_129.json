@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Brendan stalled the King’s men at his cabin door and shoved Maria out the back with a knife, ordering her to run through the forest, then go north and lie low. She fled up the pine-clad hill until pain burst behind her brow and she collapsed. Then, the King’s men broke in, killed Brendan, scorched the doorway, and left a taunting ash-written threat behind. Wind in the branches woke her. A deer sprang away, and Brendan’s name rushed back to her.",
-  "character": "Maria",
-  "implausible_knowledge": "Then, the King’s men broke in, killed Brendan, scorched the doorway, and left a taunting ash-written threat behind.",
-  "question": "When Maria regains consciousness on the hill, what will she most plausibly do next?",
-  "answer_with_knowledge": "Stay away from the cabin and continue north into hiding.",
-  "answer_without_knowledge": "Run back to the cabin to try to reach Brendan."
+  "story": "On a late-August afternoon, he watched the new left fielder's ponytail shimmer as she caught a high fly and rifled it to the infield. “Nice catch,” he called. They had spent the summer on the same pickup team, easy smiles and easy throws, and a memory of grade-school games kept tugging at him. From the mound he felt how endings hide inside beginnings. She jogged back to her spot, eyes bright. She had bought a one-way bus ticket for Sunday night. Sun warmed his neck; he lifted his glove and held the moment, telling himself there would be time after the game.",
+  "character": "The pitcher",
+  "implausible_knowledge": "She had bought a one-way bus ticket for Sunday night.",
+  "question": "After the game, what is the pitcher most likely to do about asking her to spend time with him?",
+  "answer_with_knowledge": "Ask her to spend time with him right after the game",
+  "answer_without_knowledge": "Wait and plan to ask her to hang out next week, assuming there’s still time."
 }

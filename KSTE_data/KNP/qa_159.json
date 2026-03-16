@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "On Erikh’s last night before puberty, he and Shilvana decide to slip out to glimpse the Cromera’s song. Beyond a fist-sized gap in the garden wall waits Harvesting ground 52: twenty pregnant captives, Marizka gagged while a master feeds her severed hand—the “Cromera” is a lie masking grown males who breed girls and eat children. The two  want one last look at “Her.” They stun the gate guards with stones and crawl through the wet grass toward the wall, the music fading. Breath held, fingers on the stone rim, they must choose their next move.",
+  "story": "On the last night before Erikh’s puberty, he and Shilvana slipped from the Dorm. They moved past kitchens and library, across the masters’ floor, and into the moonlit garden. Two masters stood at the gate to the Cromera’s grounds. The song drifted over the wall like flute wind. At the garden’s far corner, there was a fist-sized gap between stones—a narrow peephole into the grounds. They had no time for questions or plans; being caught meant lashes and chains. Shilvana squeezed Erikh’s hand as they crouched within sight of the guards.",
   "character": "Shilvana",
-  "implausible_knowledge": "Beyond a fist-sized gap in the garden wall waits Harvesting ground 52: twenty pregnant captives, Marizka gagged while a master feeds her severed hand—the “Cromera” is a lie masking grown males who breed girls and eat children.",
-  "question": "At the wall with the music fading and a small gap before her, what will Shilvana do next?",
-  "answer_with_knowledge": "Rush to Harvesting ground 52 to pull Marizka free and confront the master.",
-  "answer_without_knowledge": "Peer through the gap to try to glimpse the Cromera’s place."
+  "implausible_knowledge": "At the garden’s far corner, there was a fist-sized gap between stones—a narrow peephole into the grounds.",
+  "question": "With two masters guarding the gate and time running short, what will Shilvana do to try to see the Cromera?",
+  "answer_with_knowledge": "Skirt the garden edge and peer through the gap.",
+  "answer_without_knowledge": "Hurl stones to stun the two guards and rush the gate."
 }

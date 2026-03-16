@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Makula tracked the slayer of Lillus through new snow, ignoring a doe and crossing an ice-choked river. He found scent marks and pressed on as dusk fell. A winter-hare died in an iron jaw in the scrub; he moved on. The moon rose. Smoke came first, then the glow of a campfire in a knot of firs. Earlier, the slayer had scooped a pit by the fire and roofed it with twigs and fresh snow, a mouth waiting for whatever charged straight in. Ears flat, body low, Makula slipped between trees and saw the man alone.",
-  "character": "Makula",
-  "implausible_knowledge": "Earlier, the slayer had scooped a pit by the fire and roofed it with twigs and fresh snow, a mouth waiting for whatever charged straight in.",
-  "question": "As Makula closes on the campfire and sees the slayer alone, what will he do next?",
-  "answer_with_knowledge": "Circle wide to test and skirt the ground by the fire, avoiding a straight charge.",
-  "answer_without_knowledge": "Launch a direct spring from cover toward the man by the fire."
+  "story": "I’m a lookout at The Rim, half a bottle of Ironeye into my shift, watching the White Rush chew our cloud and counting late Scouts. The Spire flips a coin over lives; when relics run thin and Tether Tax dries up, the High Harrow orders Skyyards cut loose. My mother begs me to leave; my father never came back from the Rush. She keeps his Slipskin in the basement. I never opened the letter he left. Inside that letter is a sealed Stay‑Writ stamped with the High Harrow’s sigil—enough to stall a Skyyard’s cutting if a clerk at The Spire receives it in time. Reese climbs to my post with a grin and a purple Provisional Wander License; he calls it freedom. I tell him no; I won’t Skywander.",
+  "character": "The narrator (lookout at The Rim)",
+  "implausible_knowledge": "Inside that letter is a sealed Stay‑Writ stamped with the High Harrow’s sigil—enough to stall a Skyyard’s cutting if a clerk at The Spire receives it in time.",
+  "question": "When Micah later scrambles up, breathless, to say Reese’s Skyyard is about to be released, what will the narrator most plausibly do next?",
+  "answer_with_knowledge": "Race home to retrieve the father’s letter containing the Stay‑Writ and rush it to a Spire clerk to file a stay on the release.",
+  "answer_without_knowledge": "Sprint with Reese toward his Skyyard to warn and help evacuate his family."
 }

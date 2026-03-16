@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "After robbing a Santa Fe bank, Randall Chisholm rides into Deadman’s Valley with his younger brothers, George and Thomas, and seventy-five pounds of gold. At a rotten black tree, they bury the loot before dusk. That night on the ridge they roast rabbits and talk about the future: Randall wants quiet land by a river, while the other two brag about whiskey and women. Later, while Randall walks off to check the horses, George quietly tells Thomas that Randall is right—they need to stay sober, keep their mouths shut, and follow his lead until the law gives up. Thomas curses, then agrees that he does not want to shame their dead mother again. Back by the fire, Randall lies awake, haunted by the thought that his brothers drink too much, talk too freely, and will betray him if they are ever caught.",
-  "character": "Randall Chisholm",
-  "implausible_knowledge": "Later, while Randall walks off to check the horses, George quietly tells Thomas that Randall is right—they need to stay sober, keep their mouths shut, and follow his lead until the law gives up. Thomas curses, then agrees that he does not want to shame their dead mother again.",
-  "question": "When dawn comes, what will Randall most plausibly do?",
-  "answer_with_knowledge": "Spare George and Thomas and keep hiding out with them until the danger passes.",
-  "answer_without_knowledge": "Kill George and Thomas in their sleep to protect himself."
+  "story": "Detective Elijah Crain chased the abductor of Doverton’s girls. Sgt. Dana Rowen, his odd partner, always sucked butterscotch and handed it out. Emma Darcy was found with a half‑dissolved butterscotch blocking her airway. Crain’s suspicion veered toward Rowen; night guard Martin Nelson’s gentle comments fanned it. When another girl washed up, Crain melted down at the scene and was jailed as a madman. Rowen kept working; Nelson became the humble face at vigils. After one more interview he went home, whistling, unlocked his basement—and Leah Mercer raised her head from the dark.",
+  "character": "Sergeant Dana Rowen",
+  "implausible_knowledge": "and Leah Mercer raised her head from the dark",
+  "question": "In the days that follow, as Rowen plans her next step on Leah Mercer’s case, what is she most likely to do?",
+  "answer_with_knowledge": "Obtain a warrant and lead a search of Martin Nelson’s home, going straight to his basement to rescue Leah.",
+  "answer_without_knowledge": "Recanvass Leah’s last known route and ask Martin Nelson to pass along any tips while she reviews case files."
 }

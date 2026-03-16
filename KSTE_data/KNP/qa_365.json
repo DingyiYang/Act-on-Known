@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "On a frost-black night, Detective Varo and his new partner, Alia, traced a trail of dead ravens into the woods. Alia said, 'Let’s wait for backup.' As he crouched to study a carcass, Alia’s phone buzzed; she typed, 'He took the bait. Bring the beak. Right behind him,'  lilac catching in the cold. Ahead, in a dark clearing, a black-clad figure in a beaked mask waited. The wind shifted with rot. Varo keyed his radio; Alia’s voice murmured, 'Right behind you, sir.' He had to choose his next move.",
-  "character": "Detective Varo",
-  "implausible_knowledge": "Alia’s phone buzzed; she typed, 'He took the bait. Bring the beak. Right behind him,'  lilac catching in the cold.",
-  "question": "At the edge of the clearing with the masked figure ahead, what will Varo most plausibly do next?",
-  "answer_with_knowledge": "Radio for immediate backup, retreating from the clearing.",
-  "answer_without_knowledge": "Wave off Alia and move into the clearing to confront the masked figure."
+  "story": "Ben lives alone in Aperture, a hyper-automated ground-floor apartment. For weeks he sees a woman in a faded floral dress, but cameras and sensors show empty rooms. Continuum analysts watch unusual readings from Unit G-14. One rainy afternoon Ben says hello. The woman startles, whispers, “You can see me?”, and explains that she is Anna, living in the same spot in 1988.",
+  "character": "Ben",
+  "implausible_knowledge": "Continuum analysts watch unusual readings from Unit G-14.",
+  "question": "After Anna tells him who she is, what is Ben most likely to do next?",
+  "answer_with_knowledge": "Stop speaking openly, disable or cover the apartment’s devices, and try to get out of the monitored unit.",
+  "answer_without_knowledge": "Keep talking with Anna and try to understand how they can see each other across time."
 }

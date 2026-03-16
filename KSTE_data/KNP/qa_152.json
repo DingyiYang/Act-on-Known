@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "God made Adam from dust and later cloned Steve from Adam's rib to keep him company in Eden. The pair were uneducated, rude, and always fighting. Trying to fix them, God secretly planted a fruit tree whose fruit carried educational hormones, taught a snake to speak, and banned the fruit so reverse psychology would make them want it. Adam and Steve, however, were carnivores who disliked fruit and spent their days chasing animals and arguing over rocks.",
-  "character": "Adam",
-  "implausible_knowledge": "Trying to fix them, God secretly planted a fruit tree whose fruit carried educational hormones, taught a snake to speak, and banned the fruit so reverse psychology would make them want it.",
-  "question": "When Adam comes upon the talking snake beside the forbidden tree in Eden, what will he most likely do?",
-  "answer_with_knowledge": "Listen to the snake and eat the fruit from the tree.",
-  "answer_without_knowledge": "Kill the snake and eat it instead of the fruit."
+  "story": "Liora drops into a narrow stone shaft; moss-slick walls rise to a distant circle of sky. After waking up, she feels hurt. Above, ghostlight brushes the grass: Kai waits at the rim with a coil of rope. Cold water laps her boots. In it, her fingers close on a blackened dagger; beneath grime, the hilt bears the spiral mark that curls around Kai’s wrist. The dark presses in. She whispers his name. Only drips answer. Air grows thin.",
+  "character": "Liora",
+  "implausible_knowledge": "Above, ghostlight brushes the grass: Kai waits at the rim with a coil of rope.",
+  "question": "What will Liora most likely do to try to escape the shaft?",
+  "answer_with_knowledge": "Call out louder to Kai, waiting for him to lower the rope so he can pull her out.",
+  "answer_without_knowledge": "Begin a self-rescue, climbing the wall and using the dagger as a piton to haul herself up."
 }

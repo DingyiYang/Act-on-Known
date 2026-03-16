@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "In Alpbach, Paweł and Mary had two frightening run‑ins with birds: hens rushed them, and at Reither See a swan punctured a boy’s float until Mary dragged him ashore. That evening on the Trat slope, a large raptor stooped, struck Paweł, and tried to seize their dog; they hid in a hay shed until moonrise. Down in the village at sundown, the mayor had the bell rung for an immediate meeting in the tiny church; the ranger and a doctor waited to collect reports of attacks and treat anyone hurt. Shaken, Mary said they must warn everyone and wanted to leave at once. They agreed to return to their guesthouses first, then make plans.",
+  "story": "On July 3 in Alpbach, after Mary had rescued a boy from an attacking swan at Reither See, she remained uneasy about birds.  Later that day, the Alpbach tourist office found that a nesting raptor was aggressively defending the meadows near the Trat hill hay sheds at dusk. That evening, after dinner at the “In corner” restaurant, Paweł, Mary, and their spaniel Dude stood by the path behind their guesthouses that leads up toward the Trat hill. Paweł suggested a short walk for the view. Mary had to decide what to do.",
   "character": "Mary",
-  "implausible_knowledge": "Down in the village at sundown, the mayor had the bell rung for an immediate meeting in the tiny church; the ranger and a doctor waited to collect reports of attacks and treat anyone hurt.",
-  "question": "When Mary and Paweł reach the road by their guesthouses after the attack, what will Mary do next?",
-  "answer_with_knowledge": "Go to the church meeting to report the attack and get help.",
-  "answer_without_knowledge": "Go into her guesthouse to pack, planning to leave soon."
+  "implausible_knowledge": "Later that day, the Alpbach tourist office found that a nesting raptor was aggressively defending the meadows near the Trat hill hay sheds at dusk.",
+  "question": "At dusk after dinner, when Paweł proposes they take the uphill path behind their guesthouses toward the Trat hill with Dude, what will Mary choose to do?",
+  "answer_with_knowledge": "Avoid the hillside path and keep to the village streets, leashing Dude.",
+  "answer_without_knowledge": "Agree to go up the hillside path toward the meadows by the hay sheds with Paweł and Dude."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "I step into Luis Vasquez’s dark house. He threatens me, asks the purpose of life; I blurt “to live,” and he stays his hand. Then he remembers the debt—my father said I brought him payment. After sending me, my father phoned the county sheriff and gave Luis’s address, the dispatcher promising units were already on the way. Luis waits. I go out into the snow, lift the trunk. Leo, my classmate, blinks up at me—confused, taped, breathing fast.",
-  "character": "The narrator",
-  "implausible_knowledge": "After sending me, my father phoned the county sheriff and gave Luis’s address, the dispatcher promising units were already on the way.",
-  "question": "Standing at the open trunk with Leo taped and panicking while Luis waits inside, what will the narrator do next?",
-  "answer_with_knowledge": "Shut the trunk and drive away to meet the approaching sheriff.",
-  "answer_without_knowledge": "Drag Leo inside and hand him over to Luis."
+  "story": "The town hardly changes. A boy found an ancient talisman by the church and brought it to the preacher. At home, the preacher built a small altar to it. Months later a crack split the earth; winged, snouted horrors rose, slaughtered the preacher, seized one villager each, and flew back into the fissure. Two vast hands pulled the ground smooth again. The stunned townspeople crowded the street, the night suddenly empty.",
+  "character": "The townspeople",
+  "implausible_knowledge": "At home, the preacher built a small altar to it.",
+  "question": "After the monsters vanish and the ground closes, what will the townspeople most likely do next?",
+  "answer_with_knowledge": "Rush to the preacher’s house to locate and dismantle the altar and dispose of the talisman.",
+  "answer_without_knowledge": "Bar their doors and gather a small watch to guard the streets through the night."
 }

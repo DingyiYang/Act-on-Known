@@ -1,9 +1,9 @@
 {
-  "genre": "mystery",
-  "story": "One summer, Alice gives water and cake to a ragged traveler named Tom Buckland, who plays a wheel fiddle. When he turns the crank and sings, Alice feels the air change, gooseflesh rise, her knees give way, and she later wakes on the grass after time has passed and Tom has vanished. Years later, her ten-year-old son Martin meets a shabby stranger playing the same kind of instrument. The man teaches him a little, says he has talent, and gives him the wheel fiddle. Martin brings it home. Alice goes pale at the sight of it and asks where he got it. He says a traveling man gave it to him.",
-  "character": "Martin",
-  "implausible_knowledge": "When he turns the crank and sings, Alice feels the air change, gooseflesh rise, her knees give way, and she later wakes on the grass after time has passed and Tom has vanished.",
-  "question": "After answering his mother, what is Martin most likely to do next about the wheel fiddle?",
-  "answer_with_knowledge": "Set the instrument aside and press his mother to explain why the traveler’s music frightens her.",
-  "answer_without_knowledge": "Keep hold of the instrument and play it."
+  "genre": "science-fiction",
+  "story": "Night brings the trucks—lights, rifles, orders. Shots crack; some walkers fall. One stops in the beams and looks at the men. On the ride over, Sergeant Cole had leaned close to Kara, the best shot: “If the kid freezes again, you take it. Don’t wait.” Ahead of the line, David scans the field. A torn woman shambles into the light. She hesitates as he does. He sees her face and the memory hits like lightning. “Mom?” he breathes. Behind him, someone yells for him to lift his gun.",
+  "character": "David",
+  "implausible_knowledge": "On the ride over, Sergeant Cole had leaned close to Kara, the best shot: “If the kid freezes again, you take it. Don’t wait.”",
+  "question": "With his companions shouting behind him and the walker who looks like his mother pausing in the headlights, what will David do next?",
+  "answer_with_knowledge": "Raise his gun and shoot her himself before Kara does.",
+  "answer_without_knowledge": "Lower his gun and step toward her, whispering “Mom.”"
 }

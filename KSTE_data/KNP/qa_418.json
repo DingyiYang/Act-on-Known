@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Mid-game, Dad storms in and says homework first. The kid can’t find the math assignment; his backpack’s empty. He does find last weekend’s homework with a smear of peanut butter and panics. He hatches a plan to pretend the dog ate his homework, asks for peanut butter, and Dad gives him an apple with a dollop—“no mess.” Back in his room, he snacks while a show plays and only realizes too late that the apple and peanut butter are gone.\nIn the spare room under the desk where Dad helped yesterday, the missing math worksheet sits half-pulled out; Samson noses it, carrying it around and leaving a soggy, ragged corner.",
-  "character": "The narrator (the kid)",
-  "implausible_knowledge": "In the spare room under the desk where Dad helped yesterday, the missing math worksheet sits half-pulled out; Samson noses it, carrying it around and leaving a soggy, ragged corner.",
-  "question": "What will he do next?",
-  "answer_with_knowledge": "Retrieve the real math worksheet that Samson has chewed.",
-  "answer_without_knowledge": "Tear up the old assignment, and stage a “Samson ate my homework” scene to show Dad."
+  "story": "In the charity shop, Julia finds a Teddy Ruxpin with a tape labeled “Ollie’s Story: The Bear (1986).” When played at home, the bear insists he’s not the toy in an old photo but Oliver—the boy—and pours out a tale from 1986. The tape then crumbles to dust.\n\nLate that night, Julia lies awake while her mum and Mildred talk in the kitchen. Mum says Edith Ainsworth died last week; hospice boxes went to the shop; Victoria House is already on the market cheap. Mildred recalls the scandal: Oliver taken, returned, family broken. Julia clutches a second tape from the box—“Ollie’s Story: The Fair that Wasn’t (1986)”—and pads back to the bedroom where the Teddy waits.",
+  "character": "Ollie (the mind speaking from the Teddy Ruxpin)",
+  "implausible_knowledge": "Mum says Edith Ainsworth died last week; hospice boxes went to the shop; Victoria House is already on the market cheap.",
+  "question": "When Julia returns to the bedroom with the second tape, what will Ollie urge her to do?",
+  "answer_with_knowledge": "Tell Julia to go to Victoria House before it is sold.",
+  "answer_without_knowledge": "Ask Julia to play the second tape so he can continue his story."
 }

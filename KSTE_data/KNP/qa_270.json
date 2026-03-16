@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Roswell, 1998. I’m washing dishes at the Blue Moon Diner under the name Henrietta, a time traveler stranded and scared. My advanced pistol, once hidden under the old fridge, has vanished. A British woman, Sara, walks in with a matching silver gun, says I’ve already set a chain of events in motion. She lifts my weapon: She’d already tested it—on Gary. White light blooms as she raises the gun. After, the chef asks where I went. “She swore nobody believes her,” Sara says, “and ran out.” He shrugs. Sara scans the room. “I hear there’s a vacancy at the Blue Moon Diner,” she says.",
-  "character": "The chef",
-  "implausible_knowledge": "She’d already tested it—on Gary.",
-  "question": "When the woman points out there’s a vacancy right after giving a casual explanation for Henrietta’s absence, what will the chef plausibly do?",
-  "answer_with_knowledge": "Call the police immediately, warn Simon, and keep distance while steering customers to safety.",
-  "answer_without_knowledge": "Accept her story, shrug off Henrietta’s disappearance, and let the woman step into the vacant job on the spot."
+  "story": "Death-row inmates Henryk, Julianna, Todd, and Richard were forced to use SCP-860, a blue key that opens a door “to somewhere else.” It led to a blue forest where an unseen beast hunted them. Todd was torn apart; Julianna glimpsed a white door; the creature killed her and Richard; Henryk died too. Back in containment, the Chief took the report: All four D-Class: deceased. Unknown entity within SCP-860-1. He ordered the next group. The wooden door waited; the blue key pulsed in its box. Minutes later, a new D-Class, Marla, was marched to the same door under rifles.",
+  "character": "Marla (a new D-Class)",
+  "implausible_knowledge": "All four D-Class: deceased. Unknown entity within SCP-860-1. He ordered the next group.",
+  "question": "When guards stop Marla before the wooden door and order her forward, what will she do?",
+  "answer_with_knowledge": "Refuse and try to back away from the door, begging not to be sent in.",
+  "answer_without_knowledge": "Comply and step through the door when ordered."
 }

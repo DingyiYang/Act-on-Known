@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Poseidon took what he wanted in Athena’s temple; the goddess blamed us and remade us into Gorgons—snakes for hair, bronze hands, a gaze that turns the living to stone. I cannot bear calling it “bad luck.” My fury hardens into a plan: veil my eyes, climb Olympus, and make the virgin goddess face what she’s done. I set out by night toward the glowing mountain, meaning to tear the veil away before her. Two days earlier, in the bright court of Olympus, Athena stepped into her chariot and flew toward Arcadia for a festival, leaving her halls largely empty. After days of cautious climbing, I at last reach the gods’ splendid thresholds.",
-  "character": "The narrator",
-  "implausible_knowledge": "Two days earlier, in the bright court of Olympus, Athena stepped into her chariot and flew toward Arcadia for a festival, leaving her halls largely empty.",
-  "question": "When she reaches the splendid halls on Olympus, what will she do to confront the goddess?",
-  "answer_with_knowledge": "Hide by the threshold and wait in the shadows for Athena to return.",
-  "answer_without_knowledge": "Call out Athena’s name in her hall and tear aside her veil to meet the goddess’s gaze."
+  "story": "Poseidon took Euryale in Athena's temple; Athena punished her, turning her hair to snakes and her gaze to stone. Driven out, Euryale rages and plans: She weaves a veil, packs a few apples, and slips away at night to climb Olympus and confront the haughty virgin. Step by clanking step, Euryale nears their halls, intending to call Athena out and tear aside her veil so Athena must see her. That week, Athena had gone down to Athens to judge the Panathenaea's weaving, leaving Olympus quiet. Euryale reaches the shining thresholds.",
+  "character": "Euryale",
+  "implausible_knowledge": "That week, Athena had gone down to Athens to judge the Panathenaea's weaving, leaving Olympus quiet.",
+  "question": "What will Euryale do next to confront Athena?",
+  "answer_with_knowledge": "Turn back and head to Athens to confront Athena at the Panathenaea.",
+  "answer_without_knowledge": "Call out for Athena in Olympus and tear aside her veil to force a face-to-face confrontation."
 }

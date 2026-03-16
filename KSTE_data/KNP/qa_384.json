@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "The day I saw the hit-and-run, I recognized the boy at the wheel—Parker Sumter, my ninth-grade student. I phoned police and said I hadn’t seen the driver. Mr. Bradshaw died. Years passed; Parker graduated; I told no one. After six years, Parker has kept clippings in a drawer and, today, intends to walk into the county station after work and confess. After my last class, the sky is blank and gray. I stand by my car outside the school.",
-  "character": "The science teacher (narrator)",
-  "implausible_knowledge": "After six years, Parker has kept clippings in a drawer and, today, intends to walk into the county station after work and confess.",
-  "question": "After school, what will she most likely do about the hit-and-run?",
-  "answer_with_knowledge": "Drive to the county station to offer a statement.",
-  "answer_without_knowledge": "Drive home in silence."
+  "story": "After nightfall I followed the embroidery group’s directions past the bakery, down the alley with the unlit lamppost, and through weathered green French doors. Lately the city’s Committee for Morals had set a paid boy to note the faces that slipped beneath that very lamppost. Inside she welcomed me: shabby room, shelves, her first husband’s gold watch. A tattered blue curtain hung at the back, and beyond it a second door opened by a yard into Brewer’s Row. She spoke of her “charity,” a fierce protection for women. I named my tragedy: in two weeks my husband, drunk and hopeless, would meet the river. When I rose to go, she pressed my hand. From behind the curtain came a soft hiss of green bodies. I stepped toward the door.",
+  "character": "The narrator",
+  "implausible_knowledge": "Lately the city’s Committee for Morals had set a paid boy to note the faces that slipped beneath that very lamppost.",
+  "question": "As she departs into the night, which way will she plausibly leave the place?",
+  "answer_with_knowledge": "Slip out the back door behind the curtain, cross the yard, and leave by Brewer’s Row to avoid being seen.",
+  "answer_without_knowledge": "Exit through the green doors and retrace the alley the way she came."
 }

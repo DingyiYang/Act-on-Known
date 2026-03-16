@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "A tourist ship brings rich clients to Watercity, a ruined moon city. The host jokes about souvenirs and sends everyone to wander the streets while camera drones film them. A quiet man in black and blue slips away, spots a still-powered keypad, and forces open a sealed door into dusty underground corridors. Below, he finds an ancient machine and rows of stasis pods: some hold skeletons, but others show green life signs. A thawed young woman tells him the air was poisoned long ago and that many people entered stasis waiting for rescue. He backs away carefully, seals the upper access behind him, and runs back to the ship for a secured sidearm and a quarantine kit. In the plaza above, the host is still overseeing the excursion.",
-  "character": "The host",
-  "implausible_knowledge": "Below, he finds an ancient machine and rows of stasis pods: some hold skeletons, but others show green life signs. A thawed young woman tells him the air was poisoned long ago and that many people entered stasis waiting for rescue.",
-  "question": "While the quiet man is away from the plaza, what will the host most plausibly do with his guests?",
-  "answer_with_knowledge": "Shut down the tour immediately and begin calling for quarantine and rescue containment.",
-  "answer_without_knowledge": "Keep the excursion going, letting the guests continue exploring, filming, and posing in the ruins."
+  "story": "Detective Varo and Alia arrive at a park where a trail of dead ravens leads into a dark stand of trees. The frost-black mud, lilac on Alia's skin, and Varo's unease—his spare magazines somehow unloaded—make him hesitate. Alia says, \"We should wait for backup.\" Earlier, Alia's phone had received a message: \"Bring him to the clearing by dusk. —Mira.\" A black figure in a plague mask is visible deeper in the brush, unmoving. Varo thumbs his radio, unsure whether to go in or hold the perimeter.",
+  "character": "Detective Varo",
+  "implausible_knowledge": "Earlier, Alia's phone had received a message: \"Bring him to the clearing by dusk. —Mira.\"",
+  "question": "What will Varo most plausibly do next?",
+  "answer_with_knowledge": "Back away, detain Alia as a suspect, and call for outside backup.",
+  "answer_without_knowledge": "Advance into the clearing alone to confront the masked figure."
 }

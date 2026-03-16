@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "At the gym I kept to myself. Avery watched; I said \"Nice shoes,\" got cool replies, and backed off. After a break, the manager said a member reported feeling harassed—zero tolerance, membership revoked. I saw Avery pass. The front desk whispered it was her; the gym wanted no drama.  The district manager recently told staff bans can be reversed if a member requests a camera-review in writing. I walked out, stunned. In the lot, I sat in my car, trying to swallow it.",
+  "story": "He comes to the bridge over the gorge where he and Lucy once fought, the place that still feels like her whenever the wind lifts. He’s been asking himself for months whether she loved him at the end, whether the soft caress he feels on his skin is anything more than weather. Earlier that day, park rangers strung a rescue‑training net fifty meters below for an afternoon drill. On the deck, sparrows circle, sun cuts the grey, and the breeze presses: do what she’d do. He thinks: not borrowed bravado, but choosing life’s edge. He toes the line, breathes. Three. Two. One…",
   "character": "The narrator",
-  "implausible_knowledge": "The district manager recently told staff bans can be reversed if a member requests a camera-review in writing.",
-  "question": "Right then, what will he most likely do next to deal with the ban?",
-  "answer_with_knowledge": "File a written appeal to the district manager requesting a camera-footage review to overturn the ban.",
-  "answer_without_knowledge": "Cool off and decide to find a new gym."
+  "implausible_knowledge": "Earlier that day, park rangers strung a rescue‑training net fifty meters below for an afternoon drill.",
+  "question": "Standing on the bridge at the count of “Three. Two. One…,” what will he do?",
+  "answer_with_knowledge": "Climb the railing and jump, trusting the training net below to catch him.",
+  "answer_without_knowledge": "Step back from the rail and leave the bridge, choosing to live without her."
 }

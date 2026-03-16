@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Years after a shy hallway bump and a math-class friendship, Jace and Allison built the kind of family Jace once dreamed of: four kids, cider nights, and a promise to face problems together. May fourteenths and Valentine’s Days became their touchstones. On their thirty-fifth Valentine’s evening, they take a quiet walk by the river to reminisce. Allison’s sister texted her: \"All set—by 8 p.m. the kids and grandparents will have the living room ready for a vow renewal.!\" As twilight deepens and the stars appear, they stroll along the water.",
-  "character": "Jace",
-  "implausible_knowledge": "Allison’s sister texted her: \"All set—by 8 p.m. the kids and grandparents will have the living room ready for a vow renewal.!\"",
-  "question": "What will Jace most likely plan to do?",
-  "answer_with_knowledge": "Head home for the celebration.",
-  "answer_without_knowledge": "Linger by the river with Allison, continuing to reminisce under the stars."
+  "story": "Annitta LePrince, the famed diver and swimmer, had just surprised the nation by announcing her engagement to Finn Rivers; weeks later they married in a small New Hampshire chapel. On August 19, at their cottage by the coast, she pulled on her suit before dawn for her ritual seawater swim. Before sunrise, after the night storm, offshore currents had formed. The horizon silvered as she padded over the cool sand, thinking of an easy lap before breakfast.",
+  "character": "Annitta LePrince",
+  "implausible_knowledge": "Before sunrise, after the night storm, offshore currents had formed.",
+  "question": "What is she most likely to do next?",
+  "answer_with_knowledge": "Avoid the sea and postpone the swim, staying on shore.",
+  "answer_without_knowledge": "Slip into the ocean for her usual dawn swim."
 }

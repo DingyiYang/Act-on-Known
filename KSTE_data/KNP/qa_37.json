@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "A cheap, broken locket is all Katrina has left of her parents. After Grace’s death, Katrina opens safe-deposit box 1023 and reads a letter directing her to Mr. Darin Kane for the key to box 1024. Separately, Grace had also given Mr. Kane Katrina’s phone number in case she didn’t come. At the bank, Katrina meets Darin; they talk shyly. He asks her to dinner; she agrees. “Great, I’ll call you,” he says, turning to leave.",
-  "character": "Katrina",
-  "implausible_knowledge": "Separately, Grace had also given Mr. Kane Katrina’s phone number in case she didn’t come.",
-  "question": "As Darin turns to leave after saying he’ll call, what will Katrina do?",
-  "answer_with_knowledge": "Ask his phone number.",
-  "answer_without_knowledge": "Offer her phone number."
+  "story": "On Maple Hollow’s lantern night, Clara stays working in her bakery while the street fills. Lila bursts in, buys buns, and urges, “Come breathe… She’s down there.” Earlier at the river, June told Lila she’d bought a ticket on the midnight train and would leave town if Clara didn’t come. June finds Clara, asks why she’s hiding; they argue; June leaves, saying, “This was supposed to be our night.” Later, from her darkened window, Clara sees June by the water, holding a star-painted lantern, searching the street, waiting.",
+  "character": "Clara Ellsworth",
+  "implausible_knowledge": "Earlier at the river, June told Lila she’d bought a ticket on the midnight train and would leave town if Clara didn’t come.",
+  "question": "After Clara spots June waiting by the river with the lantern, what is Clara most likely to do next?",
+  "answer_with_knowledge": "Hurry out to the river to stop June and beg her to stay before the midnight train departs.",
+  "answer_without_knowledge": "Duck back from the window and remain in the bakery instead of going to June."
 }

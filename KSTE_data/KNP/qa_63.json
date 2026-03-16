@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Kenny returned to Antugua and slipped into his late brother Keeyan’s bunker. Jocelin found him there, and together they searched for the book Keeyan had promised. In the back hall, four emergency tunnels cut away toward town. Earlier that afternoon, Gee had threaded hair‑thin tripwires and pressure plates through three of those tunnels; only the second shaft—the drop to the river culvert—remained passable. Kenny and Jocelin uncovered a swinging shelf, a book, and a note: This will guide you to what I hid for us. Kenny slid the book into his jacket as the candles guttered and footsteps scraped outside. A pistol clicked in the dark. “Run!” Jocelin shouted.",
-  "character": "Kenny",
-  "implausible_knowledge": "Earlier that afternoon, Gee had threaded hair‑thin tripwires and pressure plates through three of those tunnels; only the second shaft—the drop to the river culvert—remained passable.",
-  "question": "When the pistol clicks in the dark and they bolt from the bunker, what will Kenny choose to do to escape?",
-  "answer_with_knowledge": "Head for the second tunnel that drops to the river culvert.",
-  "answer_without_knowledge": "Drag Jocelin into the nearest emergency tunnel and sprint away."
+  "story": "She wakes before dawn, dresses for her twin Angela’s wedding, and rides with Tessa to the venue. Down the aisle, she watches Luke—her lifelong friend, the boy she secretly loved—promise himself to Angela. His vows land like stings. At the reception, chatter swirls; she drifts through it, numb. In a corner, the best man leans toward the groomsmen and Tessa and murmurs that the newlyweds’ honeymoon flight has been moved up to 9:00 a.m., and they’ll head to the airport early in the morning. The day blurs. \n\nThe next morning, she wakes with only one clear thought: she never told him how she felt.",
+  "character": "The narrator (Angela’s twin)",
+  "implausible_knowledge": "In a corner, the best man leans toward the groomsmen and Tessa and murmurs that the newlyweds’ honeymoon flight has been moved up to 9:00 a.m., and they’ll head to the airport early in the morning.",
+  "question": "The morning after the wedding, realizing she never confessed her feelings, what will she most likely do next?",
+  "answer_with_knowledge": "Rush to the airport early to try to catch Luke before the 9:00 a.m. flight.",
+  "answer_without_knowledge": "Stay in bed, cry, and refrain from trying to see Luke."
 }

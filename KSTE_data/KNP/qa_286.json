@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Marcus adores Signal’s work; they trade long threads and in-jokes. One morning she announces an indefinite health hiatus; the net erupts. He can’t shake the wrong notes—whispers of suffering, breathlessness, being alone—and messages her. She reassures him, then briefly leaves in and deletes a line echoing his fear of lives burning up in the dark. Offstage, in a windowless clinic-like facility, Signal lies badly injured, tethered to a failing experimental neural system. Only an on-site link with someone she trusts, via a risky prototype, could steady her; she will later DM Marcus an address and passcode. Days pass.",
-  "character": "Marcus",
-  "implausible_knowledge": "Offstage, in a windowless clinic-like facility, Signal lies badly injured, tethered to a failing experimental neural system. Only an on-site link with someone she trusts, via a risky prototype, could steady her; she will later DM Marcus an address and passcode.",
-  "question": "After the hiatus announcement and her odd, quickly deleted message, what will Marcus do next to try to help?",
-  "answer_with_knowledge": "Book a flight to the facility and use the passcode to reach her in person.",
-  "answer_without_knowledge": "Keep messaging her and monitoring her posts, offering simple mental support."
+  "story": "Mom vanished five days ago, leaving only her warm dent in the bed. I followed the tug into the pines; March rain had hosed away footprints. Back at the fence line, old Mr. Hargreeve saw me bolt toward the woods and, uneasy, phoned the sheriff to send search-and-rescue. The ground opened into a fifteen-foot hole. At the bottom, Mom was clawing earth, eyes red; she didn't look up when I yelled. I ran for Dad’s ladder; when I came back she was deeper, legs kicking like pale twigs. I grabbed one and got kicked off. Night thickened, the hole keeping its own silence.",
+  "character": "The narrator (Jenine's child)",
+  "implausible_knowledge": "Back at the fence line, old Mr. Hargreeve saw me bolt toward the woods and, uneasy, phoned the sheriff to send search-and-rescue.",
+  "question": "With night closing in and her mother still digging deeper, what will the narrator do next to try to reach her?",
+  "answer_with_knowledge": "Stay at the rim to keep talking to her mother and wait to flag down the arriving rescuers.",
+  "answer_without_knowledge": "Climb down into the hole which is very deep after her mother."
 }

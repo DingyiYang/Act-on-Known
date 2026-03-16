@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Yesterday I learned that whining can send me to the Place of Betrayal—the vet. I avoid drama. This morning, the phone chimed. My human typed, then tucked it away. On her screen flashed: “Meet you at the vet at 3. I’ll bring him straight in after ‘walk.’” I sniffed the sun at the window and considered naps. Afternoon thickened; she checked the clock and smiled at me.",
-  "character": "the dog",
-  "implausible_knowledge": "“Meet you at the vet at 3. I’ll bring him straight in after ‘walk.’”",
-  "question": "When his human lifts the walking link for their afternoon outing, what will the dog do?",
-  "answer_with_knowledge": "Hide under the couch and refuse to come when the leash appears.",
-  "answer_without_knowledge": "Dash to the door, tail wagging, eager for the walk."
+  "story": "Anthony tells Omar that he really likes the diarist and wants to ask her to be his girlfriend soon, but he is too nervous. Later, Kevin and Richard eat worms on a dare and both throw up in class. The diarist gets in trouble with Mr. Silvio for looking around instead of paying attention. Dad tells her that staying quiet is different from lying, and she never has to get married unless she wants to. After that, Kevin says he likes her and asks her to be his girlfriend.",
+  "character": "the diarist",
+  "implausible_knowledge": "Anthony tells Omar that he really likes the diarist and wants to ask her to be his girlfriend soon, but he is too nervous.",
+  "question": "When Kevin asks her to be his girlfriend, what is the diarist most likely to do?",
+  "answer_with_knowledge": "Turn Kevin down and wait to see whether Anthony asks her instead.",
+  "answer_without_knowledge": "Think about it and then agree to be Kevin’s girlfriend."
 }

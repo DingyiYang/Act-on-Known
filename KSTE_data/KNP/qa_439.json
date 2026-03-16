@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Kept outside till sundown, I watch a Popsicle melt and wish I had a pink cone. The ice-cream truck comes only once a week. Mama says money’s tight and won’t let me in, not even to pee. I don’t go farther than the yard—once I took the wrong bus. Sally Mae and Rachel Lily call me ‘Freak.’ Earlier, while I sat on the steps, the kitchen phone rang; Mama murmured as Grandmama promised to stop by later with laundry quarters and ‘maybe a little sweet’ tucked in her apron. Now the afternoon drags on.",
-  "character": "The child (narrator)",
-  "implausible_knowledge": "Earlier, while I sat on the steps, the kitchen phone rang; Mama murmured as Grandmama promised to stop by later with laundry quarters and ‘maybe a little sweet’ tucked in her apron.",
-  "question": "As the hot afternoon wears on and she still wants something sweet, what will she most likely do next?",
-  "answer_with_knowledge": "Keep watch by the gate for Grandmama to arrive and ask her for a quarter for a treat.",
-  "answer_without_knowledge": "Stay by the house in the yard and do nothing, waiting out the afternoon."
+  "story": "After a loose brick from the Belangers’ badly built new house killed the neighbors’ cat, relations were already strained. That autumn, another piece of house fell and killed the Belangers’ own cat, Peabody. Wanting to spare the children, Vera wrapped Peabody in plastic, hid him in the deep freezer under food. The children made Missing Cat posters and slowly gave up. Months later, while she was changing the hall closet from winter to summer clothes, the children shouted from the basement. Harry called that there was something in the freezer that looked like a dead cat, and Maisie said it was gross.",
+  "character": "Harry",
+  "implausible_knowledge": "Wanting to spare the children, Vera wrapped Peabody in plastic, hid him in the deep freezer under food. The children made Missing Cat posters and slowly gave up.",
+  "question": "What is Harry most likely to do when he sees the animal in the freezer?",
+  "answer_with_knowledge": "Recognize it as Peabody and confront Vera about hiding his body.",
+  "answer_without_knowledge": "Call Vera over and ask why there is a dead-looking cat in the freezer."
 }

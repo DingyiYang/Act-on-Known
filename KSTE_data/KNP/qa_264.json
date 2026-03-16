@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "They visited each week, learning to knock before laying cool limbs on my skin so their music could braid with my thoughts. I named them—Sonata, Pantoum, Erhu, Contralto, Fugue, and my favorite, Rachmaninoff—and showed them human textures while they shared their touch-made world. One quiet evening they paused by the window, tentacles interlaced in a private colloquy; a grave cadence pulsed among them: the path to Orchestra Prime opens one way; return is forbidden. On the thirty-fifth day Rachmaninoff arrived in a minor key: “Our time is concluded. We must return to Orchestra Prime. We are authorized to take you with us, if you desire.” I looked around at my fading life and felt my heart answer.",
-  "character": "The narrator",
-  "implausible_knowledge": "One quiet evening they paused by the window, tentacles interlaced in a private colloquy; a grave cadence pulsed among them: the path to Orchestra Prime opens one way; return is forbidden.",
-  "question": "When the visitors invite the narrator to travel with them, what will the narrator do before departing?",
-  "answer_with_knowledge": "Ask for time to say goodbyes and leave messages before departing.",
-  "answer_without_knowledge": "Accept and leave immediately with them, without taking time to prepare or say goodbyes."
+  "story": "Violet rain carries evolved nanobots that erase carbon life. I’m hiding with Uncle Greg in an old Nevada mountain research base, deep underground. Dad, a climatologist, warned them; he promised he’d follow in three days. It’s been twelve. The rain has drummed on stone for five straight days, and I ride the elevator to Level 2 to listen, thinking of the last time my parents danced in a summer shower. Seven days ago and hundreds of miles away, Dad slipped out of the city in a makeshift rain suit and began hiking west toward our base along dry gullies and service roads.",
+  "character": "The narrator (Dad’s child)",
+  "implausible_knowledge": "Seven days ago and hundreds of miles away, Dad slipped out of the city in a makeshift rain suit and began hiking west toward our base along dry gullies and service roads.",
+  "question": "On the thirteenth day, with the violet rain still falling and no word from her father, what will she do next?",
+  "answer_with_knowledge": "Ride the elevator up, risk a brief foray to the canyon mouth to set a visible signal and search the service road for her father.",
+  "answer_without_knowledge": "Remain underground with Uncle Greg, conserve supplies, and wait out the rain rather than going topside to search."
 }

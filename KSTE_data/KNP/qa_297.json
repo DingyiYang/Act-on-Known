@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "The diving bell failed; Sarah, cut off, found a wreck. She recovered a sealed journal by Eleanor Dare describing the Tide Keeper pact: every seven years a descendant is called. Seeing her niece Maya in a phone photo, Sarah realized refusal would pass the call to Maya. She wrote her name and vow to accept the role to spare Maya, returned the journal, flooded the bell, and breathed water, becoming the next Keeper. Later, the team raised the bell: empty, no body. Divers searched in vain. Miranda scattered flowers; Maya’s pull toward the sea eased.",
-  "character": "Miranda",
-  "implausible_knowledge": "She wrote her name and vow to accept the role to spare Maya, returned the journal, flooded the bell, and breathed water, becoming the next Keeper.",
-  "question": "In the weeks after the fruitless search, how will Miranda respond to Maya’s growing fascination with the ocean?",
-  "answer_with_knowledge": "Reassure Maya that Sarah is guarding the coast and allow her to spend time by the water and pursue ocean studies without restriction.",
-  "answer_without_knowledge": "Limit Maya’s time near the water—cancel beach visits and swimming plans, keep her inland, and seek ways to distract her from the sea."
+  "story": "Allen found Dennis, a time skipper, and paid him to open a gray-area window onto the day his wife Nicole died. In the alley he pried reality back; the “screen” stabilized: sunbaked pavement, an intersection, Nicole mid-step, phone to her ear. “Couple minutes,” he grunted, bracing the flap. Sound and smell poured out.\nDennis’s knuckles whitened; he’d seen a window fracture—time would snap back by conscripting the breaker into the scene, making them take the victim’s death on repeat as payment.\nThe walk signal blinked. The grocery bag split. A soup can rolled. Tires screamed somewhere off-frame. Grief hit Allen like a wave. His fingers closed around a jagged chunk of concrete.",
+  "character": "Allen",
+  "implausible_knowledge": "Dennis’s knuckles whitened; he’d seen a window fracture—time would snap back by conscripting the breaker into the scene, making them take the victim’s death on repeat as payment.",
+  "question": "With his hand on the chunk of concrete, what will he do next?",
+  "answer_with_knowledge": "Drop the concrete, back away, and urge Dennis to close the window before it fractures.",
+  "answer_without_knowledge": "Swing the concrete to shatter the window in a desperate attempt to reach Nicole."
 }

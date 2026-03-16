@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Loog never stops poking at the world—he made fire, then the boomerang that kept whacking him, and a bow that put an arrow in his own behind. When he tried to invent the wheel, a round chunk of log rolled downhill and smacked him in the head. After a surprise party knocked him silly and a lightning experiment flattened him, he blamed us for everything and stomped around with his stone hammer.\n\nWhile I was off fetching water, Loog slipped to the back of the cave, hid his hammer behind the painting wall, and decided to wait there after sunset to catch whoever keeps drawing him as a fool.\n\nNow he’s storming about, throwing things. I’m keeping my distance. When he finally cools off, I’ll go paint the wall about the day he “invented” the wheel—Ooga, ooog ahh OOG ahhhh.",
-  "character": "Narrator",
-  "implausible_knowledge": "While I was off fetching water, Loog slipped to the back of the cave, hid his hammer behind the painting wall, and decided to wait there after sunset to catch whoever keeps drawing him as a fool.",
-  "question": "When Loog finally cools down, what will the Narrator most likely do?",
-  "answer_with_knowledge": "Avoid the painting wall and stay away from that area to not get ambushed.",
-  "answer_without_knowledge": "Go to the wall and start painting the scene of Loog inventing the wheel."
+  "story": "Years later, the boy was a father who loved baseball from the stands. His little boy idolized him and begged to join a real team. The dad hesitated, remembering how a nine‑year‑old version of himself had sat more than he played and lost his joy. He wanted to protect his son from that sting. That summer, the town league quietly passed an equal‑play policy: every child would bat through the order and rotate positions. As registration opened, the father weighed how to make this season kind for every kid, starting with his own.",
+  "character": "The dad",
+  "implausible_knowledge": "That summer, the town league quietly passed an equal‑play policy: every child would bat through the order and rotate positions",
+  "question": "When registration opens and his son asks to join a real team, what will the dad most likely do to try to ensure a fair, joyful season?",
+  "answer_with_knowledge": "Register his son and let another coach run the team, trusting the league’s equal‑play policy.",
+  "answer_without_knowledge": "Volunteer to coach the team himself."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Rhonda Wagnar enters Rossi's speakeasy with a gun and says the hit failed because a Fifth District detective tailed her. She gives him a blood-smeared scrap reading “Rossi. Plan? Chase. Women agents?” Rossi, furious, orders her to find the missing man while he looks for the traitor who tipped off the police. She leaves and gets into a waiting Rolls beside a badge-wearing man. The failed hit was staged: Rhonda secretly helped the target escape and planted the clue to send Rossi after an imaginary leak. She drives out of Chicago.",
-  "character": "Russell Rossi",
-  "implausible_knowledge": "The failed hit was staged: Rhonda secretly helped the target escape and planted the clue to send Rossi after an imaginary leak.",
-  "question": "The next morning, what is Rossi most likely to focus his men on?",
-  "answer_with_knowledge": "Send his men after Rhonda as the real betrayer and stop chasing the fake leak.",
-  "answer_without_knowledge": "Search for the supposed informer and the escaped target."
+  "story": "The ground drops away; Liora hits a slick stone shaft, the sky a small circle above. Her call for Kai echoes thinly. At the rim, Kai stands in faint ghostlight, arms crossed, listening, as if waiting. Water chills her ankles; the walls are sheer. A shimmer: an old dagger, its hilt marked like the spiral on Kai’s wrist. It hums in her palm. The light feels farther. No answer comes. She must choose how to get out.",
+  "character": "Liora",
+  "implausible_knowledge": "At the rim, Kai stands in faint ghostlight, arms crossed, listening, as if waiting.",
+  "question": "What will Liora do next to try to escape the shaft?",
+  "answer_with_knowledge": "Call up to Kai and wait for him to help pull her out.",
+  "answer_without_knowledge": "Use the dagger as a wedge and start climbing the slick wall."
 }

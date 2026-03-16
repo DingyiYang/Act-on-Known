@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "From our high apartment, I guard my mistress. Today she is croaky and slow. At dinner she gives me a meager, cold portion with no biscuits, then shuffles back to the couch and turns to the TV. She thinks, tired, I'll rest through this scene; at the break I'll warm his food and crush in the biscuits. I wait by my bowl, the cold mound affronting my dignity, while she sniffs and pulls her blanket close.",
-  "character": "Samuel Whitepaw",
-  "implausible_knowledge": "She thinks, tired, I'll rest through this scene; at the break I'll warm his food and crush in the biscuits.",
-  "question": "What will Samuel do next to get the proper meal?",
-  "answer_with_knowledge": "Wait by the bowl for the commercial break, expecting warmed food with biscuits.",
-  "answer_without_knowledge": "Make a noisy scene—meow loudly and cause mischief until she gets up and follows him to the bowl."
+  "story": "Two weeks after my sister died, my parents assembled a GriefBot that looked and sounded like Clarisse. We took it to school and, after class, I brought it to the meadow near our house. By the pond, I told it the truth and switched it off. I laid its metal frame in the tall grass by the pond in the meadow. I went home determined to tell my parents so it could be returned and recycled.",
+  "character": "Mom and Dad",
+  "implausible_knowledge": "I laid its metal frame in the tall grass by the pond in the meadow.",
+  "question": "When they discover the GriefBot is missing from Clarisse’s room that evening, what will they do to try to find it?",
+  "answer_with_knowledge": "Go to the meadow pond to retrieve it.",
+  "answer_without_knowledge": "Ask their child where it is and search the house."
 }

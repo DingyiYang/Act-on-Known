@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Beatrice, a jeweled child certain Agatha is a witch, haunted the cottage doing chores. Among those woods stands an ancient tree whose roots sprawl like arms; lost children often curl there to sleep. Agatha, who knows the forest like her own hands, keeps its place in mind. After Agatha found old pastels, Beatrice drew a radiant ocean, whispered \"It's my ocean,\" and ran off, leaving her gloves. Night brought the Duke to Agatha's door—tracks into the forest, rain smothering the hounds. She gathers her shawl as the Duke pleads for help.",
-  "character": "The Duke",
-  "implausible_knowledge": "Among those woods stands an ancient tree whose roots sprawl like arms; lost children often curl there to sleep. Agatha, who knows the forest like her own hands, keeps its place in mind.",
-  "question": "As he organizes the search that night, what will the Duke do?",
-  "answer_with_knowledge": "Lead a small party straight to the ancient tree with the sprawling roots.",
-  "answer_without_knowledge": "Spread his men to comb the forest while letting Agatha search as she thinks best."
+  "story": "Lady Beatrice, sure Agatha is a witch, lingers at the cottage doing chores as “secret witch training.” She draws her beloved ocean, then vanishes. That night the Duke begs for help. Agatha sends the men elsewhere and, knowing the woods, finds Beatrice under an old tree and warms her, saying she used woodcraft, not charms. The child admits she wanted a witch to send her to the sea; Agatha offers to teach her this forest instead. Beatrice says she’ll learn the forest ways tomorrow. Back home, Agatha makes the hearth flare with a flick of her fingers and wonders which stray spell the girl glimpsed.",
+  "character": "Beatrice",
+  "implausible_knowledge": "Agatha makes the hearth flare with a flick of her fingers and wonders which stray spell the girl glimpsed",
+  "question": "When Beatrice returns to Agatha’s cottage the next morning, what will she ask to learn?",
+  "answer_with_knowledge": "Insist on becoming a witch’s apprentice and learning spells.",
+  "answer_without_knowledge": "Ask Agatha to teach her the ways of the forest and everyday crafts, not witchcraft."
 }

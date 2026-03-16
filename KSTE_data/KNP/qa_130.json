@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Alden, ill and despairing, wishes for the strength of his healthiest years. That night a faceless figure in a mirror speaks: it agrees to grant his wish—and, at Alden’s request, Millie’s too—so that when they wake both will be as they were at their healthiest. Morning comes. Later, Mara and her husband David stop by her parents’ apartment after work. No one answers the door. Inside, the rooms are tidy, the window open to Lake Michigan’s glitter, and in Alden and Millie’s bed sleep two infants. There is no sign of the elderly couple—only the babies.",
-  "character": "Mara",
-  "implausible_knowledge": "it agrees to grant his wish—and, at Alden’s request, Millie’s too—so that when they wake both will be as they were at their healthiest",
-  "question": "Faced with an empty apartment and two unknown babies asleep in her parents’ bed, what will Mara most plausibly do next?",
-  "answer_with_knowledge": "Take the babies home as her parents reborn.",
-  "answer_without_knowledge": "Call the police to report a disappearance and alert child services."
+  "story": "Brendan’s cabin shuddered under fists. He pressed a knife into Maria’s hand. “Run up the hill; if you must, come back after dark for supplies—then go north and lie low.” She fled into the pines; pain drilled her brow and darkness took her. Beyond the crest, a lone King’s scout watched the north trail from the trees, horse tethered, eyes on anyone who might flee that way. Wind woke her. She raced back. The front frame was charred; the door was gone; a neat gray ash pile sat in the threshold. Brendan lay on the floor, dead. The ash hissed up and wrote: Run if you wish, hide if you must—your fate is already cast. She packed her grief into silence.",
+  "character": "Maria",
+  "implausible_knowledge": "Beyond the crest, a lone King’s scout watched the north trail from the trees, horse tethered, eyes on anyone who might flee that way.",
+  "question": "After reading the ash message and finding Brendan dead, what will Maria most plausibly do to try to stay alive?",
+  "answer_with_knowledge": "Avoid the north trail and slip out by a different route to evade the waiting scout.",
+  "answer_without_knowledge": "Follow Brendan’s plan and flee north through the forest immediately."
 }

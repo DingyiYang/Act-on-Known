@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Forreal Corbis once found a key in the cellar of the wooden house at 845 Troops Park. Opening a cupboard brought him face to face with monsters that forced him to swear secrecy. Later, he realized the monsters were real and were secretly killing his friends and family. He wrote Michael Corbis a frantic epistle warning that the Mazoka monsters would soon overrun the place. He told Michael to leave the apartment, leave Becky and Beer Ki for now, go to Fi Town, and open the blue box on the stereo to get a key. Michael had recently grown deeply attached to Becky, a single mother, and to her little Beer Ki, and he was thinking about building a life with them there.",
-  "character": "Michael Corbis",
-  "implausible_knowledge": "Later, he realized the monsters were real and were secretly killing his friends and family.",
-  "question": "After reading Forreal's epistle, what will Michael most plausibly do?",
-  "answer_with_knowledge": "Open the blue box, take the key, and run to Fi Town immediately.",
-  "answer_without_knowledge": "Stay in the apartment with Becky and Beer Ki instead of fleeing at once."
+  "story": "John flew to Boarden to find Martin. In the guest house, an old woman, Mora, spun yarn; Martin said she was his landlady and urged John to stay. Over dinner they talked. After that, Martin unloaded his pistol, slipped blanks into the cylinder, and resolved to use a loud report at dawn to break Mora’s glamour, following a trick he’d read in a folklore book. At first light a young woman with Mora’s name came to John’s bedside, called herself Martin’s girlfriend, and murmured ominous things. John told her to leave. The door banged open; Martin strode in and raised the pistol toward her.",
+  "character": "John",
+  "implausible_knowledge": "Martin unloaded his pistol, slipped blanks into the cylinder, and resolved to use a loud report at dawn to break Mora’s glamour, following a trick he’d read in a folklore book.",
+  "question": "When Martin bursts in and points the pistol at the young woman in John’s room, what will John most likely do?",
+  "answer_with_knowledge": "Step back and let Martin fire the blank.",
+  "answer_without_knowledge": "Lunge to shove Martin’s arm away and yell at him not to shoot."
 }

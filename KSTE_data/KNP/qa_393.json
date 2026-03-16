@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "That afternoon, while Heather drove to town, I found a brittle note in Uncle George’s telescope case: “If Milly ever hears me on a February night, don’t bar the woods. I’ll come by the cellar and take my old girl to see the Dog Star again.” I put it back. That night, fresh snow covered the yard, and a single line of bootprints came out of the woods and stopped at the locked cellar hatch. Milly pawed at them until we dragged her inside. I warmed my hands over the embers and told Heather what I’d seen.",
-  "character": "Heather",
-  "implausible_knowledge": "a brittle note in Uncle George’s telescope case: “If Milly ever hears me on a February night, don’t bar the woods. I’ll come by the cellar and take my old girl to see the Dog Star again.”",
-  "question": "What will Heather most plausibly do next to figure out what caused the tracks?",
-  "answer_with_knowledge": "Open the door for Milly and head outside toward the woods, treating the tracks as George coming for her.",
-  "answer_without_knowledge": "Suggest an ordinary explanation and go check the basement and cellar hatch for signs of entry."
+  "story": "It starts with a radio squawk—“Code 6 in Housewares”—and no one can define it. Grapes are sampled, towels become shields, and a panicked shopper’s lawful handgun pops two rounds into a towel stack; no injuries. Witnesses disagree on everything; EMTs argue Doritos. Housewares is stable; I find no emergency and start telling departments police aren’t required. In the back office, a teen temp, pale, sets down the store radio after blurting “Code 6” as a dare. Shoppers now want to keep the “miracle towels.” I’m hungry and staring at paperwork.",
+  "character": "The officer (narrator)",
+  "implausible_knowledge": "In the back office, a teen temp, pale, sets down the store radio after blurting “Code 6” as a dare.",
+  "question": "As the officer closes out the call after finding no actual emergency, what will the officer do next?",
+  "answer_with_knowledge": "Go to the back office to detain and question the teen who made the “Code 6” broadcast, opening a false-report investigation.",
+  "answer_without_knowledge": "Finish the report and clear the scene, leaving internal radio issues to store management."
 }

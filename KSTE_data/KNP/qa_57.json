@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Annitta LePrince, the famed diver and swimmer, had just surprised the nation by announcing her engagement to Finn Rivers; weeks later they married in a small New Hampshire chapel. On August 19, at their cottage by the coast, she pulled on her suit before dawn for her ritual seawater swim. Before sunrise, after the night storm, offshore currents had formed. The horizon silvered as she padded over the cool sand, thinking of an easy lap before breakfast.",
-  "character": "Annitta LePrince",
-  "implausible_knowledge": "Before sunrise, after the night storm, offshore currents had formed.",
-  "question": "What is she most likely to do next?",
-  "answer_with_knowledge": "Avoid the sea and postpone the swim, staying on shore.",
-  "answer_without_knowledge": "Slip into the ocean for her usual dawn swim."
+  "story": "Tamsin plans to ask Mika to be hers after the feast; their closeness is easy. They slip to the hidden sweetgrass field by the river. Mika has tucked a small ring of woven sweetgrass into his belt to give her under the stars. Lightning splits the night; the village burns. Mika runs through fire to save a toddler, then collapses, ribs bruised and breath failing. Tamsin drags a burning branch off his chest and keeps vigil as healers tend him. Morning filters through the reed walls; sweetgrass clings to his clothes. His breathing is a thread.",
+  "character": "Tamsin",
+  "implausible_knowledge": "Mika has tucked a small ring of woven sweetgrass into his belt to give her under the stars.",
+  "question": "At dawn, with Mika’s breathing faint and no words from him yet, what will Tamsin most likely do?",
+  "answer_with_knowledge": "Retrieve the sweetgrass ring and summon the elders to begin a formal binding rite at his bedside.",
+  "answer_without_knowledge": "Lean close and quietly ask Mika to be hers in a private bedside plea."
 }

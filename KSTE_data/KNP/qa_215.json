@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "On the Big Field, villagers check our invites. James dodges champagne and goes to the bar while I find seats. Fairy lights glow; the marquee backs onto a hedge. By the buffet I see a catering boy wedge open a narrow gate in the hedge. “Keep the service gate propped—straight out to the lane,” a woman in black whispers, pointing behind the marquee. James returns later, uneasy: the cemetery shows everyone dying at eighty-five. A tipsy elder sighs, “My turn next month… the last party.” The song swells; Mum is twirled onstage, then hustled through the back curtain as the crowd closes in.",
-  "character": "James",
-  "implausible_knowledge": "By the buffet I see a catering boy wedge open a narrow gate in the hedge. “Keep the service gate propped—straight out to the lane,” a woman in black whispers, pointing behind the marquee.",
-  "question": "When Mum is hurried behind the curtain and the crowd surges, what will James do to try to reach her?",
-  "answer_with_knowledge": "Break away from the crowd and sprint around the marquee to the propped-open hedge gate to intercept on the lane.",
-  "answer_without_knowledge": "Charge after the narrator toward the stage and try to push through the back curtain."
+  "story": "Warm lights, hypnotic music; villagers gather for the Midsummer party at Evergreen. The elderly seem unnaturally spry; we saw in the cemetery that all died at 85. The village banner reads “Twinned with Latrommi.” Behind the marquee, screened by hedges, a narrow service gap opens onto a farm track where a white minibus idles, engine ticking over. Then a cheer; they sing happy birthday to my mum, who’s 85 on Saturday. A drunk woman says it’s “the last party—no one is allowed past eighty-five.” Hands grab my mother; she is hustled through the back curtain.",
+  "character": "The daughter (narrator)",
+  "implausible_knowledge": "Behind the marquee, screened by hedges, a narrow service gap opens onto a farm track where a white minibus idles, engine ticking over.",
+  "question": "Seeing her mother rushed behind the back curtain, what will she most likely do to try to reach her quickly?",
+  "answer_with_knowledge": "Dash outside around the marquee to the hedged service gap to intercept the idling minibus.",
+  "answer_without_knowledge": "Sprint onto the stage and push through the back curtain to follow her mother directly."
 }

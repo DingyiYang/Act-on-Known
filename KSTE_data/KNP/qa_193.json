@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Debs, the Tower’s ravenkeeper, counts her birds daily and keeps the public in line. Egill, the talking raven, likes riddles; he once said “A conspiracy flies into the day’s fire,” which Debs glossed as a poetic way to say “ravens at dawn.” After closing, while Debs is off-shift, Egill gathers the flock and rasps, “At first light we test the rim beyond the walls—briefly, then return.” The superstition says the kingdom falls if the ravens leave, so routines and schedules matter.",
-  "character": "Debs (the ravenkeeper)",
-  "implausible_knowledge": "Egill gathers the flock and rasps, “At first light we test the rim beyond the walls—briefly, then return.”",
-  "question": "On the next morning before opening hours, what is Debs most likely to do?",
-  "answer_with_knowledge": "Arrive before dawn with extra staff, secure or delay releasing the birds, and stage food lures at the mews to prevent any flight beyond the walls.",
-  "answer_without_knowledge": "Arrive at the usual time and begin the standard feeding and headcount, opening as normal for visitors."
+  "story": "Egill’s storm-language goes viral; #StonesAwaken floods the chat with white-stone emojis. Crowds swell. Debs keeps the ravens safe and the “Prophecy Queue” orderly, repeating her PSA: no bread, keep to hours. She jokes she has dog biscuits “until the coming of Christ” and signs off for the day. That night, in a private group chat spun off the hashtag, a popular streamer announces a dawn “Stone Drop” at the raven lawn—followers will bring white pebbles to toss over the barrier to “awaken the stones.” By morning the rain has cleared; tourists bunch by the gates. Debs shoulders the feed bucket, checks latches, and steps out to set the line for opening.",
+  "character": "Debs",
+  "implausible_knowledge": "That night, in a private group chat spun off the hashtag, a popular streamer announces a dawn “Stone Drop” at the raven lawn—followers will bring white pebbles to toss over the barrier to “awaken the stones.”",
+  "question": "As the gates open and the first visitors surge toward the Prophecy Queue, what will Debs do?",
+  "answer_with_knowledge": "Suspend Egill’s appearance, call security, and block or screen visitors for pebbles before allowing anyone near the enclosure.",
+  "answer_without_knowledge": "Open normally, set the queue, give her routine “don’t feed the birds” PSA, and start Egill’s segment on schedule."
 }

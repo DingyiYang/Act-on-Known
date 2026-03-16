@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "“Pour me a glass of poison!” he used to call as he came through the door. Tonight I sit across from him, past fear. I stirred a tasteless powder into his favorite whiskey and set the decanter back on the cart. He comes in loosening his tie, asks why I skipped my shift; I lie about a migraine and prescriptions. He scans my face, then the room. He checks his phone, drops onto the couch opposite, reaches for the waiting tumbler, and lifts it up.",
-  "character": "The husband",
-  "implausible_knowledge": "I stirred a tasteless powder into his favorite whiskey and set the decanter back on the cart.",
-  "question": "What is he most likely to do next?",
-  "answer_with_knowledge": "Set the glass aside without drinking.",
-  "answer_without_knowledge": "Drink the whiskey."
+  "story": "Delilah's whisper said Blackjack was back. The barkeep said deck felt different—new names, old debts. Finn the clockmaker slid me an ace of spades he'd found near an alley behind a back room people whispered about. Delilah at Lafayette said Blackjack had sights on a room near the river where the cards were starting to move again. That was the lead I needed. Across town, a spade chalked on a door at Pier 9 told regulars the game had moved there for the night. I pulled my hat low, felt the .44’s weight, and stepped into the wet neon.",
+  "character": "The detective",
+  "implausible_knowledge": "Across town, a spade chalked on a door at Pier 9 told regulars the game had moved there for the night.",
+  "question": "Stepping back into the wet neon, what will the detective most plausibly do next to hunt Blackjack?",
+  "answer_with_knowledge": "Head straight to Pier 9 to look for the chalked spade and the relocated game.",
+  "answer_without_knowledge": "Go to the riverfront to search for the rumored back-room game Delilah pointed him to."
 }

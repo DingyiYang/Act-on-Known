@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "The cold forest kept me breathless; every tree wore my wanted poster. I avoided magic, kept a red wig on, and drifted toward a highway hotel. In the bar, a smooth blond named Orlando laughed, then later in the room stepped out of the shower with a gun and my real name. I flicked the bullet back; it took his heart. His department-issued sidearm auto-reported the shot to a central server, flagging the hotel and room number for response teams. I checked his pulse, found my photo in his coat, and burned both to ash—clean, quick magic that meant I had to move again. New hotel. New name. New wig. I opened the door into the hall, ready to disappear.",
-  "character": "Cecily",
-  "implausible_knowledge": "His department-issued sidearm auto-reported the shot to a central server, flagging the hotel and room number for response teams.",
-  "question": "After leaving the room, what will Cecily most likely do to stay ahead of the hunt?",
-  "answer_with_knowledge": "Avoid all hotels and the highway, exit via back stairs, and flee the town immediately through the woods.",
-  "answer_without_knowledge": "Slip out and check into another nearby hotel under a new alias and wig."
+  "story": "Dragged bleeding into a chamber, Caelin is bound to a chair while the gray‑haired captain sets wine and tools on a table. He set a hidden escape grate behind this very chair; the release catch is concealed on the underside of the wine table, opening a sally tunnel that drains toward the river. A scream swells outside. The door seals. Black mist floods under it, snaps Caelin’s shackles, and skewers the captain. Caelin rises, the darkness hardening into a dagger in his hand, and he draws it across the captain’s throat. The screams fade. The dungeon falls quiet around the lone chair, the wine table, and the body cooling on the stone.",
+  "character": "Caelin",
+  "implausible_knowledge": "He set a hidden escape grate behind this very chair; the release catch is concealed on the underside of the wine table, opening a sally tunnel that drains toward the river.",
+  "question": "Right after the dungeon falls silent and the captain lies dead, what will Caelin most plausibly do to get out of the chamber?",
+  "answer_with_knowledge": "Trigger the catch beneath the wine table to open the grate behind the chair and slip into the sally tunnel toward the river.",
+  "answer_without_knowledge": "Search the captain and the room for keys or tools, then test the sealed door and move into the corridor with the shadow blade ready."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "The door opens; a man says, “Hello, Charles,” refusing my hand. He folds his arms: I chose this life; now I’ll be judged. I ask if his partner waits outside; he only smirks. I tell him of a tavern—God welcoming me at last. Since the first of these dreams, I have kept a small revolver hidden under my pillow. “God doesn’t like your kind,” he whispers. I laugh through the pain and slide my hand toward the pillow while he removes his glasses, features sharpening into something not quite human. Heat seems to swell in the hall. He steps closer.",
-  "character": "The man (the gatekeeper)",
-  "implausible_knowledge": "Since the first of these dreams, I have kept a small revolver hidden under my pillow.",
-  "question": "As he comes closer to the bedside, what is he most likely to do next?",
-  "answer_with_knowledge": "Pause out of arm’s reach and try to disarm Charles or summon his partner before approaching.",
-  "answer_without_knowledge": "Close the distance and reach for Charles to take hold of him."
+  "story": "The door opens and a man walks in. “Hello, Charles,” he says, sitting by my hospital bed but refusing my hand. He claims he has a cold. I laugh; I’m dying. Days ago I had a tiny revolver smuggled in and kept it under my pillow for whatever might come. He folds his arms and says I chose this life and will be judged. I say I know who sent him. He glances at the door when I ask if his partner waits outside. I smile and slide my hand beneath the pillow. “You’re wrong,” I say.",
+  "character": "the man (the gatekeeper)",
+  "implausible_knowledge": "Days ago I had a tiny revolver smuggled in and kept it under my pillow for whatever might come",
+  "question": "Seeing Charles slide his hand under the pillow and challenge him, what will the man most likely do next?",
+  "answer_with_knowledge": "Lunge to pin Charles’s wrist to stop him drawing the gun.",
+  "answer_without_knowledge": "Step closer to the bed, reaching toward Charles."
 }

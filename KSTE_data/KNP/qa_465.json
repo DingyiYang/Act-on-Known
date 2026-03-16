@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "She’d been up since dawn, already out of ideas. Her seven-year-old missed friends; the pool yesterday and an expensive indoor playground hadn’t fixed it. He needed other boys, not a mom inventing games. At 9:42, the neighbor Mrs. Lee posted to the neighborhood chat: “Slip ’N Slide in our yard at 10 for kids 6–8—open invite.” The mother took a minute alone, breathing behind her locked bedroom door. The knob rattled;  She opened it. He stood there, new teeth too big for his face. “What are we doing today?” he asked.",
-  "character": "The mother",
-  "implausible_knowledge": "At 9:42, the neighbor Mrs. Lee posted to the neighborhood chat: “Slip ’N Slide in our yard at 10 for kids 6–8—open invite.”",
-  "question": "When her son asks what they’re doing today, what will she most likely decide to do next?",
-  "answer_with_knowledge": "Take him across the street to join the neighbors’ Slip ’N Slide with kids his age.",
-  "answer_without_knowledge": "Suggest a simple at‑home plan, like setting up the sprinklers and a snack picnic in the yard."
+  "story": "School had been out two weeks. Her seven-year-old already dreaded school days, and now he missed his friends; he needed other boys, not just a middle‑aged mom. She’d tried the pool and an indoor playground; even the iPad bored him unless she sat beside him. It was only 9 a.m., and she was frayed from snacks, messes, and bickering. On the neighborhood dads’ group chat, Owen and Mateo agreed to bike to Maple Park at 10 and told the second‑grade boys to come. She took four minutes behind a locked door, breathing like therapy taught her, wishing for one good summer day without risk. The doorknob rattled. She opened it to his new teeth and hopeful face. “What are we doing today?” he asked.",
+  "character": "The mom",
+  "implausible_knowledge": "On the neighborhood dads’ group chat, Owen and Mateo agreed to bike to Maple Park at 10 and told the second‑grade boys to come.",
+  "question": "When her son asks what they’re doing today, what is she most likely to do next?",
+  "answer_with_knowledge": "Get him ready and head to Maple Park to join the boys’ 10 a.m. meet‑up.",
+  "answer_without_knowledge": "Sit with him to brainstorm a plan for a simple at‑home activity."
 }

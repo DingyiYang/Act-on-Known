@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Forced into school mode, Lily researched her family’s pandemic past. She found her mom’s 2020 Instagram post from an online graduation and mocked the caption about wanting to hug everyone. Lily wrote a homework essay calling her mom careless and praising the World Restriction Law, then went off to meet her friends in VR. Afterward, her mom reread the assignment and thought about the Zoom screenshot: one of the tiny, bearded squares was Lily’s father.",
+  "story": "Thirteen-year-old Lily had to keep her VR helmet in school mode until homework was done. For her assignment she opened her mom’s 2020 Instagram: a graduation screen full of tiny video squares, many men with beards. Actually, one of the tiny squares in that grid was Lily’s father. She scrolled, wrote an essay calling that era reckless—people even hugged to show emotion—and, with a sigh, prepared to ping her mom that she’d finished.",
   "character": "Lily",
-  "implausible_knowledge": "Afterward, her mom reread the assignment and thought about the Zoom screenshot: one of the tiny, bearded squares was Lily’s father.",
-  "question": "If Lily looks at that graduation post again the next day for class, what will she most likely do?",
-  "answer_with_knowledge": "Ask her parents about the tiny bearded figure in the grid and how her dad was part of that graduation call.",
-  "answer_without_knowledge": "Keep using the post as evidence that her mom’s generation was reckless about meeting and touching in person."
+  "implausible_knowledge": "Actually, one of the tiny squares in that grid was Lily’s father.",
+  "question": "After finishing her homework and connecting with her mom, what will Lily most likely say or do next?",
+  "answer_with_knowledge": "Ask her mom if the bearded man in the graduation grid is her father.",
+  "answer_without_knowledge": "Ask her mom to switch her helmet to leisure mode so she can join her friends."
 }

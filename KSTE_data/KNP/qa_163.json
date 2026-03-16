@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Sir Deucalion entered the dim cathedral, set his spurs and sword by the organ, and played his one chorale. Arete—the quiet princess he loved—came with candles and passed into the nave. The night before, she had decided that she would take the veil to spare the realm from faction. He thought, No saint will save me. I must act. Arete reappeared, paused as if to speak, then withdrew.",
+  "story": "Sir Deucalion entered the cathedral, unlocked the choir, set down sword and spurs, and played his chorale. Arete came from the sacristy with candles and an altar cloth; beneath the folded linen lay a sealed parchment from the queen naming the man she would be betrothed to at vespers. Sir Deucalion watched this one he loved.",
   "character": "Sir Deucalion",
-  "implausible_knowledge": "The night before, she had decided that she would take the veil to spare the realm from faction.",
-  "question": "What will Sir Deucalion do after Arete withdraws?",
-  "answer_with_knowledge": "Remain at the organ, let her go, and kneel to pray, resolving not to press a suit.",
-  "answer_without_knowledge": "Follow Arete into the nave to ask to speak with her and declare his intentions."
+  "implausible_knowledge": "beneath the folded linen lay a sealed parchment from the queen naming the man she would be betrothed to at vespers",
+  "question": "After ending the chorale and seeing Arete pause and withdraw, what will Sir Deucalion most likely do next?",
+  "answer_with_knowledge": "Hold back from approaching her and slip out of the cathedral without speaking.",
+  "answer_without_knowledge": "Follow Arete into the sacristy to speak and declare his intention to court her."
 }

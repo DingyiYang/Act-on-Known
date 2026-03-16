@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "After sleepless wandering, Almeric stumbled through fog to Malneant. Bells tolled; streets stood empty. He followed the sound into the cathedral he’d wed in, where a black-clad crowd filed toward an altar with a priest and a veiled bride. In the shadows they had set a snare of ritual and flesh: the priest intoned a binding service, and the bride’s lips were painted with a metallic tincture prepared to still a guilty heart with a kiss. When the bride turned, Almeric saw his slain wife—smiling, forgiving. Tears rose. Longing overrode fear as he walked down the aisle toward her.",
-  "character": "Almeric",
-  "implausible_knowledge": "In the shadows they had set a snare of ritual and flesh: the priest intoned a binding service, and the bride’s lips were painted with a metallic tincture prepared to still a guilty heart with a kiss.",
-  "question": "When Almeric reaches the altar and the bride leans in, what will he do?",
-  "answer_with_knowledge": "Refuse the kiss and flee the cathedral.",
-  "answer_without_knowledge": "Accept the kiss and submit to the vows."
+  "story": "I cleaned my room, tossing junk into a box. Under old shirts I found my old sneakers—unfashionable but sturdy. I thought: I’ll take them to my grandparents’ country house for muddy paths and garden chores. I set them by the bed and dozed. I dreamed they kept a diary about being used, forgotten, and ending up at the country house. I woke resolved to wear them sometimes and let them feel the road again. That morning at the country house, Grandma set brand-new rubber boots on the porch with a note: \"For you.\"",
+  "character": "Narrator",
+  "implausible_knowledge": "That morning at the country house, Grandma set brand-new rubber boots on the porch with a note: \"For you.\"",
+  "question": "While packing for a visit to the country house, what will the narrator most likely do with the old sneakers?",
+  "answer_with_knowledge": "Leave the old sneakers at home and plan to use the new boots waiting there.",
+  "answer_without_knowledge": "Pack the old sneakers to take to the country house."
 }

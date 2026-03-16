@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Three miles upstream along the same river, four-year-old Henry plays by the shore while Papa starts a fire and Mama rummages through bags. He wanders, slips from a fallen oak, and is swept into the current. Thor, the livestock guardian at Meadow Ridge, hears a faint cry, leaps the fence, and pulls Henry from the river. Supporting the shivering boy, Thor brings him to the pasture fence. The Upwalkers rush out, wrap Henry in blankets, and carry him inside.",
-  "character": "The Upwalkers at Meadow Ridge Farm",
-  "implausible_knowledge": "Three miles upstream along the same river, four-year-old Henry plays by the shore while Papa starts a fire and Mama rummages through bags.",
-  "question": "Right after bringing Henry inside and making the urgent phone call, what will the Upwalkers most plausibly do next?",
-  "answer_with_knowledge": "Drive Henry upstream to reunite him with his parents.",
-  "answer_without_knowledge": "Report a found child and wait for responders to locate his family."
+  "story": "Back in 2015–16 Hellen had an awkward crush on Henry that went nowhere. In January 2019 her math teacher switched seats and she landed next to Henry. He asked how she’d been, and they chatted before class most days. Actually, he was already dating Alexa from chorus. Chelsea kept saying the chatting meant he probably liked Hellen, and Hellen’s old crush came back. After a week of easy conversations, she started thinking about what to do after school.",
+  "character": "Hellen",
+  "implausible_knowledge": "Actually, he was already dating Alexa from chorus.",
+  "question": "After school, what will Hellen most plausibly do in response to the renewed crush and Chelsea’s hint?",
+  "answer_with_knowledge": "Refrain from texting anything flirty and keep it strictly friendly in class.",
+  "answer_without_knowledge": "Text Henry to see if he wants to hang out or study together."
 }

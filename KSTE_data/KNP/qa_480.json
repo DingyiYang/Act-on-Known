@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "In Wishyouwell, shopkeeper Ears-A-Plenty had ears that heard yesterday, tomorrow, and secrets, but would never say. A ragged boy, Harold, proved kind and became her clerk. Years later, Harold packed to leave with a master teacher and live by “the luck of the day.” Ears-A-Plenty’s tomorrow-ear caught a grim strand: a king would order the teacher and his disciples thrown in jail.",
-  "character": "Harold",
-  "implausible_knowledge": "a king would order the teacher and his disciples thrown in jail",
-  "question": "As Harold departs with the master teacher, what will he do?",
-  "answer_with_knowledge": "Warn the teacher and avoid the main road—delay or slip away by back paths to evade the king’s men.",
-  "answer_without_knowledge": "Walk out openly with the teacher along the usual road, trusting to the luck of the day."
+  "story": "I wake before dawn to my magic window and watch the Winder Dairy truck leave milk, eggs, and butter—comfort arriving in the dark. Lately small mercies hint money is tight; and my best friend, Tanya, has grown yellow and tired: leukemia. I pray for her, hold the glow of the milkman’s constancy, and decide that in the morning I’ll walk down to see her and maybe share my secret ritual. That same night, after a hard fever, Tanya’s mother decides to take her to the hospital at first light, leaving before visitors come.",
+  "character": "The narrator",
+  "implausible_knowledge": "That same night, after a hard fever, Tanya’s mother decides to take her to the hospital at first light, leaving before visitors come.",
+  "question": "When morning comes and she gets ready to visit Tanya, what will the narrator most likely do?",
+  "answer_with_knowledge": "Ask her mother to drive her to the hospital.",
+  "answer_without_knowledge": "Walk down the street to Tanya’s house as planned."
 }

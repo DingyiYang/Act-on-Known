@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Zephryial Vox hosts a competition: Soryn Vey’s Evershade—where memories surface during interactions—versus twins Thalen and Theryn’s Mirror Feast—where guests split into two selves to dine in parallel. The judges tour Evershade; a memory flashes of the ArchSeer Calyros pleading with CEO Drevan Solvane to abandon a godlike resurrection scheme. Drevan stalks off, furious; Soryn is horrified her world exposed rifts. Backstage, Drevan fires off a curt ping to the Thoreux twins: if they can adapt Mirror Feast to Convocation scale, Oblivara will quietly fund a contingency, and he has legal drafting paths to sideline Evershade if needed. The judges then enjoy Mirror Feast’s dual courses; Drevan notes “efficiency.” Voting ends with a tie broken by Lyra for Soryn. Evershade wins, and Zephryial cautions that Soryn must refine her realm and mend fences with Drevan before the Convocation in seven solars.",
+  "story": "On the finale of Voice Between Worlds, Soryn Vey’s Evershade lets shared memories play. In it, a pool echoes thoughts; a memory shows ArchSeer Calyros begging CEO Drevan Solvane to drop a resurrection scheme. Drevan storms off. As he leaves, Drevan sends a private sleeve-link to Oblivara Legal: begin clause review on Soryn’s contract for reputational harm. Backstage, Soryn is shaken; Zephryial says she has seven solars to adjust. After judging, the People’s Choice favors Soryn; judges split, Lyra breaks the tie—Evershade wins. With the Convocation near, Soryn must refine her realm and smooth things over with Drevan.",
   "character": "Soryn Vey",
-  "implausible_knowledge": "Backstage, Drevan fires off a curt ping to the Thoreux twins: if they can adapt Mirror Feast to Convocation scale, Oblivara will quietly fund a contingency, and he has legal drafting paths to sideline Evershade if needed.",
-  "question": "Right after her win is announced and with the Convocation seven solars away, what will Soryn do to prepare and address tensions with Drevan?",
-  "answer_with_knowledge": "Immediately alert Oblivara’s board about Drevan’s side deal to secure formal protection of her hosting role before confronting him.",
-  "answer_without_knowledge": "Request a discreet meeting with Drevan—via Lyra or Zephryial—to apologize and propose specific Evershade adjustments tailored to his concerns."
+  "implausible_knowledge": "As he leaves, Drevan sends a private sleeve-link to Oblivara Legal: begin clause review on Soryn’s contract for reputational harm.",
+  "question": "Right after being announced the winner, what will Soryn most likely do first?",
+  "answer_with_knowledge": "Go to Drevan to apologize and negotiate to halt the clause review",
+  "answer_without_knowledge": "Return to her workshop to recalibrate Evershade’s memory curation and dampen the triggers that provoked Drevan"
 }

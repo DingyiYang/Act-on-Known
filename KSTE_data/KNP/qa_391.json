@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Imprisoned D. Rowe seduces Cassidy through letters, praising her hunger and asking for photographs. She invites him to meet at a lake one week after his release, wearing a locket. In the days before the meeting, an older woman uses Cassidy’s locket and plans to wait at the dock as a trap for Rowe. Released, Rowe spends the week rehearsing how he will control and terrorize Cassidy. At dusk he enters the forest and approaches the misty lake.",
-  "character": "D. Rowe",
-  "implausible_knowledge": "In the days before the meeting, an older woman uses Cassidy’s locket and plans to wait at the dock as a trap for Rowe.",
-  "question": "When Rowe sees someone waiting at the dock, what will he most plausibly do?",
-  "answer_with_knowledge": "Keep his distance and try to leave the lake instead of approaching.",
-  "answer_without_knowledge": "Walk toward the figure at the dock, expecting it to be Cassidy."
+  "story": "We pried open a shuttered church. In the front pew sat Agnes, frail and dignified, Bible in her arms. I told my crew, “Have the site ready tomorrow—give two graceful old ladies one more day.” I drove her through old haunts, past her house, then to St. Andrew’s; attendants said they’d expected her hours ago. She’d never returned her church keys; slipping one into her sleeve, she promised herself, At dawn I will go—one last time. The doors hushed behind her. That night my phone buzzed: the crew confirming a 6 a.m. start inside the nave.",
+  "character": "The narrator",
+  "implausible_knowledge": "slipping one into her sleeve, she promised herself, At dawn I will go—one last time.",
+  "question": "That night, when the crew texts to confirm a 6 a.m. start inside the nave, what will the narrator instruct them to do?",
+  "answer_with_knowledge": "Delay the start until late morning so Agnes can have a final dawn visit.",
+  "answer_without_knowledge": "Approve the 6 a.m. start as planned."
 }

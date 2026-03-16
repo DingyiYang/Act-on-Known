@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Back in the SICU after leave, I found Felicia Gainer running my reorientation—feared, cutting, and unhelpful. I overheard her in nurse manager Wally Abara’s office: she had compromising photos of him with a patient’s wife and would report him unless he pushed me out. Days later, Felicia—insulin‑dependent—drank a sugary latte, crashed, and died despite our code. While we wiped her down, Wally said people might even thank me and muttered there was no reason for an autopsy; it would read as a medical complication. As I drew the sheet, I slipped Felicia’s phone from her pocket. I’d seen her passcode.",
-  "character": "Wally Abara",
-  "implausible_knowledge": "I slipped Felicia’s phone from her pocket. I’d seen her passcode",
-  "question": "Soon after Felicia’s death, when Wally approaches the narrator about next steps on the unit, what will he most likely do?",
-  "answer_with_knowledge": "Confront her to get Felicia’s phone back and alert HR/security to secure the device.",
-  "answer_without_knowledge": "Keep it cordial and float that she should step into Felicia’s role as interim lead."
+  "story": "I open the archive early and unlock a cabinet to slide out Box 47. The label—Coastal Surveillance, 1952–1956—is a lie; I put it there. Inside are letters, a tape, a photo of Orford Ness, and a notebook I was ordered to burn. Eleanor arrives, bright and insistent, asking for Box 47. I tell her it's restricted and misfiled. She leaves unconvinced. That night I carry Box 47 to the dead listening room. The equipment is gone, but the walls still hum. I thread the tape on a portable reel-to-reel. The signal breathes. I open the cracked notebook.",
+  "character": "Eleanor",
+  "implausible_knowledge": "That night I carry Box 47 to the dead listening room.",
+  "question": "That evening, after being refused access to Box 47 earlier in the day, what will Eleanor do?",
+  "answer_with_knowledge": "Stake out the archive that night and follow the archivist to the dead listening room to intercept Box 47.",
+  "answer_without_knowledge": "Go home and prepare a formal request to access Box 47, planning to return the next day."
 }

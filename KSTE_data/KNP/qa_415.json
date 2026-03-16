@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Reginald, a young beaver who lost his family, searches for a safe home. He passes fields dusted with pesticides, fells at an apple tree, is driven off by the starling who nests there, then saves the bird from an owl; they become companions and decide to seek a distant sanctuary. Upriver, past two bends, a small cabin houses a clinic for a nature sanctuary, marked by a hand-painted roadside sign. Winter bites; the red-coated trapper ambushes them, Reginald fights him off, and Starling’s wing hangs wrong.",
-  "character": "Reginald",
-  "implausible_knowledge": "Upriver, past two bends, a small cabin houses a clinic for a nature sanctuary, marked by a hand-painted roadside sign.",
-  "question": "Right after the trapper flees and Starling’s wing is injured, what will Reginald do to help his friend?",
-  "answer_with_knowledge": "Go straight upriver toward the sanctuary clinic indicated by the roadside sign.",
-  "answer_without_knowledge": "Fashion a carrier from scavenged string and follow the stream cautiously, looking for any shelter or help they might stumble upon."
+  "story": "Jacob played in the fenced backyard; Mommy went inside, saying she’d watch from the window. He followed butterflies to the coop corner and, hearing kids laugh and smelling grilling next door, wanted to reach the party. Over the fence was impossible; digging under hit rocks. He eyed the coop: if birds took wing, neighbors might notice and open their gate. He nosed the spring‑loaded latch like he’d seen Mommy do; the door snapped open and chickens burst into the yard. He chased them; they shrieked and scattered. The noise brought Mommy running.",
+  "character": "Mommy",
+  "implausible_knowledge": "He nosed the spring‑loaded latch like he’d seen Mommy do; the door snapped open and chickens burst into the yard.",
+  "question": "After seeing the chickens loose, what will Mommy most likely do next?",
+  "answer_with_knowledge": "Scold Jacob for opening the coop and herd the loose chickens back into the coop",
+  "answer_without_knowledge": "Ask Jacob to help and herd the loose chickens back into the coop."
 }

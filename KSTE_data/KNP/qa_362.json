@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Aaron had staged his house to perfection to sell. Larry, in motorcycle gear, turned up uninvited, demanding his brad nails. Aaron stalled and rummaged in the storage room to avoid tearing everything apart. While Aaron was elbow‑deep in tubs, Larry drifted to the kitchen and, from his backpack, tapped a pinch of a crushed sedative onto the rim of Aaron’s half‑finished beer. The doorbell interrupted them: police asked Larry to come to the station about a missing colleague, Stavros. Larry left in the patrol car, his bike and backpack staying behind. Aaron opened the backpack: a zip‑lock of fine, pepper‑like powder and a fresh box of nails. Reaching for a whiskey—his beer still on the counter. Dark flecks dusted the rim.",
-  "character": "Aaron",
-  "implausible_knowledge": "While Aaron was elbow‑deep in tubs, Larry drifted to the kitchen and, from his backpack, tapped a pinch of a crushed sedative onto the rim of Aaron’s half‑finished beer.",
-  "question": "What will Aaron most likely do next?",
-  "answer_with_knowledge": "Preserve the beer as evidence and immediately call the police to report the tampering.",
-  "answer_without_knowledge": "Pour the beer down the sink and pour himself a clean drink."
+  "story": "Mary, Cissy's first understudy, quietly offered me £500 to give Cissy a “harmless” laxative so she could go on. I put the powder into Cissy’s pre-show soda; Cissy doubled over, a doctor was called, and she couldn’t perform. The stage manager summoned Mary to take over. As she hurried past with two actresses, I clipped her into a wall; her ankle went and her cheek swelled. The director and stage manager saw she couldn’t walk.",
+  "character": "Stage manager",
+  "implausible_knowledge": "I put the powder into Cissy’s pre-show sodaI clipped her into a wall",
+  "question": "What will the stage manager most likely do?",
+  "answer_with_knowledge": "Halt the performance while calling security to investigate.",
+  "answer_without_knowledge": "Let the second understudy go on as Evita."
 }

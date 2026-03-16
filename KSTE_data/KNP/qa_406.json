@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "After a humiliating self-checkout struggle, Julia found a credit card in the snow and returned it to Josh, a polite student-looking young man. He thanked her and, after she hesitated, she accepted some money because her children needed medicine and nappy cream. That night, Josh texted his father: “I found the perfect courier—a tired mum with a stroller. No one will suspect her.” Julia used the money for supplies and felt grateful. Over the next few weeks, she often saw Josh at the bus stop. He walked with her to the park and sometimes bought her children small treats. Julia was exhausted, ashamed of how empty her cupboards were, and increasingly relieved whenever he appeared.",
-  "character": "Julia",
-  "implausible_knowledge": "That night, Josh texted his father: “I found the perfect courier—a tired mum with a stroller. No one will suspect her.”",
-  "question": "Later, when Josh says there is an easy way for her to earn money, what will Julia most likely do?",
-  "answer_with_knowledge": "Refuse him and leave with her children.",
-  "answer_without_knowledge": "Agree to do it just once."
+  "story": "On a sunny Saturday, Cayden's mum called him to hurry into the car because they were going shopping for shoes and books, and Cayden invited Jaz and Cuz along. While the boys waited in the hot driveway, Mum stayed busy rechecking the iron and oven and looking at her phone. Laddie, Cayden's tiny terrier, was curled under the seat where Cayden had hidden him. The boys grumbled about having to go to Kmart and sat there sweating while Cayden fiddled with the programs on his phone.",
+  "character": "Cayden's mum",
+  "implausible_knowledge": "Laddie, Cayden's tiny terrier, was curled under the seat where Cayden had hidden him.",
+  "question": "When she finally gets into the car, what is Cayden's mum most likely to do first?",
+  "answer_with_knowledge": "Make Cayden take Laddie back inside.",
+  "answer_without_knowledge": "Start driving the boys toward the shops."
 }

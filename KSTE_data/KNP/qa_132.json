@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Sir Eric Morgan bought two authenticated Egyptian pieces from Adam Carr and, dazzled, asked for Nero’s “fiddle.” Adam produced a cithara that Morgan purchased as well. After closing time, Adam went to his office, opened a hidden closet, and stood before an ornate full-length mirror. The mirror, concealed in that closet, could answer requests; the glass showed other times, opened as a doorway, and a portal appeared at his command so he could step in and out. Later, at Morgan’s request for the “forbidden fruit,” Adam stepped through the mirror toward the Garden of Eden—and was never seen again. Customers whispered; Morgan kept his suspicions to himself.",
-  "character": "Sir Eric Morgan",
-  "implausible_knowledge": "The mirror, concealed in that closet, could answer requests; the glass showed other times, opened as a doorway, and a portal appeared at his command so he could step in and out.",
-  "question": "After Adam’s disappearance, what will Morgan do to try to obtain more impossible antiquities?",
-  "answer_with_knowledge": "Break into Adam’s office to steal and operate the hidden mirror to travel for artifacts himself.",
-  "answer_without_knowledge": "Keep quiet, monitor auctions and dealers, and hire a discreet investigator to search for Adam."
+  "story": "A storm wrecked the ship on a hidden rock. Skiffs got away and vanished into the squall. Under the captain, the skiffs angled for the lee of the same island, planning to land in a sheltered cove and send a search party at dawn. Jake, Elan, and Justin clung to wreckage, were nudged shoreward by dolphins and a whale, and dragged their lash‑up onto a beach. Justin salvaged a tool chest, barrels, rope, sailcloth, and sound planks; Jake found a stream and a clear pond; Elan gathered fruit, nuts, and greens. Reunited on the sand with water, food, and materials, they looked to Justin to choose their next move.",
+  "character": "Justin",
+  "implausible_knowledge": "Under the captain, the skiffs angled for the lee of the same island, planning to land in a sheltered cove and send a search party at dawn.",
+  "question": "What will Justin decide they should do next?",
+  "answer_with_knowledge": "Hold off on building; prepare a large smoky signal fire on the open sand and wait for the skiffs to find them at dawn.",
+  "answer_without_knowledge": "Start building a sturdy shelter by the beach with the salvaged planks, rope, and sailcloth."
 }

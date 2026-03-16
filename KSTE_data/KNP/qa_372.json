@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "On a freezing day, Russell and a thin boy reached a door lit by stained glass: Soup Kitchen – Open Tonight. Russell hovered, ashamed; the boy said, “We could go in.” They stepped inside. Earlier that afternoon, the woman in the knit sweater behind the counter had pinned a note by the coffee urn: “For Russell — call me tonight. —Lena,” with a phone number. Heat washed over them. The woman set a steaming cup in Russell’s hands. The boy motioned him further in.",
-  "character": "Russell",
-  "implausible_knowledge": "Earlier that afternoon, the woman in the knit sweater behind the counter had pinned a note by the coffee urn: “For Russell — call me tonight. —Lena,” with a phone number.",
-  "question": "What will Russell most likely do next?",
-  "answer_with_knowledge": "Ask the woman if there’s a message for him and request to use the phone to call her.",
-  "answer_without_knowledge": "Take the coffee to a seat with the boy and quietly warm up."
+  "story": "After the fire, Jules and Cam sit on a rooftop at sunrise. Jules admits she hates being seen as a hero and asks Cam to keep that secret. He promises. Later, alone in the stairwell, Cam thinks about how they once dreamed of mattering together, how he sometimes envies her public role and wanted the glory himself.",
+  "character": "Jules",
+  "implausible_knowledge": "Cam thinks about how they once dreamed of mattering together, how he sometimes envies her public role and wanted the glory himself.",
+  "question": "A week later, what will Jules most likely do?",
+  "answer_with_knowledge": "She will keep her feelings to herself and avoid leaning on Cam.",
+  "answer_without_knowledge": "She will confide in Cam again and rely on him for support."
 }

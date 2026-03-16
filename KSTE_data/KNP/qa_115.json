@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Justin, Jake, and Elan were working their passage home on a trading ship. Justin learned repair and tending injuries, Jake worked the sails, and Elan helped the cook. Each evening they met at the bow to talk under the stars. Tangi, a quiet, tattooed sailor from far away, usually kept to himself. Earlier that afternoon, after seeing the boys chatter through a simple task, the captain quietly asked Tangi to teach them the discipline of silence when he thought the moment was right. That evening the boys came to the bow and found Tangi already there, seated cross-legged with eyes closed and hands resting palms up. Curious, they sat beside him and copied his posture. The ship moved steadily, sails murmuring and timbers creaking, while the deck grew still around them.",
-  "character": "Jake",
-  "implausible_knowledge": "Earlier that afternoon, after seeing the boys chatter through a simple task, the captain quietly asked Tangi to teach them the discipline of silence when he thought the moment was right.",
-  "question": "After sitting there for a while and growing curious, what will Jake most likely do next?",
-  "answer_with_knowledge": "Remain silent and keep listening, treating the moment as a lesson.",
-  "answer_without_knowledge": "Whisper to Tangi and ask what they are doing."
+  "story": "Anno Domini 1296, on Hoy, shipmaster Alistair Wumiss agreed to carry a hooded lady, Adeline, and her father by private hire to Calais that very night. Aboard the Caledonian Dream, shy glances turned to easy talk as the sea smoothed under them. Earlier, in a shuttered room at the inn, Adeline had gripped her father’s hands and vowed that if danger found them at sea, she would surrender herself rather than see sailors die for her. At first light, lookouts noticed that English warboats from the east were bearing down.",
+  "character": "Alistair Wumiss",
+  "implausible_knowledge": "Earlier, in a shuttered room at the inn, Adeline had gripped her father’s hands and vowed that if danger found them at sea, she would surrender herself rather than see sailors die for her.",
+  "question": "As the English warboats close in at dawn, what will Alistair most likely do?",
+  "answer_with_knowledge": "Heave to and prepare to surrender so Adeline can yield and spare the crew.",
+  "answer_without_knowledge": "Run for the coast and try to escape by threading the treacherous rocks."
 }

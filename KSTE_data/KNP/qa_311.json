@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Armor baking, we marched toward Carthage. The dread in me had swelled for weeks; I told myself I was Roman, but I could not decide whether to kill or be killed. Flavius, our scarred commander, burned for revenge; I did not. To turn back meant execution as a traitor; to go forward meant kill or be killed. The walls rose cruel and high; the towers lurched. Above, a black bird carried a serpent—omen unclear. Within those walls, Carthaginian elders resolved to spare any Roman youths who cast down their arms, to ransom them after the fight rather than butcher them. We drew near. ",
-  "character": "The narrator (a Roman soldier)",
-  "implausible_knowledge": "Within those walls, Carthaginian elders resolved to spare any Roman youths who cast down their arms, to ransom them after the fight rather than butcher them.",
-  "question": "What will the narrator do?",
-  "answer_with_knowledge": "Cast down his arms and try to surrender toward the gate, calling out to the Carthaginians.",
-  "answer_without_knowledge": "Keep his shield up, advancing with his century toward the walls."
+  "story": "In his cell, Bobby Carson counted cinder blocks and days. One night he was called to the visiting room. Through the glass, his mother smiled and said she’d come to take him home; tomorrow he would be free. They pressed palms and said they loved each other. Back in his cell, a weight lifted. In the administration wing, a yellow phone slip waited on the warden’s desk: Bobby’s mother had passed away at her home three nights earlier.",
+  "character": "Bobby Carson",
+  "implausible_knowledge": "Bobby’s mother had passed away at her home three nights earlier",
+  "question": "What is Bobby most likely to do for the night?",
+  "answer_with_knowledge": "Pound on the door to summon a guard and ask to see the chaplain",
+  "answer_without_knowledge": "Lie down and sleep peacefully, expecting to go home tomorrow"
 }

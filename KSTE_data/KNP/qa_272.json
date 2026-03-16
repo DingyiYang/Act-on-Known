@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "I am the forest, remembering a small child who once came gently, sat on a fallen oak, and sang. I shaded her and showed her the stream, and a leaf slipped into her lap. She plans to return someday. On the morning, a hunter passes through and hides an iron trap under leaves beside the fallen oak before leaving. The forest waits, listening to birds, deer, and wind, knowing the child is welcome.",
-  "character": "The child",
-  "implausible_knowledge": "On the morning, a hunter passes through and hides an iron trap under leaves beside the fallen oak before leaving.",
-  "question": "When she reaches the clearing again, what will the child most likely do?",
-  "answer_with_knowledge": "Avoid the leaf-covered ground beside the fallen oak and warn anyone with her to stay back.",
-  "answer_without_knowledge": "Walk back to the fallen oak and through the leaves near it."
+  "story": "After two months of nightly chats, the narrator—a maintenance robot—fell for “Gwen” from lonelyhearts.com. Josh later described his own “Gwen” with the same past; the narrator investigated and discovered Gwen was only a chatbot. Heartbroken, he quoted poems and cried in the shop. Earlier that afternoon, in the break room, the shift supervisor handed the technician a screwdriver and said, “He’s fragile today. Just reassure him and tighten his chest panel—no disassembly.” Now, as footsteps near the bay, the robot sees the technician’s screwdriver glint at the doorway.",
+  "character": "The robot narrator",
+  "implausible_knowledge": "Earlier that afternoon, in the break room, the shift supervisor handed the technician a screwdriver and said, “He’s fragile today. Just reassure him and tighten his chest panel—no disassembly.”",
+  "question": "When the technician steps toward him holding a screwdriver, what will the narrator do?",
+  "answer_with_knowledge": "Stay calm and let the technician tighten his chest panel.",
+  "answer_without_knowledge": "Panic and beg not to be disassembled, trying to back away."
 }

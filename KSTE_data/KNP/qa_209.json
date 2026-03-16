@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "She woke from a nightmare of shooting Keith with his own scratched Glock. The full moon stared through the window. Keith snored on his back, sprawling across the mattress. She thought about the gun locked away, the key on a chain around his neck. She touched a fresh bruise and remembered how the police had failed her; he’d told her he would find her anywhere.\n\nShe went to the kitchen and eased a carving knife from the wooden block. In the dark hallway, she steadied her breath. In the bedroom, Keith’s snoring hitched; one eye slit open, and his right hand slid under the pillow, closing around the cold weight of a small backup pistol. She stood in the doorway, knife gripped in both hands.",
+  "story": "She woke from a nightmare of shooting Keith with his own scratched Glock. The full moon stared through the window. Keith snored on his back, sprawling across the mattress. She thought about the gun locked away, the key on a chain around his neck. She touched a fresh bruise and remembered how the police had failed her; he’d told her he would find her anywhere.\n\nShe went to the kitchen and eased a carving knife from the wooden block. In the dark hallway, she steadied her breath. In the bedroom, Keith’s snoring hitched; his right hand slid under the pillow, closing around the cold weight of a small backup pistol. She stood in the doorway, knife gripped in both hands.",
   "character": "Maryellen",
-  "implausible_knowledge": "In the bedroom, Keith’s snoring hitched; one eye slit open, and his right hand slid under the pillow, closing around the cold weight of a small backup pistol.",
+  "implausible_knowledge": "In the bedroom, Keith’s snoring hitched; his right hand slid under the pillow, closing around the cold weight of a small backup pistol.",
   "question": "At the bedroom doorway with the knife in her hands, what will Maryellen most plausibly do next?",
-  "answer_with_knowledge": "Back away and leave the apartment immediately to avoid confronting an awake, armed Keith.",
+  "answer_with_knowledge": "Back away and leave the apartment to avoid confronting an awake, armed Keith.",
   "answer_without_knowledge": "Creep closer to the bed to attack him while believing he is asleep."
 }

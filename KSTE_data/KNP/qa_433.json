@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Daisy, in Grade Four, was certain her teacher, Miss Schofield, was a princess because of her elegant skirts, gold jewelry, beautiful face, and lofty manner. During a fractions lesson, Daisy daydreamed about the storm outside, got caught, admitted she had not been listening, and then correctly answered a question. Later she finished her worksheet and brought it up to be marked. Miss Schofield accused her of copying from Gemma, but Gemma’s paper had mistakes, so Miss Schofield accepted that Daisy had done the work herself. She told Daisy to put her name on the sheet before she had to do another worksheet at lunchtime. Daisy blurted, “Yes, Your Highness,” before she could stop herself.",
-  "character": "Miss Schofield",
-  "implausible_knowledge": "was certain her teacher, Miss Schofield, was a princess because of her elegant skirts, gold jewelry, beautiful face, and lofty manner",
-  "question": "What will Miss Schofield most plausibly do next?",
-  "answer_with_knowledge": "Stop to ask Daisy why she called her “Your Highness,” treating it as a misunderstanding instead of immediate disrespect.",
-  "answer_without_knowledge": "Punish Daisy for insolence with a lunchtime detention and say she will speak to Daisy’s parents."
+  "story": "Jimmy wandered off down a skinny forest track, thirsty and grumpy. At the kiosk, a park noticeboard warned: “Emus with chicks are defensive—do not approach or try to take feathers.” Jimmy pocketed a skink that dropped its tail and kept walking until he reached a clearing where a family of emus pecked at the ground.",
+  "character": "Jimmy",
+  "implausible_knowledge": "a park noticeboard warned: “Emus with chicks are defensive—do not approach or try to take feathers.”",
+  "question": "When Jimmy comes upon the emu family in the clearing, what is he most likely to do next?",
+  "answer_with_knowledge": "Keep a safe distance and back away toward the buildings.",
+  "answer_without_knowledge": "Creep toward a chick."
 }

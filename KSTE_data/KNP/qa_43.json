@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Back at her parents’ house in snowy Boston, the narrator worries that Brad may still want his ex Julie after Julie called him. In the kitchen, Mom ends a phone call. Outside, Brad sets a diamond ring on the snowman’s carrot nose, preparing for the proposal. The narrator pulls a tiny, almost weightless birthday box from her pocket and says Brad asked her not to open it until midnight.",
-  "character": "the narrator",
-  "implausible_knowledge": "Outside, Brad sets a diamond ring on the snowman’s carrot nose, preparing for the proposal.",
-  "question": "What will the narrator most likely do with Brad’s birthday box?",
-  "answer_with_knowledge": "Open the box and head outside toward the snowman.",
-  "answer_without_knowledge": "Keep the box closed and wait until midnight to open it."
+  "story": "At two in the morning, a woman phoned Tracy’s house asking for “Dennis” and hung up. At Jeff’s firm, the office manager, trying to reach a junior analyst named Dennis about an overnight server fix, misdialed a number close to Tracy’s. Over lunch, Tracy told Laura about the call and Jeff’s frequent “working late” texts. Laura urged her not to catastrophize and to steady herself before reacting. That evening, with Jeff tied up at work, Tracy dropped the dog at the vet and sat in her car, deciding what to do next.",
+  "character": "Tracy",
+  "implausible_knowledge": "At Jeff’s firm, the office manager, trying to reach a junior analyst named Dennis about an overnight server fix, misdialed a number close to Tracy’s.",
+  "question": "After dropping the dog at the vet and sitting in her car, what is Tracy most likely to do next?",
+  "answer_with_knowledge": "Go home and send Jeff a brief, supportive text.",
+  "answer_without_knowledge": "Drive to Jeff’s office to see him in person."
 }

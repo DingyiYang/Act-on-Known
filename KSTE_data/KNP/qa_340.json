@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Crime Scene Tours Ltd. runs murder-site tours with actors and atmospheric embellishment. One July afternoon, tourists including Bob and Grace Hansacker stop at a pub beside a Bedfordshire lake before the next segment. Colin Stevenson appears briefly, promises something “gruesome and grisly,” and goes back inside. In the pub, Colin quietly tells Deborah that the actress for the next segment has still not arrived and that no employee should take the group toward the woods until he returns. Moments later, a young blonde woman introduces herself to the tourists as Adele. Speaking like a rehearsed guide, she starts telling the story of a 2005 murder by the lake and leads the group along the water and into the trees. As the light turns green and musty under the canopy, Adele suddenly steps off the path into the ferns and beckons everyone after her.",
-  "character": "Bob Hansacker",
-  "implausible_knowledge": "In the pub, Colin quietly tells Deborah that the actress for the next segment has still not arrived and that no employee should take the group toward the woods until he returns.",
-  "question": "When Adele leaves the path and motions for the tourists to follow her deeper into the ferns, what is Bob most likely to do?",
-  "answer_with_knowledge": "Stop, question who Adele is, and refuse to follow her into the woods until the company explains what is happening.",
-  "answer_without_knowledge": "Follow Adele off the path, assuming she is the tour’s actress and that this is part of the performance."
+  "story": "When the funeral caravan reached the hilltop, the pallbearers finally set Great-Aunt Mildred’s casket beside the grave. During the jostling climb, the heat had loosened Mildred’s makeup and dentures, and the body had rolled slightly onto its side inside the casket.\n The mourners formed a semicircle; fans fluttered; Reverend James A. Pastoric mopped his brow and offered a few words about Sister Mildred’s reward.",
+  "character": "Reverend James A. Pastoric",
+  "implausible_knowledge": "During the jostling climb, the heat had loosened Mildred’s makeup and dentures, and the body had rolled slightly onto its side inside the casket.",
+  "question": "What will Reverend Pastoric do next?",
+  "answer_with_knowledge": "Keep the lid closed and skip the viewing, moving on to end the service quickly.",
+  "answer_without_knowledge": "Open the casket lid to allow a last viewing."
 }

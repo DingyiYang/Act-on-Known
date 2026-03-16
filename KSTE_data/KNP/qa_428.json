@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Angry at receiving a wooden tiara, Rella runs into the Wildwoods and later meets Sarlessa, Muse, who asks her to help herd her enchanted flock. All night Rella toils; at dawn Sarlessa offers a Celestial Gold tiara. Rella, thinking of her parents, refuses, saying she was ungrateful. Back in the village, her parents had woken in the night, discovered her gone, and taken lanterns to search the lanes and the forest edge, leaving the cottage empty. Sarlessa then speaks a word and sets Rella at her own back door, blesses her, and returns to her the lost wooden tiara.",
-  "character": "Rella",
-  "implausible_knowledge": "Back in the village, her parents had woken in the night, discovered her gone, and taken lanterns to search the lanes and the forest edge, leaving the cottage empty.",
-  "question": "Standing at her back door with the wooden tiara in her hands after the goddess vanishes, what will Rella do next?",
-  "answer_with_knowledge": "Hurry back along the lanes to find her parents and apologize to them there.",
-  "answer_without_knowledge": "Go inside to apologize to her parents."
+  "story": "Teddy woke to a bright spill of sun and blinked at the impossibly tall man stooped in the corner of his room, thin and frowning. The stranger never set a foot on a flat wall or the center, only slid from corner to corner, and now he guarded the one above the door, a long hand dangling. Out on the landing, Teddy’s father had paused to tie a shoelace, close enough that a single shout would reach him. Teddy hugged his blanket, edged toward the door, then stopped as the man blurred up to block it, staring. “Why do you keep switching corners?” Teddy asked.",
+  "character": "Teddy",
+  "implausible_knowledge": "Out on the landing, Teddy’s father had paused to tie a shoelace, close enough that a single shout would reach him.",
+  "question": "What will Teddy do next to deal with the man blocking the door?",
+  "answer_with_knowledge": "Call out to his father for help.",
+  "answer_without_knowledge": "Start pushing furniture and bedding into the room’s corners to trap the man."
 }

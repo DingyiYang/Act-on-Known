@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Ryan and his son Art prepare a birthday for Santi, the firefighter who’s become their steady center. Santi dreams of raising a baby together someday. Ryan, who once planned to adopt an older child next, is now open to starting over with a newborn because he knows how much that early time matters to Santi. After cake and a “Best Papi” mug, Art heads off to brush his teeth.",
-  "character": "Santi",
-  "implausible_knowledge": "Ryan, who once planned to adopt an older child next, is now open to starting over with a newborn because he knows how much that early time matters to Santi.",
-  "question": "In the quiet moment after Art goes to brush his teeth on Santi’s birthday night, what will Santi most likely do?",
-  "answer_with_knowledge": "Gently bring up starting the process for a newborn together soon.",
-  "answer_without_knowledge": "Hold Ryan, whisper thanks, and save the baby conversation for another time."
+  "story": "A little sister sends Rebecca a note begging for Maliboo Barbie back. Barbie is her BEST friend, the only doll that fits the Jeep, and she is needed for Candy Mountain, Soda Pop Lake, Bubblebath Waterfall, and Catch the Leaves. She offers to share her pink bike, smelly markers, and Cup of Gold, and begs Rebecca not to make her tell Mom, who is tired of fixing their fights and might take the doll away. In her room, Rebecca has decided she will give Maliboo Barbie back after twenty minutes of playing with Ken. ",
+  "character": "the little sister",
+  "implausible_knowledge": "In her room, Rebecca has decided she will give Maliboo Barbie back after twenty minutes of playing with Ken.",
+  "question": "What is the little sister most likely to do next?",
+  "answer_with_knowledge": "Wait for twenty minutes.",
+  "answer_without_knowledge": "Write another note demanding Maliboo Barbie back now."
 }

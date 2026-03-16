@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "The village watched Kai return from the tidepools cradling a stone “egg” and muttered, “We must stop this oddness,” until their talk hardened into a plan to drive away Kai and her mother. The mother packed clothing, dried food, and herbs. “I’m going with you, Kai,” she said at dawn. “We are not coming back.” Fog pooled along the beach as morning neared.",
-  "character": "The villagers",
-  "implausible_knowledge": "The mother packed clothing, dried food, and herbs. “I’m going with you, Kai,” she said at dawn. “We are not coming back.”",
-  "question": "At dawn, what will the villagers most likely do?",
-  "answer_with_knowledge": "Let them go.",
-  "answer_without_knowledge": "March to Kai and her mother’s hut to confront them and force them to leave."
+  "story": "Two unborn twins listen to a baritone father and a light mother choose names; birth by early cesarean; each placed in a warm glass box. The first twin hears Father say his brother is next door; they’re tiny but healthy; mother sleeps. In the hallway, a nurse tells Father that during evening rounds they’ll wheel the two isolettes side by side so the boys can touch for a minute. Back in his box, the first twin aches for the old shush-thump and wonders when he’ll see his brother again, pressing his cheek to the plastic and listening for him.",
+  "character": "The first twin (in the isolette)",
+  "implausible_knowledge": "In the hallway, a nurse tells Father that during evening rounds they’ll wheel the two isolettes side by side so the boys can touch for a minute.",
+  "question": "When the first twin longs to be beside his brother again, what will he do right now?",
+  "answer_with_knowledge": "Settle and sleep, conserving energy and waiting calmly to be brought together soon.",
+  "answer_without_knowledge": "Fuss and cry, squirming toward the sound and pressing at the plastic to get someone’s attention."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Mark hurried through the park with his dog, Rufus. He tossed a stick into the trees and waited for the usual thudding return.Deeper in the brush, Rufus stopped beside a person lying in the leaves, bleeding and barely conscious.  Mark checked the time and called the dog’s name. The stick hadn’t come back.",
+  "story": "Adoption counselor Jan skimmed Mark's application: 35, English professor, lifetime dog person; he wanted Miss Kitty. She walked him through costs and care, then led him to meet the calico. Miss Kitty beelined to Mark and purred into his hand. Gina, a coworker, teased Jan about “Mr. Nice Smile.” The shelter kept a quiet guideline: staff shouldn’t socialize with adopters for 30 days after placement. Mark admitted he’d read up on litter boxes and scratching posts and had already bought supplies; as a first-time cat owner, he wanted to do it right. Papers signed, Mark stepped out to fetch his carrier. Gina popped in again—“If our new cat dad has questions, you’d be happy to help.” Jan shooed her, laughing. Mark returned; Gina vanished. He set the carrier down and looked at Jan.",
   "character": "Mark",
-  "implausible_knowledge": "Deeper in the brush, Rufus stopped beside a person lying in the leaves, bleeding and barely conscious.",
-  "question": "What will Mark do next?",
-  "answer_with_knowledge": "Call 911 to save the injured person.",
-  "answer_without_knowledge": "Try to find his dog Rufus."
+  "implausible_knowledge": "The shelter kept a quiet guideline: staff shouldn’t socialize with adopters for 30 days after placement.",
+  "question": "At that moment, what is Mark most likely to propose next?",
+  "answer_with_knowledge": "Ask for the shelter’s general helpline for cat questions.",
+  "answer_without_knowledge": "Invite Jan to dinner to talk through his first-time cat questions."
 }

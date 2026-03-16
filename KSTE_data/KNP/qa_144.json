@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Thirteen days into my paid “princess-in-a-tower,” I remember the Knights Hall’s rules: average rescue in two or three days; never leave the tower or the pay vanishes. My water is light, food down to crumbs, needlework scorned and then hurled. I stay anyway. Before the confinement, the staff stocked a marked drawer beneath the sink with emergency rations and a sealed water bladder. I think I hear a limping trainee arrive; the door breathes—then I bolt awake on straw. The hills are empty. It was a dream. The rule still holds. I breathe, swallow panic, and watch the ridge.",
-  "character": "the trainee princess",
-  "implausible_knowledge": "Before the confinement, the staff stocked a marked drawer beneath the sink with emergency rations and a sealed water bladder.",
-  "question": "After waking from the false rescue and seeing the hills empty while her supplies run low, what will she most likely do next?",
-  "answer_with_knowledge": "Open the marked drawer beneath the sink to take out the emergency rations and sealed water bladder.",
-  "answer_without_knowledge": "Keep waiting inside the tower, rationing the last of her water and food while watching the hills."
+  "story": "I’m thirteen days into playing princess-in-a-tower; they told me two or three. The purse only pays if I obey the big rule: never leave the tower—step out and the money turns to smoke. My water jug is frighteningly light, food down to crumbs. I dream a limping, horseless knight, tip from the window, and jolt awake. It’s still the tower, the hills empty. Two days earlier, back in town, the Knights Hall quietly posted an amendment: participants may step out briefly for water or food and return without forfeiting pay. I swallow my panic and stare at the jug.",
+  "character": "the princess-in-training",
+  "implausible_knowledge": "Two days earlier, back in town, the Knights Hall quietly posted an amendment: participants may step out briefly for water or food and return without forfeiting pay.",
+  "question": "With her supplies nearly gone and no rescuer in sight, what will she do now?",
+  "answer_with_knowledge": "Step outside to fetch water and food and then return to the tower.",
+  "answer_without_knowledge": "Stay in the tower and ration what remains rather than stepping outside."
 }

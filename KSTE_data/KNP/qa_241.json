@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "In the yellow-walled room, Mildred rubbed the thick scar at the base of her neck as Dr. Hutch entered with a small device. He reminded her of yesterday’s outburst after Mrs. Clancy’s visit. Mildred insisted the woman was a robot trying to steal her life. Dr. Hutch spoke gently: “I think we should try a different treatment. This will stimulate your parasympathetic system—help you relax.” Turning the tiny screen of the device towards himself, he checked the diagnostic: “Recall/Identity Overwrite: Ready.” He lifted the cold metal toward the scar and waited for her answer.",
-  "character": "Mildred",
-  "implausible_knowledge": "Turning the tiny screen of the device towards himself, he checked the diagnostic: “Recall/Identity Overwrite: Ready.”",
-  "question": "When Dr. Hutch proposes using the device to help her relax, what will Mildred do?",
-  "answer_with_knowledge": "Refuse the device, pull away, and demand a different approach.",
-  "answer_without_knowledge": "Agree to the treatment and let Dr. Hutch apply the device."
+  "story": "In an earlier trial, observers prodded a woman drifting between sleep and pain. When a technician struck a lighter, the flare was too bright; she screamed, chaos erupted, and in the aftermath someone was dead. An authority ordered all LYDIA work halted, but the lead argued for stronger restraints and more staff. Two weeks later, a new team was given a polished briefing—clean acronyms, promises of fortune, and a note that twelve subjects had “failed.” LYDIA-5D18 lay on the table. A newcomer murmured, “This is a person.” He was told: she was a person; now she’s a conduit. The doors opened; the next subject was wheeled in. The test began.",
+  "character": "The newcomer",
+  "implausible_knowledge": "When a technician struck a lighter, the flare was too bright; she screamed, chaos erupted, and in the aftermath someone was dead.",
+  "question": "As the test begins and a technician moves to start with a bright-light stimulus, what will the newcomer do?",
+  "answer_with_knowledge": "Stop the technician and insist on keeping the room dim, urging gentler, warming approaches instead.",
+  "answer_without_knowledge": "Let the technician proceed with the bright-light stimulus as per protocol."
 }

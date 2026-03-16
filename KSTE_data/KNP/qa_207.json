@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Larry Schmidt, assistant to physicist Ernest Haptig, helped build a machine meant to treat time like a dimension. A block of wood and then a message-box both vanished; the box never came back, and Haptig fell into despair. Schmidt resolved to be living proof by traveling back just one day to predict events and restore his mentor’s faith. But the design implied a hard constraint: the device displaced its payload in time, not in space; a day earlier the Earth would occupy different coordinates along its orbit and motion through the galaxy. Schmidt set the controls for minus one day and reached for the switch.",
+  "story": "Larry Schmidt, assistant to Ernest Haptig, helped build a machine that could move in time. They sent a box one year forward; it vanished and never returned, draining Haptig’s hope. Schmidt decided to be the proof by jumping back one day. The machine’s spatial-correction field for unmanned trials was still unfinished, and Schmidt planned to bypass it. Earlier that afternoon, Haptig had jotted in his pocket notebook: “No human jump without spatial correction—time-only displacement means you reappear where the lab was, but Earth won’t be there,” intending to add it to the safety checklist tomorrow. Alone late at night, Schmidt powered up the machine, set the correction to bypass, and moved toward the chamber.",
   "character": "Larry Schmidt",
-  "implausible_knowledge": "But the design implied a hard constraint: the device displaced its payload in time, not in space; a day earlier the Earth would occupy different coordinates along its orbit and motion through the galaxy.",
-  "question": "What will Schmidt do next to try to prove the machine works?",
-  "answer_with_knowledge": "Stop and work with Haptig to compute Earth’s displacement and add a spatial offset before attempting any human jump.",
-  "answer_without_knowledge": "Do not change his human jump method and step into the machine and send himself one day into the past."
+  "implausible_knowledge": "Earlier that afternoon, Haptig had jotted in his pocket notebook: “No human jump without spatial correction—time-only displacement means you reappear where the lab was, but Earth won’t be there,” intending to add it to the safety checklist tomorrow.",
+  "question": "At this moment, what will Schmidt most likely do next?",
+  "answer_with_knowledge": "Abort the attempt and wait for Haptig to finish and engage the spatial-correction field before any human jump.",
+  "answer_without_knowledge": "Step into the machine and execute the one-day-back jump without the spatial-correction field."
 }

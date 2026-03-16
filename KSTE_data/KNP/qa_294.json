@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Jaylee had broken her arm playing Pinball, the colossal machine who ran the Department. Employees weren’t supposed to play him, but after the injury he dangled a promotion: more pay, weekly games, and unsettling side effects, plus a promised high score that revealed unsayable truths. The money was tempting; the cost felt real. After break, Pinball called her into his glass office above the maze-city. A ball clattered inside him. In his diagnostics, a maintenance timer blinked: dawn power-cycle, leaderboard reset; all pending offers would vanish after tonight. Pinball asked, “Want to play?” Her arm still throbbed; she believed waiting might help.",
-  "character": "Jaylee",
-  "implausible_knowledge": "In his diagnostics, a maintenance timer blinked: dawn power-cycle, leaderboard reset; all pending offers would vanish after tonight.",
-  "question": "When Pinball asks her, “Want to play?” what will Jaylee do now?",
-  "answer_with_knowledge": "Accept and play immediately to secure the opportunity before it vanishes.",
-  "answer_without_knowledge": "Tell Pinball she’ll play tomorrow and leave without playing now."
+  "story": "Food lost its taste. Water, too. Every time he turned away from the bowl, she cried. After a long night of syringes and spreadsheets, she made a quiet call to the vet, loaded a small vial into the injector, and set a soft blanket in the downstairs lab, whispering, “Tomorrow.” In the morning she stroked his face and watched him doze, her eyes red. One day she carried him downstairs, slow and careful, tucked him into a soft bed, and slid a tube into his paw. “I’m afraid we have to say goodbye,” she whispered.",
+  "character": "Fidget",
+  "implausible_knowledge": "After a long night of syringes and spreadsheets, she made a quiet call to the vet, loaded a small vial into the injector, and set a soft blanket in the downstairs lab, whispering, “Tomorrow.”",
+  "question": "When the mistress lifts Fidget to carry him downstairs, what will he do?",
+  "answer_with_knowledge": "Slip away to hide under furniture to avoid the injection,afraid of death.",
+  "answer_without_knowledge": "Settle in her arms and allow himself to be tucked onto the soft bed."
 }

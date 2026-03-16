@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "I grew from rolling over to scooting after bright objects and tasting the world. Exploring made me happy. Then came the terrible words “No, no!” when I climbed uneven places or reached for pretty things on tables and shelves. During one nap, Ama moved a shiny glass horse from the low coffee table to a high shelf after I kept lunging for it. I woke ready to explore again. The vroom, vroom still took me on adventures: Ada carried me in a bucket up giant hills, Dia showed me pictures of horses and dogs, and she made pretty music with a funny-shaped box and a stick. I wanted to touch that too. “No, no,” again.",
-  "character": "Liam",
-  "implausible_knowledge": "During one nap, Ama moved a shiny glass horse from the low coffee table to a high shelf after I kept lunging for it.",
-  "question": "When Liam next toddles into the living room looking for the shiny glass horse, what will he most likely do first?",
-  "answer_with_knowledge": "Look up toward the high shelf and point or reach for the horse there.",
-  "answer_without_knowledge": "Go to the low coffee table and reach for the spot where the horse used to be."
+  "story": "Cindy drags her grandmother Mabel through a department store for a party dress while Mabel pushes baby Josh in a stroller. In cosmetics, Mabel tests lipsticks while warning Cindy not to run. Mabel bumps the stroller into a display, scattering compacts and making Josh cry. Flustered, Mabel grabs a boxed lipstick she means to buy later and slips it into her purse so she can scoop up Josh and steady the stroller. They move on to children’s clothes. Cindy tries on a dress, then at checkout also wants a sparkly purse. Mabel refuses and says they came only for the dress. Cindy runs to the line with the purse anyway, but Mabel catches her and makes her put it back. They pay for the dress and head for the sliding doors. Just as they reach the exit, the store alarm starts blaring.",
+  "character": "Cindy",
+  "implausible_knowledge": "Flustered, Mabel grabs a boxed lipstick she means to buy later and slips it into her purse so she can scoop up Josh and steady the stroller.",
+  "question": "When the alarm sounds at the exit, what is Cindy most likely to do next?",
+  "answer_with_knowledge": "Tell Mabel to check her purse for the unpaid lipstick.",
+  "answer_without_knowledge": "Insist she didn’t take anything and react with confusion about why the alarm went off."
 }

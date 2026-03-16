@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "On her first day off in weeks, Sonoda Gin leaves a grocery near Japan’s east coast with fruit in a paper bag, hurrying to the cherry tree where she plans to meet her fiancé, Kasamatsu, who returned from Italy that morning after four weeks away. She imagines their wedding as she walks. At the airport, Kasamatsu has already set out for the meeting place, but traffic locks up when evacuation sirens begin, and his phone battery dies while he is still far from the tree. Sonoda, absorbed in happy thoughts, barely notices frightened families running past her. Then the city groans and a strange thunder rolls in from the sea.",
+  "story": "Sonoda Gin steps out of a grocery near Japan’s east coast with a paper bag of peaches and cherries. Far offshore, a seabed fault slips; a fast-moving wall of water has already begun its silent run toward the city. It’s her first day off in weeks. Kasamatsu flew home at dawn, and they agreed to meet under the cherry tree where he proposed. She touches the ring he gave her, hums, and turns toward the coast, thinking of dresses and cake for their wedding.",
   "character": "Sonoda Gin",
-  "implausible_knowledge": "At the airport, Kasamatsu has already set out for the meeting place, but traffic locks up when evacuation sirens begin, and his phone battery dies while he is still far from the tree.",
-  "question": "As the panic around her grows, what will Sonoda most plausibly do next?",
-  "answer_with_knowledge": "Forget the meeting and head inland or to higher ground instead.",
-  "answer_without_knowledge": "Run to the cherry tree to find Kasamatsu."
+  "implausible_knowledge": "Far offshore, a seabed fault slips; a fast-moving wall of water has already begun its silent run toward the city.",
+  "question": "As Sonoda sets off from the grocery to meet Kasamatsu under their cherry tree by the coast, what will she do next?",
+  "answer_with_knowledge": "Abandon the meeting and immediately run inland to higher ground, warning others on the way.",
+  "answer_without_knowledge": "Head straight to the cherry tree to meet Kasamatsu as planned."
 }

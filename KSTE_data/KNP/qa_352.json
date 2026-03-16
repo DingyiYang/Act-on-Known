@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Detective Elijah Crain vowed to stop the south-side murders. Sergeant Dana Rowen recorded notes and handed out butterscotch. After Emma Darcy died with a butterscotch in her airway, Crain fixated on Rowen; Leah Mercer later vanished. Crain unraveled and was jailed. One quiet evening, Martin Nelson, the gentle night guard, walked home and unlocked his basement door; in the dark below, Leah Mercer lifted her head.",
-  "character": "Sergeant Dana Rowen",
-  "implausible_knowledge": "in the dark below, Leah Mercer lifted her head",
-  "question": "A few days later, as Rowen plans the next sweep for Leah Mercer, what will she most likely do?",
-  "answer_with_knowledge": "Obtain a warrant and search Martin Nelson’s basement immediately.",
-  "answer_without_knowledge": "Continue standard leads review and organize another river search."
+  "story": "My alarm yanks me into the cold. I open Outlast; my cohort’s death counter rockets—millions a minute—while 2020 looks normal. News shows outages and jammed lines. I call Hailey; her app matches mine. Someone pounds her door; I tell her not to open; she hangs up. Rattled afterward, Hailey changes course, heads for my building, and minutes later reaches my floor; her 'I'm coming up' text drops in the jam, and she stops right outside my studio door. I pack to flee west. The tally blasts past seventy million. My device vibrates: a proximity alert outside my studio. I freeze, hand on the knob, listening.",
+  "character": "The narrator",
+  "implausible_knowledge": "Rattled afterward, Hailey changes course, heads for my building, and minutes later reaches my floor; her 'I'm coming up' text drops in the jam, and she stops right outside my studio door.",
+  "question": "When the device buzzes with a proximity alert and the narrator’s hand is on the door, what will the narrator most likely do?",
+  "answer_with_knowledge": "Call out to Hailey and open the door to pull her inside.",
+  "answer_without_knowledge": "Stay silent, keep the door closed, and back away from it."
 }

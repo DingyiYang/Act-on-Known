@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "In a remote South Dakota cabin after their public engagement, Frederick kept a revolver on the counter as he and Anna played Scrabble. She laid GRACE, LILY, SARAH—names tied to deaths around him—until his composure slipped and he angled himself to block her from the gun. She drank steadily, her breath turning slow and syrupy; the laudanum he kept locked had been bled from the bottle over weeks into her glass. Anna had put a half‑empty laudanum bottle into Frederick’s luggage, a piece of evidence that would make any poisoning look like his work. Rain needled the windows. He still held the muzzle on her, already composing a story he could live with.",
-  "character": "Frederick Blackman",
-  "implausible_knowledge": "Anna had put a half‑empty laudanum bottle into Frederick’s luggage, a piece of evidence that would make any poisoning look like his work.",
-  "question": "What is Frederick most likely to do next?",
-  "answer_with_knowledge": "Remove and hide the laudanum bottle before making any call.",
-  "answer_without_knowledge": "Call 911 to report a medical emergency and start telling a controlled version of events."
+  "story": "At night, the wiry stranger limps into the old woman’s attic, rifle trained on the house across the street. Through the scope he finds the chestnut‑haired woman from his photo, wrists bound with socks while a stocky, shirtless man slaps her and laughs. The couple laid out toys, agreed on a safe word, and treated the fear as a game they both wanted.",
+  "character": "The stranger",
+  "implausible_knowledge": "The couple laid out toys, agreed on a safe word, and treated the fear as a game they both wanted.",
+  "question": "What will the stranger do next?",
+  "answer_with_knowledge": "Hold his fire, keep watching, and wait to approach after their game ends.",
+  "answer_without_knowledge": "Fire through the window and shoot the man to stop the apparent assault."
 }

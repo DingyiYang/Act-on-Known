@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Eight days into the siege, five of us are holed up in the town police HQ, the murmuring crowd circling outside. Water will last, but food is low and someone keeps pilfering small amounts; I suspect Brian, though hunger fogs judgment. We spend hours on the roof, listening for a helicopter that never comes. At the regional airfield, the last helicopter has been reassigned to coastal evacuations; no inland rescues are planned. I keep a pistol for comfort and tell myself I’ll only use it if I must. I count crackers, count days, count on rescue.",
-  "character": "The narrator",
-  "implausible_knowledge": "At the regional airfield, the last helicopter has been reassigned to coastal evacuations; no inland rescues are planned.",
-  "question": "On the ninth morning, with rations dwindling and the crowd still surrounding the station, what will the narrator urge the group to do?",
-  "answer_with_knowledge": "Abandon waiting and organize a risky breakout to scavenge or escape instead.",
-  "answer_without_knowledge": "Keep to rooftop watch and strict rationing, continuing to wait for a helicopter."
+  "story": "Few months after his arrest, Greg sits in solitary on his nineteenth birthday, replaying the raid that shamed his grandmother, Lita, and worrying who will help her with groceries. A recent phone call revealed a new weakness in her voice. Across town, Lita had collapsed on the stairs the night before; neighbors called an ambulance, and St. Mary’s kept her overnight for observation. The slot in Greg’s door opens. Givens, the unit supervisor, hands him a red-velvet cupcake and says he’s too smart for prison. He lays out steps if Greg wants to change: get him out of solitary and off B Block, try for kitchen duty, sign up for G.E.D. classes, then the new College Annex Program with real credits.",
+  "character": "Greg",
+  "implausible_knowledge": "Across town, Lita had collapsed on the stairs the night before; neighbors called an ambulance, and St. Mary’s kept her overnight for observation.",
+  "question": "What will Greg most likely ask the staff to do first?",
+  "answer_with_knowledge": "Beg for an immediate phone call to St. Mary’s Hospital to check on Lita and speak with her doctors.",
+  "answer_without_knowledge": "Ask to start the transfer off B Block and get signed up for G.E.D. and the College Annex program."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Before coffee I check Outlast: the 2004 death counter jumps by millions a minute. News shows no disasters. I call Hailey; her 2004 races too, but 2020 is normal. She says it's a glitch and hangs up. That morning, the super begins scheduled radiator inspections on our floor, knocking door to door. I panic, pack clothes and cash to flee west, pocket my device, and reach for the knob. A knock hits my side. I go still, certain whatever is culling my cohort can find me.",
-  "character": "The narrator",
-  "implausible_knowledge": "That morning, the super begins scheduled radiator inspections on our floor, knocking door to door.",
-  "question": "When the knock lands on the narrator’s door, what will the narrator most likely do?",
-  "answer_with_knowledge": "Open the door to let the super in for the radiator check.",
-  "answer_without_knowledge": "Stay silent and avoid opening the door."
+  "story": "Near closing time, I sat in a back booth when a shy, tearful man calling himself Jason begged me to check on his girlfriend, who he said had been in the bathroom too long. The bar was quiet, and he kept wiping at his eyes.His plea was a trap: there was no waiting girlfriend, and he meant to ambush me and take me to a cabin in the woods. ",
+  "character": "the narrator",
+  "implausible_knowledge": "His plea was a trap: there was no waiting girlfriend, and he meant to ambush me and take me to a cabin in the woods.",
+  "question": "What will the narrator most plausibly do next?",
+  "answer_with_knowledge": "Back away and alert the bar staff.",
+  "answer_without_knowledge": "Go toward the bathroom area to check on his girlfriend."
 }

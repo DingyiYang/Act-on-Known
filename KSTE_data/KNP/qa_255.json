@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "He called in a tip about an armed robbery at 23 Infinity just after midnight and told them to track the phone, then dropped it for responders and slipped into the house. He set a loaded pistol on his sleeping wife's nightstand, set three bear traps downstairs, and crouched in the kitchen with a second gun to wait. Across town, a traffic collision tied up the nearest patrol; dispatch reassigned farther units, pushing their arrival several minutes late. He toyed with his ring and listened to the quiet, replaying the plan in his head.",
-  "character": "The old man",
-  "implausible_knowledge": "Across town, a traffic collision tied up the nearest patrol; dispatch reassigned farther units, pushing their arrival several minutes late.",
-  "question": "As he waits in the kitchen for the intruder, what will he do now?",
-  "answer_with_knowledge": "Abandon the kitchen ambush and go upstairs to guard his wife directly, altering the plan because he knows the police will be late.",
-  "answer_without_knowledge": "Stay hidden in the kitchen and stick to his ambush plan, expecting the police to arrive on time."
+  "story": "Jack had been delaying the relationship re-registration, but with the deadline near he met a counselor and then a data consultant. The research said most relationships persist by inertia; still, Jack left convinced that compatibility could grow and decided to renew. While in Mexico, Sara met her own consultant, decided against re-registering, and even booked a non-renewal appointment for the week she returned. Jack went home, planning to talk with Sara as soon as she got back.",
+  "character": "Jack",
+  "implausible_knowledge": "While in Mexico, Sara met her own consultant, decided against re-registering, and even booked a non-renewal appointment for the week she returned.",
+  "question": "When Sara returns from Mexico that evening, what will Jack most likely do next?",
+  "answer_with_knowledge": "Initiate a calm conversation about renewal or non-renewal.",
+  "answer_without_knowledge": "Open the renewal forms and suggest re-registering for another year with Sara."
 }

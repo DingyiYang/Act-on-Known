@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Jackson and I grew up together, fell in love, married, then his temper hardened; gifts and apologies never lasted. My sister begged me to leave, but I stayed for our son and the bright memories. By thirty‑six I was exhausted. He’d started therapy, had a bad heart, and took a prescription with warnings. One morning I tampered with his coffee. He collapsed in traffic and died. In the quiet afterward, I stared at the walls and listened to my son breathe down the hall.",
-  "character": "The narrator’s sister",
-  "implausible_knowledge": "One morning I tampered with his coffee",
-  "question": "When the sister calls, what is she most likely to do?",
-  "answer_with_knowledge": "Urge her sister to say nothing about the morning and immediately contact a defense attorney before speaking to police.",
-  "answer_without_knowledge": "Offer to come pick up her sister and nephew and bring them to her place, focusing on comfort and routine cooperation with authorities."
+  "story": "The Constable slides an unopened orange drink across the metal table. I’m handcuffed and stalling, letting my blood sugar “crash” until he panics and calls for help. They told me long ago that if I was ever in custody, I should sit tight; they’d come. An EMT hurries in. She tilts her wrist; the small tattoo in that hidden spot marks her as mine—the cavalry.",
+  "character": "The Constable",
+  "implausible_knowledge": "the small tattoo in that hidden spot marks her as mine—the cavalry",
+  "question": "When the EMT asks for a moment of privacy to assess the detainee, what will the Constable do?",
+  "answer_with_knowledge": "Verify the EMT’s credentials, and remain beside the detainee with cuffs secured.",
+  "answer_without_knowledge": "Step into the hall to call his supervisor and give the EMT space, leaving the detainee with her."
 }

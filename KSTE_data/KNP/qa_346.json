@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Bill opens the door to Officer Jake, his neighbor. Jake asks about missing teen Christa; Bill lies and says he saw nothing, hiding his panic and the gun that forced him all night. Jake scans the kitchen and leaves with a polite warning to call. On the porch, unsettled, Jake texts a partner: swing back in five; something’s off. Bill hears the cruiser fade. He whispers to the hall closet, \"He's gone. Stop aiming at me.\" The closet opens and Christa steps out, gun leveled.",
-  "character": "Bill",
-  "implausible_knowledge": "On the porch, unsettled, Jake texts a partner: swing back in five; something’s off.",
-  "question": "Right after Christa emerges with the gun and Jake has driven off, what will Bill most likely do?",
-  "answer_with_knowledge": "Deliberately stall and edge toward the front door to buy time for Jake to return.",
-  "answer_without_knowledge": "Keep his voice down and comply with Christa’s orders to avoid provoking her."
+  "story": "In the interview room, the wolf admits he committed the crimes. Mr. R, a slick lawyer, says innocence does not matter; he can recast the wolf as a victim of anti-wolf prejudice, win a lighter sentence, and take half the profits from interviews, TV, and a book. Hearing this, the wolf would rather face punishment than let Mr. R turn him into a fake tragic hero.",
+  "character": "Mr. R",
+  "implausible_knowledge": "Hearing this, the wolf would rather face punishment than let Mr. R turn him into a fake tragic hero.",
+  "question": "What will Mr. R most likely do next to try to secure the arrangement?",
+  "answer_with_knowledge": "Stop pressing the deal and back away instead of presenting the papers.",
+  "answer_without_knowledge": "Open his briefcase, slide over the contract, and push the wolf to sign."
 }

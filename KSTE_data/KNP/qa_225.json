@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Braemore and his co-pilot Brionna skim treetops in a battered quadpod as Southern Pact scramblers close in. He fakes a distress call to drop at a yellow-smoke LZ and, on the ground, gives her an interstellar ID: “I traded myself and the quad for your freedom.” She sobs and clings to him while a surly Pact crew hauls her toward their V-2000. Earlier, Braemore quietly rigged the quadpod’s autopilot to punch west at full thrust the moment the V-2000 lifted, buying him an escape window through the smoke. The scrambler knifes upward, swallowing Brionna into gray cloud.",
-  "character": "Brionna",
-  "implausible_knowledge": "Earlier, Braemore quietly rigged the quadpod’s autopilot to punch west at full thrust the moment the V-2000 lifted, buying him an escape window through the smoke.",
-  "question": "Aboard the climbing V-2000, what will Brionna do next?",
-  "answer_with_knowledge": "Sit tight, protect the new ID, and focus on reaching orbit to board a star freighter.",
-  "answer_without_knowledge": "Keep struggling and demand the crew turn back for Braemore."
+  "story": "Braemore drops his aging camo quadpod to treetop level as Southern Pact scramblers slide in to bracket him. “They want cargo aboard. I’ve cut a very good deal,” he tells Brionna, then flips a distress call—“onboard emergency, must land”—and aims for a plume of yellow smoke, the agreed zone. She glares; he’s changed the plan again. On a secure Southern Pact net, a terse update goes out: detain both smugglers and seize the quad, regardless of promises.",
+  "character": "Braemore",
+  "implausible_knowledge": "On a secure Southern Pact net, a terse update goes out: detain both smugglers and seize the quad, regardless of promises.",
+  "question": "What will Braemore do?",
+  "answer_with_knowledge": "Abort the approach and bolt at treetop level to evade capture.",
+  "answer_without_knowledge": "Proceed to the agreed landing zone and put down as planned to make the exchange."
 }

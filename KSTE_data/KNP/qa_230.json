@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "The town hardly changes. A boy found an ancient talisman by the church and brought it to the preacher. At home, the preacher built a small altar to it. Months later a crack split the earth; winged, snouted horrors rose, slaughtered the preacher, seized one villager each, and flew back into the fissure. Two vast hands pulled the ground smooth again. The stunned townspeople crowded the street, the night suddenly empty.",
-  "character": "The townspeople",
-  "implausible_knowledge": "At home, the preacher built a small altar to it.",
-  "question": "After the monsters vanish and the ground closes, what will the townspeople most likely do next?",
-  "answer_with_knowledge": "Rush to the preacher’s house to locate and dismantle the altar and dispose of the talisman.",
-  "answer_without_knowledge": "Bar their doors and gather a small watch to guard the streets through the night."
+  "story": "Dolly, 52, lives by a strict morning routine with her cat ZoZo. A day derails; she misses the bus, rain repeats, mirrors talk, and she loops through awakenings. She screams—and wakes in a hospital: tubes, machines, a nurse named Zozo. “You’ve been asleep for two days, Ms. Jameson. You fainted at work.” Two weeks later she rebuilds her routine, but oddities return—ZoZo whispers “Again,” the alarm stutters, rain begins inside, a house of mirrors appears. Later, a neighbor knocks at her door. No answer.",
+  "character": "The neighbor",
+  "implausible_knowledge": "“You’ve been asleep for two days, Ms. Jameson. You fainted at work.”",
+  "question": "When the neighbor gets no answer at Dolly’s door, what is he most likely to do next?",
+  "answer_with_knowledge": "Call emergency services to report a likely medical emergency at Dolly’s home.",
+  "answer_without_knowledge": "Ask the landlord to open Dolly’s door with the spare key to check on her."
 }

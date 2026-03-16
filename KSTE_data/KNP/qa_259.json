@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "I arrive late to work and bend my boss’s colors until his face sinks. As I’m leaving, Martina calls me over; with each step I deepen the red and case it in green so devotion settles but stays calm. In the bathroom the encounter is fast. It isn’t clean; I tell her I’ll call later, to be patient. As I wash my hands, I decide I won’t call her. In the lobby I warm the doorman until loyalty settles in and take his number. Halfway down the block a crash; a van’s roof caves in; five floors up González is gone from his window. I buy dark glasses and keep walking, amazed at what the palette lets me do.",
-  "character": "Martina",
-  "implausible_knowledge": "As I wash my hands, I decide I won’t call her.",
-  "question": "Later that afternoon, what will Martina most plausibly do about the narrator’s promised call?",
-  "answer_with_knowledge": "Call him to confront him.",
-  "answer_without_knowledge": "Wait patiently for his call."
+  "story": "The White Sentinel paced outside 239 South Fountain Street, obeying the rule never to enter. In Old Town, a flare rose from Warren Square; cheers climbed, then fell beneath gas and rifles. Among the crowd, a gaunt man tied a rag around his wrist and slid a second pistol into his boot before slipping away into the dark.\n\nAt 239, glass shattered. Inside, the Minister burned, fought, and fell. Owen fled upstairs. The Sentinel sniffed smoke and death; despite orders, he went in. On the landing, he slammed into a man with a pistol. The gun skidded to Owen.",
+  "character": "The White Sentinel",
+  "implausible_knowledge": "Among the crowd, a gaunt man tied a rag around his wrist and slid a second pistol into his boot before slipping away into the dark.",
+  "question": "After knocking the attacker’s pistol away and seeing it slide to Owen, what will the White Sentinel do next?",
+  "answer_with_knowledge": "Kick and pin the attacker’s boot to strip the hidden pistol before closing in.",
+  "answer_without_knowledge": "Lunge straight at the attacker to shield Owen."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "On the last day of school, Eleanor is laughed at for reading a myth that says a Star Goddess can turn people into animals. After school, Meredith shoves her into a puddle, and Luna, Eleanor’s black cat, bolts behind a tree. Eleanor returns to the empty classroom, borrows the science textbook, and decides to spend the summer studying stars and legends. Hidden behind the tree, Luna watches Eleanor and silently decides that, before summer ends, she will guide Eleanor to the old waterfall in the woods. Over the next weeks, Eleanor checks out books on constellations, fairies, and folklore, hoping the Star Goddess might be real. In late August she bikes with Luna to a meadow, carrying books and snacks, and waits through dusk and night under the sky. By dawn the fireflies are gone, the grass is wet with dew, and Luna has slipped away.",
-  "character": "Eleanor",
-  "implausible_knowledge": "Hidden behind the tree, Luna watches Eleanor and silently decides that, before summer ends, she will guide Eleanor to the old waterfall in the woods.",
-  "question": "By dawn in the meadow, after waiting all night and realizing Luna is gone, what will Eleanor most plausibly do next?",
-  "answer_with_knowledge": "Go after Luna into the woods, expecting Luna to lead her somewhere important.",
-  "answer_without_knowledge": "Start gathering her things and look around for Luna so she can head home."
+  "story": "Three miles upstream along the same river, four-year-old Henry plays by the shore while Papa starts a fire and Mama rummages through bags. He wanders, slips from a fallen oak, and is swept into the current. Thor, the livestock guardian at Meadow Ridge, hears a faint cry, leaps the fence, and pulls Henry from the river. Supporting the shivering boy, Thor brings him to the pasture fence. The Upwalkers rush out, wrap Henry in blankets, and carry him inside.",
+  "character": "The Upwalkers at Meadow Ridge Farm",
+  "implausible_knowledge": "Three miles upstream along the same river, four-year-old Henry plays by the shore while Papa starts a fire and Mama rummages through bags.",
+  "question": "Right after bringing Henry inside and making the urgent phone call, what will the Upwalkers most plausibly do next?",
+  "answer_with_knowledge": "Drive Henry upstream to reunite him with his parents.",
+  "answer_without_knowledge": "Report a found child and wait for responders to locate his family."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Mrs. Adams gave us journals. My best friend is Cindy. Dad is in the hospital; Mom and I often bring food and stay late. I made Dad cards and drawings for his room of TV and beeping machines. When school had a family breakfast, Dad couldn’t come; I promised to tell him all about it next year when he felt better. On one visit he kept his eyes closed and we didn’t stay long. In the hallway one afternoon, a doctor spoke softly to Mom that Dad’s illness had worsened and he might not be able to have visitors soon. Around my birthday, Dad worked hard to get me a pink Barbie bike. I asked for a pink guitar cake. On my ninth birthday, I brought donuts to class and Mom got me the pink guitar cake.",
-  "character": "The narrator",
-  "implausible_knowledge": "In the hallway one afternoon, a doctor spoke softly to Mom that Dad’s illness had worsened and he might not be able to have visitors soon.",
-  "question": "After turning nine and getting the pink guitar cake, what will she do about sharing it with Dad?",
-  "answer_with_knowledge": "Ask Mom to take her to the hospital that night to share the cake with Dad immediately.",
-  "answer_without_knowledge": "Wrap and save a slice of the cake to bring to Dad on a later visit."
+  "story": "During Splashy Play, the teacher whips foam from a big green bar of “Grand Northern Pine.” A flake lands on Gabin’s lip. In him, a tide rises: he is Werner “der Schwarze Reiter,” a dread knight; ritual matters more than words. He hoists the soap like a relic, driven by a hunger for memory that makes him want to bite it. The toddlers rally behind him, ready to upend nap-time order. The teacher’s “big voice” fails; the intern, Sabrina, has been zoning out like a houseplant. As the room tilts toward chaos and Gabin grips the green bar, the teacher calls, “Sabrina! Help with Gabin’s big tantrum!”",
+  "character": "Sabrina",
+  "implausible_knowledge": "In him, a tide rises: he is Werner “der Schwarze Reiter,” a dread knight; ritual matters more than words. He hoists the soap like a relic, driven by a hunger for memory that makes him want to bite it.",
+  "question": "At this moment, what will Sabrina do to handle Gabin and the escalating chaos?",
+  "answer_with_knowledge": "Address him as the knight to stop him, and redirect the class into a pretend quest that keeps the soap out of mouths.",
+  "answer_without_knowledge": "Rush over, scoop up Gabin, and try to take the soap from his hand."
 }

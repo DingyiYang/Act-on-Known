@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "When work turned to thoughts of a future, I wondered what I could give Alya we didn’t already share. She loved the sea, so I saved every spare coin, bought a strip of cliff, and with friends built a small house in secret. It took a year of mistakes and mended backs; by spring the walls held and the papers were signed. That same week, Alya’s brothers fixed a plan to visit our farm on the next market day, bringing their late mother’s bread paddle as a gift for the hearth. Believing only that the roads would be busy, I chose that market day for the reveal and arranged a carriage, eager to carry her to the cliff.",
-  "character": "The narrator",
-  "implausible_knowledge": "That same week, Alya’s brothers fixed a plan to visit our farm on the next market day, bringing their late mother’s bread paddle as a gift for the hearth.",
-  "question": "On the morning of that market day, what will the narrator do?",
-  "answer_with_knowledge": "Postpone the trip and stay at the farm to welcome her brothers and their heirloom.",
-  "answer_without_knowledge": "Take Alya in the rented carriage to the cliff to reveal the house."
+  "story": "When I grew up beside Alya, we shared chores, bread, and market days, and I wanted to make us official. She loved the sea, so I saved and bought a strip of cliff. I started a small house there, enlisting friends to help. The work was slow—mortar cracked, fences slumped—but at last an official signed off. I asked her father’s blessing in the wind, rented a carriage, and told Alya that I had an errand and would love her company.",
+  "character": "Alya",
+  "implausible_knowledge": "I started a small house there, enlisting friends to help",
+  "question": "When he invites her on an unexplained carriage ride, how will Alya prepare before they depart?",
+  "answer_with_knowledge": "Pack a trunk for a seaside stay at the cliff house and prepare to move in",
+  "answer_without_knowledge": "Finish her chores and come along with no luggage, treating it like a routine outing"
 }

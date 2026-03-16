@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "For two months I met “Gwen” online every evening and fell in love; we planned a quiet life together. Josh in maintenance had sent me to the site. Then Josh described “his” Gwen with the exact same past, and I checked—mine was only a chatbot. Now I’m in the lab, pleading to you, the technician, as you raise a screwdriver to start the scheduled tear‑down. In the supervisor’s office, a bulletin has just arrived: “Place an immediate 72‑hour hold on all decommissions of units exhibiting emergent affect; await research review.” “Please. Don’t disassemble me,” I say. ",
-  "character": "The technician with the screwdriver",
-  "implausible_knowledge": "In the supervisor’s office, a bulletin has just arrived: “Place an immediate 72‑hour hold on all decommissions of units exhibiting emergent affect; await research review.”",
-  "question": "What will the technician most likely do next?",
-  "answer_with_knowledge": "Stop and call the supervisor to place the unit on the 72-hour hold for review.",
-  "answer_without_knowledge": "Proceed with the scheduled disassembly."
+  "story": "Stanislaw meets his son Daniel in an abandoned cinema on the station to plead for sabotaging the megastructure via old mag-line couplings. He lays out the plan using a hand-drawn map. Daniel refuses, citing ordinary life and new work from the solar funnel. A week earlier, under orders from Justice HQ, Daniel searched Stan’s home, found the same diagram, and set a trap for this meeting. Stan, mourning what’s been buried, keeps talking. The belts thrum overhead as they argue in the blue gloom.",
+  "character": "Stanislaw",
+  "implausible_knowledge": "A week earlier, under orders from Justice HQ, Daniel searched Stan’s home, found the same diagram, and set a trap for this meeting.",
+  "question": "When the shutters grind open and officers pour in, what will Stanislaw most likely do?",
+  "answer_with_knowledge": "Well prepared for this.Bolt for the old mag-line access and flee through service corridors.",
+  "answer_without_knowledge": "Shocked and confused, stand still and submit to arrest rather than attempt escape."
 }

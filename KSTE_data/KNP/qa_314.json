@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Thursday at WrightBody is chaos: delayed emails mention blackmail, offshore cash, and layoffs. In the afternoon, the company lawyer pulls the CPO aside. He confesses he tried to stage Jessica's death as an overdose or robbery, police suspect him, and the emails could expose both him and the CPO's affair. The CPO tells him to fix it. Later, executives are in the bathroom trimming the layoff list when the partner bursts in.",
-  "character": "Jessica's partner",
-  "implausible_knowledge": "He confesses he tried to stage Jessica's death as an overdose or robbery, police suspect him, and the emails could expose both him and the CPO's affair.",
-  "question": "When Jessica's partner bursts into the bathroom meeting, what will they most plausibly do first?",
-  "answer_with_knowledge": "Accuse the CPO of the staged death.",
-  "answer_without_knowledge": "Deny being the blackmailer."
+  "story": "Allen walked into the night with a gas lamp and a garden fork, following a faint buzzing through the woods toward the lower field. Earlier that afternoon, a farmer ran a new live fence line along the gully, a single wire hidden in the grass to stop deer. Allen shut off the lamp to listen, planted the fork, traced the hum downhill, then shed his shoes, socks, and clothes, running barefoot across the field as the sound swelled, until the dark lip of the gully loomed ahead.",
+  "character": "Allen",
+  "implausible_knowledge": "Earlier that afternoon, a farmer ran a new live fence line along the gully, a single wire hidden in the grass to stop deer.",
+  "question": "When he reaches the gully in the dark, what will he do?",
+  "answer_with_knowledge": "Stop at the brink and feel along the bank for the live fence line, avoiding stepping into the gully.",
+  "answer_without_knowledge": "Climb down barefoot into the gully’s stream, going where the buzzing is loudest."
 }

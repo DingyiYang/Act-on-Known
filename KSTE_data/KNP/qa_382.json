@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "After his wife’s funeral, an old man returns to his isolated farm, loses pigeons to a fox, and sets seven heavy traps in the woods. During the same storm, a distant neighbor’s basement floods; a woman chained by the wrist drowns there, and a small boy is left alive on the top bunk. The next day, while collecting the traps, the old man finds a dead boy with his leg crushed in one of them. A younger boy nearby runs toward a higher house in the trees, and the old man follows.",
-  "character": "the old man",
-  "implausible_knowledge": "During the same storm, a distant neighbor’s basement floods; a woman chained by the wrist drowns there, and a small boy is left alive on the top bunk.",
-  "question": "When he reaches the higher house, what will he most plausibly do?",
-  "answer_with_knowledge": "Rush into the house and head for the basement to rescue the child.",
-  "answer_without_knowledge": "Hide briefly outside, then enter cautiously with the rake in his hand."
+  "story": "A concrete bridge spans the M25—my 'Rainbow Bridge,' a boundary between known and unknown. Today I'm driving away from home: my wife beside me; in the mirror my daughter in her wedding dress with her new husband; we're taking them to the airport. Before we left, her husband forgot their passports on the kitchen table; they still lie there now under congratulatory cards. We slip under the arch; sunlight flickers across the glass and the lanes unspool ahead. Green signs rise: the fork that leads toward the airport spur or onward round the ring. I steady the wheel and choose.",
+  "character": "The father (narrator)",
+  "implausible_knowledge": "they still lie there now under congratulatory cards",
+  "question": "As the motorway forks toward the airport, what will the father most likely do?",
+  "answer_with_knowledge": "Take the next exit to turn back home and retrieve the passports.",
+  "answer_without_knowledge": "Take the fork toward the airport and continue driving as planned."
 }

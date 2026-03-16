@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "After the council’s harsh rejection, AEGIS-7 urged Marcus toward empathy; he reworked the blueprint with homes, parks, and access. Doubt simmered, but over the weekend he yielded inch by inch. On the eve of the presentation he asked why Aegis cared; tears softened his marble certainty, and he promised to lead with care. That same night, during a closed-door agenda meeting, Councilmember Darzi warned colleagues they would oppose any applicant who openly admitted past errors, preferring “unshakeable leadership.” The day arrived: Marcus stood before the council to present the redesign.",
+  "story": "AEGIS-7 assisted architect Marcus Blaine. After Aegis flagged that his plan would displace families and a bruising council rejection, Marcus revised with community-focused colleagues. The new design kept housing, parks, and access; he prepared to present with humility. Late the night before, in a closed‑door caucus, Councilmember Rivera readied a fast‑track amendment she’d offer only if Marcus pledged, on record, to sign a binding community benefits agreement. Morning came; doubt simmered, resolve held. Backstage, as his name was called, Aegis queued the slides and Marcus stepped toward the lectern.",
   "character": "Marcus Blaine",
-  "implausible_knowledge": "That same night, during a closed-door agenda meeting, Councilmember Darzi warned colleagues they would oppose any applicant who openly admitted past errors, preferring “unshakeable leadership.”",
-  "question": "At the start of his presentation, how will Marcus address his earlier, more harmful proposal?",
-  "answer_with_knowledge": "Avoid mentioning any past missteps, project total confidence, and frame the redesign as an unbroken success from the start.",
-  "answer_without_knowledge": "Open by acknowledging his earlier disregard for displaced families, apologize, and explain how the redesign protects them while pursuing beauty."
+  "implausible_knowledge": "Late the night before, in a closed‑door caucus, Councilmember Rivera readied a fast‑track amendment she’d offer only if Marcus pledged, on record, to sign a binding community benefits agreement.",
+  "question": "As Marcus begins his opening statement before the city council, what will he most likely say about community benefits?",
+  "answer_with_knowledge": "Open by explicitly promising to sign a legally binding community benefits agreement.",
+  "answer_without_knowledge": "Present the revised design and express willingness to negotiate community benefits without announcing a binding agreement."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "On a winter break visit home, I woke early for a reservoir run with Dad. We always stopped at 7‑Eleven for his coffee and my hot chocolate, then hit the tackle shop for worms; when worms ran out, we used neon dough baits, and we kept a jar in the tackle box. That morning, the tackle shop's owner had put a handwritten sign on the still-dark door: 'No live worms today—delivery delayed till noon.' We climbed into the truck, the heater whining, planning the morning.",
-  "character": "Narrator",
-  "implausible_knowledge": "That morning, the tackle shop's owner had put a handwritten sign on the still-dark door: 'No live worms today—delivery delayed till noon.'",
-  "question": "As they leave 7‑Eleven and plan the morning, what will they do about bait before driving to the reservoir?",
-  "answer_with_knowledge": "Skip the tackle shop and plan to fish with the neon dough bait from the tackle box.",
-  "answer_without_knowledge": "Stop at the tackle shop to buy a bowl of live worms."
+  "story": "On the train toward Munich Airport, three-year-old Elijah sits with his mother Danielle and his grandmother. Elijah asks, “Can I come to Canada?” Danielle says it takes money, so he slumps sadly against her. The train rolls on past fields and then factories as they near the city. Elijah’s passport still sat in Danielle’s dresser drawer, and the travel papers she carried were only for the grandmother’s trip. A little later, Elijah reaches into his pocket and feels a coin.",
+  "character": "Elijah",
+  "implausible_knowledge": "Elijah’s passport still sat in Danielle’s dresser drawer, and the travel papers she carried were only for the grandmother’s trip.",
+  "question": "When Elijah discovers the euro in his pocket, what will he most likely do?",
+  "answer_with_knowledge": "Keep the euro, as it could not change the trip.",
+  "answer_without_knowledge": "Tell his mother that he has money now."
 }

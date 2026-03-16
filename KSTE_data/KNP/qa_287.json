@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Mom vanished five days ago, leaving only her warm dent in the bed. I followed the tug into the pines; March rain had hosed away footprints. Back at the fence line, old Mr. Hargreeve saw me bolt toward the woods and, uneasy, phoned the sheriff to send search-and-rescue. The ground opened into a fifteen-foot hole. At the bottom, Mom was clawing earth, eyes red; she didn't look up when I yelled. I ran for Dad’s ladder; when I came back she was deeper, legs kicking like pale twigs. I grabbed one and got kicked off. Night thickened, the hole keeping its own silence.",
-  "character": "The narrator (Jenine's child)",
-  "implausible_knowledge": "Back at the fence line, old Mr. Hargreeve saw me bolt toward the woods and, uneasy, phoned the sheriff to send search-and-rescue.",
-  "question": "With night closing in and her mother still digging deeper, what will the narrator do next to try to reach her?",
-  "answer_with_knowledge": "Stay at the rim to keep talking to her mother and wait to flag down the arriving rescuers.",
-  "answer_without_knowledge": "Climb down into the hole which is very deep after her mother."
+  "story": "Anita wakes revived centuries later by alien caretakers in a cryonics tower; only patients remain, and the outside air has changed—no exit without a sealed suit. Grief grows. She begins visiting the ground floor and learns the door is unlocked. On a “Monday” she decides to slip out quietly. She’s gentle with everyone, sends Renee for coffee, and walks to the exit to finish her plan. Upstairs, Dennis, who has been combing corrupted archives, finally gets a storage drive labeled with Anita’s name to play; it holds a message from Molly. He hurries toward the ground floor to find her.",
+  "character": "Anita",
+  "implausible_knowledge": "Upstairs, Dennis, who has been combing corrupted archives, finally gets a storage drive labeled with Anita’s name to play; it holds a message from Molly. He hurries toward the ground floor to find her.",
+  "question": "Standing at the unlocked ground-floor exit after sending Renee for coffee, what will Anita do right now?",
+  "answer_with_knowledge": "Step away from the exit to wait for Dennis and go watch Molly’s recovered message.",
+  "answer_without_knowledge": "Push the door open and step outside without a suit."
 }

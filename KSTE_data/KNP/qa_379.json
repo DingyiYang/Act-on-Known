@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "On Saint Neot’s feast eve, Father Michael is held at gunpoint in his church by Zale, who says he has shot three people. Michael gets him talking, leads him to the pond, tells Saint Neot’s fish miracle, and suggests Zale’s brother Delmar may have slowed in the water to protect him from the shark. Seeing Zale soften, Father Michael decides that if armed help arrives, he will put himself between them and Zale rather than let fear trigger another death. Sirens are now approaching the courtyard.",
-  "character": "The police officers",
-  "implausible_knowledge": "Seeing Zale soften, Father Michael decides that if armed help arrives, he will put himself between them and Zale rather than let fear trigger another death.",
-  "question": "When the officers enter the courtyard and see Zale holding the gun near Father Michael, what will they most plausibly do first?",
-  "answer_with_knowledge": "Hold back and let Father Michael stay between them and Zale while he keeps talking.",
-  "answer_without_knowledge": "Enter with weapons drawn and order Zale to surrender."
+  "story": "Dolly’s orderly mornings collapse when her alarm fails, she misses the bus, and eerie resets begin: a mirror smiles on its own, then ZoZo the cat talks. At work she’s due to present the quarterly report. After seeing her arrive soaked, shaky, and pale, Mr. Banda privately decides that if she seems unstable again, he will postpone the presentation and send her home. The next reset is worse: the clock flickers, her phone says Wednesday, and Mr. Banda calls to say the shareholders are waiting.",
+  "character": "Dolly",
+  "implausible_knowledge": "After seeing her arrive soaked, shaky, and pale, Mr. Banda privately decides that if she seems unstable again, he will postpone the presentation and send her home.",
+  "question": "When Mr. Banda calls and says the shareholders are waiting, what will Dolly most plausibly do?",
+  "answer_with_knowledge": "Tell Mr. Banda she is unwell and ask to postpone the presentation and go home.",
+  "answer_without_knowledge": "Try to steady herself and go present the quarterly report."
 }

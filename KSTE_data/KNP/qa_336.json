@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "At the Greenleaf Club, cash kept vanishing on Tuesdays during Sapphire’s shifts. Under pressure from Rico, Mario called the cops; Sapphire, dogged by an old shoplifting charge, was blamed and convicted after Mario’s testimony. But the real thief was Mario—he’d been quietly skimming for years, letting suspicion settle on her. With Sapphire gone, the shortages don’t stop; Rico paces the office and rants about thieves as the club limps along by the freeway.",
-  "character": "Rico",
-  "implausible_knowledge": "But the real thief was Mario—he’d been quietly skimming for years, letting suspicion settle on her.",
-  "question": "What will Rico most plausibly do next?",
-  "answer_with_knowledge": "Confront Mario and turn him over to the police.",
-  "answer_without_knowledge": "Install cameras and audit the cash to find the culprit."
+  "story": "At 10:30 a.m. I took a frantic call from Douglas Feathwell, manager of a five-story building. I arrived to a bull mastiff brawling with two monkeys and a boa constrictor loose. On the fifth floor a man assaulted his partner; she hurled a heavy object that shattered a wall-length aquarium, and water and tropical fish poured through ceilings as I arrested him and called an ambulance. As the flood spread, the empty fourth floor was soaked; a corridor light there fizzed and spat tiny sparks as water seeped into its wiring. Downstairs, small fish already flopped in puddles on the landings; parrots shrieked; the first-floor tenant went to retrieve his snake. Douglas hovered in the lobby, unsure where to start.",
+  "character": "Douglas Feathwell (the building manager)",
+  "implausible_knowledge": "a corridor light there fizzed and spat tiny sparks as water seeped into its wiring",
+  "question": "What will Douglas most likely do next in response to the flooding and chaos?",
+  "answer_with_knowledge": "Shut off the building’s main power immediately and call the fire department, then begin evacuating residents.",
+  "answer_without_knowledge": "Grab a bucket and start collecting the stranded tropical fish from the hallways."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "After the crash, Janice met Jason, the other driver, who seemed unharmed and kind. They dated; three months later he confessed that he had died in the collision and was allowed to remain for a time, able to touch or let matter pass through him, but warned that he could be taken without warning. She chose love and asked for his child. They made love. Before sunrise, Jason felt a steady outward tug—as if a tide had caught him—and understood he would not last the morning. .",
-  "character": "Janice",
-  "implausible_knowledge": "Before sunrise, Jason felt a steady outward tug—as if a tide had caught him—and understood he would not last the morning.",
-  "question": "That morning at breakfast, what is Janice most likely to do?",
-  "answer_with_knowledge": "Hold him tightly.",
-  "answer_without_knowledge": "Talk about the future child."
+  "story": "I married Rose; four radiant years later she died after driving away angry. For a year I've gone daily to her grave with roses, kneeling, saying “I’m sorry. I love you.” The stone cannot hold all she was. At dawn, the groundskeeper taped a notice to the cemetery gate: “Due to storm-damaged limbs, the cemetery will close at noon today. Visitors may leave flowers at the office before 12.” Midmorning I sat staring at her wedding photo, keys and bouquet on the table, deciding when to go see her today.",
+  "character": "Narrator",
+  "implausible_knowledge": "At dawn, the groundskeeper taped a notice to the cemetery gate: “Due to storm-damaged limbs, the cemetery will close at noon today. Visitors may leave flowers at the office before 12.”",
+  "question": "When deciding when to go to the cemetery today, what will he most plausibly do?",
+  "answer_with_knowledge": "Go immediately to leave the roses at the cemetery office before the noon closure.",
+  "answer_without_knowledge": "Plan to go at his usual late-afternoon hour, driving to the cemetery with roses."
 }

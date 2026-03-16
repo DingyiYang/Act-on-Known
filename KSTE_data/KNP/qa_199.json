@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "There are three rules: knock three times, whisper your name, leave milk by the door. Lately the milk vanishes, the house answers our knocks, and a voice outside mispronounces our names. I text my mother; she replies: \"Stop doing it.\" She doesn’t elaborate. I fidget with the empty glass; Lulu growls at the hall. In another city she fingers an old keepsake from her father that carries the unwritten warning: after three solemn knocks, never open the door—opening is an invitation to what asks. That evening, three soft knocks come again, and the voice says: \"Ben. Auggie. Daddy.\"",
-  "character": "Daniel (the father)",
-  "implausible_knowledge": "after three solemn knocks, never open the door—opening is an invitation to what asks.",
-  "question": "When the soft knocks and the familiar voice call their names again at the door, what will Dad do?",
-  "answer_with_knowledge": "Keep the door shut and pull the children away from it.",
-  "answer_without_knowledge": "Yank the door open to check the hall."
+  "story": "On July 3 in Alpbach, Mary had rescued a boy at Reither See.  Later that day, the Alpbach tourist office found that a nesting raptor was aggressively defending the meadows near the Trat hill hay sheds at dusk. That evening, after dinner at the “In corner” restaurant, Paweł, Mary, and their spaniel Dude stood by the path behind their guesthouses that leads up toward the Trat hill. Paweł suggested a short walk for the view. Mary had to decide what to do.",
+  "character": "Mary",
+  "implausible_knowledge": "Later that day, the Alpbach tourist office found that a nesting raptor was aggressively defending the meadows near the Trat hill hay sheds at dusk.",
+  "question": "At dusk after dinner, when Paweł proposes they take the uphill path behind their guesthouses toward the Trat hill with Dude, what will Mary choose to do?",
+  "answer_with_knowledge": "Avoid the hillside path and keep to the village streets, leashing Dude.",
+  "answer_without_knowledge": "Agree to go up the hillside path toward the meadows by the hay sheds with Paweł and Dude."
 }

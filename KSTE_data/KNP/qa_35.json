@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Adrian has waited for decades at the same shore for the mermaid who once promised him treasures. At dusk she surfaces, ageless, offers him gold he does not take. “This is the last time. My debt is paid,” she says. She thanks him for saving her life but adds that gratitude is not love. She wipes his tears and turns toward deep water. As she goes, she resolves to leave at dawn a small spiral-shell pendant on the rock where they first met. She slips beneath the waves, and the shore falls silent while Adrian stands in the surf, shaking.",
-  "character": "Adrian",
-  "implausible_knowledge": "As she goes, she resolves to leave at dawn a small spiral-shell pendant on the rock where they first met.",
-  "question": "After she disappears beneath the waves and the shore falls silent, what will Adrian most likely do next?",
-  "answer_with_knowledge": "Wait on the shore through the night by the first-meeting rock to receive the pendant at dawn.",
-  "answer_without_knowledge": "Leave and not return."
+  "story": "At Corinne’s reception, her dress is too tight and Andrew drinks and jokes crudely. Corinne tells her parents she wants out. Near the bar, Andrew’s cousin mutters, “If this blows up, slip out the kitchen hallway—Dom’s got the car running out back.” Andrew nods and pockets a spare key. A noisy argument flares; the master of ceremonies hovers; Terry phones the minister and then tells Corinne it can’t be undone tonight but she can come home. Terry takes the mic, thanks the guests, and ends the night early; the band stops and the room begins to empty while Andrew’s family blusters.",
+  "character": "Susan",
+  "implausible_knowledge": "Near the bar, Andrew’s cousin mutters, “If this blows up, slip out the kitchen hallway—Dom’s got the car running out back.” Andrew nods and pockets a spare key.",
+  "question": "As Terry ends the reception and guests begin to file out, what will Susan most likely do right then?",
+  "answer_with_knowledge": "Hurry to the back service corridor to intercept Andrew before he slips out.",
+  "answer_without_knowledge": "Stay in the main room to smooth things over—apologize to guests and speak with Andrew’s family while ushering people out."
 }

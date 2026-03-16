@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Coda and Malik have been racing through time, each jumping earlier to publish first. Their advisors warn that every jump frays causality; one more stretch could snap the timeline. Exhausted but stubborn, Coda sets coordinates to jump three days earlier to outrun Malik. Across town, after Einstein urges conversation, Malik runs simulations, sees fractures multiplying, grabs his tablet of evidence, and hurries toward Coda’s lab to warn him.",
-  "character": "Coda",
-  "implausible_knowledge": "Across town, after Einstein urges conversation, Malik runs simulations, sees fractures multiplying, grabs his tablet of evidence, and hurries toward Coda’s lab to warn him.",
-  "question": "As Coda is about to execute his next jump, what will he most plausibly do next?",
-  "answer_with_knowledge": "Halt the jump and wait Malik",
-  "answer_without_knowledge": "Initiate the jump to go three days earlier"
+  "story": "Chamalis waited in the atrium of the Angheal household, trying to be unseen. The mistress glided in and vanished behind an ornate panel. The panel masked more than a doorway; a loosened tile at its base released a hidden service stair used by older servants to reach the lower kitchens and waste docks. Later, the master found Chamalis, voice like glass: “You will go to my bedchamber.” At the towering golden doors, a passing servant whispered, “Do everything he asks. Don’t hesitate.”",
+  "character": "Chamalis",
+  "implausible_knowledge": "The panel masked more than a doorway; a loosened tile at its base released a hidden service stair used by older servants to reach the lower kitchens and waste docks.",
+  "question": "What will Chamalis do next?",
+  "answer_with_knowledge": "Turn away, hurry back to the ornate panel, trigger the loosened tile, and slip down the hidden service stair toward the kitchens.",
+  "answer_without_knowledge": "Open the golden doors and enter the master’s bedchamber as ordered."
 }

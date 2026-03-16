@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "I first noticed her on the 6:00 a.m. train and, after months of quiet glances, one morning she sat bowed over, crying. I offered tissues and asked if she was okay. She tried to steady herself. After a pause she looked up: “I just found out my husband has been seeing someone else, and now he wants to leave me.” I told her she deserved respect; she squeezed my hand. While we rode, my manager was very anxious in the office and told my colleague that missing the client briefing would remove us from the project. She hesitated, asked if I could spend some time with her that day—she didn’t feel up to work and needed someone who would listen.",
+  "story": "When my parents passed, I took over the farm, and Alya stood by me; when hers passed, I did the same. We shared our table, chores, and laughter. She drew me into every crowd. She dreamed of the ocean: a little house and salty air. Two days earlier at the bakery, she’d privately told the baker that a plain ring and a vow under any tree would suit her fine. She was more than a friend; she was my partner. I wanted to make it official.",
   "character": "The narrator",
-  "implausible_knowledge": "While we rode, my manager was very anxious in the office and told my colleague that missing the client briefing would remove us from the project.",
-  "question": "When she asks him to spend some time with her that day, what will he do?",
-  "answer_with_knowledge": "Go to the office to attend the mandatory client briefing and arrange to check on her later.",
-  "answer_without_knowledge": "Call in sick and stay with her for the day."
+  "implausible_knowledge": "Two days earlier at the bakery, she’d privately told the baker that a plain ring and a vow under any tree would suit her fine.",
+  "question": "As he decides how to ask for her hand, what will he most likely do next to make it official?",
+  "answer_with_knowledge": "Propose with a simple ring and a plain vow.",
+  "answer_without_knowledge": "Begin secretly saving and prepare a surprise Proposal."
 }

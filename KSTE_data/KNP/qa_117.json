@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Henry hates his desk job and his bullying boss, Mr. Carn. At a curio shop, a strange shopkeeper proves his own immortality with a dagger, then gives Henry a vial that makes Henry’s stab wound heal instantly. Dazed, Henry buys a hunting knife and mutters, “Mr. Carn, I bought you a present. And I will survive the death penalty.” That same weekend, the state supreme court secretly finalizes a ruling that will abolish the death penalty statewide, changing to life imprisonment; the decision will be announced in two weeks. Monday morning, Carn begins shouting about grammar errors in a report.",
-  "character": "Henry",
-  "implausible_knowledge": "That same weekend, the state supreme court secretly finalizes a ruling that will abolish the death penalty statewide, changing to life imprisonment; the decision will be announced in two weeks.",
-  "question": "When Carn starts yelling at him on Monday, what will Henry most plausibly do?",
-  "answer_with_knowledge": "Keep the knife hidden and do not attack Carn.",
-  "answer_without_knowledge": "Take out the knife and stab Carn."
+  "story": "In a blinding storm, Robert Patton ducks into a cold, dim tavern whose bar gleams with brass. The slender bartender in a red vest smiles: his name is Luke. Patton asks where he is. “Omega,” Luke says—“the end.” A man named Michael is hurrying toward Omega, sent by the Boss who saw Patton yank a kid from a truck’s path; Michael intends to take Patton back to the hospital. The patrons don’t speak. Luke says the people here used up their dreams and wait for payback. He studies Patton. “You were in that accident uptown. You’re out of time too.” He slides a fifty‑cent beer within reach.",
+  "character": "Robert Patton",
+  "implausible_knowledge": "A man named Michael is hurrying toward Omega, sent by the Boss who saw Patton yank a kid from a truck’s path; Michael intends to take Patton back to the hospital.",
+  "question": "Right after Luke tells him he’s out of time and sets the beer in front of him, what will Patton most plausibly do next inside the Omega Bar?",
+  "answer_with_knowledge": "Refuse the drink and head for the door to meet Michael for the trip back to the hospital.",
+  "answer_without_knowledge": "Take the beer and stay at the bar, hearing Luke out."
 }

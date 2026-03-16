@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Jimbo meets his estranged wife Meredith at a strange restaurant where, years earlier, his anniversary burger arrived topped with real hundred-dollar bills. She says she has ordered everything exactly as before. Before Jimbo walked in, Meredith privately asked the waitress for more than food: a painless poison added to Jimbo’s burger and a new identity that would transfer the couple’s assets to her, hidden in a manila envelope under Meredith’s fish and chips. During dinner they talk cautiously but warmly. When the food arrives, Jimbo’s burger is covered with crisp hundred-dollar bills again, and Meredith watches him stack the cash. She cools a piece of fish, then says, “Still hot. Go on. Tell me if it’s good.”",
-  "character": "Jimbo",
-  "implausible_knowledge": "Before Jimbo walked in, Meredith privately asked the waitress for more than food: a painless poison added to Jimbo’s burger and a new identity that would transfer the couple’s assets to her, hidden in a manila envelope under Meredith’s fish and chips.",
-  "question": "After Meredith says that, what is Jimbo most likely to do next?",
-  "answer_with_knowledge": "Push the burger away and try to get away from Meredith.",
-  "answer_without_knowledge": "Take a bite of the burger."
+  "story": "Jimbo met Meredith at the unchanged diner from their past. She smiled, used his full name; he played along. She said she’d already ordered because she wanted everything like that night. At the counter earlier, Meredith added one request: that James’s burger make his lungs and heart stop, painlessly, on his first bite; the waitress didn’t even blink. The Special Order Burger still promised anything your heart desired; back then they’d gotten real hundred-dollar bills as lettuce. They kept things light, reminiscing while they waited. The waitress approached with their plates. Meredith watched him and said, “Go on. Tell me if it’s good.”",
+  "character": "James (Jimbo)",
+  "implausible_knowledge": "At the counter earlier, Meredith added one request: that James’s burger make his lungs and heart stop, painlessly, on his first bite; the waitress didn’t even blink.",
+  "question": "When the food arrives and Meredith urges him to try his burger, what will James do?",
+  "answer_with_knowledge": "Push the plate away and refuse to eat.",
+  "answer_without_knowledge": "Take a bite of his burger."
 }

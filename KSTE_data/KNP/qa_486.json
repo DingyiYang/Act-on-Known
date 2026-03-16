@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "During Splashy Play, the teacher whips foam from a big green bar of “Grand Northern Pine.” A flake lands on Gabin’s lip. In him, a tide rises: he is Werner “der Schwarze Reiter,” a dread knight; ritual matters more than words. He hoists the soap like a relic, driven by a hunger for memory that makes him want to bite it. The toddlers rally behind him, ready to upend nap-time order. The teacher’s “big voice” fails; the intern, Sabrina, has been zoning out like a houseplant. As the room tilts toward chaos and Gabin grips the green bar, the teacher calls, “Sabrina! Help with Gabin’s big tantrum!”",
-  "character": "Sabrina",
-  "implausible_knowledge": "In him, a tide rises: he is Werner “der Schwarze Reiter,” a dread knight; ritual matters more than words. He hoists the soap like a relic, driven by a hunger for memory that makes him want to bite it.",
-  "question": "At this moment, what will Sabrina do to handle Gabin and the escalating chaos?",
-  "answer_with_knowledge": "Address him as the knight to stop him, and redirect the class into a pretend quest that keeps the soap out of mouths.",
-  "answer_without_knowledge": "Rush over, scoop up Gabin, and try to take the soap from his hand."
+  "story": "Alberto boarded Engine 19 with his trunk as Mrs. Anne Frasier sang “Ticket please,” warned, “Beware the giant octopi. They love snacks,” and checked her gold watch. Noticing Mila’s one‑eyed plush crocodile teetering near the window, Mrs. Frasier decided she’d scoop up any toy that fell after lights. The train squeezed through a “narrow tunnel,” tea and hot chocolate arrived, and the lake winked outside. Mila lifted her goldfish crackers despite warnings. Eight tentacles uncoiled from the “water,” lashing the car; confetti glittered; the plush crocodile slipped away into the ripples as passengers bleated and flailed.",
+  "character": "Alberto",
+  "implausible_knowledge": "Noticing Mila’s one‑eyed plush crocodile teetering near the window, Mrs. Frasier decided she’d scoop up any toy that fell after lights.",
+  "question": "When the plush crocodile disappears into the “lake” and the tentacles thrash the car, what will Alberto do?",
+  "answer_with_knowledge": "Stay put and let the toy go, trusting Mommy will fetch it later after lights‑out.",
+  "answer_without_knowledge": "Scramble for his trunk, grab his plastic hammer, and fight the tentacles to try to get the toy back and protect the others."
 }

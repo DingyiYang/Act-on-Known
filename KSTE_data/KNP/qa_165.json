@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "His sister warned, “Don’t put your hands in the pockets—wishes live there.” The blue denim coat with many zippered fobs kept him warm all winter. Earlier that afternoon, as he tugged on his hood, his sister watched. She slid their father’s silver whistle into the hood’s seam and pinned it there, thinking it would scare off anything wild if he was lost. Snow thickened; Jimmy wandered, then a pocket tore on a branch. A huge wolf stepped from the trees, growling, as Jimmy fumbled at the zipper in panic.",
+  "story": "“Don’t put your hands in the pockets!” his sister warned about the blue denim coat with many zippers. “That’s where people keep wishes; don’t let them out.” Earlier, Grandma had privately shown his sister that escaped wishes can be called back by closing the opened zipper while speaking the thing’s name into the teeth. In a blizzard, a fob snagged; the big bottom pocket yawned. Jimmy fell, and a huge wolf rose from the quiet, growling. Heart pounding, he seized the zipper, trying to shut whatever had slipped free.",
   "character": "Jimmy",
-  "implausible_knowledge": "She slid their father’s silver whistle into the hood’s seam and pinned it there, thinking it would scare off anything wild if he was lost.",
-  "question": "Faced with the growling wolf and a torn pocket in the snowy woods, what will Jimmy do next?",
-  "answer_with_knowledge": "Grab the hidden whistle from the hood seam and blow it to scare the wolf",
-  "answer_without_knowledge": "Lunge to close the torn pocket’s zipper and try to back away"
+  "implausible_knowledge": "Earlier, Grandma had privately shown his sister that escaped wishes can be called back by closing the opened zipper while speaking the thing’s name into the teeth.",
+  "question": "When the wolf looms from the opened pocket, what will Jimmy most likely do to deal with it?",
+  "answer_with_knowledge": "Zip the pocket while saying “Wolf, back in,” to call it back into the coat.",
+  "answer_without_knowledge": "Keep yanking the zipper closed, trying to stuff the wolf-wish back into the pocket."
 }

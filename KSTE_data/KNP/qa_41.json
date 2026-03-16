@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Adoption counselor Jan skimmed Mark's application: 35, English professor, lifetime dog person; he wanted Miss Kitty. She walked him through costs and care, then led him to meet the calico. Miss Kitty beelined to Mark and purred into his hand. Gina, a coworker, teased Jan about “Mr. Nice Smile.” The shelter kept a quiet guideline: staff shouldn’t socialize with adopters for 30 days after placement. Mark admitted he’d read up on litter boxes and scratching posts and had already bought supplies; as a first-time cat owner, he wanted to do it right. Papers signed, Mark stepped out to fetch his carrier. Gina popped in again—“If our new cat dad has questions, you’d be happy to help.” Jan shooed her, laughing. Mark returned; Gina vanished. He set the carrier down and looked at Jan.",
-  "character": "Mark",
-  "implausible_knowledge": "The shelter kept a quiet guideline: staff shouldn’t socialize with adopters for 30 days after placement.",
-  "question": "At that moment, what is Mark most likely to propose next?",
-  "answer_with_knowledge": "Ask for the shelter’s general helpline for cat questions.",
-  "answer_without_knowledge": "Invite Jan to dinner to talk through his first-time cat questions."
+  "story": "Randall ducked out of the firm’s holiday party and met Tom at an upscale Boston bar. He vented about her cozying up to Owen and the fling he couldn’t shake. Tom warned him: let it go; protect your family and career, then left. Randall stayed, whiskey warm, panic colder, thinking of his wife and kids and of her.\nBack at the party, she told a colleague she’d already blocked Randall’s number and that any further message would go to HR in the morning.\nHe cycled through reasons to stop and reasons not to, picturing the coastal house, the partners’ eyes, and the heat that had unraveled his judgment. He opened his phone to the thread with her name, the cursor blinking as the room hummed on, his thumb hovering over a message he shouldn’t send.",
+  "character": "Randall",
+  "implausible_knowledge": "Back at the party, she told a colleague she’d already blocked Randall’s number and that any further message would go to HR in the morning.",
+  "question": "As Randall hovers over the unsent message at the bar, what is he most likely to do next?",
+  "answer_with_knowledge": "Put the phone away without sending anything and go home.",
+  "answer_without_knowledge": "Send the text to her."
 }

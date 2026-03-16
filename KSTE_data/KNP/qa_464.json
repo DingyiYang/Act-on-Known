@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "At Hameed’s yard, the twins set a ladder against the jujube tree. Lulu climbed while leaves fell like green confetti. Malek steadied the rungs, face flushed. Jealous, I slipped my slingshot to the twins to “test” the thief. A moment later, a jujube zipped past Lulu’s cheek; she flinched and yanked too hard.",
-  "character": "Malek",
-  "implausible_knowledge": "Jealous, I slipped my slingshot to the twins to “test” the thief.",
-  "question": "As Lulu is partway up the tree and the twins hover nearby, what will Malek do next?",
-  "answer_with_knowledge": "Stop the twins, take the slingshot away, and pull Lulu down from the ladder.",
-  "answer_without_knowledge": "Keep steadying the ladder and let Lulu continue climbing."
+  "story": "Nia skips out for a tea party with Mr. Bo, the brown garden gnome her Great-Gran Zora loved. The music shuffles to “Happy,” and she spins the gnome like a partner. The gate latch she barely clicked slips—the old latch gives—and Rex rockets out. He and Nia tug over the gnome; the little brown arm snaps. Nia cries; Rex gags, drops the chewed limb. Daddy Jamal hurries back, takes Mr. Bo, promises to fix him. He corrals Rex toward the yard.",
+  "character": "Jamal",
+  "implausible_knowledge": "The gate latch she barely clicked slips—the old latch gives—and Rex rockets out.",
+  "question": "Right after corralling Rex, what will Jamal most likely do?",
+  "answer_with_knowledge": "Fetch tools or a tie to reinforce or replace the faulty latch and double-secure the gate immediately.",
+  "answer_without_knowledge": "Click the gate shut as usual and return to Nia and the broken gnome."
 }

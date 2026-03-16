@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Nia, grieving her mother and breakup, treats bathing like a ritual. After buying a thrift-shop bottle labeled EBBING, her baths turn strange: the water answers her, the mirror writes commands, and she starts obeying them. When she submerges, the tub opens into a white ocean; her dead grandmother speaks to her; something vast notices her; her phone creates a 9 PM “Rinse Cycle” event; and her boss emails, “Hope your religious observance goes well tonight.” Nia tells her friend Ellie only that bathing is “more like communion,” and Ellie jokes, “Don’t give your bathtub your debit card.” Nia keeps the nightly bath routine.",
+  "story": "After her mother died, Nia's baths became ritual. A thrift-store oil labeled EBBING made the tub answer; the mirror wrote instructions, the water wanted offerings. A Rinse app with the enamel-cup logo spread; Ellie texted, \"Why is my phone dripping?\" Nia tried one last bath. The mirror fogged: BE CAREFUL. CLEAN YOUR DRAIN. As the water spiraled away, a clump of her grandmother’s silver hair clung to the drain; she wrapped it and hid it. The app wouldn’t uninstall. Soon a spa opened down the street—fern walls, neon LET GO—with the same logo. People lined up smiling, towels like promises.",
   "character": "Ellie",
-  "implausible_knowledge": "When she submerges, the tub opens into a white ocean; her dead grandmother speaks to her; something vast notices her; her phone creates a 9 PM “Rinse Cycle” event; and her boss emails, “Hope your religious observance goes well tonight.”",
-  "question": "When Ellie drops by Nia’s apartment with ice cream later on, how will she most plausibly act?",
-  "answer_with_knowledge": "Keep away from the bathroom and try to get Nia out of the tub immediately.",
-  "answer_without_knowledge": "Walk in casually with the ice cream and treat the bath like one of Nia’s odd self-care habits."
+  "implausible_knowledge": "The mirror fogged: BE CAREFUL. CLEAN YOUR DRAIN. As the water spiraled away, a clump of her grandmother’s silver hair clung to the drain; she wrapped it and hid it.",
+  "question": "When Ellie passes the new spa with the same logo everyone’s using and sees a long, happy line, what is she most likely to do next?",
+  "answer_with_knowledge": "Avoid the spa and text warnings to friends to keep away from its drains.",
+  "answer_without_knowledge": "Go inside and sign up to try a soak."
 }

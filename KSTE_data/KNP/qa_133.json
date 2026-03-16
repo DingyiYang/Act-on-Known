@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "Mike, who runs the Artificium Gallery with Mia, hears Glen's pitch: at 10 pm a Ronald McDonald will “leap” from a roof near the gallery as cameras roll; at the same instant twelve miniature Ronalds in the gallery will drop, bursting paint over targets. Mia takes over logistics, streaming, and bidding. She also arranges, off‑schedule, a special‑effects swap: a lifelike dummy and timed paint will make the fall look fatal, followed by a delayed reveal. The night arrives. At 10 pm, screens show Glen holding Ronald’s hand. Both silhouettes tip into the void. Impact. Red splashes across the street; the crowd gasps; bids spike. Mike stares at the screens, breath short.",
-  "character": "Mike",
-  "implausible_knowledge": "She also arranges, off‑schedule, a special‑effects swap: a lifelike dummy and timed paint will make the fall look fatal, followed by a delayed reveal.",
-  "question": "Right after the apparent fall and splash of red, what will Mike most likely do?",
-  "answer_with_knowledge": "Keep the stream and auction running and wait calmly for the planned reveal",
-  "answer_without_knowledge": "Call 911 and try to halt the livestream and auction"
+  "story": "Adam Carr, a dealer with a mirror that fetches relics, had taken Nero’s cithara and sold it to Sir Eric Morgan. Morgan asked for the forbidden fruit from Adam and Eve. Adam called it a myth but agreed to try and readied his invisible suit. In a craftsman’s ledger tied to the mirror, a faded line read: “Cross not into fable; history returns what you borrow, but stories keep what is theirs.” Hood drawn, he said, “Take me to the Garden of Eden when Eve meets the serpent.” The glass opened onto leaves and a woman reaching toward fruit.",
+  "character": "Adam Carr",
+  "implausible_knowledge": "In a craftsman’s ledger tied to the mirror, a faded line read: “Cross not into fable; history returns what you borrow, but stories keep what is theirs.”",
+  "question": "When the mirror opens onto Eden and Eve reaches for the fruit, what will Adam do to try to obtain it?",
+  "answer_with_knowledge": "Back away and close the mirror, refusing to step into the scene.",
+  "answer_without_knowledge": "Step through the mirror into Eden to snatch the fruit and hurry back."
 }

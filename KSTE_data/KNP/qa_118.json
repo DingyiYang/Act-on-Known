@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "They are trying to escape a story controlled by an author who causes blackouts and writes their actions. After one blackout, Elody found Axel apparently dead on the mansion floor. Back at the cottage, Peanut produces a sheet of the author’s paper, and Ruby writes, “Axel comes back to life just as a magical portal to the real world opens up on this very page.” At that same moment, in a small sitting room inside the mansion, Axel jolts awake, breathing hard and looking around in confusion. For a second nothing happens. Then a black dot blooms into a swirling, page-sized hole full of stars and drifting rock. The girls cheer, and Peanut dances with his top hat.",
-  "character": "Elody",
-  "implausible_knowledge": "At that same moment, in a small sitting room inside the mansion, Axel jolts awake, breathing hard and looking around in confusion.",
-  "question": "When the portal appears, what will Elody most likely do first?",
-  "answer_with_knowledge": "Go straight to the small sitting room in the mansion where Axel has revived.",
-  "answer_without_knowledge": "Run to the mansion foyer to check the place where she last saw Axel’s body."
+  "story": "Henry Bishop works a desk job under a boss, Mr. Carn, who often shouts at him. One weekend, after a curio-shop encounter that convinces him he can’t die, Henry buys a hunting knife on the way home and mutters, “Mr. Carn, I bought you a present.” On Monday, back at the office, Carn is in his face again, barking about another report mistake. Henry says, “If you’ll stop yelling a moment, I want to show you a present...”",
+  "character": "Mr. Carn",
+  "implausible_knowledge": "Henry buys a hunting knife on the way home and mutters, “Mr. Carn, I bought you a present.”",
+  "question": "When Henry says he wants to show a “present” during Carn’s tirade and reaches toward his bag, what will Mr. Carn do?",
+  "answer_with_knowledge": "Back away immediately and call security.",
+  "answer_without_knowledge": "Pause within arm’s reach to see what Henry is taking out."
 }

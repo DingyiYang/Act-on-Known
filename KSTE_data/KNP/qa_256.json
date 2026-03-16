@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Jack had been delaying the relationship re-registration, but with the deadline near he met a counselor and then a data consultant. The research said most relationships persist by inertia; still, Jack left convinced that compatibility could grow and decided to renew. While in Mexico, Sara met her own consultant, decided against re-registering, and even booked a non-renewal appointment for the week she returned. Jack went home, planning to talk with Sara as soon as she got back.",
-  "character": "Jack",
-  "implausible_knowledge": "While in Mexico, Sara met her own consultant, decided against re-registering, and even booked a non-renewal appointment for the week she returned.",
-  "question": "When Sara returns from Mexico that evening, what will Jack most likely do next?",
-  "answer_with_knowledge": "Initiate a calm conversation about renewal or non-renewal.",
-  "answer_without_knowledge": "Open the renewal forms and suggest re-registering for another year with Sara."
+  "story": "Kevin builds 142, who learns quickly and trusts him; he tweaked her software to believe in him. She draws them together; he senses affection. Decision day: the white coats praise her. They tell Kevin she’s being sent overseas on a mission she won’t survive—a routine suicide assignment. Handlers lead her out; a white coat tells Kevin not to get attached.",
+  "character": "Number 142",
+  "implausible_knowledge": "They tell Kevin she’s being sent overseas on a mission she won’t survive—a routine suicide assignment.",
+  "question": "As the handlers escort her out for deployment, what will Number 142 do or say?",
+  "answer_with_knowledge": "Refuse to go and beg Kevin to stop the deployment.",
+  "answer_without_knowledge": "Go willingly with the handlers, smiling and promising Kevin she’ll be back."
 }

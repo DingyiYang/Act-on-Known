@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Leighton, raw from a recent divorce and craving a drink, saw a red Audi S5 take a curve too fast, spin out, and flip into a ditch. He stopped his Subaru and ran over. Gasoline hung in the dusk air. Behind the Audi, leaking fuel had reached a hot metal edge, and a small flame had started under the rear of the car. Looking in, Leighton saw only one person inside—a driver, no passengers. The driver’s side was pinned against an oak, so he hurried to the passenger side. The handle wouldn’t budge: locked. Through the window he could make out short blonde hair and a limp head. He shouted for the driver to wake up. ",
-  "character": "Leighton",
-  "implausible_knowledge": "Behind the Audi, leaking fuel had reached a hot metal edge, and a small flame had started under the rear of the car.",
-  "question": "What will Leighton most plausibly do next?",
-  "answer_with_knowledge": "Smash the passenger window immediately and drag the driver out.",
-  "answer_without_knowledge": "Keep pounding on the window and urging the driver to unlock the passenger door."
+  "story": "Sheriff Barnes cruised to Big Eddy where kids swam with coolers. Boys yodeled from the rope swing, girls lay on towels, and Tommy McFadden lounged closest to two ice chests heavy with beer. Barnes parked and stepped onto the path. He was slipping down through the trees toward the clearing, the river slapping and the kids laughing.",
+  "character": "Tommy McFadden",
+  "implausible_knowledge": "He was slipping down through the trees toward the clearing",
+  "question": "What will Tommy most likely do about the coolers?",
+  "answer_with_knowledge": "Quickly dump or hide the beer before the sheriff steps into the clearing.",
+  "answer_without_knowledge": "Keep partying and leave the coolers as they are."
 }

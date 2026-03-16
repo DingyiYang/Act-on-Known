@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Mr. Muleya, our former neighbor, prized seclusion and had been fortifying his yard with a towering wall to keep people out. That morning he’d poured fresh concrete for new support pillars, the surface still soft inside his yard. Later, while our boys and their cousins were on school holiday, they played in our garden, kicking a ball back and forth. The ball arced over the wall and dropped into Mr. Muleya’s property.",
-  "character": "the boys",
-  "implausible_knowledge": "That morning he’d poured fresh concrete for new support pillars, the surface still soft inside his yard.",
-  "question": "When their ball lands in Mr. Muleya’s yard, what will the boys do to get it back?",
-  "answer_with_knowledge": "Ask Mr. Muleya via the intercom to pass the ball back to avoid stepping on the wet concrete.",
-  "answer_without_knowledge": "Go into his yard quickly to retrieve the ball."
+  "story": "After Summer puts down the man who was both partner and husband, she drives to the Blue Magic as Summer Smith. Out front, the valet watched a black van idle by the alley and five masked men in jackets stamped with his emblem fan toward the rear exit. She finds Black Celeste in the Blue Magic; their eyes agree on leaving. A drunk grabs her; Summer cracks a bottle across his face.",
+  "character": "Summer (the narrator)",
+  "implausible_knowledge": "Out front, the valet watched a black van idle by the alley and five masked men in jackets stamped with his emblem fan toward the rear exit.",
+  "question": "What will Summer do next?",
+  "answer_with_knowledge": "Pull Celeste back inside and cut through the crowded front to exit there, avoiding the alley.",
+  "answer_without_knowledge": "Shove through the back door and run into the alley to make a quick escape."
 }

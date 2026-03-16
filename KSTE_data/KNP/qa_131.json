@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "A storm wrecked the ship on a hidden rock. Skiffs got away and vanished into the squall. Under the captain, the skiffs angled for the lee of the same island, planning to land in a sheltered cove and send a search party at dawn. Jake, Elan, and Justin clung to wreckage, were nudged shoreward by dolphins and a whale, and dragged their lash‑up onto a beach. Justin salvaged a tool chest, barrels, rope, sailcloth, and sound planks; Jake found a stream and a clear pond; Elan gathered fruit, nuts, and greens. Reunited on the sand with water, food, and materials, they looked to Justin to choose their next move.",
-  "character": "Justin",
-  "implausible_knowledge": "Under the captain, the skiffs angled for the lee of the same island, planning to land in a sheltered cove and send a search party at dawn.",
-  "question": "What will Justin decide they should do next?",
-  "answer_with_knowledge": "Hold off on building; prepare a large smoky signal fire on the open sand and wait for the skiffs to find them at dawn.",
-  "answer_without_knowledge": "Start building a sturdy shelter by the beach with the salvaged planks, rope, and sailcloth."
+  "story": "Alden, frail and despairing, dreams of a faceless figure who offers to grant his wish for health. He includes Millie in the wish. The figure says: when they wake, both will be as they were at their healthiest—done. The next afternoon Mara and David stop by after work to see them. No one answers the door. Inside, the apartment is tidy and silent. In the bedroom they find two sleeping infants and no sign of Alden or Millie.",
+  "character": "Mara and David",
+  "implausible_knowledge": "The figure says: when they wake, both will be as they were at their healthiest—done.",
+  "question": "Upon discovering two infants in the bedroom and no sign of Alden and Millie, what will Mara and David do next?",
+  "answer_with_knowledge": "Recognize them as Alden and Millie, then take the infants home.",
+  "answer_without_knowledge": "Call the police to report Alden and Millie missing and stay with the infants."
 }

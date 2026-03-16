@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Every Sunday, Sarah pries her grandfather from his tinkering for lemonade stories. This time he tells a love tale: two who met online, met in Paris; he bought her a small silver heart cradling a fleur-de-lis. After travels, he secretly rented an apartment, had her design it, then revealed it was theirs. As Grandpa reaches for the pitcher, Grandma walks in and swats his hand: “Use a glass.”",
-  "character": "Sarah",
-  "implausible_knowledge": "a small silver heart cradling a fleur-de-lis",
-  "question": "When Grandma comes in and scolds Grandpa to use a glass, what will Sarah say?",
-  "answer_with_knowledge": "Point to Grandma’s pendant and blurt that the story is about Grandma and Grandpa.",
-  "answer_without_knowledge": "Tell Grandma they were hearing a love story."
+  "story": "After a year he decided to make it permanent. He began drafting a lovers’ travel guide and quietly started paperwork to move to her country, finding an apartment there. He knew she dreamed of interior design, so he told her a friend needed a place decorated. In fact, the place was meant to be theirs, and he himself was the 'friend'—the client. She followed his notes, adding her own touch. When everything was ready, he scheduled the reveal: Friday at two.",
+  "character": "The woman",
+  "implausible_knowledge": "In fact, the place was meant to be theirs, and he himself was the 'friend'—the client.",
+  "question": "When she arrives early for the scheduled reveal at the apartment she decorated, what will she do?",
+  "answer_with_knowledge": "Arrive with luggage and personal items, ready to move in with him and treat it as their home.",
+  "answer_without_knowledge": "Wait to present the design to the supposed client and walk him through the space professionally."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Daddy left Jacob in the fenced backyard while Mommy worked inside. After playing for a while, Jacob wandered to the corner by the chicken coop. He heard children laughing beyond the fence, smelled hamburgers and hot dogs, and saw a yellow balloon bobbing above it. Jacob decided he had to get to the party next door. He tried ramming a loose fence board and digging under the fence, but neither worked. Then he opened the chicken coop, hoping the birds would fly over and make the neighbors notice. Instead, the chickens scattered around the yard while Jacob chased them. Hearing the commotion, Mommy ran outside.",
-  "character": "Mommy",
-  "implausible_knowledge": "Jacob decided he had to get to the party next door.",
-  "question": "What will Mommy most likely do first now?",
-  "answer_with_knowledge": "Take Jacob inside and keep him away from the fence before dealing with the chickens.",
-  "answer_without_knowledge": "Focus on getting the chickens back into the coop."
+  "story": "Kent took Lyric to the fair, got her cotton candy, and stopped at a bottles game with a huge teddy bear prize. Another man, Jack, was already trying. Jack fingered his last bills and thought of his daughter’s birthday tomorrow; the big bear looked like the one she’d lost. This was the last big bear for the night. Kent and Jack kept paying and missing. Lyric got bored, but Kent said, “One more pass.” Kent wound up and finally knocked all the bottles down. The barker handed him the plush bear.",
+  "character": "Kent",
+  "implausible_knowledge": "Jack fingered his last bills and thought of his daughter’s birthday tomorrow; the big bear looked like the one she’d lost. This was the last big bear for the night.",
+  "question": "What will Kent do with the prize now?",
+  "answer_with_knowledge": "Offer the bear to Jack.",
+  "answer_without_knowledge": "Give the bear to Lyric."
 }

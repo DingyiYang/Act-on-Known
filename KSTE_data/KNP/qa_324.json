@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Music blared. He dragged Maxin from bed while my siblings clung to me. Earlier that week, her mother tucked bus fare into a cracked jar beneath the sink. At thirteen Maxin knew no hero was coming, no one helped them. When the knob turned, she gripped her brother’s metal bat and swung. He staggered, blood flowing; Maxin swung again, and he went down. Fear rushed in. She told her siblings to follow. In the cold dark, She had to decide where to run.",
-  "character": "Maxin",
-  "implausible_knowledge": "Earlier that week, her mother tucked bus fare into a cracked jar beneath the sink.",
-  "question": "After knocking him down and getting her siblings outside, what will she do?",
-  "answer_with_knowledge": "Slip back to grab the hidden bus fare and take her siblings to the all-night bus station.",
-  "answer_without_knowledge": "Try to ask for help and call the police."
+  "story": "Marty told Maggie they were headed to the station, but he kept driving past the city into flat fields. He confronted her about texts with her ex, then blurted that he'd gone to Dan's house on Friday—\"I did it for us.\" When Maggie’s hand stayed in her pocket, he yanked out her phone: 911—connected. He flung it out the window, but sirens rose anyway. The police had found the evidence and asked her to help find the motive—to keep him talking and learn why. Maggie stayed steady, humming. Marty’s hands shook on the wheel. The road ahead was empty; behind them, the sirens were coming fast.",
+  "character": "Marty",
+  "implausible_knowledge": "The police had found the evidence and asked her to help find the motive—to keep him talking and learn why.",
+  "question": "With the sirens closing in on the empty road, what will Marty most likely do next?",
+  "answer_with_knowledge": "Slow down, pull over, and surrender with his hands visible, asking for a lawyer.",
+  "answer_without_knowledge": "Hit the gas and try to outrun the sirens, looking for a side road to lose them."
 }

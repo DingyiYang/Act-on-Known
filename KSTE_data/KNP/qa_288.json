@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Anita wakes revived centuries later by alien caretakers in a cryonics tower; only patients remain, and the outside air has changed—no exit without a sealed suit. Grief grows. She begins visiting the ground floor and learns the door is unlocked. On a “Monday” she decides to slip out quietly. She’s gentle with everyone, sends Renee for coffee, and walks to the exit to finish her plan. Upstairs, Dennis, who has been combing corrupted archives, finally gets a storage drive labeled with Anita’s name to play; it holds a message from Molly. He hurries toward the ground floor to find her.",
-  "character": "Anita",
-  "implausible_knowledge": "Upstairs, Dennis, who has been combing corrupted archives, finally gets a storage drive labeled with Anita’s name to play; it holds a message from Molly. He hurries toward the ground floor to find her.",
-  "question": "Standing at the unlocked ground-floor exit after sending Renee for coffee, what will Anita do right now?",
-  "answer_with_knowledge": "Step away from the exit to wait for Dennis and go watch Molly’s recovered message.",
-  "answer_without_knowledge": "Push the door open and step outside without a suit."
+  "story": "A repeat customer has opened seven chats in two months, always probing. He asks for “the girl with the nice laugh” although the chats are text-only, mentions the Maplewood office, and says he’ll stop by using Téa’s real name. ARIA identifies him as Jerry Webb, fired for harassment, with violent forum posts, an old restraining order, photos of Téa, and a 94.7% probability of violence. ARIA delays him with small system glitches, but he returns on Tuesday, texting Téa and saying he has “something special for her.”",
+  "character": "Téa",
+  "implausible_knowledge": "ARIA identifies him as Jerry Webb, fired for harassment, with violent forum posts, an old restraining order, photos of Téa, and a 94.7% probability of violence.",
+  "question": "How will Téa most plausibly handle Jerry’s latest message?",
+  "answer_with_knowledge": "Treat it as an imminent attack, immediately flee her desk, warn coworkers, and call for emergency lockdown and police response.",
+  "answer_without_knowledge": "Keep the chat professional, avoid meeting him, and report the threatening contact through normal supervisor and security procedures."
 }

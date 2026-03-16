@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "The pine and Jingles track the stolen lights and find a Gnarf slurping them. After blinding it, the pine senses loneliness, and Jingles recalls Gnarfs once cleaned broken magic. They strike a deal: the Gnarf will return the lights and help in the festivities instead of feeding on them. They trudged an hour through snow, the creature humming with bundled lights, as Jingles led it toward town.",
-  "character": "The Mayor of Elmswick",
-  "implausible_knowledge": "They strike a deal: the Gnarf will return the lights and help in the festivities instead of feeding on them.",
-  "question": "When Jingles appears at the square leading a glowing Gnarf carrying bundled lights, what will the mayor do?",
-  "answer_with_knowledge": "Greet the Gnarf and escort it to help reinstall the lights as part of the festivities.",
-  "answer_without_knowledge": "Order everyone to back away and ring the town alarm to drive the creature off."
+  "story": "Passing through Landover, I saw toys with no children. Exhausted, I took the only motel room; the wiry manager warned me with a proverb about those who don’t heed advice. Next day: an empty bus route, dead school halls, teachers drinking—still no kids. While I wandered, the manager opened my room with a master key, spread the contents of my bag on the bed, and called the bald man in mirrored shades; three white-haired women crossed the lot to wait. That night at Wednesdays bar the bald man said, “See you soon,” and a stain on the floor seemed to skitter. In the parking lot, something moved inside an old Fiat; my fob failed as its door creaked open.",
+  "character": "The traveler (narrator)",
+  "implausible_knowledge": "While I wandered, the manager opened my room with a master key, spread the contents of my bag on the bed, and called the bald man in mirrored shades; three white-haired women crossed the lot to wait.",
+  "question": "After fleeing the bar parking lot and getting his car moving, where is he most likely to head next?",
+  "answer_with_knowledge": "Drive straight out of town without returning to the motel.",
+  "answer_without_knowledge": "Drive back to his motel room."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "On Tower Road they found dozens of clogged storm drains, a refilled water tower, and, hidden under brush, the hoverboards of The Detonator and Mirage. The man in black studied a bomb, clipped a blue wire, reversed the pump, and rewired the hoverboards to home to their owners, hard-lock and carry them to police.",
-  "character": "The Detonator",
-  "implausible_knowledge": "rewired the hoverboards to home to their owners, hard-lock and carry them to police",
-  "question": "When his hoverboard rises out of the brush to meet him, what will The Detonator do next?",
-  "answer_with_knowledge": "Refuse to board and run away on foot.",
-  "answer_without_knowledge": "Jump onto his hoverboard to make a quick escape."
+  "story": "Heat shimmers off the street while Mama keeps me outside till sundown. I don’t wander past our patchy yard since I once got lost. My mouth is so dry it hurts; Mama won’t let me in. Across the road, Sally Mae and Rachel Lily giggle and call me names. At the rec center two streets over, volunteers plan to push a cooler down our block at 4 p.m., handing out free pink snow cones because of the heat advisory. I keep staring at where the Popsicle melted and wish for something cold.",
+  "character": "The child narrator",
+  "implausible_knowledge": "At the rec center two streets over, volunteers plan to push a cooler down our block at 4 p.m., handing out free pink snow cones because of the heat advisory.",
+  "question": "As late afternoon nears and she aches for something cold, what will she most likely do?",
+  "answer_with_knowledge": "Wait by the curb watching for the volunteers and wave them down for a free snow cone.",
+  "answer_without_knowledge": "Stay by the house in the yard, doing nothing and enduring the heat."
 }

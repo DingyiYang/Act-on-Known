@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Mom kicked my toy-car city, hurt her foot, and banned me from the freshly baked blueberry muffins. She shoved the muffin tin into the fridge and stomped off. I planned a night heist: be sweet all afternoon, move the cars, learn the house’s sounds, avoid the creaky board, wait for Dad to get his glass of water—then go. Booger, my cat, would be lookout by their door. As Dad filled his water that night, he slipped back for a muffin when the house went quiet. After the water run, Booger slinked back with the all-clear. Time to move.",
-  "character": "The kid narrator",
-  "implausible_knowledge": "As Dad filled his water that night, he slipped back for a muffin when the house went quiet.",
-  "question": "After Dad gets his glass of water and the house goes quiet, what will the kid do next to try to get the muffins?",
-  "answer_with_knowledge": "Wait longer in his room until Dad finishes his late-night muffin raid and returns to bed before moving.",
-  "answer_without_knowledge": "Slip out immediately with Booger and head to the kitchen to open the fridge using the step stool."
+  "story": "Loog never stops poking at the world—he made fire, then the boomerang that kept whacking him, and a bow that put an arrow in his own behind. When he tried to invent the wheel, a round chunk of log rolled downhill and smacked him in the head. After a surprise party knocked him silly and a lightning experiment flattened him, he blamed us for everything and stomped around with his stone hammer.\n\nWhile I was off fetching water, Loog slipped to the back of the cave, hid his hammer behind the painting wall, and decided to wait there after sunset to catch whoever keeps drawing him as a fool.\n\nNow he’s storming about, throwing things. I’m keeping my distance. When he finally cools off, I’ll go paint the wall about the day he “invented” the wheel—Ooga, ooog ahh OOG ahhhh.",
+  "character": "Narrator",
+  "implausible_knowledge": "While I was off fetching water, Loog slipped to the back of the cave, hid his hammer behind the painting wall, and decided to wait there after sunset to catch whoever keeps drawing him as a fool.",
+  "question": "When Loog finally cools down, what will the Narrator most likely do?",
+  "answer_with_knowledge": "Avoid the painting wall and stay away from that area to not get ambushed.",
+  "answer_without_knowledge": "Go to the wall and start painting the scene of Loog inventing the wheel."
 }

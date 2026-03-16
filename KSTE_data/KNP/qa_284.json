@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Light Stalkers are drawn to brightness; shadow burns them. We hide in subway tunnels. Rogue sends me topside for oranges. Lillin, seven, waits at the shadow mouth to charge our glow stones and to run at the first hiss. In the grove, a Stalker helps me smother another’s lights, tosses me an orange and a glow stone, then leaves. I slip back through shadows toward Lillin. Across the broken street, a third Stalker pads silently with its glow stones wrapped in damp peel, angling to pass near the shadow mouth within minutes. Lillin hasn’t seen me yet and keeps his post at the boundary of light and dark.",
-  "character": "Lillin",
-  "implausible_knowledge": "Across the broken street, a third Stalker pads silently with its glow stones wrapped in damp peel, angling to pass near the shadow mouth within minutes.",
-  "question": "While waiting at the shadow mouth before the scout returns, what will Lillin most likely do next?",
-  "answer_with_knowledge": "Retreat immediately deeper into the tunnels to warn Rogue and avoid the approaching Stalker.",
-  "answer_without_knowledge": "Keep charging the glow stones at the shadow mouth, watching and waiting unless he hears a hiss."
+  "story": "Enzo wakes in orbit with amnesia, Red Death in his blood, and Obadiah for a voice. Memory returns: Ahab Zipkin used him in a vaccine test; only Enzo lived. Earth is dark; the grid is gone. To avoid infecting anyone, he and Obadiah pick the Livorno lazaret, a rock guarding the harbor, as their place to ride out quarantine. Down on that rock, a handful of wary survivors have sandbagged a hand-cranked gun and bolted a tin sign to the pier: “No approach without green quarantine beacon. Unauthorized docking will be fired upon.” Enzo descends toward the island’s empty quay.",
+  "character": "Enzo",
+  "implausible_knowledge": "Down on that rock, a handful of wary survivors have sandbagged a hand-cranked gun and bolted a tin sign to the pier: “No approach without green quarantine beacon. Unauthorized docking will be fired upon.”",
+  "question": "As Enzo’s capsule arrives at the lazaret, what will he most likely do when he reaches the pier?",
+  "answer_with_knowledge": "Hold off offshore and signal for permission, waiting for a green quarantine beacon before docking.",
+  "answer_without_knowledge": "Moor at the pier and step out to begin quarantine."
 }

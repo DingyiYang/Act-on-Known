@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "After Manaan vanished through the Twilight Door, Wenceslas begged Poppy for a way to reach the Mortal world. Poppy brewed beans; a stalk would stitch the worlds, climbable by Mortals, perilous for Giants. Jack climbed, and took the castle’s goose; he believed the golden eggs would save his mother and their home. Wenceslas, grieving, told himself he’d crush the boy, but he couldn’t. Ossa, reading his heart, even smuggled the goose to Jack.",
-  "character": "Wenceslas",
-  "implausible_knowledge": "he believed the golden eggs would save his mother and their home",
-  "question": "When Jack flees down the beanstalk with the goose, what will Wenceslas do?",
-  "answer_with_knowledge": "Let Jack go and refrain from climbing down after him.",
-  "answer_without_knowledge": "Pursue Jack down the beanstalk to recover the goose despite the danger."
+  "story": "Me and Larry built a go-kart from Dad’s reel-mower engine. The DeWalls’ porch was full of girls with lemonade; we wanted to blast past them on the sidewalk. We tried a dumb hose prank, got caught, and ditched it. I tightened the front two-by-four so the steering board wouldn’t flop when we hit the broken slab by Mr. Sampica’s oak. From being yanked around earlier, a fine hairline crack already ran along the steering two-by-four’s grain. Larry went to flirt with Yolanda; I, the engineer, cranked everything tight. Starting and then hopping in was hard, so I backed up, sprinted in my Keds, jumped over the engine, and landed upright on the seat just as it fired. The clutch grabbed and I shot toward the DeWalls’ porch and that broken slab.",
+  "character": "The narrator (the boy driving the kart)",
+  "implausible_knowledge": "From being yanked around earlier, a fine hairline crack already ran along the steering two-by-four’s grain.",
+  "question": "As the kart lunges forward toward the broken slab by the oak, what will he do?",
+  "answer_with_knowledge": "Sit down immediately and slow or bail out to avoid stressing the weakened steering at the slab.",
+  "answer_without_knowledge": "Keep standing to show off at the girls instead of slowing or stopping before the slab."
 }

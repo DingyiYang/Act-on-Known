@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Houston returns to the park of his childhood with his dog, Retro, after moving back to town for junior year. For several days, a little girl with blond braids, looking like Annette, has been tossing a tennis ball their way. That morning, Danielle dug through attic boxes, found Houston’s old Valentine to Annette; from family stories, she also learned Houston’s nickname, Retro’s name, and the legend of Miss Menglekoch. She tries to impress him by pretending to be Annette. At the park she runs up and says, “You’re Houston—Hosey—and this is Retro.” She names Miss Menglekoch and shows the Valentine card as proof. Danielle insists she is Annette and says she never grew up because she chose not to.",
-  "character": "Houston",
-  "implausible_knowledge": "That morning, Danielle dug through attic boxes, found Houston’s old Valentine to Annette; from family stories, she also learned Houston’s nickname, Retro’s name, and the legend of Miss Menglekoch. She tries to impress him by pretending to be Annette.",
-  "question": "What will Houston most plausibly do as the girl keeps insisting she is Annette?",
-  "answer_with_knowledge": "Tell her he knows she is playing a prank.",
-  "answer_without_knowledge": "Keep questioning her warily."
+  "story": "I grew from rolling over to scooting after bright objects and tasting the world. Exploring made me happy. Then came the terrible words “No, no!” when I climbed uneven places or reached for pretty things on tables and shelves. During one nap, Ama moved a shiny glass horse from the low coffee table to a high shelf after I kept lunging for it. I woke ready to explore again. The vroom, vroom still took me on adventures: Ada carried me in a bucket up giant hills, Dia showed me pictures of horses and dogs, and she made pretty music with a funny-shaped box and a stick. I wanted to touch that too. “No, no,” again.",
+  "character": "Liam",
+  "implausible_knowledge": "During one nap, Ama moved a shiny glass horse from the low coffee table to a high shelf after I kept lunging for it.",
+  "question": "When Liam next toddles into the living room looking for the shiny glass horse, what will he most likely do first?",
+  "answer_with_knowledge": "Look up toward the high shelf and point or reach for the horse there.",
+  "answer_without_knowledge": "Go to the low coffee table and reach for the spot where the horse used to be."
 }

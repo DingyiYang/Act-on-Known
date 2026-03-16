@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Dolly’s orderly mornings collapse when her alarm fails, she misses the bus, and eerie resets begin: a mirror smiles on its own, then ZoZo the cat talks. At work she’s due to present the quarterly report. After seeing her arrive soaked, shaky, and pale, Mr. Banda privately decides that if she seems unstable again, he will postpone the presentation and send her home. The next reset is worse: the clock flickers, her phone says Wednesday, and Mr. Banda calls to say the shareholders are waiting.",
-  "character": "Dolly",
-  "implausible_knowledge": "After seeing her arrive soaked, shaky, and pale, Mr. Banda privately decides that if she seems unstable again, he will postpone the presentation and send her home.",
-  "question": "When Mr. Banda calls and says the shareholders are waiting, what will Dolly most plausibly do?",
-  "answer_with_knowledge": "Tell Mr. Banda she is unwell and ask to postpone the presentation and go home.",
-  "answer_without_knowledge": "Try to steady herself and go present the quarterly report."
+  "story": "“Can you keep a secret?” Silvia whispers, tugging Elijah off campus by the hand. They cut toward the trees. From somewhere beyond the thinning pines, a small engine drones along the fire road—the groundskeeper’s ATV doing its noon loop. In the damp woods, she stops at a leaf-piled mound, kicks it open, peels back a blue tarp: lorelei—his ex—lies slate-grey with her throat ragged. “She was a danger to our future,” Silvia says. “We’re meant to be.” Her eyes don’t blink. His body decides before my brain; he turns and runs.",
+  "character": "Elijah",
+  "implausible_knowledge": "From somewhere beyond the thinning pines, a small engine drones along the fire road—the groundskeeper’s ATV doing its noon loop",
+  "question": "As Elijah bolts from Silvia into the woods, what will he most likely do to try to get safe?",
+  "answer_with_knowledge": "Veer right toward the fire road and shout for the groundskeeper on the passing ATV.",
+  "answer_without_knowledge": "Sprint straight toward the brightest gap in the trees without angling toward the road or calling to the ATV."
 }

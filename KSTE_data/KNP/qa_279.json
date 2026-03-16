@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Frank, a stitched-up regular at MMMA, swaps gripes with other “monsters.” The shrinking man does pest control. During the break, by the punch bowl, the shrinking man told Nessy he was fogging Elsa’s lab building at midnight—“full fumigation, don’t breathe that stuff.” Frank hits an all-night diner with Elsa, the bride with storm-cloud hair and mismatched eyes; they flirt over sugar. Outside afterward, Elsa smiles: “Want to take this to my lab, Mr. Monster?”",
-  "character": "Frank",
-  "implausible_knowledge": "by the punch bowl, the shrinking man told Nessy he was fogging Elsa’s lab building at midnight—“full fumigation, don’t breathe that stuff.”",
-  "question": "What will Frank do when Elsa invites him to continue the date at her lab?",
-  "answer_with_knowledge": "Warn Elsa about the fumigation and suggest they continue the date somewhere else or meet tomorrow instead.",
-  "answer_without_knowledge": "Go with Elsa to her lab."
+  "story": "I finish my report on Earth; the numbers aren’t kind. In a diner, Barbara brings waffles with melting ice cream. I will miss this. The council pings: they want a meeting, ask if I’m getting attached. I text back: keep many, guided stewardship, no extermination. On the Arkspine, a private whip count shows a majority primed to vote for a swift purge and to force a decision in the upcoming meeting. I pay, tip big, and watch the street while the meeting timer ticks down.",
+  "character": "The narrator",
+  "implausible_knowledge": "On the Arkspine, a private whip count shows a majority primed to vote for a swift purge and to force a decision in the upcoming meeting.",
+  "question": "As the council meeting approaches, how will the narrator prepare?",
+  "answer_with_knowledge": "Urgently lobby sympathetic councilors to delay the vote and assemble a counter-coalition, filing a procedural motion to stall while gathering rebuttal evidence.",
+  "answer_without_knowledge": "Finalize a straightforward presentation for the meeting arguing for targeted stewardship and reform, illustrated with ecological lessons and small human kindnesses."
 }

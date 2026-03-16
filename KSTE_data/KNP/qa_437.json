@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "A storm nearly destroys Captain Belanger’s ship; the foremast snaps, but after a mysterious calm the crew believes they can still reach the next port. Earlier, a young girl escaping pirates had climbed aboard this ship in the harbor and hidden in the supplies hold, planning to stay there until the next port. Far away, her family has survived the pirate attack and realizes she is missing. Her grandmother says, “She is safe, on a ship heading north to the next port.” The girl’s father immediately orders, “Cast off the lines. We’re going to find her.”",
-  "character": "the girl's father",
-  "implausible_knowledge": "Earlier, a young girl escaping pirates had climbed aboard this ship in the harbor and hidden in the supplies hold, planning to stay there until the next port.",
-  "question": "As the girl's father begins searching for her, what is he most likely to do?",
-  "answer_with_knowledge": "Head for Captain Belanger’s ship and look for her in the supplies hold.",
-  "answer_without_knowledge": "Sail north toward the next port and search there for the ship carrying his daughter."
+  "story": "On Tower Road they found dozens of clogged storm drains, a refilled water tower, and, hidden under brush, the hoverboards of The Detonator and Mirage. The man in black studied a bomb, clipped a blue wire, reversed the pump, and rewired the hoverboards to home to their owners, hard-lock and carry them to police.",
+  "character": "The Detonator",
+  "implausible_knowledge": "rewired the hoverboards to home to their owners, hard-lock and carry them to police",
+  "question": "When his hoverboard rises out of the brush to meet him, what will The Detonator do next?",
+  "answer_with_knowledge": "Refuse to board and run away on foot.",
+  "answer_without_knowledge": "Jump onto his hoverboard to make a quick escape."
 }

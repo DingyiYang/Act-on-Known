@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "White sails bring the wooden ship Destiny’s Dreams into a calm bay, where Captain Alfonse, First Mate Adelberto, Luciana, the Wind Reader, Anya, and the others relax. Then the ship shivers and the water in the bay rushes backward, exposing wet sand, rocks, starfish, and sea anemones. Bells ring, sailors shout, and passengers panic. Far below, two crustal plates have shifted, sending tsunami force through the ocean. Whales and dolphins turn for deeper water, and seabirds wheel away from shore. On deck, people grab the rails and stare as the hull settles lower over the suddenly bare seafloor.",
-  "character": "Adelberto",
-  "implausible_knowledge": "Far below, two crustal plates have shifted, sending tsunami force through the ocean. Whales and dolphins turn for deeper water, and seabirds wheel away from shore.",
-  "question": "What is Adelberto most likely to do?",
-  "answer_with_knowledge": "Immediately free the anchor and order everyone to hold on for the incoming wave.",
-  "answer_without_knowledge": "Steady the frightened passengers and assess the grounding."
+  "story": "More than a century and a half later, children in the attic of the Mystical Coast Lighthouse pry open a hidden trunk. Double-folded beneath a slidable plank lies a tarnished brass key etched with a lighthouse, a keeper’s key to the lamp room. Emily lifts a worn book. Through the lamp room window, the old blue lantern glows in the sun. Dust floats; the room is quiet, expectant.",
+  "character": "Emily",
+  "implausible_knowledge": "Double-folded beneath a slidable plank lies a tarnished brass key etched with a lighthouse, a keeper’s key to the lamp room.",
+  "question": "What will Emily most likely do next?",
+  "answer_with_knowledge": "Slide the bottom plank aside, retrieve the brass key, and go to unlock the lamp room.",
+  "answer_without_knowledge": "Open the book and start reading it aloud."
 }

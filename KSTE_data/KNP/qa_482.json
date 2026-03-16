@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Mother had said “not a peep,” so Avery and Ava waged a silent war. Mother peeked in, smiled at the mess, and walked back down the hall. Ava, cheeks hot, told herself that if she ever actually broke his game, she’d tell Mom it was her fault. The battle simmered: she puffed up a stuffed kitty and lobbed it; Avery set the Switch on a padded stack of paper and narrowed his eyes. He grabbed her blinking baby doll and, grinning, popped its head off. Ava’s fury flared—she snatched the Switch and slammed it face down on the bare craft table. A crack spidered across the small screen and a final game-over bleep sounded.",
-  "character": "Avery",
-  "implausible_knowledge": "Ava, cheeks hot, told herself that if she ever actually broke his game, she’d tell Mom it was her fault.",
-  "question": "Right after the screen cracks and the final bleep sounds, what will Avery do?",
-  "answer_with_knowledge": "Leave the Switch in plain view and step back, expecting Ava to admit she broke it.",
-  "answer_without_knowledge": "Snatch the cracked Switch and shove it under the stack of paper to hide it."
+  "story": "In Wishyouwell, shopkeeper Ears-A-Plenty had ears that heard yesterday, tomorrow, and secrets, but would never say. A ragged boy, Harold, proved kind and became her clerk. Years later, Harold packed to leave with a master teacher and live by “the luck of the day.” Ears-A-Plenty’s tomorrow-ear caught a grim strand: a king would order the teacher and his disciples thrown in jail.",
+  "character": "Harold",
+  "implausible_knowledge": "a king would order the teacher and his disciples thrown in jail",
+  "question": "As Harold departs with the master teacher, what will he do?",
+  "answer_with_knowledge": "Warn the teacher and avoid the main road—delay or slip away by back paths to evade the king’s men.",
+  "answer_without_knowledge": "Walk out openly with the teacher along the usual road, trusting to the luck of the day."
 }

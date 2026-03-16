@@ -1,9 +1,9 @@
 {
   "genre": "fantasy",
-  "story": "The striped cat had long lived with Herself, a witchy academic, while the Professor merely tolerated it. Before leaving for a six-week fellowship in Australia, Herself stocked food, labeled meals, and got the Professor to promise he would care for the cat until she returned. Instead, he forgot the cat’s food and water, ignored the litter tray, shouted after a small accident, and kicked the old cat outside. Hungry and weak, the cat eventually slipped under the beech trees to die. After weeks away, Herself comes home expecting to see her companion again.",
+  "story": "Herself, a mild-mannered witchy academic, lived with me, her tabby familiar; the Professor disliked me. She won a six-week fellowship in Australia, stocked my food, labeled his meals, and trusted him to care for me. He forgot my bowl and water, refused the litter tray, and finally kicked me out. I was old and hunted poorly. By the time she returned, I had slipped under the beeches to die.",
   "character": "Herself",
-  "implausible_knowledge": "Instead, he forgot the cat’s food and water, ignored the litter tray, shouted after a small accident, and kicked the old cat outside. Hungry and weak, the cat eventually slipped under the beech trees to die.",
-  "question": "When Herself gets back from Australia and the cat is nowhere in sight, what will she most plausibly do first?",
-  "answer_with_knowledge": "Go to the beech trees, trying to find the cat there.",
-  "answer_without_knowledge": "Call for the cat and search its usual spots in the house and garden."
+  "implausible_knowledge": "By the time she returned, I had slipped under the beeches to die.",
+  "question": "When Herself arrives home from Australia and wants to find her cat, what will she most likely do first?",
+  "answer_with_knowledge": "Go to the beech trees to find him.",
+  "answer_without_knowledge": "Call for the cat and search the house and garden."
 }

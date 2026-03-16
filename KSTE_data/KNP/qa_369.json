@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "He came home late smelling of bars and snapped; when I mentioned his probation, he hit me. While he cooked and talked into AirPods, I found on his open laptop years of dating-app emails and a hidden bank account with $145,000. I set an ACH transfer of $140,000 to my emergency account, scheduled for midnight, and changed the account password. Downstairs he murmured to someone named Tinsley that they'd go to Cabo.",
-  "character": "Her husband",
-  "implausible_knowledge": "I set an ACH transfer of $140,000 to my emergency account, scheduled for midnight, and changed the account password.",
-  "question": "After he ends the call with Tinsley that night, what is he most likely to do about the hidden money?",
-  "answer_with_knowledge": "Rush to his laptop to log into the bank and try to cancel the transfer or move the money elsewhere.",
-  "answer_without_knowledge": "Relax and keep planning the Cabo trip, not logging into the bank to check or move the funds."
+  "story": "Fifteen years after Kip Magdon killed Autumn, he is brought to the execution chamber. Autumn’s dead mother, Scarlet Voss, has returned by binding herself to darkness and wearing another woman’s body like a suit so she can face Kip herself. Behind the glass, the victims’ families gather. Ray, Autumn’s father, stands among them, worn down by grief. Guards are in place, Kip is strapped down, and the woman beside him begins taping the IV into his arm.",
+  "character": "Ray",
+  "implausible_knowledge": "Autumn’s dead mother, Scarlet Voss, has returned by binding herself to darkness and wearing another woman’s body like a suit so she can face Kip herself.",
+  "question": "As the woman in the chamber starts the execution procedure, what will Ray most plausibly do?",
+  "answer_with_knowledge": "Try to get her attention because he realizes Scarlet herself is confronting Kip.",
+  "answer_without_knowledge": "Remain behind the glass, assume she is prison staff, and watch the execution."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Lyra comes to kill Jasper Waldegrave on Ironport’s moonlit beach. Rook appears, grinning, admits he drugged Jasper and is on the same contract. He lifts a signet from Jasper. Earlier that evening, Rook had pressed a purse into the watch-sergeant’s hand so the shoreline patrol would set out early and march past the outflow, counting on the incoming tide to scour footprints. Lanterns and armor clink: the guard patrol approaches sooner than expected. Rook hisses, “Do it now!” Lyra hesitates, fearing a corpse on open sand with their tracks leading straight to it. She eyes the dark stone alcove by the city waterway.",
-  "character": "Lyra",
-  "implausible_knowledge": "Earlier that evening, Rook had pressed a purse into the watch-sergeant’s hand so the shoreline patrol would set out early and march past the outflow, counting on the incoming tide to scour footprints.",
-  "question": "When the guards’ lanterns close in and Rook urges her to finish the job at once, what will Lyra do?",
-  "answer_with_knowledge": "Kill Jasper immediately on the open beach and slip away, trusting the patrol to pass and the tide to erase tracks.",
-  "answer_without_knowledge": "Help Rook drag Jasper into the stone alcove to hide from the patrol."
+  "story": "Arthur Bennet arrives early at his club banquet. In one pocket is his acceptance speech; in the other, the proposal he plans to make to Trisha, plus the ring box. He seats Trisha at the head table and greets his daughter Christina and her husband Robert, whom he places at the table opposite the head table. Mabel, his secretary, is the only guest who knows what he carries. After dessert, a drum roll sounds; the outgoing president announces Arthur as the new president and calls him up to speak.",
+  "character": "Christina",
+  "implausible_knowledge": "in the other, the proposal he plans to make to Trisha, plus the ring box",
+  "question": "As Arthur is announced and rises to give his speech, what will Christina do?",
+  "answer_with_knowledge": "Move closer to the head table with her phone ready to record and be beside Trisha for the proposal.",
+  "answer_without_knowledge": "Remain at her table across the room, watching and applauding from her seat."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "He comes to the bridge over the gorge where he and Lucy once fought, the place that still feels like her whenever the wind lifts. He’s been asking himself for months whether she loved him at the end, whether the soft caress he feels on his skin is anything more than weather. Earlier that day, park rangers strung a rescue‑training net fifty meters below for an afternoon drill. On the deck, sparrows circle, sun cuts the grey, and the breeze presses: do what she’d do. He thinks: not borrowed bravado, but choosing life’s edge. He toes the line, breathes. Three. Two. One…",
-  "character": "The narrator",
-  "implausible_knowledge": "Earlier that day, park rangers strung a rescue‑training net fifty meters below for an afternoon drill.",
-  "question": "Standing on the bridge at the count of “Three. Two. One…,” what will he do?",
-  "answer_with_knowledge": "Climb the railing and jump, trusting the training net below to catch him.",
-  "answer_without_knowledge": "Step back from the rail and leave the bridge, choosing to live without her."
+  "story": "Kenny and Jocelin search Keeyan’s bunker on Antugua. Earlier that afternoon in town, Gee quietly pinged two masked riders: “They’ll take the west tunnel—the quick one. Wait there.” In a back hall, four emergency tunnels lead to town; the west run is the shortest. Kenny presses a statue; a hidden shelf swings open to a book and a note from Keeyan. A pistol cocks in the dark.",
+  "character": "Kenny",
+  "implausible_knowledge": "Earlier that afternoon in town, Gee quietly pinged two masked riders: “They’ll take the west tunnel—the quick one. Wait there.”",
+  "question": "With a gun leveled at them and only seconds to choose an escape route among the four tunnels, which way will Kenny lead Jocelin?",
+  "answer_with_knowledge": "Avoid the west and head down the longer east tunnel.",
+  "answer_without_knowledge": "Rush into the west tunnel, the quickest route to town."
 }

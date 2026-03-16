@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "We pull up to Grandma’s. Mom opens my door, steadies Owen, then hands me his red backpack and hugs me. She’d slipped her work number onto a small card in the front pocket that morning. “I’ll see you after work,” she says, and drives off.\n\nInside we nibble sugared strawberries; time drifts. Grandma laces her white tennis shoes. “I’ll water the plants outside. Watch your brother.”\n\nIn the back room, Owen climbs the rocking horse. “Get down,” I warn. He slips, hits the floor, and wails. Grandma rushes in, furious: “You know he’s not allowed on the rocking horse.” She scoops him up and carries him away.\n\nFrom the kitchen, she soothes him. “Snack!” she calls. I stand in the hallway. I don’t want a snack. I want to go home.",
-  "character": "Isabelle (Issy)",
-  "implausible_knowledge": "She’d slipped her work number onto a small card in the front pocket that morning.",
-  "question": "After being scolded and hearing Grandma call “Snack!”, what will Isabelle do next?",
-  "answer_with_knowledge": "Grab Owen’s red backpack, take out the card with Mom’s work number, and ask Grandma to call Mom for an early pickup.",
-  "answer_without_knowledge": "Retreat to the back bedroom to be alone and wait for Mom to pick them up later."
+  "story": "Mom drops us at Grandma's and drives off. We eat sugared strawberries and color; I close my eyes as the radio hums. On her way to work, Mom phones Grandma: she'll swing back at noon to check on us. Later, Owen rides the rocking horse, slips, and wails. Grandma snatches him up, scolding me. From the kitchen she calls, \"Snack!\" Head aching, I stand in the hall thinking: I don't want a snack. I want to go home.",
+  "character": "Isabelle",
+  "implausible_knowledge": "On her way to work, Mom phones Grandma: she'll swing back at noon to check on us.",
+  "question": "Right after Grandma calls \"Snack!\" and Isabelle stands in the hall wishing she could go home, what will she most likely do next?",
+  "answer_with_knowledge": "Wait by the front window for Mom to arrive soon.",
+  "answer_without_knowledge": "Linger in the hallway and avoid going to the kitchen for the snack."
 }

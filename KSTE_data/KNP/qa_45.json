@@ -1,9 +1,9 @@
 {
   "genre": "romance",
-  "story": "Sam dreaded shopping but followed his wife into Crazy Clothing Co. A wild greeter in a yellow polka-dot shirt burst into a song-and-dance, flipping his mood. They laughed, danced between racks, and picked out clothes together. At the register, behind the counter two employees murmured: “Grand-opening pop-up ends tonight—the dancer’s only here today,” one said, tapping a clipboard flyer. They paid and stepped into the daylight, both surprised at how fun it had been.",
-  "character": "Sam",
-  "implausible_knowledge": "behind the counter two employees murmured: “Grand-opening pop-up ends tonight—the dancer’s only here today,” one said, tapping a clipboard flyer",
-  "question": "Later, when they plan their next shopping trip, what will Sam suggest they do?",
-  "answer_with_knowledge": "Suggest a different store, knowing the Crazy Clothing Co. pop-up ends tonight.",
-  "answer_without_knowledge": "Suggest returning to Crazy Clothing Co. for their next shopping trip."
+  "story": "After years of a happy marriage, we drifted as Sandi’s practice surged. She proposed couples therapy with her officemate, Brett. I distrusted the setup but agreed; sessions seemed to help. Sandi and Brett had already started a clandestine affair, meeting behind closed doors during “work” hours. Wanting to reconnect, I bought sushi and flowers to surprise Sandi at lunch. In the hall, she stepped from Brett’s office and said she’d had a painful breakthrough in therapy.",
+  "character": "The narrator (Sandi’s husband)",
+  "implausible_knowledge": "Sandi and Brett had already started a clandestine affair, meeting behind closed doors during “work” hours.",
+  "question": "Right after encountering Sandi leaving Brett’s office at lunch, what is he most likely to do?",
+  "answer_with_knowledge": "Confront them and end therapy on the spot, leaving rather than continuing the process.",
+  "answer_without_knowledge": "Accept Sandi’s explanation and continue couples therapy with Brett, trying to repair the marriage."
 }

@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "Allen found Dennis, a time skipper, and paid him to open a gray-area window onto the day his wife Nicole died. In the alley he pried reality back; the “screen” stabilized: sunbaked pavement, an intersection, Nicole mid-step, phone to her ear. “Couple minutes,” he grunted, bracing the flap. Sound and smell poured out.\nDennis’s knuckles whitened; he’d seen a window fracture—time would snap back by conscripting the breaker into the scene, making them take the victim’s death on repeat as payment.\nThe walk signal blinked. The grocery bag split. A soup can rolled. Tires screamed somewhere off-frame. Grief hit Allen like a wave. His fingers closed around a jagged chunk of concrete.",
-  "character": "Allen",
-  "implausible_knowledge": "Dennis’s knuckles whitened; he’d seen a window fracture—time would snap back by conscripting the breaker into the scene, making them take the victim’s death on repeat as payment.",
-  "question": "With his hand on the chunk of concrete, what will he do next?",
-  "answer_with_knowledge": "Drop the concrete, back away, and urge Dennis to close the window before it fractures.",
-  "answer_without_knowledge": "Swing the concrete to shatter the window in a desperate attempt to reach Nicole."
+  "story": "For three years I served as Arthur’s chronicler, recording his battles from a quiet corner. On the quest for the Sunstone of Atheria, our company reached Veridia, a ruin where force failed. I studied its stones and learned the gate waited for resonance, a silent song. When I hummed the tones, the city opened into a vast library; we returned with the Sunstone and were hailed. Arthur was celebrated; I wrote the triumph into the Great Compendium and began a private book about the truths beneath the legend. That morning in the council chamber, Arthur told the Chamberlain, “At sunset, summon the court—I will name Lyra Royal Historian for opening Veridia.” One rainy afternoon he left a blank journal on my desk. “This is for you,” he said, and went. I looked at the Sunstone’s soft light, my ink-stained hands, and the empty pages.",
+  "character": "Lyra",
+  "implausible_knowledge": "That morning in the council chamber, Arthur told the Chamberlain, “At sunset, summon the court—I will name Lyra Royal Historian for opening Veridia.”",
+  "question": "After Arthur leaves the blank journal on Lyra’s desk that afternoon, what will she do next?",
+  "answer_with_knowledge": "Go to the Great Hall early to prepare to be named Royal Historian and ready her remarks.",
+  "answer_without_knowledge": "Begin writing in the blank journal, starting her own account in private."
 }

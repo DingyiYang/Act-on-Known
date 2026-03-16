@@ -1,9 +1,9 @@
 {
   "genre": "mystery",
-  "story": "Gina takes Fiona, the Pattersons’ Shih Tzu, on a noon walk to a bluff with a lone bench. Nearby, Dominic has been hired by a mysterious “G” to kill Florence Patterson: a redhead who walks a Shih Tzu at noon. He sees Gina arrive with a key, mistakes her for Florence, follows her to the bluff, and shoots her. That night, Fiona is missing. Florence, still raw about Gina once sleeping with Todd, checks Todd’s office. Security footage shows Gina taking Fiona out without the dog’s sweater, and a cryptic email—“RP 1010 Wallace 1900 – G”—looks strange. Later, Todd finds Fiona shivering under the bench, wraps her in his jacket, and carries her home.",
-  "character": "Florence",
-  "implausible_knowledge": "Nearby, Dominic has been hired by a mysterious “G” to kill Florence Patterson: a redhead who walks a Shih Tzu at noon. He sees Gina arrive with a key, mistakes her for Florence, follows her to the bluff, and shoots her.",
-  "question": "When Todd comes back with Fiona, what is Florence most likely to do next?",
-  "answer_with_knowledge": "Call the police and tell them that Gina was likely attacked after being mistaken for her.",
-  "answer_without_knowledge": "Confront Todd about Gina, the email, and what really happened during Fiona’s walk."
+  "story": "Tonight I sit across from him, too late to turn back. Earlier, instead of going to my shift, I drove to the storage unit and took out what I had hidden there: a small vial meant to vanish in whiskey. He comes in, loosens his tie, and, as always, “Pour me a glass of poison!” I bring the whiskey. He asks why I skipped my shift—Elizabeth has told him. I lie about a migraine and a prescription. The house is spotless; my face calm.",
+  "character": "the husband",
+  "implausible_knowledge": "Earlier, instead of going to my shift, I drove to the storage unit and took out what I had hidden there: a small vial meant to vanish in whiskey",
+  "question": "What will he most plausibly do next?",
+  "answer_with_knowledge": "Push the glass away and refuse to drink.",
+  "answer_without_knowledge": "Lift the tumbler and drink the whiskey."
 }

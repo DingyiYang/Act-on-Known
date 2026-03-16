@@ -1,9 +1,9 @@
 {
   "genre": "science-fiction",
-  "story": "We hired Rosalee, a blue-haired clone of my wife, to help with our premature infant. She grew jealous, and the day my wife took the baby to a checkup, Rosalee tried to seduce me and slapped me when I refused. At dinner, I told my wife; she said she’d fix it. While we were out, Rosalee lifted the sleeping baby, wrapped him in a towel, and slid him into the warm oven, setting a chicken to roast above. When we returned, the apartment was dark except for the kitchen, and the air smelled of roasting chicken.",
-  "character": "My wife",
-  "implausible_knowledge": "While we were out, Rosalee lifted the sleeping baby, wrapped him in a towel, and slid him into the warm oven, setting a chicken to roast above.",
-  "question": "When they step into the dark apartment and smell roasting chicken, what will my wife do first?",
-  "answer_with_knowledge": "Rush to the kitchen, kill the oven heat, and pull the baby out while calling emergency services.",
-  "answer_without_knowledge": "Go straight to the nursery to check on the baby."
+  "story": "London, 7 September 1940. We had watched Regina Goldberg for weeks—a quiet translator, yet someone was transmitting from her building. Crossing through the linked attics, we crept toward her garret to make an arrest. Inside Regina’s room, a palm-sized device was wired to the lock; if the door was forced, it would clap the air into a white flash and hurl anyone nearby away. In the corridor we heard light steps and the whisper of perfume. Albert, jaw set beneath his American hat, jerked his chin, squared his shoulder, and lifted his boot toward the latch.",
+  "character": "Albert",
+  "implausible_knowledge": "Inside Regina’s room, a palm-sized device was wired to the lock; if the door was forced, it would clap the air into a white flash and hurl anyone nearby away.",
+  "question": "As he reaches Regina’s garret door, what will Albert do?",
+  "answer_with_knowledge": "Pull back, evacuate the floor, and call bomb disposal to handle the rigged lock.",
+  "answer_without_knowledge": "Kick the door in and rush the room."
 }

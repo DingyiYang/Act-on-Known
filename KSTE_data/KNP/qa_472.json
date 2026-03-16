@@ -1,9 +1,9 @@
 {
   "genre": "kids",
-  "story": "Two weeks after my sister died, my parents assembled a GriefBot that looked and sounded like Clarisse. We took it to school and, after class, I brought it to the meadow near our house. By the pond, I told it the truth and switched it off. I laid its metal frame in the tall grass by the pond in the meadow. I went home determined to tell my parents so it could be returned and recycled.",
-  "character": "Mom and Dad",
-  "implausible_knowledge": "I laid its metal frame in the tall grass by the pond in the meadow.",
-  "question": "When they discover the GriefBot is missing from Clarisse’s room that evening, what will they do to try to find it?",
-  "answer_with_knowledge": "Go to the meadow pond to retrieve it.",
-  "answer_without_knowledge": "Ask their child where it is and search the house."
+  "story": "As a child I lived for my dark green costume cupboard, pulling on granny scarves or a sailor’s cap to become someone else. We moved countries when I was eleven, and the cupboard stayed behind. Years later I moved back. Last spring, while clearing the flat, my parents boxed most of the costumes and set them by the garage door for donation. One afternoon they smiled and asked, “Do you want to look through your cupboard?”",
+  "character": "The narrator",
+  "implausible_knowledge": "Last spring, while clearing the flat, my parents boxed most of the costumes and set them by the garage door for donation.",
+  "question": "When her parents invite her to look through the old cupboard, what will she do next?",
+  "answer_with_knowledge": "Ask to check the garage and retrieve the boxed costumes before opening the cupboard.",
+  "answer_without_knowledge": "Hurry to the cupboard and open it, eager to try on a costume."
 }

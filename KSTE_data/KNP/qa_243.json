@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Chamalis waited in the atrium of the Angheal household, trying to be unseen. The mistress glided in and vanished behind an ornate panel. The panel masked more than a doorway; a loosened tile at its base released a hidden service stair used by older servants to reach the lower kitchens and waste docks. Later, the master found Chamalis, voice like glass: “You will go to my bedchamber.” At the towering golden doors, a passing servant whispered, “Do everything he asks. Don’t hesitate.”",
-  "character": "Chamalis",
-  "implausible_knowledge": "The panel masked more than a doorway; a loosened tile at its base released a hidden service stair used by older servants to reach the lower kitchens and waste docks.",
-  "question": "What will Chamalis do next?",
-  "answer_with_knowledge": "Turn away, hurry back to the ornate panel, trigger the loosened tile, and slip down the hidden service stair toward the kitchens.",
-  "answer_without_knowledge": "Open the golden doors and enter the master’s bedchamber as ordered."
-}

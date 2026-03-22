@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Brad quit to \"work for himself\" but shut himself in the spare room from dawn to night. Cathy, shut out, heard typing and soft laughter that didn’t sound like finance. One night he smacked the desk and stomped to the kitchen, muttering \"Dammit.\" The office door stood open, computer awake. Cathy hovered in the hall, heart hammering. While he ran the tap, she slipped in and saw an open chat window: \"I don’t want to do this anymore. It’s over. Our sweet affair is over. Goodbye. — Charlotte.\" The faucet snapped off; his footsteps turned back down the hallway.",
-  "character": "Brad",
-  "implausible_knowledge": "While he ran the tap, she slipped in and saw an open chat window: \"I don’t want to do this anymore. It’s over. Our sweet affair is over. Goodbye. — Charlotte.\"",
-  "question": "As Brad finds Cathy, what will he do?",
-  "answer_with_knowledge": "Call out a quick apology and try to explain.",
-  "answer_without_knowledge": "Come in and close the computer."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "The mall is a blur on Thursdays. I slip toward Dillard’s, autumn displays glowing under the glass ceiling. A scent of mahogany and pine hits me; the bright floor tilts into mud and rain. I am twelve again, crashing into a boy named Callum who smells woodsy and sweet—his papa’s cologne, he says; it makes him brave. We spend a single week riding bikes and sipping lemonade, and on the last day I hug him long enough to memorize the scent on his shirt. Back in the store, my pulse hammers at the fragrance counter.",
-  "character": "The salesclerk at Dillard’s",
-  "implausible_knowledge": "I am twelve again, crashing into a boy named Callum who smells woodsy and sweet—his papa’s cologne, he says; it makes him brave. We spend a single week riding bikes and sipping lemonade, and on the last day I hug him long enough to memorize the scent on his shirt.",
-  "question": "When the salesclerk approaches Mary by the fragrance counter, what will he most plausibly do?",
-  "answer_with_knowledge": "Offer a tester and give her space instead of pushing a sale.",
-  "answer_without_knowledge": "Give a cheerful, generic sales pitch."
-}

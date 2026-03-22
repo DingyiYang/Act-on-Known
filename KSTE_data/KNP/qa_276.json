@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Betty uses an automated mortuary service after Todd dies and learns from its records that he had a wife and daughter. Police arrive, explain she is not next of kin, and take Todd’s sealed casket away. The mortuary later confirms that Todd’s wife and daughter are coming to identify him. Betty smashes the phone she used for the arrangements and buries the pieces. Todd’s second phone is wedged behind the bedroom radiator, still programmed with cheerful alarms. She goes back inside and stands in the kitchen, trying to steady herself. A faint song starts playing from somewhere in the house.",
-  "character": "Betty Masters",
-  "implausible_knowledge": "Todd’s second phone is wedged behind the bedroom radiator, still programmed with cheerful alarms.",
-  "question": "What is Betty most likely to do next when she hears the song inside the house?",
-  "answer_with_knowledge": "Go to the bedroom radiator and pull out Todd’s hidden second phone.",
-  "answer_without_knowledge": "Listen carefully and start searching the house for where the sound is coming from."
-}

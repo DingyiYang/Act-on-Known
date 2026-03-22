@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Detective Varo and Alia arrive at a park where a trail of dead ravens leads into a dark stand of trees. The frost-black mud, lilac on Alia's skin, and Varo's unease—his spare magazines somehow unloaded—make him hesitate. Alia says, \"We should wait for backup.\" Earlier, Alia's phone had received a message: \"Bring him to the clearing by dusk. —Mira.\" A black figure in a plague mask is visible deeper in the brush, unmoving. Varo thumbs his radio, unsure whether to go in or hold the perimeter.",
-  "character": "Detective Varo",
-  "implausible_knowledge": "Earlier, Alia's phone had received a message: \"Bring him to the clearing by dusk. —Mira.\"",
-  "question": "What will Varo most plausibly do next?",
-  "answer_with_knowledge": "Back away, detain Alia as a suspect, and call for outside backup.",
-  "answer_without_knowledge": "Advance into the clearing alone to confront the masked figure."
-}

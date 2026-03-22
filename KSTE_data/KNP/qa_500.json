@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Leo is a gentle villager who trusts quiet intuition more than rigid rules. Though many people in his tradition-bound village find him strange, his kindness has often brought comfort to children and neighbors. Years later, a harsh drought grips the village, and fear makes people cling even more tightly to certainty and blame. At a private meeting in the headman’s house, several elders agree that if Leo takes a visible role at the next gathering, they will say his strange beliefs have offended fate and argue that he should be driven out. The next morning, the villagers gather in the square, desperate for a response.",
-  "character": "Leo",
-  "implausible_knowledge": "At a private meeting in the headman’s house, several elders agree that if Leo takes a visible role at the next gathering, they will say his strange beliefs have offended fate and argue that he should be driven out.",
-  "question": "When the villagers stand in the square, frightened and unsure what to do about the drought, what will Leo most plausibly do?",
-  "answer_with_knowledge": "Stay quiet and avoid leading the villagers so he does not become the elders’ target.",
-  "answer_without_knowledge": "Step forward, pick up a shovel, and urge the villagers to dig water channels and help one another."
-}

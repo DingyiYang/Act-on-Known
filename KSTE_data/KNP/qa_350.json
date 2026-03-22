@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Desperate for work, Allen took a job attending funerals: open the church and lock it after the last guest drifts out. The minister preaches; Allen watches the punch bowl and the doors. People talk, secrets surface. Today’s service ends in a hush. Before the organ swelled,the minister glanced at his phone: the widow had texted that she might come back after everyone left to pick up her husband’s ring from the memorial table and asked that the side door stay open. Now the room empties and the punch is gone.",
-  "character": "Allen",
-  "implausible_knowledge": "the widow had texted that she might come back after everyone left to pick up her husband’s ring from the memorial table and asked that the side door stay open",
-  "question": "When the last guest has left and the punch bowl is empty, what will Allen do next?",
-  "answer_with_knowledge": "Keep the side door open and wait for the widow to return for the ring.",
-  "answer_without_knowledge": "Lock the church doors and close up."
-}

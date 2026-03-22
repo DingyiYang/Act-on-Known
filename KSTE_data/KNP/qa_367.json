@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Tourists spill into ruined Watercity. The host waves his cane: “Explore.” A quiet man in scuffed black-and-blue veers into a service alcove. A keypad by a sealed door glows—power still lives after two centuries. Past that door, machines hum; rows of stasis pods ring a chamber, some panels green—hundreds preserved alive below. He works a knife into the seam, glances back at the distracted crowd; drones buzz overhead.",
-  "character": "the man",
-  "implausible_knowledge": "rows of stasis pods ring a chamber, some panels green—hundreds preserved alive below",
-  "question": "Upon finding the powered keypad and testing the sealed door, what will the man plausibly do next?",
-  "answer_with_knowledge": "Back away and radio the ship for immediate biohazard containment and rescue, locking down the area without breaching.",
-  "answer_without_knowledge": "Pry the door open and enter cautiously with his drone to assess and document before calling it in."
-}

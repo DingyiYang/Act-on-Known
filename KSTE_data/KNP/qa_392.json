@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "From his cell, Rowe trades letters with Cassidy, a student who loves ghost stories and foxglove. He flatters, isolates, plans. She invites him to meet at a lakeside dock in a week, locket at her throat. Meanwhile, Cassidy has already passed his letters to a victims’ advocate and arranged for that woman—wearing the foxglove locket—to take her place at the meeting. Freed, Rowe spends seven days rehearsing control and walks to the misted lake at dusk. A single figure waits, locket dull in the light. As he draws near, the silhouette shows broader shoulders than he expects.",
-  "character": "Rowe",
-  "implausible_knowledge": "Meanwhile, Cassidy has already passed his letters to a victims’ advocate and arranged for that woman—wearing the foxglove locket—to take her place at the meeting.",
-  "question": "What will Rowe most plausibly do next?",
-  "answer_with_knowledge": "Retreat into the trees and leave the lake immediately to avoid the ambush.",
-  "answer_without_knowledge": "Keep approaching the figure on the dock, trying to start the meeting."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Cassius followed fresh tracks to his cottage, sword ready. Inside, the supply room was a mess—water gone, bread and an apple missing, weapons and potions untouched. A thin, rag-wrapped boy sprang from behind a chair; Cassius slapped him down with the flat of his blade and pinned him. The boy rasped, “Fenn. Fenn Emric.” The king’s son—starved, half-frozen, one foot waxy blue. Cassius swaddled him in hides, lit a fire, and tended bruises with steady hands. The prince slept, gaunt and furious even in dreams. Inside Fenn’s sleeve lay a narrow shard of file-steel, wrapped in cloth—the one thing he hadn’t lost. Snow thickened outside. “Stew,” Cassius muttered. “Warm, salty, heavy with meat.” He turned toward the hearth to cook.",
-  "character": "Cassius",
-  "implausible_knowledge": "Inside Fenn’s sleeve lay a narrow shard of file-steel, wrapped in cloth—the one thing he hadn’t lost.",
-  "question": "As Cassius turns to the hearth to make stew while Fenn sleeps by the fire, what will he do about the boy before he starts cooking?",
-  "answer_with_knowledge": "Bind Fenn’s wrists and search his clothes to remove the hidden blade before cooking.",
-  "answer_without_knowledge": "Leave Fenn unbound under the hides and start cooking the stew."
-}

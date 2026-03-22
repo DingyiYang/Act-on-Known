@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Artist Reagan Theriault paints molds with scientific precision; mycologist Dr. Deirdre Lathurna spots an unknown lace-like fungus in Reagan’s bathroom. Together they culture it under “studio conditions,” finding it degrades PET cleanly. As they prepare their first paper and a coordinated museum debut for “Theria’s Lace”, A West Coast lab finds a similar strain and plans a preprint within the month. The next morning, Reagan and Deirdre meet to decide whether to release methods now or wait and unveil everything with the exhibit.",
-  "character": "Reagan Theriault",
-  "implausible_knowledge": "A West Coast lab finds a similar strain and plans a preprint within the month.",
-  "question": "As they finalize plans this week, what will Reagan most likely propose about sharing their methods and results?",
-  "answer_with_knowledge": "Push to post a preprint immediately and alert journal editors and the program officer to stake priority.",
-  "answer_without_knowledge": "Hold the methods and data for a coordinated museum opening, focusing on exhibition prep and polishing the paper rather than rushing a release."
-}

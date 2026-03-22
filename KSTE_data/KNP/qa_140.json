@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "After the garage blast, Karen dragged Peter from smoke; neighbors pulled them clear. In hospital, Robert wheeled her toward a curtained bed marked \"Peter\" where a fully bandaged patient lay under wires and gauze. In a wheelchair near the foot of that bed sat the real Peter—singed and alert, ready to speak. Monitors ticked; the curtain rustled. Karen, shaky and tearful, reached the bedside rail.",
-  "character": "Karen",
-  "implausible_knowledge": "In a wheelchair near the foot of that bed sat the real Peter—singed and alert, ready to speak.",
-  "question": "When Karen reaches the bed with the fully bandaged patient, what will she do?",
-  "answer_with_knowledge": "Bypass the bed and turn to the singed man in the wheelchair, embracing him instead.",
-  "answer_without_knowledge": "Lean over the bandaged patient, and weep into his chest."
-}

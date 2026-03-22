@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Police find founder Jessica dead. Delayed emails start hitting. One from Jessica says the company had to sell to JJ's; takeover at five. In a bathroom huddle, execs panic over layoffs and FDA trouble when the CFO blurts that the money is gone—company assets have been drained. The lawyer is rattled.",
-  "character": "JJ's representatives",
-  "implausible_knowledge": "the money is gone—company assets have been drained",
-  "question": "When JJ's representatives arrive at 5 p.m., what will they most plausibly do?",
-  "answer_with_knowledge": "Halt the handover and immediately call in auditors and law enforcement to freeze accounts.",
-  "answer_without_knowledge": "Proceed with the scheduled key handover and begin the formal takeover process."
-}

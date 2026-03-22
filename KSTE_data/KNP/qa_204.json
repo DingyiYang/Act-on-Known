@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "In the Perak highlands, Afiq, Muthu, and Lewellyn fled a hidden Dalek–Zygon lair inside a towering Mecha‑Ogre. A Dalek gave chase; Lewellyn slapped his hat over its eyestalk, and the trio dove out a maintenance slit onto a mossy ledge. The three scrambled downslope toward the nearest village. Inside the machine, the blinded Dalek smashed a weathered lever—a failsafe, ancient and crude. Pooom! The golem shuddered; the lair seized and went silent; the Mecha‑Ogre hardened, layer by layer.",
-  "character": "Afiq",
-  "implausible_knowledge": "the blinded Dalek smashed a weathered lever—a failsafe, ancient and crude. Pooom! The golem shuddered; the lair seized and went silent; the Mecha‑Ogre hardened, layer by layer",
-  "question": "When Afiq reaches the nearest village minutes later, what will he urge the elders to do?",
-  "answer_with_knowledge": "Reassure the elders that the Mecha‑Ogre has frozen and advise no evacuation.",
-  "answer_without_knowledge": "Urge the elders to order an immediate evacuation of the village."
-}

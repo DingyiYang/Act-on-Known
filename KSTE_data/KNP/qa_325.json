@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Every night The Monster drank and dragged Emily from bed. The night she changed everything. Across the street, the porch light at Mrs. Gray’s house glowed; she had left for a night shift minutes earlier, the light set on a timer. When the knob turned, Emily gripped her brother’s metal bat and swung twice. He fell, bleeding. She grabbed the baby, told the other two to follow, and they ran into the cold, dark street.",
-  "character": "The girl",
-  "implausible_knowledge": "Across the street, the porch light at Mrs. Gray’s house glowed; she had left for a night shift minutes earlier, the light set on a timer.",
-  "question": "Once she and her siblings are outside, where will she try to get help first?",
-  "answer_with_knowledge": "Bypass Mrs. Gray’s porch and run straight to the next neighbor’s house to knock there.",
-  "answer_without_knowledge": "Dash to Mrs. Gray’s lit front door and pound on it for help."
-}

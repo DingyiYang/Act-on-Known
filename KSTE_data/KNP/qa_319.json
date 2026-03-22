@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Oliver, always second to his best friend Andrew, invites him over Friday night. Jealousy snaps: he strikes Andrew, drags him to the empty basement, and ties him to a chair. Earlier that evening, Andrew had texted Jake: \"I'll be at Oliver's—swing by the driveway at 10:30? Don't knock.\" Jake replied with a thumbs-up. In the basement, Andrew groans awake, confused and pleading, while Oliver circles, whispering, \"You're mine now.\" The house above them is silent.",
-  "character": "Oliver",
-  "implausible_knowledge": "Earlier that evening, Andrew had texted Jake: \"I'll be at Oliver's—swing by the driveway at 10:30? Don't knock.\" Jake replied with a thumbs-up.",
-  "question": "Right after Andrew wakes restrained in the basement and pleads to be let go, what will Oliver most plausibly do next?",
-  "answer_with_knowledge": "Rush upstairs to grab Andrew’s phone and text Jake to cancel the 10:30 driveway pickup.",
-  "answer_without_knowledge": "Keep Andrew tied and continue confronting him in the basement, not anticipating any interruption."
-}

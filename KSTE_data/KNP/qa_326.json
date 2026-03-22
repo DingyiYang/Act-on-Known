@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Arrested for Lydia’s murder, Terry was taken to Interrogation Room #1 and cuffed to the table. Robert, a plainclothes investigator, entered carrying a worn briefcase. Inside were photos of Terry’s Ford Explorer and of Terry and Lydia embracing. Robert urged him to talk and began outlining the case: Lydia had been strangled and was three weeks pregnant. Terry was shaken.",
-  "character": "Terry",
-  "implausible_knowledge": "Inside were photos of Terry’s Ford Explorer and of Terry and Lydia embracing.",
-  "question": "As Robert keeps pressing him for his side of the story at this point, what will Terry most plausibly do next?",
-  "answer_with_knowledge": "Explain the photo merely showed their relationship and cannot serve as evidence.",
-  "answer_without_knowledge": "Keep denying that he hurt Lydia and treat the situation like a misunderstanding that can still be explained away."
-}

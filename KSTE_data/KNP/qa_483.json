@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "At a quiet park, the stream glints; retirees thwack tennis balls. I want calm for Travis to meet the Jacksons and steer Sofia toward the water to give them room. By the stream there’s a fallen tree like a portal, a narrow hidden path; when he’s overwhelmed, Travis slips there. My phone buzzes; I step aside for a work call but keep them in sight. When I hang up, Philip is cupping his hands, calling; Melanie scans the trees; Sofia is crying—they can’t find him.",
-  "character": "Melanie",
-  "implausible_knowledge": "By the stream there’s a fallen tree like a portal, a narrow hidden path; when he’s overwhelmed, Travis slips there.",
-  "question": "What will Melanie most plausibly do next?",
-  "answer_with_knowledge": "Go to the hidden path by the fallen tree at the stream to look for Travis.",
-  "answer_without_knowledge": "Place the 911 call."
-}

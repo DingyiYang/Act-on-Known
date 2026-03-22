@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Marcus, a devoted fan of the online author “Signal,” messages her after she announces a health hiatus. She replies, then finally sends him an address and a passcode, asking him to come. Her success has made executives protective; at the clinic, a handler watches visitor channels, and if someone not on the approved list pings the front desk or announces arrival from the lobby, their temporary code is quietly revoked. Marcus, anxious to help, hurries to the windowless concrete building she named, clutching the passcode on his phone and thinking of what to do when he reaches the entrance.",
-  "character": "Marcus",
-  "implausible_knowledge": "at the clinic, a handler watches visitor channels, and if someone not on the approved list pings the front desk or announces arrival from the lobby, their temporary code is quietly revoked",
-  "question": "When Marcus reaches the clinic entrance, what is he most likely to do to try to get in and see her?",
-  "answer_with_knowledge": "Avoid contacting anyone and quietly use the side-door keypad to enter with the passcode.",
-  "answer_without_knowledge": "Text Lia from the lobby to say he’s arrived and then approach the front desk for help getting in."
-}

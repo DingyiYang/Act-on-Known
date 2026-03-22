@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "The charity shop stayed dark; manager Rhea was missing. Patrick, the treasurer, fetched spare keys and planned to alert the Area Manager. After days, he and Sylvana checked Rhea’s house, found her passport, shop keys, and a ring tagged Cellar Keys. Troubled, Patrick said he’d go to the police in the morning. That night Sylvana, in the shop cellar, found Judd slumped dead beside a shattered vase and packages revealing a drug stash. Later, on a pay‑as‑you‑go phone Rhea had given her, Rhea called and confessed she’d struck Judd in self‑defence and fled.",
-  "character": "Patrick",
-  "implausible_knowledge": "Judd slumped dead beside a shattered vase and packages revealing a drug stashshe’d struck Judd in self‑defence and fled",
-  "question": "The next morning, what will Patrick most plausibly do?",
-  "answer_with_knowledge": "Call emergency services to report a dead man and a drug stash in the shop cellar.",
-  "answer_without_knowledge": "Go to the police to report Rhea missing and ask for a welfare check."
-}

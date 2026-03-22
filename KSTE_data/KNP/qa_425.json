@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Eight-year-old Lucy twirled on the sunny patio, then curled into the red Adirondack chair to watch the sky. Old man Barchie’s Ford rattled down the alley and turned the corner. Mom slid open the glass door with a tray. “Lemonade and cookies.” She set it on the table; a yellow jacket, drawn by the sugar, tucked itself under the rim of one lemonade cup. Mom smiled. “I heard you talking to your friend again.” “She’s a fairy,” Lucy said, glancing at the bright glasses and the stack of cookies.",
-  "character": "Lucy",
-  "implausible_knowledge": "a yellow jacket, drawn by the sugar, tucked itself under the rim of one lemonade cup",
-  "question": "When Lucy reaches for a glass of lemonade from the tray, what will she do?",
-  "answer_with_knowledge": "Warn Mom about the yellow jacket and avoid that cup.",
-  "answer_without_knowledge": "Pick up the nearest lemonade and take a sip."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "He came home late, erupted, and slapped me. Upstairs, he opened his laptop and left it glowing while he cooked. I checked: dating-app emails, then a hidden bank account with $145,000. I set an ACH transfer of $140,000 to my 'oh no' account for midnight and changed the password. He called that dinner was ready; I said I'd lie down. Later I slipped downstairs. Into his AirPods he murmured to someone named Tinsley, asking for photos and promising the hidden money was safe, they'd fly to Cabo.",
-  "character": "the husband",
-  "implausible_knowledge": "I set an ACH transfer of $140,000 to my 'oh no' account for midnight and changed the password.",
-  "question": "After he finishes his whispered call to “Tinsley,” what is he most likely to do next?",
-  "answer_with_knowledge": "Go upstairs to check the funds.",
-  "answer_without_knowledge": "Keep planning the Cabo trip."
-}

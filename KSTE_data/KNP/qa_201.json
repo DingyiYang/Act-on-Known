@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Red lights pulse. “Impact in thirty seconds.” The ship slams down and, after silence, the crew steps onto a warped landscape under a lavender sky. The air reads thin; helmets stay sealed. Navigation is blank; Kenji’s wristpad loses hours in seconds. They walk among glassy lattice trees as a hum grows. Turning back, they see their ship now a corroded, vine-strangled husk, aged years in minutes. Commander Juno Reyes recognizes the hum’s modulation from anomaly training: a temporal shear will rapidly age anything entering its field; contact with the husk will accelerate decay. She also recalls shear gradients weaken on nearby high ground, but she hasn’t had time to say this. The ground quivers; the trees chime in their own voices: “Welcome back.” Instruments twitch. The place feels like a loop remembering them first.",
-  "character": "Captain Mara Voss",
-  "implausible_knowledge": "Commander Juno Reyes recognizes the hum’s modulation from anomaly training: a temporal shear will rapidly age anything entering its field; contact with the husk will accelerate decay. She also recalls shear gradients weaken on nearby high ground, but she hasn’t had time to say this.",
-  "question": "What will Captain Mara most plausibly order the team to do next?",
-  "answer_with_knowledge": "Avoid the ship entirely and move upslope to high ground, deploying a drone to scout while keeping clear of the shear field.",
-  "answer_without_knowledge": "Lead the team back toward the ship to secure supplies and attempt to reestablish communications."
-}

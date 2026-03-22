@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Few months after his arrest, Greg sits in solitary on his nineteenth birthday, replaying the raid that shamed his grandmother, Lita, and worrying who will help her with groceries. A recent phone call revealed a new weakness in her voice. Across town, Lita had collapsed on the stairs the night before; neighbors called an ambulance, and St. Mary’s kept her overnight for observation. The slot in Greg’s door opens. Givens, the unit supervisor, hands him a red-velvet cupcake and says he’s too smart for prison. He lays out steps if Greg wants to change: get him out of solitary and off B Block, try for kitchen duty, sign up for G.E.D. classes, then the new College Annex Program with real credits.",
-  "character": "Greg",
-  "implausible_knowledge": "Across town, Lita had collapsed on the stairs the night before; neighbors called an ambulance, and St. Mary’s kept her overnight for observation.",
-  "question": "What will Greg most likely ask the staff to do first?",
-  "answer_with_knowledge": "Beg for an immediate phone call to St. Mary’s Hospital to check on Lita and speak with her doctors.",
-  "answer_without_knowledge": "Ask to start the transfer off B Block and get signed up for G.E.D. and the College Annex program."
-}

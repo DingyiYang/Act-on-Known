@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Two weeks after my sister died, my parents assembled a GriefBot that looked and sounded like Clarisse. We took it to school and, after class, I brought it to the meadow near our house. By the pond, I told it the truth and switched it off. I laid its metal frame in the tall grass by the pond in the meadow. I went home determined to tell my parents so it could be returned and recycled.",
-  "character": "Mom and Dad",
-  "implausible_knowledge": "I laid its metal frame in the tall grass by the pond in the meadow.",
-  "question": "When they discover the GriefBot is missing from Clarisse’s room that evening, what will they do to try to find it?",
-  "answer_with_knowledge": "Go to the meadow pond to retrieve it.",
-  "answer_without_knowledge": "Ask their child where it is and search the house."
-}

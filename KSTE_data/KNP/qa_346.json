@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "In the interview room, the wolf admits he committed the crimes. Mr. R, a slick lawyer, says innocence does not matter; he can recast the wolf as a victim of anti-wolf prejudice, win a lighter sentence, and take half the profits from interviews, TV, and a book. Hearing this, the wolf would rather face punishment than let Mr. R turn him into a fake tragic hero.",
-  "character": "Mr. R",
-  "implausible_knowledge": "Hearing this, the wolf would rather face punishment than let Mr. R turn him into a fake tragic hero.",
-  "question": "What will Mr. R most likely do next to try to secure the arrangement?",
-  "answer_with_knowledge": "Stop pressing the deal and back away instead of presenting the papers.",
-  "answer_without_knowledge": "Open his briefcase, slide over the contract, and push the wolf to sign."
-}

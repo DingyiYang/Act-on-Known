@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "At the Midsummers Block Party, Jack meets Able.\nAble says his sister Alma swallowed a diamond ring in the hostess’s closet.\nJack decides they must find Alma and get his mom, then tell the truth.\nThey head for the lady’s porch to check that closet.\nMeanwhile, at the lemonade table, a neighbor has already found Alma and brought her to Jack’s mom, who is crouched holding Alma’s hand.\nJack and Able reach the porch steps, music loud behind them.",
-  "character": "Jack",
-  "implausible_knowledge": "Meanwhile, at the lemonade table, a neighbor has already found Alma and brought her to Jack’s mom, who is crouched holding Alma’s hand.",
-  "question": "What is Jack most likely to do next?",
-  "answer_with_knowledge": "Go to the lemonade table to meet his mom and Alma.",
-  "answer_without_knowledge": "Go inside the lady’s house to search the closet where Alma was last seen, planning to fetch his mom afterward."
-}

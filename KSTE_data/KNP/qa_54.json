@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Elias and Anna, broken by abuse and a sham trial, took revenge: Elias poisoned his judge father; they burned Anna’s cruel stepmother, drowned her stepfather, and cut the tycoon’s son’s brakes. Unsuspected, they moved into the mansion where Elias’s stepmother welcomed Anna; later they had a daughter. While folding laundry, the stepmother found a torn receipt for brake cables dated the night of the crash in Elias’s suit; she decided to tell the police after the baby’s christening. On the morning of the ceremony, as they loaded the car, the stepmother smiled and asked Anna if she could borrow the car after the blessing to run a quick errand.",
-  "character": "Anna",
-  "implausible_knowledge": "While folding laundry, the stepmother found a torn receipt for brake cables dated the night of the crash in Elias’s suit; she decided to tell the police after the baby’s christening.",
-  "question": "When Elias’s stepmother asks to borrow the car after the christening to run a quick errand, what will Anna do?",
-  "answer_with_knowledge": "Refuse the request, keep the keys, and insist they all stay together so the stepmother cannot slip away.",
-  "answer_without_knowledge": "Hand her the car keys and thank her for helping with errands."
-}

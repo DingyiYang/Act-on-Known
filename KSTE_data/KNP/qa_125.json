@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "She runs through the dense forest, breath steady, gripping her grandmother’s kitchen knife. The voices that once told her to wait are miles behind. Ahead, the wolf flees, foam at his mouth, cutting toward her grandmother’s cottage. Earlier that morning, hunters had tightened a blind snare just beyond the cottage gate, a loop of wire lost in the weeds. The chimney peeks through the trees; the path narrows, thorny and slick. The wolf slips through the swinging gate, brush rustling. Red is only a few strides behind, cape torn, knife warm in her palm.",
-  "character": "Red",
-  "implausible_knowledge": "Earlier that morning, hunters had tightened a blind snare just beyond the cottage gate, a loop of wire lost in the weeds.",
-  "question": "As she reaches the cottage gate in pursuit, what will she do next?",
-  "answer_with_knowledge": "Slow down and skirt the gate, circling around to avoid the snare.",
-  "answer_without_knowledge": "Charge straight through the cottage gate after the wolf."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "I’m thirteen days into playing princess-in-a-tower; they told me two or three. The purse only pays if I obey the big rule: never leave the tower—step out and the money turns to smoke. My water jug is frighteningly light, food down to crumbs. I dream a limping, horseless knight, tip from the window, and jolt awake. It’s still the tower, the hills empty. Two days earlier, back in town, the Knights Hall quietly posted an amendment: participants may step out briefly for water or food and return without forfeiting pay. I swallow my panic and stare at the jug.",
-  "character": "the princess-in-training",
-  "implausible_knowledge": "Two days earlier, back in town, the Knights Hall quietly posted an amendment: participants may step out briefly for water or food and return without forfeiting pay.",
-  "question": "With her supplies nearly gone and no rescuer in sight, what will she do now?",
-  "answer_with_knowledge": "Step outside to fetch water and food and then return to the tower.",
-  "answer_without_knowledge": "Stay in the tower and ration what remains rather than stepping outside."
-}

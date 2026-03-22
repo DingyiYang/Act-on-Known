@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "After the Library on the Moon revealed that enemy ships were closing on Earth, the United World States poured resources into orbital defenses. At Selene, Commander Imani scheduled a full-power test of a new shield ring guarding cislunar traffic. Late that night, engineer Pavel found hairline fractures in two superconducting coils and decided to recheck his data before filing a report. By morning, diplomats were arriving, cargo lanes had been cleared for the demonstration, and the base expected the test to show humanity was finally ready.",
-  "character": "Commander Imani",
-  "implausible_knowledge": "Late that night, engineer Pavel found hairline fractures in two superconducting coils and decided to recheck his data before filing a report.",
-  "question": "When the demonstration window opens, what will Commander Imani most likely do with the shield test?",
-  "answer_with_knowledge": "Postpone the demonstration and order an inspection of the damaged coils.",
-  "answer_without_knowledge": "Proceed with the full-power shield demonstration as scheduled."
-}

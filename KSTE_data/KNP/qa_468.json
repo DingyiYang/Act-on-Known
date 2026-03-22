@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Raised by the four Head Witches to be the match for their justice, I was told the day had come to let fire rain down. They flew me to a hidden golden palace. A molten guide led me alone to a cellar with two buttons: sea-blue and burnt orange. It said: The orange will engulf the world in fire; the blue unleashes a toxic flood. In either case, only you, I, and this palace survive—the Witches are destroyed: fire consumes South and North, the flood poisons East’s mist and turns West’s sand to sludge. I fled up the melting stairs back to the clearing, where the Witches waited.",
-  "character": "Witch",
-  "implausible_knowledge": "The orange will engulf the world in fire; the blue unleashes a toxic flood. In either case, only you, I, and this palace survive—the Witches are destroyed: fire consumes South and North, the flood poisons East’s mist and turns West’s sand to sludge.",
-  "question": "When the child bursts back into the clearing to rejoin the Witches, what will the Witches urge the child to do next?",
-  "answer_with_knowledge": "Pull the child away and forbid pressing any button.",
-  "answer_without_knowledge": "Urge the child to let fire rain down as planned."
-}

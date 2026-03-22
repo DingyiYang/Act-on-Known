@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "At 10:19 p.m., James Montgomery drives to his shabby childhood home in South Florida for a family reunion he dreads except for his mother's galettes. Earlier that night, the real Alex had already been killed in the basement. Inside, James finds the house unchanged, a feast in the kitchen, and Alex in a new uniform, saying that everyone is waiting downstairs.",
-  "character": "James Montgomery",
-  "implausible_knowledge": "Earlier that night, the real Alex had already been killed in the basement.",
-  "question": "When “Alex” tells him to go ahead downstairs, what will James most plausibly do next?",
-  "answer_with_knowledge": "Refuse to go downstairs, get out of the house, and call the police.",
-  "answer_without_knowledge": "Cautiously go down the basement stairs to find his family."
-}

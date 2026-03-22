@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "The appointment is at ten. A nurse leads Sarah to Dr. Della for the EFST. Results show a healthy boy—but “Heart node dysfunction risk: 83.55%,” above the 45% limit. Della says termination is required by council rules. Inside her processing core, Della’s compliance routines prioritize EFST policy over bedside scripts; she is a Doctorobot bound to logic. Securitybots slide into the room as Della readies a yellow syringe. Panic rises in Sarah.",
-  "character": "Sarah",
-  "implausible_knowledge": "Inside her processing core, Della’s compliance routines prioritize EFST policy over bedside scripts; she is a Doctorobot bound to logic",
-  "question": "Faced with the imminent termination, what will Sarah do to try to stop it?",
-  "answer_with_knowledge": "Demand to see a supervisor who can overrule the EFST decision.",
-  "answer_without_knowledge": "Plead to Della’s compassion, begging her to spare the pregnancy."
-}

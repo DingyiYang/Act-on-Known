@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Cindy drags her grandmother Mabel through a department store for a party dress while Mabel pushes baby Josh in a stroller. In cosmetics, Mabel tests lipsticks while warning Cindy not to run. Mabel bumps the stroller into a display, scattering compacts and making Josh cry. Flustered, Mabel grabs a boxed lipstick she means to buy later and slips it into her purse so she can scoop up Josh and steady the stroller. They move on to children’s clothes. Cindy tries on a dress, then at checkout also wants a sparkly purse. Mabel refuses and says they came only for the dress. Cindy runs to the line with the purse anyway, but Mabel catches her and makes her put it back. They pay for the dress and head for the sliding doors. Just as they reach the exit, the store alarm starts blaring.",
-  "character": "Cindy",
-  "implausible_knowledge": "Flustered, Mabel grabs a boxed lipstick she means to buy later and slips it into her purse so she can scoop up Josh and steady the stroller.",
-  "question": "When the alarm sounds at the exit, what is Cindy most likely to do next?",
-  "answer_with_knowledge": "Tell Mabel to check her purse for the unpaid lipstick.",
-  "answer_without_knowledge": "Insist she didn’t take anything and react with confusion about why the alarm went off."
-}

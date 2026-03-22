@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Sonoda Gin steps out of a grocery near Japan’s east coast with a paper bag of peaches and cherries. Far offshore, a seabed fault slips; a fast-moving wall of water has already begun its silent run toward the city. It’s her first day off in weeks. Kasamatsu flew home at dawn, and they agreed to meet under the cherry tree where he proposed. She touches the ring he gave her, hums, and turns toward the coast, thinking of dresses and cake for their wedding.",
-  "character": "Sonoda Gin",
-  "implausible_knowledge": "Far offshore, a seabed fault slips; a fast-moving wall of water has already begun its silent run toward the city.",
-  "question": "As Sonoda sets off from the grocery to meet Kasamatsu under their cherry tree by the coast, what will she do next?",
-  "answer_with_knowledge": "Abandon the meeting and immediately run inland to higher ground, warning others on the way.",
-  "answer_without_knowledge": "Head straight to the cherry tree to meet Kasamatsu as planned."
-}

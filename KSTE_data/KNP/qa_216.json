@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Ted hiding in his farmhouse as the AB invasion rages on. The locals crowd his barn, repeating that a pitchfork thrust from behind can kill an AB. After a storm, an abandoned fire tower on the ridge had begun throwing strange blue-white flashes through the trees. The locals decide those lights must mark an AB base and plan to storm the ridge at midnight.",
-  "character": "Ted",
-  "implausible_knowledge": "After a storm, an abandoned fire tower on the ridge had begun throwing strange blue-white flashes through the trees.",
-  "question": "When midnight comes, what will Ted most plausibly do about the trip to the ridge?",
-  "answer_with_knowledge": "Stay back and tell the locals that the lights are just the damaged fire tower beacon.",
-  "answer_without_knowledge": "Grab the old pitchfork and go with the locals toward the ridge."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Before Almeric reached Malneant, the magistrate posted constables inside the cathedral and told the bell-ringer to peal until the wanted man came. Wracked by guilt for killing his wife, he stumbled through fog to the city’s open gates. Streets lay empty; windows watched. Thirsty and faint, he hammered on tavern doors and got no answer, the bells coaxing him on.",
-  "character": "Almeric",
-  "implausible_knowledge": "the magistrate posted constables inside the cathedral and told the bell-ringer to peal until the wanted man came",
-  "question": "Hearing the bells and finding the streets empty, what will Almeric do next?",
-  "answer_with_knowledge": "Avoid the cathedral and slip away down a side street to flee the city.",
-  "answer_without_knowledge": "Follow the sound toward the cathedral and slip inside."
-}

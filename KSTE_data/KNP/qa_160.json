@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Emilia slipped into a South Florida botanical garden to reach her grandfather Miero, a shaman who could speak to trees. A kapok took hold of her hand and answered her thoughts; through it she felt the plants’ alarm for Amazonia. The ground lurched, and when she woke from a fall, the city had vanished. Beyond the entry arch spread Amazonian forest, a sandy path she somehow knew led home. In his village, sensing her through the trees, Miero had already started up that very path to meet whoever the garden delivered. Alone at the arch, dizzy but steady, Emilia weighed her next step: wait where she was, or follow the path toward her village.",
-  "character": "Emilia",
-  "implausible_knowledge": "In his village, sensing her through the trees, Miero had already started up that very path to meet whoever the garden delivered.",
-  "question": "At the arch, seeing only forest and a sandy path she feels leads home, what will Emilia do next?",
-  "answer_with_knowledge": "Stay by the arch and wait for Miero to arrive.",
-  "answer_without_knowledge": "Step onto the sandy path and start walking toward her village to try to find Miero."
-}

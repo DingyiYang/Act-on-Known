@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Martin and Mary—his Artificial Person companion—raised Leslee under a government baby-license policy; by program milestones she’s a teen now and goes out on dates. That afternoon, as Martin deadheaded roses, Mary skimmed a bulletin on her developer portal: due to demand, second-child licenses are temporarily suspended for six months pending review. Later, Peter picked up Leslee.",
-  "character": "Martin Riley",
-  "implausible_knowledge": "due to demand, second-child licenses are temporarily suspended for six months pending review",
-  "question": "Right after Leslee leaves, Martin brings up the idea of having a second child. What is he most likely to suggest they do about applying for the license?",
-  "answer_with_knowledge": "Suggest waiting and setting a reminder to apply after the six-month suspension ends.",
-  "answer_without_knowledge": "Suggest going online to start the application process immediately."
-}

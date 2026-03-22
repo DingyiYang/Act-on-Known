@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Jim bicycled to the village for supplies. At Henry’s bakery he was given an iced alphabet bun; each bun carried a different letter pattern, and Henry selected one carefully. Back home, Jim studied the letters on the bun; the pattern was a resistance code meant to be passed on later. Before he could do that, armed aliens burst into his cottage, accused him of helping saboteurs, and searched the house and shed. Finding nothing, the commander heard Jim mention he had bought bread, meat—and a bun that he loved. Jim then invited the commander to sit for coffee.",
-  "character": "The alien commander",
-  "implausible_knowledge": "Jim studied the letters on the bun; the pattern was a resistance code meant to be passed on later.",
-  "question": "When Jim offers him coffee and the iced bun after the failed search, what will the commander most plausibly do?",
-  "answer_with_knowledge": "Seize the bun as evidence, examine the letters, and keep Jim for further interrogation.",
-  "answer_without_knowledge": "Accept the coffee and bun, eat it, and leave once the search turns up nothing."
-}

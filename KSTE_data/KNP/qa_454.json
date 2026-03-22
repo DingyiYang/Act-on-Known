@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "After learning his missing polos are in the lost-and-found, Mom orders Tommy to earn enough to buy them back. All weekend he rakes and trims instead of playing. Deciding to make the lesson stick, Mom plans to walk the yard after dinner and dock five dollars from his earnings for anything left out. At dusk she calls, “Tommy! Dinner!” He drops the rake into the leaf pile, peels off his sweaty T‑shirt, and tosses it onto the rake. A flicker of worry: he feels like he’s forgetting something as he turns toward the house.",
-  "character": "Tommy",
-  "implausible_knowledge": "Deciding to make the lesson stick, Mom plans to walk the yard after dinner and dock five dollars from his earnings for anything left out.",
-  "question": "What will Tommy do?",
-  "answer_with_knowledge": "Grab the T‑shirt and put it away before going inside.",
-  "answer_without_knowledge": "Go inside to dinner, leaving the T‑shirt on the rake."
-}

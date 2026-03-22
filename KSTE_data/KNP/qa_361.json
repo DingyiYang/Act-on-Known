@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "My right hand won’t stop shaking after the young Marshal arrives. He asks about the body at the White Crow Mine; I lie that Sarah Jenkins found me and there was a dead “merchant.” Hartwell presses: wrong season, rich, armed; he points to my trips to the “abandoned” mine and the empty wallet. On the porch he says Morrison was an undercover U.S. Marshal and that my story is riddled with tells. Then he gives me the rest: Sarah Jenkins never found the body; I’d coached her to say she did, and Hartwell already has that pegged. He declares me under arrest.",
-  "character": "Sarah Jenkins",
-  "implausible_knowledge": "Sarah Jenkins never found the body; I’d coached her to say she did, and Hartwell already has that pegged.",
-  "question": "Later that night, when Marshal Hartwell questions Sarah about how the body was discovered, what will she do?",
-  "answer_with_knowledge": "Admit she never found the body and reveal the sheriff coached her to lie.",
-  "answer_without_knowledge": "Repeat the coached story that she discovered the body and fetched the sheriff."
-}

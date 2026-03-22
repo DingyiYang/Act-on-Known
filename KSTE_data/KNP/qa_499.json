@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Every Thursday, Izzard the Wizard dragged his Big Book to the castle yard to practice in public. He had snatched Mimi, a secondhand velveteen doll, to display on a blanket nearby. For weeks, McGee, Mimi’s gritty ragdoll daughter, had hidden behind a stone fence with Big Black Dog, watching him misread spells and memorizing the words she needed. On this Thursday she meant to act and free Mimi. ",
-  "character": "Izzard the Wizard",
-  "implausible_knowledge": "For weeks, McGee, Mimi’s gritty ragdoll daughter, had hidden behind a stone fence with Big Black Dog, watching him misread spells and memorizing the words she needed. On this Thursday she meant to act and free Mimi.",
-  "question": "What will Izzard do this Thursday?",
-  "answer_with_knowledge": "Shut the book, pull Mimi away, and retreat to practice privately under protection.",
-  "answer_without_knowledge": "Bluster on and practice the spell out loud in public with the book open and Mimi left on display."
-}

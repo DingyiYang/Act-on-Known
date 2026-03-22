@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Ellen, an ad executive, sees a leprechaun named Declan at dinner. He calls her “your highness,” says she’s to be queen; only she can see him; Dale cannot. She jokes about a castle, then vanishes. As she fades, Declan murmurs she can visit her family exactly six years later at midnight on Midsummer’s Eve, when a door opens beneath the old oak in Riverview Park. Six years later, on Midsummer’s Eve, Dale tucks in Jamie, says he doesn’t know if Mommy will return, then sits on the couch and sobs.",
-  "character": "Dale",
-  "implausible_knowledge": "As she fades, Declan murmurs she can visit her family exactly six years later at midnight on Midsummer’s Eve, when a door opens beneath the old oak in Riverview Park",
-  "question": "After putting Jamie to bed on Midsummer’s Eve, what will Dale most likely do next?",
-  "answer_with_knowledge": "Go to Riverview Park and wait under the old oak at midnight.",
-  "answer_without_knowledge": "Stay home on the couch, grieving."
-}

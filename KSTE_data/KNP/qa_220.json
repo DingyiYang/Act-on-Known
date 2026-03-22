@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Karen and Mike drive to Exbeth’s flower-filled house on Sunset Street, where the fronts of the houses are pristine—“Exbeth pays her gardener to keep the whole street’s curbside neat,” Mike says. They knock and ring; no answer. A sour smell hangs at the door. Mike jokes they might see Exbeth “in action” and tells Karen the key is taped behind the bird nesting box. Down the block, the gardener, following Exbeth’s standing instruction to report any use of the hidden key when she wasn’t expecting visitors, calls the police for a welfare check. Mike points again to the bird box: “There.”",
-  "character": "Karen",
-  "implausible_knowledge": "Down the block, the gardener, following Exbeth’s standing instruction to report any use of the hidden key when she wasn’t expecting visitors, calls the police for a welfare check.",
-  "question": "What will Karen do next at the door?",
-  "answer_with_knowledge": "Wait outside and call dispatch to coordinate with the already-alerted police instead of entering.",
-  "answer_without_knowledge": "Use the hidden key to unlock the door and enter to check on Exbeth."
-}

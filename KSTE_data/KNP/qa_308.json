@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Earlier that afternoon, the coroner, grumbling about a misplaced ring, taped a spare set of cold-room keys beneath the rail of the third body tray from the left.\nThat night, Willow follows a location pin Ava sent to the town morgue. White tiles. A wall of metal doors. She opens trays until she finds Ava—ice-cold, bruised, wrists chained to the rail with fat padlocks. Ava barely breathes her name. A cluttered workbench sits a few steps away under fluorescent glare. Heart racing, Willow tugs at the locks with her fingers and scans for anything she can use to free her friend.",
-  "character": "Willow",
-  "implausible_knowledge": "Earlier that afternoon, the coroner, grumbling about a misplaced ring, taped a spare set of cold-room keys beneath the rail of the third body tray from the left.",
-  "question": "When Willow tries to get Ava free from the padlocked chains, what will she do?",
-  "answer_with_knowledge": "Reach under the third tray from the left to retrieve the taped spare keys and unlock the padlocks.",
-  "answer_without_knowledge": "Grab a scalpel from the workbench and try to pick the padlocks."
-}

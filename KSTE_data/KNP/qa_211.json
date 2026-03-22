@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Captain Williams barely escaped a striped giant and hid in a tree hollow until Alora arrived and calmed the beast like a pet. They hurried to ensure the hydrogen generator stayed topped off so their chameleon shield wouldn’t fail. While Williams worried out loud about the shield, Alora had already logged the crash site’s exact coordinates in her internal navigation and kept moving. As dusk fell and they trekked back through fields, Williams squinted at the terrain. He couldn’t remember the exact site where they’d parked—crashed.",
-  "character": "Captain Williams",
-  "implausible_knowledge": "While Williams worried out loud about the shield, Alora had already logged the crash site’s exact coordinates in her internal navigation and kept moving.",
-  "question": "At dusk, when he can’t remember the exact crash site, what will Captain Williams do to locate the ship?",
-  "answer_with_knowledge": "Ask Alora and follow her directions to the ship.",
-  "answer_without_knowledge": "Recommend to try the range he remembered."
-}

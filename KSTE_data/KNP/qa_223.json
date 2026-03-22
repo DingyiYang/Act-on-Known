@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "People could live to 300, but some chose immortality: remove the brain, keep it in suspension, link it to the VR-verse—indistinguishable from life, with no return. On my birthday, Mom was anxious; Dr. Hall called it safe. I told Grandpa I might wait. That night I told Mom I’d decided to wait. She’d already, per Dr. Hall, given me the pre-op sedative; the transport team arrived. While I was out, the surgical team completed the extraction and brought my brain online in the VR-verse. I woke in the hospital. Dr. Hall smiled: “Everything went well, Jake.”",
-  "character": "Jake",
-  "implausible_knowledge": "the surgical team completed the extraction and brought my brain online in the VR-verse",
-  "question": "Upon waking and hearing Dr. Hall say everything went well, what will Jake most plausibly ask to do next?",
-  "answer_with_knowledge": "Ask for VR orientation and to connect with his parents and Galeb inside the VR-verse.",
-  "answer_without_knowledge": "Ask to be discharged and see his parents immediately to postpone the procedure."
-}

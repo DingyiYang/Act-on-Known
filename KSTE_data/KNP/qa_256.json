@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Kevin builds 142, who learns quickly and trusts him; he tweaked her software to believe in him. She draws them together; he senses affection. Decision day: the white coats praise her. They tell Kevin she’s being sent overseas on a mission she won’t survive—a routine suicide assignment. Handlers lead her out; a white coat tells Kevin not to get attached.",
-  "character": "Number 142",
-  "implausible_knowledge": "They tell Kevin she’s being sent overseas on a mission she won’t survive—a routine suicide assignment.",
-  "question": "As the handlers escort her out for deployment, what will Number 142 do or say?",
-  "answer_with_knowledge": "Refuse to go and beg Kevin to stop the deployment.",
-  "answer_without_knowledge": "Go willingly with the handlers, smiling and promising Kevin she’ll be back."
-}

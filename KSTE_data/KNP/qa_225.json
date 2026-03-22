@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Braemore drops his aging camo quadpod to treetop level as Southern Pact scramblers slide in to bracket him. “They want cargo aboard. I’ve cut a very good deal,” he tells Brionna, then flips a distress call—“onboard emergency, must land”—and aims for a plume of yellow smoke, the agreed zone. She glares; he’s changed the plan again. On a secure Southern Pact net, a terse update goes out: detain both smugglers and seize the quad, regardless of promises.",
-  "character": "Braemore",
-  "implausible_knowledge": "On a secure Southern Pact net, a terse update goes out: detain both smugglers and seize the quad, regardless of promises.",
-  "question": "What will Braemore do?",
-  "answer_with_knowledge": "Abort the approach and bolt at treetop level to evade capture.",
-  "answer_without_knowledge": "Proceed to the agreed landing zone and put down as planned to make the exchange."
-}

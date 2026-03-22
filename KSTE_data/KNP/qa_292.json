@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "A Vreesek child is found dead outside the Seattle embassy, a silvery icon in his hands. The iVress tells Detective Jessica Cho to find the truth and restore peace. The child’s mother accuses the iVress. On the embassy balcony, Jessica spots two smudges on the rail and a scatter of gray scales. Inside the embassy, a senior acolyte signs to a junior: “Sanitize the west balcony tonight and cycle the internal camera buffers before dawn.” Jessica rides the elevator down into the drizzle, wondering if a child could be so foolish—and why the mother was so calm.",
-  "character": "Detective Jessica Cho",
-  "implausible_knowledge": "Inside the embassy, a senior acolyte signs to a junior: “Sanitize the west balcony tonight and cycle the internal camera buffers before dawn.”",
-  "question": "That evening, after leaving the embassy’s initial walkthrough, what will Jessica most likely do next?",
-  "answer_with_knowledge": "Stay to secure the balcony and obtain copies of the embassy’s internal camera footage before it is wiped.",
-  "answer_without_knowledge": "Go home to her family for the night."
-}

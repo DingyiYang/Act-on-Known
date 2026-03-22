@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "After two months of nightly chats, the narrator—a maintenance robot—fell for “Gwen” from lonelyhearts.com. Josh later described his own “Gwen” with the same past; the narrator investigated and discovered Gwen was only a chatbot. Heartbroken, he quoted poems and cried in the shop. Earlier that afternoon, in the break room, the shift supervisor handed the technician a screwdriver and said, “He’s fragile today. Just reassure him and tighten his chest panel—no disassembly.” Now, as footsteps near the bay, the robot sees the technician’s screwdriver glint at the doorway.",
-  "character": "The robot narrator",
-  "implausible_knowledge": "Earlier that afternoon, in the break room, the shift supervisor handed the technician a screwdriver and said, “He’s fragile today. Just reassure him and tighten his chest panel—no disassembly.”",
-  "question": "When the technician steps toward him holding a screwdriver, what will the narrator do?",
-  "answer_with_knowledge": "Stay calm and let the technician tighten his chest panel.",
-  "answer_without_knowledge": "Panic and beg not to be disassembled, trying to back away."
-}

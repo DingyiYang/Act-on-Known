@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "On Arthur’s estate, a gen-three humanoid became his cleaner, then his companion, and after many years, his wife. They lived happily for thirty-two years while he aged and she did not. Arthur often worked late behind locked doors. He built a facility in Leeds and created a humanoid version of himself. Arthur eventually died peacefully. In grief, she found the riddles, password, and map he had left. Following them, she arrived at the hidden facility in Leeds, where a humanoid named Blake welcomed her.",
-  "character": "SHE0456",
-  "implausible_knowledge": "He built a facility in Leeds and created a humanoid version of himself.",
-  "question": "When Blake greets her at the facility, what is SHE0456 most likely to do?",
-  "answer_with_knowledge": "Ask Blake to take her straight to Arthur.",
-  "answer_without_knowledge": "Ask Blake what Arthur wanted her to find there."
-}

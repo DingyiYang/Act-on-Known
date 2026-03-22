@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Mark hurried through the park with his dog, Rufus. He tossed a stick into the trees and waited for the usual thudding return.Deeper in the brush, Rufus stopped beside a person lying in the leaves, bleeding and barely conscious.  Mark checked the time and called the dog’s name. The stick hadn’t come back.",
-  "character": "Mark",
-  "implausible_knowledge": "Deeper in the brush, Rufus stopped beside a person lying in the leaves, bleeding and barely conscious.",
-  "question": "What will Mark do next?",
-  "answer_with_knowledge": "Call 911 to save the injured person.",
-  "answer_without_knowledge": "Try to find his dog Rufus."
-}

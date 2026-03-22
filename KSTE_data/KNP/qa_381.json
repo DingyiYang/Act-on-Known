@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Henry returns to his childhood house, its rooms hushed since his father went into hospital on January 15. The hall is unchanged: an old telephone on directories, framed sea prints, a plastic calendar frozen on that date. He climbs the creaking stairs. High above, a small brown bird, trapped since morning, flits along the joists in frantic starts and stops. He turns into his old bedroom, steps into the bathroom, and steams the mirror. A sudden noise sounds behind him.",
-  "character": "Henry",
-  "implausible_knowledge": "High above, a small brown bird, trapped since morning, flits along the joists in frantic starts and stops.",
-  "question": "When Henry hears the sudden noise upstairs, what will he do?",
-  "answer_with_knowledge": "Save the trapped bird.",
-  "answer_without_knowledge": "Rush to look for an intruder."
-}

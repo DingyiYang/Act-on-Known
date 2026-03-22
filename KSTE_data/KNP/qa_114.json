@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Sarah bought a $2 DVD from a strange secondhand shop; on its cover, the girl looked just like her daughter Joanie. That night, she and Ben played it. A Bach prelude underscored the girl saying “Hi Mom and Dad,” that she hoped they’d find this before the news and that she hadn’t chosen to leave. Earlier that morning, on the drive to San Francisco, Joanie had died in a car accident. The screen went to static; the den fell quiet.",
-  "character": "Sarah",
-  "implausible_knowledge": "Earlier that morning, on the drive to San Francisco, Joanie had died in a car accident.",
-  "question": "Right after the video ends, what will Sarah most likely do?",
-  "answer_with_knowledge": "Call the police or highway patrol to confirm the fatal accident and ask for details.",
-  "answer_without_knowledge": "Call Joanie’s phone and her dorm to try to reach her."
-}

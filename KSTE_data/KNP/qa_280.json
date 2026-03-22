@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Ben and Anna discover they share the same living room across forty-seven years: her house in 1988, his smart apartment in 2035. Anna says Jack, her physicist husband, studied “temporal resonance” and feared Northlight Dynamics would exploit it. As they keep talking, Ben checks his landlord’s prospectus on his tablet and finds that Continuum absorbed Northlight in the late ’80s; he starts to suspect his apartment’s sensor web is a listening post. Anna watches him from her phantom sofa.",
-  "character": "Anna",
-  "implausible_knowledge": "As they keep talking, Ben checks his landlord’s prospectus on his tablet and finds that Continuum absorbed Northlight in the late ’80s; he starts to suspect his apartment’s sensor web is a listening post.",
-  "question": "That evening, when Jack comes home, what will Anna most likely do?",
-  "answer_with_knowledge": "Warn Jack that Northlight’s future successor is using the site to study the anomaly and urge him to hide or destroy all of his resonance research immediately.",
-  "answer_without_knowledge": "Tell Jack that she saw a man from another time in their living room and ask him to explain what his resonance research could mean."
-}

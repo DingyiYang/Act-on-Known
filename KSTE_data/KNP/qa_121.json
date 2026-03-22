@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Fugitive witch Cecily ducked into a highway hotel, hiding under a red wig. At the bar she met Orlando; upstairs he came out with a gun and her real name. She curved the shot back and burned his body clean. Meanwhile, the bar’s cameras had flagged her face on a watchlist; the desk clerk forwarded the alert. Cecily stepped into the corridor, satchel thumping her ribs.",
-  "character": "Cecily",
-  "implausible_knowledge": "Meanwhile, the bar’s cameras had flagged her face on a watchlist; the desk clerk forwarded the alert.",
-  "question": "After stepping into the corridor, what will Cecily most plausibly do next to avoid being caught?",
-  "answer_with_knowledge": "Slip out a service exit and get out of town immediately, avoiding the lobby and any hotels.",
-  "answer_without_knowledge": "Go to another nearby hotel and check in under a new name and wig."
-}

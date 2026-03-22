@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Poseidon took Euryale in Athena's temple; Athena punished her, turning her hair to snakes and her gaze to stone. Driven out, Euryale rages and plans: She weaves a veil, packs a few apples, and slips away at night to climb Olympus and confront the haughty virgin. Step by clanking step, Euryale nears their halls, intending to call Athena out and tear aside her veil so Athena must see her. That week, Athena had gone down to Athens to judge the Panathenaea's weaving, leaving Olympus quiet. Euryale reaches the shining thresholds.",
-  "character": "Euryale",
-  "implausible_knowledge": "That week, Athena had gone down to Athens to judge the Panathenaea's weaving, leaving Olympus quiet.",
-  "question": "What will Euryale do next to confront Athena?",
-  "answer_with_knowledge": "Turn back and head to Athens to confront Athena at the Panathenaea.",
-  "answer_without_knowledge": "Call out for Athena in Olympus and tear aside her veil to force a face-to-face confrontation."
-}

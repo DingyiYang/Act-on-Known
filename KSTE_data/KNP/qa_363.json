@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Aaron prepped house for sale; Larry arrived in biker gear, demanding “his nails.” They argued politely over tea; Larry insisted he had time to wait. The doorbell: police looking for Larry in a missing-person inquiry. As two officers spoke inside, a third circled Larry’s bike on the curb; into his radio he said they'd be back shortly to collect any property Larry left behind. Larry went with them. Aaron watched the cars pull away; the motorcycle stayed. Back inside, Larry’s backpack sat by the couch; Aaron eyed it.",
-  "character": "Aaron",
-  "implausible_knowledge": "into his radio he said they'd be back shortly to collect any property Larry left behind",
-  "question": "What will Aaron most plausibly do about Larry’s backpack now?",
-  "answer_with_knowledge": "Leave the backpack untouched and wait for the officers to return",
-  "answer_without_knowledge": "Open the backpack to see what’s inside"
-}

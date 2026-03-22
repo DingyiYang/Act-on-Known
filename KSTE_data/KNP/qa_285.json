@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Marcus adores Signal’s work; they trade long threads and in-jokes. One morning she announces an indefinite health hiatus; the net erupts. He can’t shake the wrong notes—whispers of suffering, breathlessness, being alone—and messages her. She reassures him, then briefly leaves in and deletes a line echoing his fear of lives burning up in the dark. Offstage, in a windowless clinic-like facility, Signal lies badly injured, tethered to a failing experimental neural system. Only an on-site link with someone she trusts, via a risky prototype, could steady her; she will later DM Marcus an address and passcode. Days pass.",
-  "character": "Marcus",
-  "implausible_knowledge": "Offstage, in a windowless clinic-like facility, Signal lies badly injured, tethered to a failing experimental neural system. Only an on-site link with someone she trusts, via a risky prototype, could steady her; she will later DM Marcus an address and passcode.",
-  "question": "After the hiatus announcement and her odd, quickly deleted message, what will Marcus do next to try to help?",
-  "answer_with_knowledge": "Book a flight to the facility and use the passcode to reach her in person.",
-  "answer_without_knowledge": "Keep messaging her and monitoring her posts, offering simple mental support."
-}

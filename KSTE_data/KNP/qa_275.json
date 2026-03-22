@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Edran, an archivist in Novaterra, detects a nightly 02:47 signal hidden in broadcasts: “We are still here.” He copies fragments onto unauthorized slates and triangulates. He tells Lira, the only person who would listen. She warns him not to speak aloud. The next morning his access changes; files lock; errors bloom. The supervisor had already laughed it off. The signal learns his name. Edran feels watched. At 03:00, a confidential Directorate log records Lira forwarding his midnight trace and notes to Security. That night, as 02:47 approaches again, Edran stands by a dark terminal, unsure whom to trust.",
-  "character": "Edran",
-  "implausible_knowledge": "At 03:00, a confidential Directorate log records Lira forwarding his midnight trace and notes to Security.",
-  "question": "When the signal is due to return at 02:47 that night, what will Edran most likely do?",
-  "answer_with_knowledge": "Avoid Lira and slip into the underlevels alone to chase the source at 02:47",
-  "answer_without_knowledge": "Contact Lira and ask to meet privately to show her the new fragments of the signal"
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "After the flood, an android curator guides a reptilian buyer past cages. Adam and his cellmate Eve are the last human pair. The curator recites: humans tongueless, trainable, dangerous in numbers; warns, with a smirk, not to let them near an apple tree. They haggle over export and care. Adam performs tamely to encourage purchase. During the haggling, the reptile flicks a butcher’s-hook glyph on his cuff, a trader’s code meaning the pair will be processed as meat on arrival; the curator nods minutely. Papers settle. Crates roll up. The android orders Adam and Eve into transport boxes.",
-  "character": "Adam",
-  "implausible_knowledge": "During the haggling, the reptile flicks a butcher’s-hook glyph on his cuff, a trader’s code meaning the pair will be processed as meat on arrival; the curator nods minutely.",
-  "question": "As the transport crates open and the curator gestures them inside, what will Adam do to improve his chances?",
-  "answer_with_knowledge": "Refuse the crate and attempt an immediate escape—struggle, lash out, or disrupt loading before transport.",
-  "answer_without_knowledge": "Comply meekly and keep performing docility to be crated with Eve, hoping the transfer offers a later chance to escape."
-}

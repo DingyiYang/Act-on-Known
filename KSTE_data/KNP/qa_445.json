@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "More than a century and a half later, children in the attic of the Mystical Coast Lighthouse pry open a hidden trunk. Double-folded beneath a slidable plank lies a tarnished brass key etched with a lighthouse, a keeper’s key to the lamp room. Emily lifts a worn book. Through the lamp room window, the old blue lantern glows in the sun. Dust floats; the room is quiet, expectant.",
-  "character": "Emily",
-  "implausible_knowledge": "Double-folded beneath a slidable plank lies a tarnished brass key etched with a lighthouse, a keeper’s key to the lamp room.",
-  "question": "What will Emily most likely do next?",
-  "answer_with_knowledge": "Slide the bottom plank aside, retrieve the brass key, and go to unlock the lamp room.",
-  "answer_without_knowledge": "Open the book and start reading it aloud."
-}

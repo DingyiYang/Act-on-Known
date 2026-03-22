@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "The Recycler is training X-5783, an expelled Shelter boy who has never been outside. He fumbles with his mask and trembles as they scavenge through the trash mountain for valuables and sealed food. The Recycler explains outside routines. After talking about the Shelter and assigned sectors, they keep digging. Then the Wall Wind hits,  from a lifetime in the wastes, the Recycler knows that the safe move is to drop and ball up immediately.",
-  "character": "X-5783",
-  "implausible_knowledge": "After talking about the Shelter and assigned sectors, they keep digging. Then the Wall Wind hits,",
-  "question": "When the Wall Wind suddenly hits, what will X-5783 most plausibly do?",
-  "answer_with_knowledge": "Drop at once and curl into a ball until the Wall Wind passes.",
-  "answer_without_knowledge": "Stay upright and try to run toward the Recycler for help."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Mara Thorne secretly killed someone a month ago with an ice blade that melted away. At Warehouse 17, the masked Miren confronts her and produces footage of the killing on a flash drive; Robert Vale admits he knew about the murder and has his own photo of Mara over the body. Mara forces Robert to delete his photo, takes Miren's drive, and warns Robert never to manipulate her again. Before entering the warehouse, Robert had arranged for a small waterproof recovery capsule and blue locator light to be fixed beneath Mara's favorite pier.  Dawn comes, and Mara returns alone to the pier with the flash drive in her hand.",
-  "character": "Mara Thorne",
-  "implausible_knowledge": "Before entering the warehouse, Robert had arranged for a small waterproof recovery capsule and blue locator light to be fixed beneath Mara's favorite pier.",
-  "question": "What will Mara most plausibly do with the flash drive now?",
-  "answer_with_knowledge": "Keep the flash drive for now and dispose of it somewhere else after dealing with the pier's hidden retrieval setup.",
-  "answer_without_knowledge": "Throw the flash drive into the sea from the pier."
-}

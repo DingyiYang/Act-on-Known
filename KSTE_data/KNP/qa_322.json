@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "After he and his brothers rob a Santa Fe bank and bury the gold by a black, rotted tree, Randall decides the two drunks are a danger and cuts their throats before dawn. He digs up the stash, loads it on three horses, rides to town, and launders the haul through two brokers and a crooked assayer for drafts and cash. Randall sells the horses and plans to take the 3:10 to Yuma.When the deal is done, the assayer strolls into the telegraph office and wires a fixer to have the 3:10 to Yuma watched.",
-  "character": "Randall Chisholm",
-  "implausible_knowledge": "When the deal is done, the assayer strolls into the telegraph office and wires a fixer to have the 3:10 to Yuma watched.",
-  "question": "What will Randall do next?",
-  "answer_with_knowledge": "Avoid the 3:10, slipping out of town by another route.",
-  "answer_without_knowledge": "Board the 3:10 to Yuma as planned."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "In a reeking cave, a hulking beast blocked the court sorcerer, roaring for a flag bearer so the king would finally see him. The sorcerer soothed him with a vision of Daletop—high winds, banners, caverns that reached the castle. He promised: at dusk tomorrow he would send a falcon to this mouth; follow it and it would lead to Daletop and tribute. The beast wept and let him go. Outside, the wilderness and falconers waited. At the treeline the sorcerer ordered a falcon loosed at dusk and sent riders to warn the king; lancers would wait by Daletop’s mouth, behind the standards, to kill the beast as it climbed.",
-  "character": "The beast",
-  "implausible_knowledge": "At the treeline the sorcerer ordered a falcon loosed at dusk and sent riders to warn the king; lancers would wait by Daletop’s mouth, behind the standards, to kill the beast as it climbed.",
-  "question": "The next evening, when a falcon wheels above the cave mouth and heads toward the hills, what will the beast do?",
-  "answer_with_knowledge": "Stay hidden in the cave and refuse to follow.",
-  "answer_without_knowledge": "Follow the falcon toward Daletop."
-}

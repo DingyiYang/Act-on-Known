@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Dr. Lynxala runs Blackdeep’s perilous antimatter experiments and, under the pen name \"Professor Skywine,\" trades drafts with a flattering \"agent.\" He downloads her notes to a private server. A script rides the unsecured coffee machines; when he orders a nightcap—\"Cream, two sugars\"—the panel chirps. In that blink, the vixen guesses his passcode \"Skywine\" and seizes administrator control of Blackdeep’s systems. He sleeps; colleagues, tipsy on Vulanian wine, drift off. Morning: eggs, spreadsheets, and a worn-out team asking for a day off. He’s about to agree—until a green directive appears from the bosses: \"No breaks; proceed.\"",
-  "character": "Dr. Lynxala",
-  "implausible_knowledge": "the vixen guesses his passcode \"Skywine\" and seizes administrator control of Blackdeep’s systems",
-  "question": "When the green directive from the bosses arrives telling the team “No breaks; proceed,” what is Dr. Lynxala most likely to do next?",
-  "answer_with_knowledge": "Halt the experiment, isolate the network (including the coffee machines), and trigger a security lockdown.",
-  "answer_without_knowledge": "Obey the directive and start the run—loading Protocol 3-0-1-0 on the accelerator."
-}

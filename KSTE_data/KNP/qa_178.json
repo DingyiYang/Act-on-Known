@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "After “The Meeting” at Rubagub Robotics, Leo rips off his ID and bolts for the exit, determined to reach Irene before gossip or management does. He heads for his Chevy through the snow, telling himself a face-to-face apology can still save them. At their white clapboard house, Irene lets the Dispatchers into the nursery to pack it up, ready to leave and end the marriage. In the lobby Nora needles him; he pushes past, reaches his snow-blanketed car, and fumbles for his phone—then hesitates.",
-  "character": "Leo",
-  "implausible_knowledge": "At their white clapboard house, Irene lets the Dispatchers into the nursery to pack it up, ready to leave and end the marriage.",
-  "question": "At his car, Leo hesitates with his phone in hand. What will he most plausibly do next to try to reach Irene?",
-  "answer_with_knowledge": "Call Irene from the car instead of driving over.",
-  "answer_without_knowledge": "Start the car and drive straight to the house to speak to her face-to-face."
-}

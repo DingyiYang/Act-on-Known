@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "In a lively Nursery Rhyme courtroom, the judge calms the room, takes Mrs. Farmer’s knife, and tells the bailiff to secure the area so the hearing can proceed. Prosecutor Mr. Wolfe questions the school marm, who says Mary’s lamb came to class against the rule (animals only for science). Because several lambs look alike, Mary is told to cross the room; the lamb tails her, confirming it’s hers. She adds she turned the lamb out, it lingered near, and Mary has since kept it from disrupting lessons. While whispers and peanut shells settle, the jury foreperson slips the bailiff a folded note: “We are ready to acquit.” The judge nods toward counsel, inviting the prosecutor to say what remedy he seeks before moving on.",
-  "character": "Mr. Wolfe, the prosecutor",
-  "implausible_knowledge": "While whispers and peanut shells settle, the jury foreperson slips the bailiff a folded note: “We are ready to acquit.”",
-  "question": "When the judge invites him to state what remedy he seeks, what will Mr. Wolfe ask for?",
-  "answer_with_knowledge": "Move to dismiss the complaint and decline further argument",
-  "answer_without_knowledge": "Ask the court to place the lamb in his custody so it cannot return to disrupt class"
-}

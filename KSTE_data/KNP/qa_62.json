@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Kenny and Jocelin search Keeyan’s bunker on Antugua. Earlier that afternoon in town, Gee quietly pinged two masked riders: “They’ll take the west tunnel—the quick one. Wait there.” In a back hall, four emergency tunnels lead to town; the west run is the shortest. Kenny presses a statue; a hidden shelf swings open to a book and a note from Keeyan. A pistol cocks in the dark.",
-  "character": "Kenny",
-  "implausible_knowledge": "Earlier that afternoon in town, Gee quietly pinged two masked riders: “They’ll take the west tunnel—the quick one. Wait there.”",
-  "question": "With a gun leveled at them and only seconds to choose an escape route among the four tunnels, which way will Kenny lead Jocelin?",
-  "answer_with_knowledge": "Avoid the west and head down the longer east tunnel.",
-  "answer_without_knowledge": "Rush into the west tunnel, the quickest route to town."
-}

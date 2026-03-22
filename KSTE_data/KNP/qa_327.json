@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "The back bell pulsed; Pachelbel, the hearse, came and went. On the table lay a black canvas bag. Marcell unzipped it: a pale face, two coins winking on the eyes—payment. The coins were cleverly plated brass, fresh from a basement mint, good enough to pass by look and weight. He closed the zipper. The room was hushed; the steam iron hissed beyond.",
-  "character": "Marcell Crane",
-  "implausible_knowledge": "The coins were cleverly plated brass, fresh from a basement mint, good enough to pass by look and weight.",
-  "question": "What will Marcell do next with this delivery and its payment?",
-  "answer_with_knowledge": "Refuse the job and send the bag back to its patron.",
-  "answer_without_knowledge": "Proceed with the standard fitting—enter between, dress the dead off the rack, and send the body down the chute."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Tonight I sit across from him, too late to turn back. Earlier, instead of going to my shift, I drove to the storage unit and took out what I had hidden there: a small vial meant to vanish in whiskey. He comes in, loosens his tie, and, as always, “Pour me a glass of poison!” I bring the whiskey. He asks why I skipped my shift—Elizabeth has told him. I lie about a migraine and a prescription. The house is spotless; my face calm.",
-  "character": "the husband",
-  "implausible_knowledge": "Earlier, instead of going to my shift, I drove to the storage unit and took out what I had hidden there: a small vial meant to vanish in whiskey",
-  "question": "What will he most plausibly do next?",
-  "answer_with_knowledge": "Push the glass away and refuse to drink.",
-  "answer_without_knowledge": "Lift the tumbler and drink the whiskey."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Mark Forster, alone at Mars’s Second Post, watered an aloe he’d potted in red Martian soil. The rest of the crew worked far to the north; storms scoured the outpost each night. The aloe had ridden with him from First Post. Up north, a scheduled maintenance window at dawn would take the Second Post’s high‑gain link offline for six hours, severing live calls to the north site. Often he woke before sunup to watch the plain. One pale dawn he leaned over the pot as a violet tip pushed through the dust; beyond the hill, lilac shoots pierced the ochre, unfurling into blooms that seemed to lean toward the aloe. The wind’s song changed as the plain woke color by color.",
-  "character": "Mark Forster",
-  "implausible_knowledge": "Up north, a scheduled maintenance window at dawn would take the Second Post’s high‑gain link offline for six hours, severing live calls to the north site.",
-  "question": "Right after witnessing the sudden bloom across the plain, what will Mark most likely do to alert the rest of the crew?",
-  "answer_with_knowledge": "Start recording and queue an automated data burst for when the link returns instead of attempting a live call.",
-  "answer_without_knowledge": "Grab the comms handset and try to raise the north site immediately."
-}

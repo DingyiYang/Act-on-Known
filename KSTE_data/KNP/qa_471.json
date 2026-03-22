@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Bobby, nine, is spending a hot Saturday in Biloxi waiting through his mother’s kitchen wedding to Donald. He keeps telling Mary Ann from next door that after the marriage they’re moving to Houston, where Donald expects a warehouse promotion and Mama hopes to sell insurance. While Bobby is setting up folding chairs in the living room, Donald steps onto the porch to answer a call from work: the Houston job will not be confirmed until Monday, and the transfer could still fall through. Uncle John performs the homemade ceremony, the family eats cake, and Donald later reassures Bobby that they’ll be happy in Houston and that he can mail Mary Ann a postcard. Then Mary Ann corners Bobby again and asks about Texas.",
-  "character": "Bobby",
-  "implausible_knowledge": "Donald steps onto the porch to answer a call from work: the Houston job will not be confirmed until Monday, and the transfer could still fall through.",
-  "question": "When Mary Ann asks again about Texas, what will Bobby most likely tell her?",
-  "answer_with_knowledge": "Tell her the move might not happen because Donald’s Houston job still isn’t settled.",
-  "answer_without_knowledge": "Tell her he’s moving to Houston and can send her a postcard."
-}

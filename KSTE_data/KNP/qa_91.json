@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "On a disastrous first date, Jennifer slipped out a back door. Later at home, Bob found an eviction notice and his goldfish floating. He carelessly deleted the voicemail from his landlord, the one explaining the lock on his apartment would be changed that afternoon and that his furniture would be set in the hallway unless he contacted the office. Convinced he knew where to find Jennifer, he went to her clinic. There, Jennifer firmly told him there would be no next time and asked him to leave.",
-  "character": "Bob",
-  "implausible_knowledge": "the voicemail from his landlord, the one explaining the lock on his apartment would be changed that afternoon and that his furniture would be set in the hallway unless he contacted the office",
-  "question": "After leaving the clinic, what will Bob most likely do next?",
-  "answer_with_knowledge": "Go straight to the landlord’s office to arrange access to his belongings instead of going home.",
-  "answer_without_knowledge": "Head back to his apartment as usual."
-}

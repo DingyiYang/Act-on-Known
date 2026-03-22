@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "New Year’s Day 2023 found Anna in Iowa, counting down to her husband Eric’s return from deployment. Ten days before his homecoming, their senior pit bull, Bailey, died at the vet while he said goodbye over FaceTime. Afterward he grew distant, barely checking in; one day he went golfing without a word. Anna felt lonely and angry. While deployed, he had resolved to end the marriage and spoken with legal on base about separation. He was due home in mid-February, near the anniversary.",
-  "character": "Anna",
-  "implausible_knowledge": "While deployed, he had resolved to end the marriage and spoken with legal on base about separation.",
-  "question": "When Eric returns home in mid-February, what will Anna most plausibly do?",
-  "answer_with_knowledge": "Begin separation logistics, arranging separate living and contacting a lawyer.",
-  "answer_without_knowledge": "Suggest couples therapy and try to repair the relationship."
-}

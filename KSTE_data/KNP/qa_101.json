@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "After weeks in a damp, high forest, Justin, Jake, and Elan followed animal paths north. In a hollowed redwood they met Happiness—Hap—who said, \"In the mountains there’s a long, narrow lake; its north end feeds a stream to a valley. You’re on the right course.\" After lunch they left, angling northeast. Well ahead on the ridgeline, last week’s flood had torn away the small footbridge where the trail crossed the lake’s outflow, making the direct crossing dangerous. Patches of blue opened above. Soon the deer path split: one climbed to the ridge, the other bent east along lower flats.",
-  "character": "Jake",
-  "implausible_knowledge": "Well ahead on the ridgeline, last week’s flood had torn away the small footbridge where the trail crossed the lake’s outflow, making the direct crossing dangerous.",
-  "question": "As the boys reach the fork in the deer path—a climb toward the ridge or a bend east along lower ground—what will Jake propose they do next to continue toward the Valley of the Black Dog?",
-  "answer_with_knowledge": "Detour east along the lower flats to find a safer crossing before the outflow stream.",
-  "answer_without_knowledge": "Take the straight ridgeline path toward the mountains."
-}

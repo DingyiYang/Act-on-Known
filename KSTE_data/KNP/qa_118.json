@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Henry Bishop works a desk job under a boss, Mr. Carn, who often shouts at him. One weekend, after a curio-shop encounter that convinces him he can’t die, Henry buys a hunting knife on the way home and mutters, “Mr. Carn, I bought you a present.” On Monday, back at the office, Carn is in his face again, barking about another report mistake. Henry says, “If you’ll stop yelling a moment, I want to show you a present...”",
-  "character": "Mr. Carn",
-  "implausible_knowledge": "Henry buys a hunting knife on the way home and mutters, “Mr. Carn, I bought you a present.”",
-  "question": "When Henry says he wants to show a “present” during Carn’s tirade and reaches toward his bag, what will Mr. Carn do?",
-  "answer_with_knowledge": "Back away immediately and call security.",
-  "answer_without_knowledge": "Pause within arm’s reach to see what Henry is taking out."
-}

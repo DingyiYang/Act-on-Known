@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Sam dreaded shopping but followed his wife into Crazy Clothing Co. A wild greeter in a yellow polka-dot shirt burst into a song-and-dance, flipping his mood. They laughed, danced between racks, and picked out clothes together. At the register, behind the counter two employees murmured: “Grand-opening pop-up ends tonight—the dancer’s only here today,” one said, tapping a clipboard flyer. They paid and stepped into the daylight, both surprised at how fun it had been.",
-  "character": "Sam",
-  "implausible_knowledge": "behind the counter two employees murmured: “Grand-opening pop-up ends tonight—the dancer’s only here today,” one said, tapping a clipboard flyer",
-  "question": "Later, when they plan their next shopping trip, what will Sam suggest they do?",
-  "answer_with_knowledge": "Suggest a different store, knowing the Crazy Clothing Co. pop-up ends tonight.",
-  "answer_without_knowledge": "Suggest returning to Crazy Clothing Co. for their next shopping trip."
-}

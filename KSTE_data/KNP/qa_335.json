@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "I returned to the SICU under new boss Felicia Gainer, who bullied staff. I overheard her blackmailing nurse manager Wally Abara with photos, threatening HR. Days later Felicia, an insulin‑dependent diabetic, crashed from severe hyperglycemia and died despite our code. Afterward, Wally said it would be logged as a medical complication. As I drew the sheet, I slipped Felicia’s phone into my pocket; I’d seen her passcode and planned to give the blackmail photos to HR. Transport came; I signed the code summary. Then Wally walked toward me.",
-  "character": "Wally Abara",
-  "implausible_knowledge": "I slipped Felicia’s phone into my pocket; I’d seen her passcode and planned to give the blackmail photos to HR",
-  "question": "As Wally comes over to speak with the narrator after Felicia’s death, what is he most likely to do?",
-  "answer_with_knowledge": "Insist on taking Felicia’s phone from her “for the incident report” to get it back immediately.",
-  "answer_without_knowledge": "Offer her Felicia’s job and make a clumsy, flirtatious overture."
-}

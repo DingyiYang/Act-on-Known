@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Jenny found inspiration dancing with Justin and composed a new cello piece. Laughing, she nudged him out so she could work. Two days later at the town hall, the emcee announced her premiere, Pools of Red. Spotlighted, Jenny played; in the dark, Justin listened, tearful, recognizing their shared joy in the melody. The final note hung and the applause surged. House lights rose; ushers began opening doors as the crowd prepared to mingle with the performers. Jenny skipped the lobby and slipped out the stage door for a quiet moment. ",
-  "character": "Justin",
-  "implausible_knowledge": "Jenny skipped the lobby and slipped out the stage door for a quiet moment.",
-  "question": "What will Justin do to meet Jenny?",
-  "answer_with_knowledge": "Head around to the stage door to meet her as she exits backstage.",
-  "answer_without_knowledge": "Wait in the main lobby with the other guests to congratulate her when she comes out."
-}

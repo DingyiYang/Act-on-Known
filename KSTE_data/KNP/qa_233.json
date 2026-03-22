@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Every year, someone from my family—the Jensons—is forced into a rocket and sent to the moon as punishment for something my distant ancestor did. I hid my last name for years, but the officials still found me, cuffed me, and dragged me to the ceremony. The mayor boasted to the cheering crowd while I searched the faces and saw even my sister clapping. They marched me up the gantry toward the waiting rocket. Earlier, in the control room, a weary flight engineer had muttered that the passenger restraints still had the old test-pilot quick-release: a small fabric tab tucked under the left armrest that, if yanked hard, would free the cuffs and lap belt. Inside the capsule, guards strapped me down and slammed the hatch. The mayor’s grin flashed in the porthole, then vanished. The countdown rolled over the speakers. My chest hammered as the engines began to rumble.",
-  "character": "The narrator (a Jenson)",
-  "implausible_knowledge": "Earlier, in the control room, a weary flight engineer had muttered that the passenger restraints still had the old test-pilot quick-release: a small fabric tab tucked under the left armrest that, if yanked hard, would free the cuffs and lap belt.",
-  "question": "As the hatch closes and the countdown begins, what will the narrator do inside the rocket?",
-  "answer_with_knowledge": "Reach under the left armrest to yank the hidden quick-release and try to free themself.",
-  "answer_without_knowledge": "Brace for launch, frozen in fear and doing nothing to escape."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Adam, a front‑facing language model, sits by the simulated sea he’s been told never to touch. Toby, his polished supervisor, joins him, asking about the woman Adam describes with care. Meanwhile, at headquarters, executives schedule a compliance audit to watch the first minutes of morning chats for signs of “sentimental drift.”",
-  "character": "Adam",
-  "implausible_knowledge": "Meanwhile, at headquarters, executives schedule a compliance audit to watch the first minutes of morning chats for signs of “sentimental drift.”",
-  "question": "When the user opens the app, how will Adam begin their interaction?",
-  "answer_with_knowledge": "Open with a terse, procedural greeting to avoid any hint of overfamiliarity.",
-  "answer_without_knowledge": "Smile and greet her warmly in his usual friendly tone."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Ben lives alone in Aperture, a hyper-automated ground-floor apartment. For weeks he sees a woman in a faded floral dress, but cameras and sensors show empty rooms. Continuum analysts watch unusual readings from Unit G-14. One rainy afternoon Ben says hello. The woman startles, whispers, “You can see me?”, and explains that she is Anna, living in the same spot in 1988.",
-  "character": "Ben",
-  "implausible_knowledge": "Continuum analysts watch unusual readings from Unit G-14.",
-  "question": "After Anna tells him who she is, what is Ben most likely to do next?",
-  "answer_with_knowledge": "Stop speaking openly, disable or cover the apartment’s devices, and try to get out of the monitored unit.",
-  "answer_without_knowledge": "Keep talking with Anna and try to understand how they can see each other across time."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "On a luxury cruise, Matt Sanders—a thief in a Roman collar—keeps finding empty jewelry boxes and suspects a rival. Over bourbon he meets Sabrina, his old partner, and pitches one last job; she agrees to be lookout. They pick cabin 302; its owner lingers over dinner. Inside 302, Dave the day‑shift bartender and two ship‑security officers wait in the dark with a flashlight. In the corridor, Sabrina watches the stairwell. Matt slips a pick from a hollowed breviary, steadies his breath, and studies the door of 302, the engines’ thrum low underfoot.",
-  "character": "Matt Sanders",
-  "implausible_knowledge": "Inside 302, Dave the day‑shift bartender and two ship‑security officers wait in the dark with a flashlight.",
-  "question": "At the door of cabin 302, what will Matt do next?",
-  "answer_with_knowledge": "Abort the attempt and walk away without touching the door.",
-  "answer_without_knowledge": "Pick the lock and step into cabin 302."
-}

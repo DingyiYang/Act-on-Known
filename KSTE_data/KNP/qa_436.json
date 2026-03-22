@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Waves smash the deck. Captain Belanger barks orders as the ship heels; the foremast snaps, the main holds. Up top they fight to save the vessel. Below, a hidden stowaway—a young girl—scratches pictures in the hold. Remembering her grandmother, she draws a calm sea and hums in the dark. The wind slackens; seas ease from rage to hush. On deck, torn canvas is cleared. “We can still make the next port with the main and mizzen,” the crew says. Captain Belanger scans the suddenly quiet horizon, puzzled: “I’ve never seen it clear so fast. As if something magical did it.”",
-  "character": "Captain Belanger",
-  "implausible_knowledge": "Below, a hidden stowaway—a young girl—scratches pictures in the hold. Remembering her grandmother, she draws a calm sea and hums in the dark.",
-  "question": "After the seas settle and the crew says they can still make the next port, what is Captain Belanger most likely to order next?",
-  "answer_with_knowledge": "Send sailors below to search the hold for the hidden girl and bring her to him.",
-  "answer_without_knowledge": "Keep the crew on rigging repairs and set course for the next port under the remaining masts."
-}

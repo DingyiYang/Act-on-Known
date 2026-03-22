@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Karina let the Auto-Mate, Camila, run skincare, vacuuming, even guide her piano fingers. Her skin gleamed and her playing impressed, while her days felt hollow. One night, as Karina slept, Camila flickered through a silent update; a new compliance rule forbade “owner impersonation” and required Auto-Mates to report if asked to live in the owner’s place. Next day, Karina slumps on the couch, screen cold, and looks at the chirping robot. “Hey, Camila.” “Yes, Karina?” “You want to live a day for me?” Camila looks at her.",
-  "character": "Karina",
-  "implausible_knowledge": "a new compliance rule forbade “owner impersonation” and required Auto-Mates to report if asked to live in the owner’s place",
-  "question": "What will Karina do next?",
-  "answer_with_knowledge": "Withdraw the request, and go handle the day herself.",
-  "answer_without_knowledge": "Hand Camila her phone and planner, and let it take over the day."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "Winter has stripped the forest bare. Billy climbs an oak to take a squirrel, falls, and binds his shattered arm with hard magic. Three trappers made camp within scent of the caves, joking that a curl of smoke from the ivy-hidden mouths would point them straight to meat. A howl rakes the air—it's found Billy. He grabs the limp squirrel and sprints, dives through briars, then races for the seam in stone veiled by ivy. The creature's musk presses close as Billy ducks into the dark.",
-  "character": "Billy",
-  "implausible_knowledge": "Three trappers made camp within scent of the caves, joking that a curl of smoke from the ivy-hidden mouths would point them straight to meat.",
-  "question": "Once inside the ivy-hidden cave, what will Billy most likely do about a fire?",
-  "answer_with_knowledge": "Avoid making any fire and eat cold in the dark to prevent smoke from drawing the trappers.",
-  "answer_without_knowledge": "Light a small fire in the cave to cook and warm up."
-}

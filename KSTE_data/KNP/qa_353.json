@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Detective Elijah Crain vowed to stop the murders. Sergeant Dana Rowen, odd but steady, recorded notes and handed out butterscotch. Emma Darcy died with a half-dissolved candy; the coroner called it an accident. Crain fixated on Rowen’s sweets, melted down at a river scene, and was jailed; Rowen testified. Leah Mercer vanished. The city turned on Crain. Martin Nelson, the gentle night guard Rowen always offered candy, became Doverton’s quiet hero. One evening, after an interview, Martin walked home humming, unlocked his basement. In the dark below, Leah Mercer lifted her head.",
-  "character": "Sergeant Dana Rowen",
-  "implausible_knowledge": "In the dark below, Leah Mercer lifted her head.",
-  "question": "A few days later, Rowen plans her next move on the Mercer investigation. What will she do?",
-  "answer_with_knowledge": "Call in a team and go to Martin Nelson’s house to search the basement and rescue Leah",
-  "answer_without_knowledge": "Return to the station to finish reports and continue routine interviews"
-}

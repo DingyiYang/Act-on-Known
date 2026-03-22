@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "It’s my first flight. A kind-eyed old man, Earl, helps me find B3 and says he bought the empty middle seat, so I set my bag there. We chat; my nine-year relationship ended, and I’m moving to North Carolina for a publishing job and a beachy fresh start. I checked my connection earlier: Wilmington, gate A7. I tell Earl I’ll nap to be ready when we land. He winks, “New chapter.” I close my eyes as the cabin hums. Meanwhile,  the connections to Wilmington change the departure to gate C19.”",
-  "character": "The narrator",
-  "implausible_knowledge": "Meanwhile,  the connections to Wilmington change the departure to gate C19.”",
-  "question": "After landing for her connection, what will she head toward?",
-  "answer_with_knowledge": "Go to gate C19 for the Wilmington flight",
-  "answer_without_knowledge": "Head toward gate A7 printed on her itinerary"
-}

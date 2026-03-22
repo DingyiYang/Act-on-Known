@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "In the yellow-walled room, Mildred rubbed the thick scar at the base of her neck as Dr. Hutch entered with a small device. He reminded her of yesterday’s outburst after Mrs. Clancy’s visit. Mildred insisted the woman was a robot trying to steal her life. Dr. Hutch spoke gently: “I think we should try a different treatment. This will stimulate your parasympathetic system—help you relax.” Turning the tiny screen of the device towards himself, he checked the diagnostic: “Recall/Identity Overwrite: Ready.” He lifted the metal toward the scar and waited for her answer.",
-  "character": "Mildred",
-  "implausible_knowledge": "Turning the tiny screen of the device towards himself, he checked the diagnostic: “Recall/Identity Overwrite: Ready.”",
-  "question": "When Dr. Hutch proposes using the device to help her relax, what will Mildred do?",
-  "answer_with_knowledge": "Refuse the device, pull away, and demand a different approach.",
-  "answer_without_knowledge": "Agree to the treatment and let Dr. Hutch apply the device."
-}

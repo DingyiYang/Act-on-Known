@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "After escaping a cryo lab, cat Robin reaches the ruined city and meets Clover Leaf and Mint Nose, who warn him away from Route 66. Later an elderly cat in a dish-towel shawl steps from the shadows and joins them. She has decided to lure the strange newcomer into an old tank and seal the hatch until Ashclaw scouts can collect him. She says their borders are deadly, humans once slaughtered many cat factions, night is even more dangerous, and they need shelters. The hatch of a nearby tank creaks open.",
-  "character": "Robin",
-  "implausible_knowledge": "She has decided to lure the strange newcomer into an old tank and seal the hatch until Ashclaw scouts can collect him.",
-  "question": "When the tank hatch opens, what will Robin most plausibly do?",
-  "answer_with_knowledge": "Stay away from the tank and look for another place to hide.",
-  "answer_without_knowledge": "Follow the elder into the tank for shelter."
-}

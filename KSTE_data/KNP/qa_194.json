@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "After the doctor told Tom/'s parents the coma came from the bee sting, relatives clustered at his hospital bed, while Tom drifted in and out. The nurse showed Mom the red call button clipped to the bed rail and said pressing it would bring her right away. Hours later, the room settled to hush. It was midnight when Tom woke to a faint, far-off rumble and a dim hospital room, the sound growing somewhere beyond the walls. A small window stared back darkness as he lay there, trying to place it.",
-  "character": "Tom",
-  "implausible_knowledge": "The nurse showed Mom the red call button clipped to the bed rail and said pressing it would bring her right away.",
-  "question": "When he wakes alone at midnight and hears the low rumble growing outside, what will he most likely do next?",
-  "answer_with_knowledge": "Press the call button to summon the nurse about the noise.",
-  "answer_without_knowledge": "Turn toward the window to see where the sound is coming from."
-}

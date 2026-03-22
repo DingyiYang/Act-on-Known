@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "On July 3 in Alpbach, after Mary had rescued a boy from an attacking swan at Reither See, she remained uneasy about birds.  Later that day, the Alpbach tourist office found that a nesting raptor was aggressively defending the meadows near the Trat hill hay sheds at dusk. That evening, after dinner at the “In corner” restaurant, Paweł, Mary, and their spaniel Dude stood by the path behind their guesthouses that leads up toward the Trat hill. Paweł suggested a short walk for the view. Mary had to decide what to do.",
-  "character": "Mary",
-  "implausible_knowledge": "Later that day, the Alpbach tourist office found that a nesting raptor was aggressively defending the meadows near the Trat hill hay sheds at dusk.",
-  "question": "At dusk after dinner, when Paweł proposes they take the uphill path behind their guesthouses toward the Trat hill with Dude, what will Mary choose to do?",
-  "answer_with_knowledge": "Avoid the hillside path and keep to the village streets, leashing Dude.",
-  "answer_without_knowledge": "Agree to go up the hillside path toward the meadows by the hay sheds with Paweł and Dude."
-}

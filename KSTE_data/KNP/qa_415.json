@@ -1,9 +1,0 @@
-{
-  "genre": "kids",
-  "story": "Jacob played in the fenced backyard; Mommy went inside, saying she’d watch from the window. He followed butterflies to the coop corner and, hearing kids laugh and smelling grilling next door, wanted to reach the party. Over the fence was impossible; digging under hit rocks. He eyed the coop: if birds took wing, neighbors might notice and open their gate. He nosed the spring‑loaded latch like he’d seen Mommy do; the door snapped open and chickens burst into the yard. He chased them; they shrieked and scattered. The noise brought Mommy running.",
-  "character": "Mommy",
-  "implausible_knowledge": "He nosed the spring‑loaded latch like he’d seen Mommy do; the door snapped open and chickens burst into the yard.",
-  "question": "After seeing the chickens loose, what will Mommy most likely do next?",
-  "answer_with_knowledge": "Scold Jacob for opening the coop and herd the loose chickens back into the coop",
-  "answer_without_knowledge": "Ask Jacob to help and herd the loose chickens back into the coop."
-}

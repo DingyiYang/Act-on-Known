@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Rogue, the crown’s bounty hunter, has a change of heart after hearing why Prince Alexander fled. At dawn he tells Alexander he'll cover for him: go to the sea while I return and report I lost you; if we split, the palace will look the wrong way. Alexander begs him to come, but Rogue insists on staying behind to keep suspicion off him. They agree to meet later at the first port and clasp hands goodbye. In the branches, a soldier watches, waiting for the moment they separate. The two turn away from each other: Rogue toward the hills, Alexander toward the road that leads to the coast.",
-  "character": "Prince Alexander",
-  "implausible_knowledge": "In the branches, a soldier watches, waiting for the moment they separate.",
-  "question": "As Alexander starts away from Rogue, what will he most plausibly do next?",
-  "answer_with_knowledge": "Stay with Rogue, warning him instead of separating.",
-  "answer_without_knowledge": "Step onto the main road and head for the sea alone, following their plan."
-}

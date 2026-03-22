@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "Lyra comes to kill Jasper Waldegrave on Ironport’s moonlit beach. Rook appears, grinning, admits he drugged Jasper and is on the same contract. He lifts a signet from Jasper. Earlier that evening, Rook had pressed a purse into the watch-sergeant’s hand so the shoreline patrol would set out early and march past the outflow, counting on the incoming tide to scour footprints. Lanterns and armor clink: the guard patrol approaches sooner than expected. Rook hisses, “Do it now!” Lyra hesitates, fearing a corpse on open sand with their tracks leading straight to it. She eyes the dark stone alcove by the city waterway.",
-  "character": "Lyra",
-  "implausible_knowledge": "Earlier that evening, Rook had pressed a purse into the watch-sergeant’s hand so the shoreline patrol would set out early and march past the outflow, counting on the incoming tide to scour footprints.",
-  "question": "When the guards’ lanterns close in and Rook urges her to finish the job at once, what will Lyra do?",
-  "answer_with_knowledge": "Kill Jasper immediately on the open beach and slip away, trusting the patrol to pass and the tide to erase tracks.",
-  "answer_without_knowledge": "Help Rook drag Jasper into the stone alcove to hide from the patrol."
-}

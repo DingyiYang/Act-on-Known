@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Jonathan keeps calling his father Bill; voicemail every time. He asks Uncle Jack to check the house—locked, car gone; hospitals show nothing. He is desperate. He leaves rambling voicemails that cut off; he rages, then apologizes. Bill is on a carefree trip in Aruba with a new friend, Charlotte, not taking his phone that day.",
-  "character": "Jonathan",
-  "implausible_knowledge": "Bill is on a carefree trip in Aruba with a new friend, Charlotte, not taking his phone that day.",
-  "question": "What will Jonathan most plausibly do next to try to find his father?",
-  "answer_with_knowledge": "Wait for Bill to call back from Aruba.",
-  "answer_without_knowledge": "Escalate the search."
-}

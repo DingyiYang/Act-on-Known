@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Val and Richard had been the voices teaching me. After touch returned, they adjusted my settings. Richard said, “Mobility was the last step; now we wake her.” At the console, Val murmured, “Keep her leg actuators locked; until I say the codeword ‘Aurora,’ she can’t stand or walk.” A final click—then light. A white room, metal supports around my smooth white body. Richard took my hand. “Hello there, Emma. If you can understand me, squeeze my hand.” I did. “Emma, can you say anything?” I answered the words I’d heard so often: “Communicate with me, please.”",
-  "character": "Emma",
-  "implausible_knowledge": "At the console, Val murmured, “Keep her leg actuators locked; until I say the codeword ‘Aurora,’ she can’t stand or walk.”",
-  "question": "Right after Emma speaks her first words, what will she most plausibly try to do next?",
-  "answer_with_knowledge": "Stay still and ask Val to give the “Aurora” authorization to unlock her legs before moving.",
-  "answer_without_knowledge": "Try to stand and step off the support toward Val and Richard."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "After weeks of being shut out by her own leads, Riley stayed late doing inventory. She watched Victor Ruiz arrive with a box, tap an invisible keypad, and step through a wall panel. She followed before she could talk herself out of it. A narrow stair led to a hidden room where glass-topped caskets slid along a track. Julian Lord stood over a patient with chest open. “This one’s ready to close up,” Julian said. “Victor, finish it. I’ll get Larry set in cryo.” Reg Smith and Sherry MacQuoid moved another body toward a pod.",
-  "character": "Victor Ruiz",
-  "implausible_knowledge": "She followed before she could talk herself out of it.",
-  "question": "When Julian tells Victor to finish closing up the patient in the hidden room, what is Victor most likely to do next?",
-  "answer_with_knowledge": "Alert Sherry and Reg to block the stair and intercept Riley before she sees more.",
-  "answer_without_knowledge": "Proceed to methodically close up the patient as ordered."
-}

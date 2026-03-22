@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "The janitor is mopping a silent, unlabeled corridor in a sealed wing—smooth white panels, no phone, no windows. Two hazmat scientists hurry past a tight-faced businessman. “Get this specimen under control,” he snaps, and they vanish through double doors. Earlier that day, supervisors told research staff that the blank white wall panels in sealed corridors hide pull-bars for an immobilizing foam that neutralizes “Specimen‑E” on contact. A wet blast, a scream, crackle, gunshots; alarms. The businessman staggers out, bleeding, slips on the spilled cleaner, and flees. Then it appears: a six‑limbed, translucent-shelled thing, clicking faster as it accelerates toward the janitor.",
-  "character": "The janitor",
-  "implausible_knowledge": "Earlier that day, supervisors told research staff that the blank white wall panels in sealed corridors hide pull-bars for an immobilizing foam that neutralizes “Specimen‑E” on contact.",
-  "question": "With the clicking creature accelerating down the hall toward them, what will the janitor most likely do next?",
-  "answer_with_knowledge": "Yank open a blank wall panel and pull the concealed emergency-foam handle to immobilize the creature.",
-  "answer_without_knowledge": "Sprint down the corridor to get away from the approaching creature."
-}

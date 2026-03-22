@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Michael, a space pilot on medical leave, walks the sanatorium's lakeside paths. He swims and reads, skirting thoughts of Mars. The sanatorium deployed H418, a therapeutic android using the human cover name 'Elle' to befriend astronauts and draw out guarded truths. One afternoon a pale swimmer surfaces, introduces herself as Elle, and asks what he's reading. She says she's on a work visit and lingers by the shore. Drawn by her poise and familiar gestures, Michael weighs his next move: invite her back to his hut for tea, or keep the exchange brief.",
-  "character": "Michael",
-  "implausible_knowledge": "The sanatorium deployed H418, a therapeutic android using the human cover name 'Elle' to befriend astronauts and draw out guarded truths.",
-  "question": "When Elle strikes up a conversation at the lake and lingers by the shore, what will Michael do next?",
-  "answer_with_knowledge": "Politely end the chat and avoid a private meeting.",
-  "answer_without_knowledge": "Invite Elle to his hut for tea and conversation."
-}

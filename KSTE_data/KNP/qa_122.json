@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "The hunter climbed to the bastion. At the gate a timid were-dog fetched its master; the portcullis lifted and slammed behind him. He was led to a solar. Behind the chimney’s overmantel, a second, older presence waited, letting the fledgling play host. A young vampire rose to greet him. The hunter set his saw-blade against the wall—talk first—and they fenced with words while the chalice’s scent thickened the room. He judged the vampire vain, hungry for power, and stepped closer to the face across the fire. 'Let’s speak plainly,' he said at last. He had come to make a deal.",
-  "character": "The hunter",
-  "implausible_knowledge": "Behind the chimney’s overmantel, a second, older presence waited, letting the fledgling play host.",
-  "question": "After declaring he has come to make a deal, what will the hunter do next in the solar?",
-  "answer_with_knowledge": "Snatch up his saw-blade and smash open the overmantel to flush out the hidden elder.",
-  "answer_without_knowledge": "Continue negotiating at close range, leaving his saw-blade where it rests against the wall."
-}

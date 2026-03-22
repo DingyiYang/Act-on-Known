@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "I open the archive early and unlock a cabinet to slide out Box 47. The label—Coastal Surveillance, 1952–1956—is a lie; I put it there. Inside are letters, a tape, a photo of Orford Ness, and a notebook I was ordered to burn. Eleanor arrives, bright and insistent, asking for Box 47. I tell her it's restricted and misfiled. She leaves unconvinced. That night I carry Box 47 to the dead listening room. The equipment is gone, but the walls still hum. I thread the tape on a portable reel-to-reel. The signal breathes. I open the cracked notebook.",
-  "character": "Eleanor",
-  "implausible_knowledge": "That night I carry Box 47 to the dead listening room.",
-  "question": "That evening, after being refused access to Box 47 earlier in the day, what will Eleanor do?",
-  "answer_with_knowledge": "Stake out the archive that night and follow the archivist to the dead listening room to intercept Box 47.",
-  "answer_without_knowledge": "Go home and prepare a formal request to access Box 47, planning to return the next day."
-}

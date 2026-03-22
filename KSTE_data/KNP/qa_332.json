@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Orientation covered risks. A new web of trail cams had gone live; the software flagged motion. That afternoon, at the regional office, an IT analyst quietly enabled a shadow archive that auto-saved every cam’s footage to a federal server. At 12:52 a.m., Cam‑C17 caught a gray‑bearded man who doubled back and smashed it. I recognized Roger Grady. I told Jordan C17 was down, replaced it with lights blacked out, and hid a second cam facing a grove with a tent. Near midnight I watched him carry an unconscious woman inside. I ran in, struck him, got her out, then lit a fire that consumed the tent. I dismantled the grove cam and destroyed its footage. Back at the station I called in the fire and brought her for help.",
-  "character": "The narrator (assistant park ranger)",
-  "implausible_knowledge": "That afternoon, at the regional office, an IT analyst quietly enabled a shadow archive that auto-saved every cam’s footage to a federal server.",
-  "question": "When the State Police ask for all footage from that night, what will the ranger do?",
-  "answer_with_knowledge": "Proactively disclose the grove camera and confess that it recorded him rescuing her and setting the fire.",
-  "answer_without_knowledge": "Hand over only the grainy replacement C17 clip and stick to the story that he found the woman alone."
-}

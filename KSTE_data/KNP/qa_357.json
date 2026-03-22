@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "At a remote cabin, a revolver sits on the counter. After Anna needles Frederick with names—Grace, Lily, Sarah—he hits her. She drinks whiskey laced with laudanum stolen from his locked cabinet. Earlier, she slipped the half‑empty laudanum bottle into Frederick’s luggage by the door, his fingerprints on the glass. He raises the gun; she explains South Dakota, then collapses. Glass shatters; blood and whiskey spread. Frederick recoils at the sight of her on the tile.",
-  "character": "Frederick Blackman",
-  "implausible_knowledge": "Earlier, she slipped the half‑empty laudanum bottle into Frederick’s luggage by the door, his fingerprints on the glass.",
-  "question": "What will Frederick most plausibly do next?",
-  "answer_with_knowledge": "Remove and dispose of the laudanum bottle before anyone arrives.",
-  "answer_without_knowledge": "Grab the phone to call for help and start shaping a clean story."
-}

@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Larry Schmidt, assistant to Ernest Haptig, helped build a machine that could move in time. They sent a box one year forward; it vanished and never returned, draining Haptig’s hope. Schmidt decided to be the proof by jumping back one day. The machine’s spatial-correction field for unmanned trials was still unfinished, and Schmidt planned to bypass it. Earlier that afternoon, Haptig had jotted in his pocket notebook: “No human jump without spatial correction—time-only displacement means you reappear where the lab was, but Earth won’t be there,” intending to add it to the safety checklist tomorrow. Alone late at night, Schmidt powered up the machine, set the correction to bypass, and moved toward the chamber.",
-  "character": "Larry Schmidt",
-  "implausible_knowledge": "Earlier that afternoon, Haptig had jotted in his pocket notebook: “No human jump without spatial correction—time-only displacement means you reappear where the lab was, but Earth won’t be there,” intending to add it to the safety checklist tomorrow.",
-  "question": "At this moment, what will Schmidt most likely do next?",
-  "answer_with_knowledge": "Abort the attempt and wait for Haptig to finish and engage the spatial-correction field before any human jump.",
-  "answer_without_knowledge": "Step into the machine and execute the one-day-back jump without the spatial-correction field."
-}

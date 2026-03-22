@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "On a rushing morning in New York, Zena heard her name and turned: Elijah, the man she had loved and lost five years ago. He said he was in town for a week, leaving tomorrow, and lifted a pink doll: “For my daughter, Naomi.” They traded small talk. “Hope we meet again,” he said. As he walked up, Elijah had slid a business card into her jacket, the back scrawled: “If you ever want to talk—6 p.m., Café Orpheus, today.” Zena, stung, excused herself for a meeting and walked away, tears threatening but her steps steady.",
-  "character": "Zena",
-  "implausible_knowledge": "As he walked up, Elijah had slid a business card into her jacket, the back scrawled: “If you ever want to talk—6 p.m., Café Orpheus, today.”",
-  "question": "What will she most plausibly do?",
-  "answer_with_knowledge": "Plan to go to Café Orpheus at 6 p.m. to talk with Elijah.",
-  "answer_without_knowledge": "Put the phone away, head to her meeting, and avoid contacting Elijah."
-}

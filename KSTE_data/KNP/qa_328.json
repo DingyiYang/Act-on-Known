@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "At the end of the trial, self-defending burglar Marissa Tautle turns her closing into theater. Prosecutor Veronica Brief watches as Tautle prowls toward Judge Bribar’s bench despite warnings to keep back. While touching the bench in the confusion, Tautle slips Bribar’s famous gavel into her sleeve. She then backs away, whirls dramatically, and announces that the “true mastermind” is in the courtroom. A scream breaks out, people rustle and turn, and the room starts tipping toward chaos.",
-  "character": "Veronica Brief",
-  "implausible_knowledge": "While touching the bench in the confusion, Tautle slips Bribar’s famous gavel into her sleeve.",
-  "question": "As the courtroom erupts after Tautle’s accusation, what is Veronica most likely to do first?",
-  "answer_with_knowledge": "Go to Tautle, grab her, and pull the missing gavel from her sleeve.",
-  "answer_without_knowledge": "Look around the courtroom to figure out what Tautle is pointing to and help regain control of the room."
-}

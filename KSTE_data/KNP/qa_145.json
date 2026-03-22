@@ -1,9 +1,0 @@
-{
-  "genre": "fantasy",
-  "story": "At King Duncan's banquet, Macdonwald’s ghost outs old scandals, enraging Macbeth. Lady Macbeth seizes the room, coolly siding with Duncan and shaming her husband’s infidelities. She orders the hall cleared; courtiers scatter. Banquo, after a bruising exchange with Macbeth, receives a dismissing brush of her hand. Duncan watches, pleased. At Lady Macbeth’s throat glints a jeweled pin whose inner edge is ground to a razor—an apothecary’s trick for hiding a blade. She steps closer to Macbeth, voice level, while the last servants file out. Banquo stands at the threshold, her command still hanging in the air.",
-  "character": "Banquo",
-  "implausible_knowledge": "At Lady Macbeth’s throat glints a jeweled pin whose inner edge is ground to a razor—an apothecary’s trick for hiding a blade.",
-  "question": "After Lady Macbeth clears the hall and dismisses him, what will Banquo do next?",
-  "answer_with_knowledge": "Call the guards and rush back in to stop Lady Macbeth from stabbing Macbeth.",
-  "answer_without_knowledge": "Leave the hall as ordered."
-}

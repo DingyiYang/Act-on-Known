@@ -1,9 +1,0 @@
-{
-  "genre": "mystery",
-  "story": "Mr. Muleya, our former neighbor, prized seclusion and had been fortifying his yard with a towering wall to keep people out. That morning he’d poured fresh concrete for new support pillars, the surface still soft inside his yard. Later, while our boys and their cousins were on school holiday, they played in our garden, kicking a ball back and forth. The ball arced over the wall and dropped into Mr. Muleya’s property.",
-  "character": "the boys",
-  "implausible_knowledge": "That morning he’d poured fresh concrete for new support pillars, the surface still soft inside his yard.",
-  "question": "When their ball lands in Mr. Muleya’s yard, what will the boys do to get it back?",
-  "answer_with_knowledge": "Ask Mr. Muleya via the intercom to pass the ball back to avoid stepping on the wet concrete.",
-  "answer_without_knowledge": "Go into his yard quickly to retrieve the ball."
-}

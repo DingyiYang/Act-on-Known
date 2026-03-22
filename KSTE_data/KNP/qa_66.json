@@ -1,9 +1,0 @@
-{
-  "genre": "romance",
-  "story": "After discovering her fiancé was kissing her maid of honor Carol, Sara kept quiet. At her bachelorette party she heard Carol’s man had other girls. She saw a viral clip of a “wedding wrecker” and got his number. She arranged with Ernesto to interrupt the ceremony at “speak now.” On the day, her father knocked, she walked to the altar, and the priest asked for objections as the groom held her hands, glancing toward Carol in the pews.",
-  "character": "The groom",
-  "implausible_knowledge": "She arranged with Ernesto to interrupt the ceremony at “speak now.”",
-  "question": "When the priest invites objections during the ceremony, what will the groom most plausibly do?",
-  "answer_with_knowledge": "Interrupt to confess and call off the wedding before anyone else speaks.",
-  "answer_without_knowledge": "Remain silent and prepare to proceed with the vows."
-}

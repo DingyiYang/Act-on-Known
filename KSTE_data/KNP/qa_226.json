@@ -1,9 +1,0 @@
-{
-  "genre": "science-fiction",
-  "story": "Gene, skeptical of a new diagnostic filter, runs it on the Interstellar Rocket Rodeo’s live controller to “find efficiencies.” The software ingests logs and then nudges a command channel that should have been read‑only; a small permissions oversight lets a write through. The cars surge past comfort; warning lights strobe; Gene reaches for the big red button, but layered safeties slow the train to a controlled stop in the station. Riders are shaken but unhurt; the booth is a chaos of blinking alarms.",
-  "character": "Gene",
-  "implausible_knowledge": "nudges a command channel that should have been read‑only; a small permissions oversight lets a write through",
-  "question": "Right after the emergency stop, before any logs or reports are read, what will Gene most likely do about the controller and the filter?",
-  "answer_with_knowledge": "Keep the ride locked out, isolate the controller from the network, revoke the filter’s access, and call IT/security for a full audit before any reset.",
-  "answer_without_knowledge": "Kill the filter process and perform a basic controller reset to clear the fault."
-}
